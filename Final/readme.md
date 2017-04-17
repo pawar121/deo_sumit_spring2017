@@ -20,13 +20,13 @@ The report summarizes the explonatory data analysis performed on the Loan Lendin
 ---
 ## Data Download
 ### Installation
-[Data-download Notebook](https://nodejs.org/) has following dependency.
+[Data-download Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) has following dependency.
 ```sh
 $ pip install MechanicalSoup
+$ pip install beautifulsoup4
 ```
 ### Get login credentials
 ```
-#ask for login credentials
 username = input("Lending-club username : ")
 password = input("Lending-club password : ")
 ```
@@ -56,3 +56,65 @@ with urlopen(baseURL + extn) as zipresp:
     with ZipFile(BytesIO(zipresp.read())) as zfile:
         zfile.extractall(path)
 ```
+## Data Consolidation & Storage
+### Installation
+[Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) has following dependency.
+
+```sh
+$ pip install pandas
+$ pip install numpy
+```
+### Drop unwanted rows
+There are number of unwanted rows which are either empty or contains some junk data. Below figure shows some of such rows.
+<img src ="extras/screenshots/drop_rows.PNG" />
+Below function will remove all such rows.
+```
+def funDropRows(df):
+    df.dropna(thresh = 2, inplace = True)
+    return df
+```
+### Select required columns
+Below function will select only the columns which will be used for an analysis.
+```
+def funDropColumns(df):
+    selected_colums = list of columns to be selected
+    df = df[selected_colums]
+    return df
+```
+
+### Clean Data
+In the columns int_rate, term & emp_length contains some noise data, which is need to be removed. Below rows are some of such examples.
+<img src ="extras/screenshots/drop_columns.PNG" />
+Below function will clean all such columns.
+```
+def funCleanData(df):
+    df['term'] = (df['term'].str.extract('(\d+)')).astype(int)
+    
+    df['emp_length'] = df['emp_length'].str.extract('(\d+)')
+    df['emp_length'] = df['emp_length'].fillna(0).astype(int)
+    
+    df['int_rate'] = df['int_rate'].apply(lambda x: float(x.rstrip("%")))
+    
+    return df
+```
+### Fill missing data
+Below function will fill all the NaNs with some default values.
+```
+def funFillMissingData(df):
+    df['home_ownership'] = df['home_ownership'].fillna('ANY')
+    df['emp_title'] = df['emp_title'].fillna('Unknown')
+    df['purpose'] = df['purpose'].fillna('other')
+    df['inq_last_6mths'] = (df['inq_last_6mths'].fillna(0)).astype(int)
+    df['loan_status'] = df['loan_status'].fillna('other')
+    
+    df['verification_status'] = np.where(df['verification_status'] == 'Not Verified' , 'Not Verified', 'Verified')
+    
+    return df
+```
+### Write data to CSVs in chunks
+```
+def chunker(seq, size):
+    return (seq[pos:pos + size] for pos in range(0, len(seq), size))
+```
+### Snapshot of cleaned data
+<img src ="extras/screenshots/cleaned_loan_data.PNG" />
