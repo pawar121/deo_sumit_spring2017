@@ -66,7 +66,9 @@ $ pip install numpy
 ```
 ### Drop unwanted rows
 There are number of unwanted rows which are either empty or contains some junk data. Below figure shows some of such rows.
+
 <img src ="extras/screenshots/drop_rows.PNG" />
+
 Below function will remove all such rows.
 ```
 def funDropRows(df):
@@ -84,17 +86,19 @@ def funDropColumns(df):
 
 ### Clean Data
 In the columns int_rate, term & emp_length contains some noise data, which is need to be removed. Below rows are some of such examples.
+
 <img src ="extras/screenshots/drop_columns.PNG" />
+
 Below function will clean all such columns.
 ```
 def funCleanData(df):
     df['term'] = (df['term'].str.extract('(\d+)')).astype(int)
-    
+
     df['emp_length'] = df['emp_length'].str.extract('(\d+)')
     df['emp_length'] = df['emp_length'].fillna(0).astype(int)
-    
+
     df['int_rate'] = df['int_rate'].apply(lambda x: float(x.rstrip("%")))
-    
+
     return df
 ```
 ### Fill missing data
@@ -106,9 +110,9 @@ def funFillMissingData(df):
     df['purpose'] = df['purpose'].fillna('other')
     df['inq_last_6mths'] = (df['inq_last_6mths'].fillna(0)).astype(int)
     df['loan_status'] = df['loan_status'].fillna('other')
-    
+
     df['verification_status'] = np.where(df['verification_status'] == 'Not Verified' , 'Not Verified', 'Verified')
-    
+
     return df
 ```
 ### Write data to CSVs in chunks
