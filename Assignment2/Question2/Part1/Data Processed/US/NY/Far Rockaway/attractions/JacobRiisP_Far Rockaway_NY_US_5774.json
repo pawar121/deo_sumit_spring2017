@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        },
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.5661440296396,
+        "longitude": -73.8734865188599
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "jacob-riis-park-far-rockaway",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3AD-iHWVTVfLzhFhRLEO1A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Jacob Riis Park Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Far Rockaway",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11694"
+    },
+    "name": "Jacob Riis Park",
+    "phone": "+17183184300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3AD-iHWVTVfLzhFhRLEO1A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mEv5tp6v4HPBNrLe6qccHg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dUKH9l9HgImzO1Qh-gpk0w/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 106,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jacob-riis-park-far-rockaway?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5774"
+}

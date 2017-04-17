@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3468490268488,
+        "longitude": 149.087308367029
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "calibre-cafe-and-bar-phillip",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EuPbgk9ksMiCAYqtHGFr7g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Westfield Shopping Center",
+        "address2": "81 Bradley St",
+        "address3": "",
+        "city": "Phillip",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Calibre Cafe & Bar",
+    "phone": "+61262825688",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EuPbgk9ksMiCAYqtHGFr7g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/calibre-cafe-and-bar-phillip?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2031"
+}

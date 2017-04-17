@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.16268,
+        "longitude": -115.15117
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "el-sombrero-mexican-bistro-las-vegas-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nz_Q3fO53d70IuVPaMqoZg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "807 S Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "El Sombrero Mexican Bistro",
+    "phone": "+17023829234",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nz_Q3fO53d70IuVPaMqoZg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/P0o5eCCzeg1pu0o3GRE6NQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/L_wvMziGRRakXl3ziYE9Kg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 294,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-sombrero-mexican-bistro-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3642"
+}

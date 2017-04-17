@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9483968031309,
+        "longitude": 115.847130976617
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "gordon-st-garage-west-perth",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/osxpG_orZriKL4GjTvzQSg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "16 Gordon St",
+        "address2": "",
+        "address3": "",
+        "city": "West Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6005"
+    },
+    "name": "Gordon St. Garage",
+    "phone": "+61893228050",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/osxpG_orZriKL4GjTvzQSg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GorHB87hfaEZtKQk_e4HjQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Velvlr0MakWraklu7nCIcg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 73,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gordon-st-garage-west-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4585"
+}

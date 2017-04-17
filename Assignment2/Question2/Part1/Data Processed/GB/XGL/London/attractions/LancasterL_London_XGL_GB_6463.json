@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.512371,
+        "longitude": -0.175182
+    },
+    "id": "lancaster-london-london-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WQwvnPC_YoaHaOGAFrUwDQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Lancaster Terrace",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 2TY"
+    },
+    "name": "Lancaster London",
+    "phone": "+442075516000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WQwvnPC_YoaHaOGAFrUwDQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CGMMvoxEVJRYkkeAnYwQGw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aVBnyxrQAn_Wc-s8Qp3xgA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lancaster-london-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6463"
+}

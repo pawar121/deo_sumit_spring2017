@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4016724,
+        "longitude": -2.9794352
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "studio2-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RJsys_cVFZ1b9rugJHws4w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "33-45 Parr Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 4JN"
+    },
+    "name": "Studio2",
+    "phone": "+441517073727",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RJsys_cVFZ1b9rugJHws4w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zXucRjgR1ISaS-S80U9T7w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-KmUwPc523-OPOv_zEVg9Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/studio2-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10913"
+}

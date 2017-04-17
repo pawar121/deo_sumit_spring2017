@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.77677,
+        "longitude": -82.63905
+    },
+    "id": "hollander-hotel-st-petersburg",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W8o6zNTpwz-yend_6xPxDw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "421 4th Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "St. Petersburg",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33701"
+    },
+    "name": "Hollander Hotel",
+    "phone": "+17278737900",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/W8o6zNTpwz-yend_6xPxDw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9QtT-3KOx36yXoGDQH4IUA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CjQAVECq6LkSVQPDvfwINA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 108,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hollander-hotel-st-petersburg?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5196"
+}

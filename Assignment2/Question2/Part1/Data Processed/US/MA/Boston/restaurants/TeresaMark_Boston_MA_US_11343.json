@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35027,
+        "longitude": -71.16485
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "teresa-market-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3uY9wLFr5lCsEBvSvJ2EoA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "571 Washington Street",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02135"
+    },
+    "name": "Teresa Market",
+    "phone": "+16172025074",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3uY9wLFr5lCsEBvSvJ2EoA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rlzvq7C5Q42QDpNgk_1Vxw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gwwScKCJTgx4VQjLs4_Awg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 27,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/teresa-market-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11343"
+}

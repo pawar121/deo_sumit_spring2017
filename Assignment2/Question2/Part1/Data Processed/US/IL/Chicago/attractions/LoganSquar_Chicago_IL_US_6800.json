@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.927687746517,
+        "longitude": -87.70680383706
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "logan-square-auditorium-chicago",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lFCKiZJa3w4ph_vznPJwxw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2539 N Kedzie Blvd",
+        "address2": "Ste 15",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60647"
+    },
+    "name": "Logan Square Auditorium",
+    "phone": "+17732526179",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lFCKiZJa3w4ph_vznPJwxw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2mMaKrumn93mZeOsLXNPZA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rM_-ajlE5iXXZeMo_APzuw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/logan-square-auditorium-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6800"
+}

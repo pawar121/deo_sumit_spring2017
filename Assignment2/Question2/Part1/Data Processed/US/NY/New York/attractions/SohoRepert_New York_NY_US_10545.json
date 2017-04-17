@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.71931,
+        "longitude": -74.00351
+    },
+    "id": "soho-repertory-theatre-new-york-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xWlUEiufeohP-YDp3K1Wgw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "46 Walker St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10013"
+    },
+    "name": "Soho Repertory Theatre",
+    "phone": "+12129418632",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xWlUEiufeohP-YDp3K1Wgw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/soho-repertory-theatre-new-york-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10545"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4777966203987,
+        "longitude": 153.029778664095
+    },
+    "id": "burger-urge-brisbane",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1unyAMCVI1lSSvpa5_Cgkg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 3 Level 4, Y Block",
+        "address2": "QUT Gardens Point",
+        "address3": "Gardens Point Rd",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Burger Urge",
+    "phone": "+61732100994",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1unyAMCVI1lSSvpa5_Cgkg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0L-n4r4i-1rocf_kBTl4dQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uN1hPuFKWViCL_mWU29ysQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/burger-urge-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1849"
+}

@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7316976,
+        "longitude": -95.4311263
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "kuma-burgers-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FtfKrAJA3EgTjood1_-09w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Greenway Plz",
+        "address2": "Ste C220",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77046"
+    },
+    "name": "Kuma Burgers",
+    "phone": "+18325423528",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FtfKrAJA3EgTjood1_-09w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KcCXUweAod2N5CVCx5sMiQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tE5Bk_I_vECOxLEI7viNCQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 43,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kuma-burgers-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6271"
+}

@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8448982,
+        "longitude": 174.7628021
+    },
+    "id": "hotel-grand-chancellor-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VQpSn51Ilc_ouDN6xT-UdQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Hobson St",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Hotel Grand Chancellor",
+    "phone": "+6493561000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VQpSn51Ilc_ouDN6xT-UdQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hotel-grand-chancellor-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5344"
+}

@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.32184,
+        "longitude": -121.90239
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "paradisos-italian-delicatessen-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FXE0OH2vNiF15oF-k8Mulg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "791 Auzerais Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95126"
+    },
+    "name": "Paradiso's Italian Delicatessen",
+    "phone": "+14082956459",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FXE0OH2vNiF15oF-k8Mulg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RRzPf-LNa2Rj8UFNJr8pVQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SaUJmAp7ELiOv6bfECdHdQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 270,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/paradisos-italian-delicatessen-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8629"
+}

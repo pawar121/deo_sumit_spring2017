@@ -1,0 +1,93 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        },
+        {
+            "alias": "nutritionists",
+            "title": "Nutritionists"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2902654619535,
+        "longitude": -121.888312920928
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "imc-womens-fitness-center-san-jose-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xwAkmiCghm2-jZXrfUkp_g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2229 Lincoln Ave",
+        "address2": null,
+        "address3": null,
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95125"
+    },
+    "name": "IMC Women's Fitness Center",
+    "phone": "+14087120670",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pQOCEhuSAen5Laka1T8kfw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 50,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/imc-womens-fitness-center-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5606"
+}

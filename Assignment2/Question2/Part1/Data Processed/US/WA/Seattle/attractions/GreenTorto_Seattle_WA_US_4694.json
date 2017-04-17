@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6088714386623,
+        "longitude": -122.339611654923
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "green-tortoise-hostel-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/avdIMHDSbBbL4jN63G11xA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "105 1/2 Pike St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Green Tortoise Hostel",
+    "phone": "+12063401222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/avdIMHDSbBbL4jN63G11xA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MSflogpgtos73BAKCQ14tA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kx_yofboDL6meOsVCtXwnA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 176,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/green-tortoise-hostel-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4694"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7529716669874,
+        "longitude": -73.9773432563829
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "new-york-transit-museum-gallery-annex-and-store-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CFMtZp_2U0QJQMXwG5npbw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Grand Central Terminal",
+        "address2": "E 42nd St & Vanderbilt Ave",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10017"
+    },
+    "name": "New York Transit Museum Gallery Annex & Store",
+    "phone": "+12128780106",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CFMtZp_2U0QJQMXwG5npbw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GYUaVFszi4c4EgoRdrY0Ug/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/08U7WXxpLji511WIW8QBIQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 40,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-york-transit-museum-gallery-annex-and-store-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8041"
+}

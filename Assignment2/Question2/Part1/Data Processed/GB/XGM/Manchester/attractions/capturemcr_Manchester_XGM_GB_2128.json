@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4821582089369,
+        "longitude": -2.23984294130855
+    },
+    "id": "capturemcr-manchester",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SYsoY0r6P73zzhUTY0N5Og/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "City wide",
+        "address2": "",
+        "address3": null,
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M1"
+    },
+    "name": "#capturemcr",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SYsoY0r6P73zzhUTY0N5Og/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Tr0PYx3CjbmIYwhE4frJzw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BdK4ZwQqKEWIaizJ69affQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/capturemcr-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2128"
+}

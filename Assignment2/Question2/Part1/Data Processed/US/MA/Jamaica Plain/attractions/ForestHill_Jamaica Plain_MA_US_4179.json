@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        },
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.29994,
+        "longitude": -71.11357
+    },
+    "id": "forest-hills-station-jamaica-plain",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cbJJq0wQendQqaESQEDTIA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Washington St At Hyde Park Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Jamaica Plain",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02133"
+    },
+    "name": "Forest Hills Station",
+    "phone": "+18003926100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cbJJq0wQendQqaESQEDTIA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rr286LeYzmnOOXGBV66hTQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/forest-hills-station-jamaica-plain?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4179"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "dancestudio",
+            "title": "Dance Studios"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.9971,
+        "longitude": -118.43303
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "by-your-side-dance-studio-los-angeles-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N33tNbCTYpxOcCnQZOpVgw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "12613 W Washington Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90066"
+    },
+    "name": "By Your Side Dance Studio",
+    "phone": "+13103910400",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/N33tNbCTYpxOcCnQZOpVgw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kiyA7hIx4p2QeysEktONyA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Au8F_3XaINywN5gDi6zmFg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 73,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/by-your-side-dance-studio-los-angeles-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1879"
+}

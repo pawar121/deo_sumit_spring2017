@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "foodstands",
+            "title": "Food Stands"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.314189,
+        "longitude": -121.865144
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "antojitos-los-tres-poblanitos-san-jose-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_osYiruFO1st7cH1ZDeZ_A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "307 Phelan",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Antojitos Los Tres Poblanitos",
+    "phone": "+14084173740",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_osYiruFO1st7cH1ZDeZ_A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pGJ31fdgOcXtRZ0d3MwnpA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sNi_l16kUasu69pmmYWusA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/antojitos-los-tres-poblanitos-san-jose-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "542"
+}

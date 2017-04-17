@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2747549,
+        "longitude": -121.8518219
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "hand-pull-noodle-house-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6hMEkch5_ENFXJTBBqIWfw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "505 W Capitol Expy",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95136"
+    },
+    "name": "Hand Pull Noodle House",
+    "phone": "+14084482188",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6hMEkch5_ENFXJTBBqIWfw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_-uR9WXIzjd0zVOwjLPudg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_lgzoG3JChSF6s_sH9wR-Q/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 204,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hand-pull-noodle-house-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4884"
+}

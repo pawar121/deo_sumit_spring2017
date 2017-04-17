@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8884201,
+        "longitude": 147.3314362
+    },
+    "id": "tas-tv-battery-point",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "38 Montpelier Ret",
+        "address2": null,
+        "address3": null,
+        "city": "Battery Point",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7004"
+    },
+    "name": "Tas TV",
+    "phone": "+61362311863",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/tas-tv-battery-point?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11251"
+}

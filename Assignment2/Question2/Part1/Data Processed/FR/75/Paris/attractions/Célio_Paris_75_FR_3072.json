@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "fashion",
+            "title": "Fashion"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.869801,
+        "longitude": 2.307586
+    },
+    "id": "célio-paris-17",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "146 Avenue des Champs Elysées",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "Célio",
+    "phone": "+33143592841",
+    "photos": [],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/c%C3%A9lio-paris-17?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3072"
+}

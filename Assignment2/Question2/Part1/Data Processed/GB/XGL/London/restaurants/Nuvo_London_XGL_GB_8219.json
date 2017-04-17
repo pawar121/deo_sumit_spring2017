@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.511713206511,
+        "longitude": -0.091344857145192
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "nuvo-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iX4H6xorg0OS3tEjUwYXUg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "68 Cannon Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC4N 6AE"
+    },
+    "name": "Nuvo",
+    "phone": "+442073320454",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iX4H6xorg0OS3tEjUwYXUg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/xK7809jEcVLsG57yZEBiWA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MK53enBwKLzUKTV81B_DDg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nuvo-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8219"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5155258,
+        "longitude": -86.8063184
+    },
+    "id": "pita-loco-birmingham-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CxDfgIlIQXKDjru__FwAlg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2000 2nd Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35203"
+    },
+    "name": "Pita Loco",
+    "phone": "+12052524899",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CxDfgIlIQXKDjru__FwAlg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jDQIBERBpXLxBSegk44s3g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tkCkzFsZNt-KSCVNgII6FQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pita-loco-birmingham-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8995"
+}

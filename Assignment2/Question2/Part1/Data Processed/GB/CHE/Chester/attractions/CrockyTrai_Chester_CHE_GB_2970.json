@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "leisure_centers",
+            "title": "Leisure Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.1724794,
+        "longitude": -2.793988
+    },
+    "id": "crocky-trail-chester",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q85dHmSEZC_XnzC0RQeNQQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Guy Lane",
+        "address2": "Cotton Abbotts Waverton",
+        "address3": null,
+        "city": "Chester",
+        "country": "GB",
+        "state": "CHE",
+        "zip_code": "CH3 7PH"
+    },
+    "name": "Crocky Trail",
+    "phone": "+441244336084",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/q85dHmSEZC_XnzC0RQeNQQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/crocky-trail-chester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2970"
+}

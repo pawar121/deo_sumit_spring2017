@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "stationery",
+            "title": "Cards & Stationery"
+        },
+        {
+            "alias": "officeequipment",
+            "title": "Office Equipment"
+        },
+        {
+            "alias": "computers",
+            "title": "Computers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.412507,
+        "longitude": -2.9677719
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "staples-liverpool-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p7GXe3M8DHKfO9cZbRPVkA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4-12 Shaw Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L6 1HR"
+    },
+    "name": "Staples",
+    "phone": "+441512610010",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/p7GXe3M8DHKfO9cZbRPVkA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1cloq4AR8uv7xS_qJBA9Yw/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/staples-liverpool-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10783"
+}

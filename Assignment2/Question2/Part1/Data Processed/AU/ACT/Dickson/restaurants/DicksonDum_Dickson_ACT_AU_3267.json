@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2513806199836,
+        "longitude": 149.136377312599
+    },
+    "id": "dickson-dumpling-house-dickson",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Za-15sR5bUfyIWMMp6LlWQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Cape St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Dickson Dumpling House",
+    "phone": "+61262488350",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Za-15sR5bUfyIWMMp6LlWQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FNKHsp7Kf2aPc7cwiPBbEw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/THU8EfQOKkqKgKOHxSmukA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dickson-dumpling-house-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3267"
+}

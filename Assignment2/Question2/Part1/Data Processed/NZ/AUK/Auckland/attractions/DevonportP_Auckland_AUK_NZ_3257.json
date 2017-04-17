@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8267739,
+        "longitude": 174.796658
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "devonport-public-library-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xDrfpBr0QdpAYYjSf1N6kg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Victoria Rd",
+        "address2": "Devonport",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "0624"
+    },
+    "name": "Devonport Public Library",
+    "phone": "+6494868460",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xDrfpBr0QdpAYYjSf1N6kg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/eQDlPLF8j_P089iKc-G5vw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/yp6_ekybJuiFyaL7z_b69Q/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/devonport-public-library-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3257"
+}

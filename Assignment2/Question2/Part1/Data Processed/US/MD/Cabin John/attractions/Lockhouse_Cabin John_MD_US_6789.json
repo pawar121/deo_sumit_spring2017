@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "vacation_rentals",
+            "title": "Vacation Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.975388,
+        "longitude": -77.1580349
+    },
+    "id": "lockhouse-10-cabin-john",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aCSvhi9o5mtqoFRcWNkHrQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7906 Riverside Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Cabin John",
+        "country": "US",
+        "state": "MD",
+        "zip_code": "20818"
+    },
+    "name": "Lockhouse 10",
+    "phone": "+13017458888",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/aCSvhi9o5mtqoFRcWNkHrQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zxZvXOpDchVXjXyJlL66tg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z8pzR8snePrnpuzWAAThJQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lockhouse-10-cabin-john?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6789"
+}

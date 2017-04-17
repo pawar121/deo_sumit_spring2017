@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.85206,
+        "longitude": -4.2943049
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "cessnock-subway-station-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F9J1GZjFIFJpYDmAdQa2sQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Cessnock Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G51 1AS"
+    },
+    "name": "Cessnock Subway Station",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/F9J1GZjFIFJpYDmAdQa2sQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/W-oYPjiuMLspISVKnObrWA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CoqUkthCAd3NBCP-0JLXhA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cessnock-subway-station-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2259"
+}

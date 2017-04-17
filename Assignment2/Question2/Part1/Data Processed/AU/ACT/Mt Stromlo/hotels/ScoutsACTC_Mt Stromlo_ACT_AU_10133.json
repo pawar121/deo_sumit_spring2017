@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "campgrounds",
+            "title": "Campgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3290482,
+        "longitude": 148.9594574
+    },
+    "id": "scouts-act-camp-cottermouth-mt-stromlo",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1435 Cotter Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Mt Stromlo",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2611"
+    },
+    "name": "Scouts ACT Camp Cottermouth",
+    "phone": "+61262883270",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/scouts-act-camp-cottermouth-mt-stromlo?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10133"
+}

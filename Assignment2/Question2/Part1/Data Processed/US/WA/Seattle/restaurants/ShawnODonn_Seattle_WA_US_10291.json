@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "irish_pubs",
+            "title": "Irish Pub"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6019782,
+        "longitude": -122.3318733
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "shawn-o-donnells-american-grill-and-irish-pub-seattle-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Rzpi7xwcDGZJ0dOTVP-vdQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "508 2nd Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98104"
+    },
+    "name": "Shawn O'Donnell's American Grill & Irish Pub",
+    "phone": "+12066026380",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Rzpi7xwcDGZJ0dOTVP-vdQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RlQdJPhp-4eIncBQuQImLQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HGcK3naOaIvcxaIIf4DKPg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 168,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/shawn-o-donnells-american-grill-and-irish-pub-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10291"
+}

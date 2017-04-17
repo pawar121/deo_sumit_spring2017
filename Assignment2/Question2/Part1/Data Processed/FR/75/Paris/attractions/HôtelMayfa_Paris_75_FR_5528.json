@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86593,
+        "longitude": 2.32617
+    },
+    "id": "hôtel-mayfair-paris-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mNAtCnk43VLaOQSw1uO6og/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Rue Rouget De Lisle",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75001"
+    },
+    "name": "Hôtel Mayfair",
+    "phone": "+33142603814",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mNAtCnk43VLaOQSw1uO6og/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2IGimqDe2GpeNwdC3DzFxg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yRYYQ26EbmpHFQgwxDfBHQ/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-mayfair-paris-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5528"
+}

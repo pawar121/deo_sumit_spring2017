@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "indonesian",
+            "title": "Indonesian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81567,
+        "longitude": 144.9556732
+    },
+    "id": "kedai-satay-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7OiWNtbvi2nZHRP4Y8h0Pg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "186 King St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Kedai Satay",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7OiWNtbvi2nZHRP4Y8h0Pg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/KmAh5oZXvr8eHAKZT7tPjQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/E3U3EPEv_L8yUoVT-EMm2g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kedai-satay-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6067"
+}

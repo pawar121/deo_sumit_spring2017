@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9652587902013,
+        "longitude": -87.686160877347
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "luellas-southern-kitchen-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B2JoN7sMQetmbNIN2LsuWQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4609 N Lincoln Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60625"
+    },
+    "name": "Luella's Southern Kitchen",
+    "phone": "+17739618196",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/B2JoN7sMQetmbNIN2LsuWQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7iXg8hFzfiRHA4y7gifp-A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oogpnO27Uji3LYOkgtk9TA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 352,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/luellas-southern-kitchen-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6961"
+}

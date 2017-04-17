@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        },
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.61229,
+        "longitude": -122.33628
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "habitant-seattle-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X4mTOYvfxo9AZFZKDPDgGA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Nordstrom",
+        "address2": "500 Pine St",
+        "address3": null,
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Habitant",
+    "phone": "+12066281635",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/X4mTOYvfxo9AZFZKDPDgGA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/liVp-9QSJ_7Sb6zTU4OLAg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EaXNPoupxJM-fH543JrTug/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/habitant-seattle-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4825"
+}

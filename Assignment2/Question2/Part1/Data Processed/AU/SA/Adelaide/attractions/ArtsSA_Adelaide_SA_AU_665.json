@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "culturalcenter",
+            "title": "Cultural Center"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9283396714342,
+        "longitude": 138.602374611473
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "arts-sa-adelaide",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1vFInQyzOCpjnBsJi5tEfA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Level 16,  Wakefield House",
+        "address2": "30 Wakefield St",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Arts SA",
+    "phone": "+61884635444",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1vFInQyzOCpjnBsJi5tEfA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZGG0sS3kPZFOwUJ_x5Whxg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4dH9R9-V-Ko4p6Zp1zBu3g/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/arts-sa-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "665"
+}

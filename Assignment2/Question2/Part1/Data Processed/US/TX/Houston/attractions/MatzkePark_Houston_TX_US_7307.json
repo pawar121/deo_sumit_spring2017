@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.9599726702739,
+        "longitude": -95.5797028541565
+    },
+    "id": "matzke-park-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EEU6ogM61A8OfTTynn-ijA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13110 Jones Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77070"
+    },
+    "name": "Matzke Park",
+    "phone": "+12818903538",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EEU6ogM61A8OfTTynn-ijA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0V-7AuvaQWBZrmyejtN_tA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/G1rCJ0ph5igPvvAxz8ypvg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/matzke-park-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7307"
+}

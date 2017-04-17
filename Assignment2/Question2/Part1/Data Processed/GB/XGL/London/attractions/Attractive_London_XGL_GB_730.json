@@ -1,0 +1,31 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": 51.5112139,
+        "longitude": -0.1198244
+    },
+    "id": "attractive-consultancy-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vu5NEYMBIClBP0Lk0saBQg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Al-Noor Plaza Shah Rukn-e-Alam Colony Multan Pakistan",
+        "address2": null,
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": ""
+    },
+    "name": "Attractive Consultancy",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Vu5NEYMBIClBP0Lk0saBQg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XHPS6SH6gJ_NAul0mtNxow/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/attractive-consultancy-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "730"
+}

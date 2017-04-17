@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "rvparks",
+            "title": "RV Parks"
+        },
+        {
+            "alias": "campgrounds",
+            "title": "Campgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9779628079579,
+        "longitude": -83.3996722439686
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "camp-lord-willing-rv-park-and-campground-monroe",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1600 Stumpmier Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Monroe",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48162"
+    },
+    "name": "Camp Lord Willing RV Park & Campground",
+    "phone": "+18772108700",
+    "photos": [],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/camp-lord-willing-rv-park-and-campground-monroe?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2052"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "salvadoran",
+            "title": "Salvadoran"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3790925,
+        "longitude": -71.0398847
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "mi-pueblito-restaurant-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/adLufxu5qbl_Qzj-p_V_BA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "333 Border St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02128"
+    },
+    "name": "Mi Pueblito Restaurant",
+    "phone": "+16175693787",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/adLufxu5qbl_Qzj-p_V_BA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ku6AW8LXYOctWFr-wBOrdw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/OWCqsqjSY6MvOlh4bL9YgA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 121,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mi-pueblito-restaurant-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7485"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8665886,
+        "longitude": 151.2046356
+    },
+    "id": "the-foxhole-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LLcRaNtjY6zFVqBHdsfiCw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "68A Erskine Street",
+        "address2": "CBD",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "The Foxhole",
+    "phone": "+61292794969",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LLcRaNtjY6zFVqBHdsfiCw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZFG0SqVjg6gRl8NLlcF0QQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tEIzB_LKL6Bs30n1BqLMXg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-foxhole-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11600"
+}

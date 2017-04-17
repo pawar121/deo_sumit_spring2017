@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6662974316062,
+        "longitude": -122.382751900253
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "stoneburner-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PzdxwjzpLj8C5QVrjKHlng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5214 Ballard Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98107"
+    },
+    "name": "Stoneburner",
+    "phone": "+12066952051",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PzdxwjzpLj8C5QVrjKHlng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iBW4Ydf6aQTby3ZdxVRxbg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-knpwPxF06ArCwG2Srma5Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 441,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/stoneburner-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10862"
+}

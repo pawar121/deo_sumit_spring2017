@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8774605,
+        "longitude": 147.319397
+    },
+    "id": "golden-chain-the-lodge-on-elizabeth-hobart",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bKohADCpGaQg7lFmTMe8Hg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "249 Elizabeth St",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Golden Chain The Lodge on Elizabeth",
+    "phone": "+61362313830",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bKohADCpGaQg7lFmTMe8Hg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/golden-chain-the-lodge-on-elizabeth-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4527"
+}

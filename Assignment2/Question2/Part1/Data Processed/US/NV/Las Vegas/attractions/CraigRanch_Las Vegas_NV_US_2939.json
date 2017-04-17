@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.2398062959525,
+        "longitude": -115.15005569905
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "craig-ranch-regional-park-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZI1_V-SbyYfxLz2X_CNmXg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "628 W Craig Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89032"
+    },
+    "name": "Craig Ranch Regional Park",
+    "phone": "+17026332418",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZI1_V-SbyYfxLz2X_CNmXg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ig0zNsbAkY1D9giMds38HQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SaC5PK7-gUf5nXGuJj6Xmg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 93,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/craig-ranch-regional-park-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2939"
+}

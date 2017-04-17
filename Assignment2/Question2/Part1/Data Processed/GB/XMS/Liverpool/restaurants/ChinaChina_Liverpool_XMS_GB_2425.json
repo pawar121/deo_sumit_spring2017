@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4091873,
+        "longitude": -2.9775093
+    },
+    "id": "china-china-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hKStd5DihbdljfQr5VfCEQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "132 London Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 5NL"
+    },
+    "name": "China China",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hKStd5DihbdljfQr5VfCEQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Nd-PPg1rbDmlWwSOwq6eaA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/china-china-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2425"
+}

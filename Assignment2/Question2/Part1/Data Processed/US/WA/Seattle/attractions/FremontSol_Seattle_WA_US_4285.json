@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6497654,
+        "longitude": -122.3447213
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "fremont-solstice-fair-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U23qsyPjbr4J2HvpXnnBLg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "N 35th St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98103"
+    },
+    "name": "Fremont Solstice Fair",
+    "phone": "+12066330422",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/U23qsyPjbr4J2HvpXnnBLg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LdrN-zDUtIUqFHyuC3yRtQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YUBta3hyIUw0Smxh2pDXbQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 30,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fremont-solstice-fair-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4285"
+}

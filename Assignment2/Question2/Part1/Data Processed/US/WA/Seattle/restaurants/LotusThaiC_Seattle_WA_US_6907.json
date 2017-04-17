@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6081545,
+        "longitude": -122.2966784
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "lotus-thai-cuisine-seattle-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4qK8Sj_yKASthv-HW_M57Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2724 E Cherry St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Lotus Thai Cuisine",
+    "phone": "+12063239445",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4qK8Sj_yKASthv-HW_M57Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OID6vRqN2E2WSM0RloGe0g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TXACsWS6N4KjgsKjPpnLmw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 144,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lotus-thai-cuisine-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6907"
+}

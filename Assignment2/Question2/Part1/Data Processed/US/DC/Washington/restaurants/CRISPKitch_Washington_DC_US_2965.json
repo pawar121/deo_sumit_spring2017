@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.91536,
+        "longitude": -77.0118899
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "crisp-kitchen-bar-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nmqxdm2Sqx3dW0t0NLOgqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1837 1st St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "CRISP Kitchen + Bar",
+    "phone": "+12028539115",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nmqxdm2Sqx3dW0t0NLOgqA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/k62yx5_8Q1WTaOeiiJgEWw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R40rcqNnJymhTycdR1Q1Wg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 114,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crisp-kitchen-bar-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2965"
+}

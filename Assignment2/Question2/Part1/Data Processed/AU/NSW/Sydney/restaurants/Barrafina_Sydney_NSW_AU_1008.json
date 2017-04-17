@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8648307342428,
+        "longitude": 151.211075101523
+    },
+    "id": "barrafina-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8cpYdlnmMIH7k83L9EyD-Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "15-19 Bent St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Barrafina",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8cpYdlnmMIH7k83L9EyD-Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PZUjE6PjQInUvAzeTxptJg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/M463DQFnEPTCSW2oiN57Vg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/barrafina-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1008"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.70235,
+        "longitude": -74.0138
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "battery-park-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kEHzFgzZHPoO2Qztctn69Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "State St & Battery Pl",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10079"
+    },
+    "name": "Battery Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kEHzFgzZHPoO2Qztctn69Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/H3Z6PDFqJQrwlyoXvARmAQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/f0gz7l2zg7-OWtyopTTwGg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 301,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/battery-park-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1041"
+}

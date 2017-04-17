@@ -1,0 +1,122 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "buffets",
+            "title": "Buffets"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5960083,
+        "longitude": -112.038826
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "reign-of-thai-phoenix",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QpR_KX2qbTEPyFV-UIp_IA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12032 Cave Creek Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85020"
+    },
+    "name": "Reign Of Thai",
+    "phone": "+16023289000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QpR_KX2qbTEPyFV-UIp_IA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1eGNHk1sdiSdKStwZHDl9w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/57wSokAJt1cJyaiFOwYc9Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 205,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/reign-of-thai-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9493"
+}

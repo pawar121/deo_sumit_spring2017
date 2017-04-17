@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 54.6126213,
+        "longitude": -5.9199901
+    },
+    "id": "tall-ships-belfast-belfast",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/529rTsNxNfAylepUD9IWFg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Pollock Dock",
+        "address2": "",
+        "address3": "",
+        "city": "Belfast",
+        "country": "GB",
+        "state": "BFS",
+        "zip_code": ""
+    },
+    "name": "Tall Ships Belfast",
+    "phone": "+442890246609",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/529rTsNxNfAylepUD9IWFg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kCfMJm3j8VOkdN_Smne-yw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-xDcBTLpAgol3cxeOKof8w/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tall-ships-belfast-belfast?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11178"
+}

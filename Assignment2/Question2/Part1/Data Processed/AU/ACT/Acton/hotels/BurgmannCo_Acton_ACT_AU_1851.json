@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.27325,
+        "longitude": 149.11934
+    },
+    "id": "burgmann-college-accomodation-acton",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Building 52",
+        "address2": "Daley Rd",
+        "address3": null,
+        "city": "Acton",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Burgmann College Accomodation",
+    "phone": "+61261256100",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/burgmann-college-accomodation-acton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1851"
+}

@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.46545,
+        "longitude": -112.034
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "noble-eatery-phoenix",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-38v7f_U8gpABCTkwB0izA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2201 E McDowell Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85006"
+    },
+    "name": "Noble Eatery",
+    "phone": "+16026882424",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-38v7f_U8gpABCTkwB0izA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Zkknz1exGpBOGAx_udypOw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DEhYOFOE13fKyy_kU6IikQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 67,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/noble-eatery-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8112"
+}

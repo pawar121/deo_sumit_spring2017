@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.613739,
+        "longitude": -122.3203278
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2100"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "2200"
+                }
+            ]
+        }
+    ],
+    "id": "q-nightclub-seattle-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4YXnKA2lnYWR3uByU4CRMw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1426 Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Q Nightclub",
+    "phone": "+12064329306",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4YXnKA2lnYWR3uByU4CRMw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/a_tuQVuBen_Su5zhRQq0XQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/z1DCZS08iMA5aw8P6bHExQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 205,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/q-nightclub-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9267"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "artmuseums",
+            "title": "Art Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6304136737564,
+        "longitude": -122.31438541005
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "seattle-asian-art-museum-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4t3Jqt2DpExaoCpu7SYhtQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1400 E Prospect St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98112"
+    },
+    "name": "Seattle Asian Art Museum",
+    "phone": "+12066543100",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4t3Jqt2DpExaoCpu7SYhtQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PArtSejJT7WzVnBcH30oAQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4EplMjO10dDlVIc9zxh_sA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 98,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/seattle-asian-art-museum-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10170"
+}

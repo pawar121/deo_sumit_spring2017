@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.925754,
+        "longitude": 138.604283
+    },
+    "id": "pirie-and-co-social-club-adelaide",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uvHR2hh_k1rkUSksEi8JYA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "121 Pirie Street",
+        "address2": "",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Pirie & Co Social Club",
+    "phone": "+61882233448",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uvHR2hh_k1rkUSksEi8JYA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vqxyIrAXv-c5vuRg51JoPA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hKVgJPUEFQAIne6Rl6apIQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pirie-and-co-social-club-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8983"
+}

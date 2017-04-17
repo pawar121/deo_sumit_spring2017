@@ -1,0 +1,94 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81994,
+        "longitude": 144.95579
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "cherry-and-twigs-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QY6ctiWmI7W2k6xA1lO8aQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 1B",
+        "address2": "555 Flinders Lane",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Cherry & Twigs",
+    "phone": "+61396147096",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QY6ctiWmI7W2k6xA1lO8aQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/A43MgIzTehkRnWc5k38brA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TSYXzrCcAN-JXbKFg_Cr4w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cherry-and-twigs-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2346"
+}

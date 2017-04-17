@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3734077,
+        "longitude": -122.0806186
+    },
+    "id": "cuesta-park-mountain-view",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fe1n7u7hGLelYB39KmybAA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "615 Cuesta Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Mountain View",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94043"
+    },
+    "name": "Cuesta Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fe1n7u7hGLelYB39KmybAA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Or8VLaI6tfETKcPvMtA24A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_2J8rIcsXWZD6ZeHtud05w/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 105,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cuesta-park-mountain-view?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3039"
+}

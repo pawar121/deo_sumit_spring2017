@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3584,
+        "longitude": -71.06197
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "mooo-restaurant-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8D-wH7Rxk9VKHvzdYIblzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Beacon St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02108"
+    },
+    "name": "Mooo Restaurant",
+    "phone": "+16176702515",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8D-wH7Rxk9VKHvzdYIblzQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/r6zO5IgsSmDEzY6vsYasRQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Q6RCaPc32t6ixWlwfGu50w/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.0,
+    "review_count": 620,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mooo-restaurant-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7689"
+}

@@ -1,0 +1,88 @@
+2017-03-31 10:57:03,227 - root - INFO - Application started....
+2017-03-31 10:57:08,546 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 10:57:10,925 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 12:42:16,634 - root - INFO - Application started....
+2017-03-31 12:42:16,634 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 12:43:56,845 - root - INFO - Filtering the data frame from 2015 to present
+2017-03-31 12:43:57,222 - root - INFO - filling NaN with default values for BOROUGH with Unknown
+2017-03-31 12:43:57,288 - root - INFO - Filtering the data frame for which only 1 vehicle was involved
+2017-03-31 12:46:12,195 - root - INFO - Application started....
+2017-03-31 12:46:12,196 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 12:47:46,144 - root - INFO - Filtering the data frame from 2015 to present
+2017-03-31 12:47:46,367 - root - INFO - filling NaN with default values for BOROUGH with Unknown
+2017-03-31 12:47:46,411 - root - INFO - Filtering the data frame for which only 1 vehicle was involved
+2017-03-31 12:47:46,473 - root - INFO - Total number of collisions with only 1 vehicle : 80937
+2017-03-31 12:47:46,474 - root - INFO - Filtering the data frame for which 2 vehicles were involved
+2017-03-31 12:47:46,804 - root - INFO - Total number of collisions with 2 vehicles : 366531
+2017-03-31 12:47:46,805 - root - INFO - Filtering the data frame for which 3 vehicles were involved
+2017-03-31 12:47:47,042 - root - INFO - Total number of collisions with 3 vehicles : 23433
+2017-03-31 12:47:47,043 - root - INFO - Filtering the data frame for which 4 or more vehicles were involved
+2017-03-31 12:47:47,065 - root - INFO - Total number of collisions with 4 or more vehicles : 6831
+2017-03-31 12:47:47,065 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 1 vehicle involved
+2017-03-31 12:47:47,077 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 2 vehicles involved
+2017-03-31 12:47:47,139 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 3 vehicles involved
+2017-03-31 12:47:47,143 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with more than 3 vehicles involved
+2017-03-31 12:47:47,147 - root - INFO - Combining all collisions-series into summary Metrix data frame
+2017-03-31 12:47:47,150 - root - INFO - Writing summary metrix to Q1_Part2.csv
+2017-03-31 12:47:47,160 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part2.csv
+2017-03-31 12:47:47,170 - root - INFO - Application finished....
+2017-04-02 10:50:39,354 - root - INFO - Application started....
+2017-04-02 10:50:39,379 - root - INFO - Reading data from vehicle_collisions.csv
+2017-04-02 10:51:57,542 - root - INFO - Filtering the data frame from 2015 to present
+2017-04-02 10:51:57,731 - root - INFO - Filtering the data frame for which VEHICLE TYPE is NaN
+2017-04-02 10:51:57,796 - root - INFO - filling NaN with default values for BOROUGH with Unknown
+2017-04-02 10:51:57,816 - root - INFO - Filtering the data frame for which only 1 vehicle was involved
+2017-04-02 10:51:57,819 - root - INFO - Total number of collisions with only 1 vehicle : 3955
+2017-04-02 10:51:57,819 - root - INFO - Filtering the data frame for which 2 vehicles were involved
+2017-04-02 10:51:57,823 - root - INFO - Total number of collisions with 2 vehicles : 0
+2017-04-02 10:51:57,823 - root - INFO - Filtering the data frame for which 3 vehicles were involved
+2017-04-02 10:51:57,825 - root - INFO - Total number of collisions with 3 vehicles : 0
+2017-04-02 10:51:57,825 - root - INFO - Filtering the data frame for which 4 or more vehicles were involved
+2017-04-02 10:51:57,826 - root - INFO - Total number of collisions with 4 or more vehicles : 0
+2017-04-02 10:51:57,826 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 1 vehicle involved
+2017-04-02 10:51:57,828 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 2 vehicles involved
+2017-04-02 10:51:57,829 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 3 vehicles involved
+2017-04-02 10:51:57,830 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with more than 3 vehicles involved
+2017-04-02 10:51:57,831 - root - INFO - Combining all collisions-series into summary Metrix data frame
+2017-04-02 10:52:32,643 - root - INFO - Application started....
+2017-04-02 10:52:32,643 - root - INFO - Reading data from vehicle_collisions.csv
+2017-04-02 10:53:49,844 - root - INFO - Filtering the data frame from 2015 to present
+2017-04-02 10:53:50,029 - root - INFO - Filtering the data frame for which VEHICLE TYPE is NaN
+2017-04-02 10:53:50,200 - root - INFO - filling NaN with default values for BOROUGH with Unknown
+2017-04-02 10:53:50,254 - root - INFO - Filtering the data frame for which only 1 vehicle was involved
+2017-04-02 10:53:50,307 - root - INFO - Total number of collisions with only 1 vehicle : 76982
+2017-04-02 10:53:50,307 - root - INFO - Filtering the data frame for which 2 vehicles were involved
+2017-04-02 10:53:50,589 - root - INFO - Total number of collisions with 2 vehicles : 366531
+2017-04-02 10:53:50,589 - root - INFO - Filtering the data frame for which 3 vehicles were involved
+2017-04-02 10:53:50,789 - root - INFO - Total number of collisions with 3 vehicles : 23433
+2017-04-02 10:53:50,789 - root - INFO - Filtering the data frame for which 4 or more vehicles were involved
+2017-04-02 10:53:50,808 - root - INFO - Total number of collisions with 4 or more vehicles : 6831
+2017-04-02 10:53:50,808 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 1 vehicle involved
+2017-04-02 10:53:50,821 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 2 vehicles involved
+2017-04-02 10:53:50,871 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 3 vehicles involved
+2017-04-02 10:53:50,876 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with more than 3 vehicles involved
+2017-04-02 10:53:50,879 - root - INFO - Combining all collisions-series into summary Metrix data frame
+2017-04-02 10:53:50,880 - root - INFO - Writing summary metrix to Q1_Part2.csv
+2017-04-02 10:53:50,954 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part2.csv
+2017-04-02 10:53:50,969 - root - INFO - Application finished....
+2017-04-04 16:10:10,450 - root - INFO - Application started....
+2017-04-04 16:10:10,506 - root - INFO - Reading data from vehicle_collisions.csv
+2017-04-04 16:12:50,925 - root - INFO - Filtering the data frame from 2015 to present
+2017-04-04 16:12:51,223 - root - INFO - Filtering the data frame for which VEHICLE TYPE is NaN
+2017-04-04 16:12:51,484 - root - INFO - filling NaN with default values for BOROUGH with Unknown
+2017-04-04 16:12:51,572 - root - INFO - Filtering the data frame for which only 1 vehicle was involved
+2017-04-04 16:12:51,654 - root - INFO - Total number of collisions with only 1 vehicle : 76982
+2017-04-04 16:12:51,656 - root - INFO - Filtering the data frame for which 2 vehicles were involved
+2017-04-04 16:12:52,140 - root - INFO - Total number of collisions with 2 vehicles : 366531
+2017-04-04 16:12:52,141 - root - INFO - Filtering the data frame for which 3 vehicles were involved
+2017-04-04 16:12:52,500 - root - INFO - Total number of collisions with 3 vehicles : 23433
+2017-04-04 16:12:52,501 - root - INFO - Filtering the data frame for which 4 or more vehicles were involved
+2017-04-04 16:12:52,542 - root - INFO - Total number of collisions with 4 or more vehicles : 6831
+2017-04-04 16:12:52,543 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 1 vehicle involved
+2017-04-04 16:12:52,567 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 2 vehicles involved
+2017-04-04 16:12:52,672 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with 3 vehicles involved
+2017-04-04 16:12:52,680 - root - INFO - Grouping by BOROUGH and counting total number of records for collisions with more than 3 vehicles involved
+2017-04-04 16:12:52,685 - root - INFO - Combining all collisions-series into summary Metrix data frame
+2017-04-04 16:12:52,687 - root - INFO - Writing summary metrix to Q1_Part2.csv
+2017-04-04 16:12:52,691 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part2.csv
+2017-04-04 16:12:52,704 - root - INFO - Application finished....

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "arcades",
+            "title": "Arcades"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.65205,
+        "longitude": -122.35477
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1400"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1400"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1400"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1400"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1400"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1400"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1400"
+                }
+            ]
+        }
+    ],
+    "id": "add-a-ball-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3K3R0-XeFvJrVioAOJlD-Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "315 N 36th St",
+        "address2": "Unit 2B",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98103"
+    },
+    "name": "Add-a-Ball",
+    "phone": "+12066961613",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3K3R0-XeFvJrVioAOJlD-Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yqJgofEkc0eySOn5aU7f0A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Q_6LNeITVjguHKqp7DPRNg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 95,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/add-a-ball-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "206"
+}

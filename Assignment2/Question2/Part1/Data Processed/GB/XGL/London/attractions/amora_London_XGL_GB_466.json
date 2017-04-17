@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotelstravel",
+            "title": "Hotels & Travel"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5100348,
+        "longitude": -0.1329784
+    },
+    "id": "amora-london",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13 Coventry Street",
+        "address2": null,
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW1Y 4HA"
+    },
+    "name": "amora",
+    "phone": "",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amora-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "466"
+}

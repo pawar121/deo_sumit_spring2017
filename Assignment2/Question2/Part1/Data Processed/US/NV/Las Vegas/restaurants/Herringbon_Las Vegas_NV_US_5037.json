@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1068518,
+        "longitude": -115.1732949
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "herringbone-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-Vy2v1B8Df_kynbnLHGFjA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Aria Resort Casino",
+        "address2": "3730 Las Vegas Blvd",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Herringbone",
+    "phone": "+17025909898",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-Vy2v1B8Df_kynbnLHGFjA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/nmaATmfjekej5jPp2C8qhA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2Dj2BKcKQ64Nq21wAh-h0w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 209,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/herringbone-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5037"
+}

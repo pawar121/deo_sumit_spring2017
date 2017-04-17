@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotelstravel",
+            "title": "Hotels & Travel"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3386612,
+        "longitude": 149.1483154
+    },
+    "id": "doma-hotels-canberra-narrabundah-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "203 Goyder St",
+        "address2": null,
+        "address3": null,
+        "city": "Narrabundah",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2604"
+    },
+    "name": "Doma Hotels Canberra",
+    "phone": "+61262952944",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/doma-hotels-canberra-narrabundah-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3358"
+}

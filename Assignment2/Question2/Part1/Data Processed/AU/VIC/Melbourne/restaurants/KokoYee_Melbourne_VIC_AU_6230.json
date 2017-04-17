@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        },
+        {
+            "alias": "indonesian",
+            "title": "Indonesian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8116845833858,
+        "longitude": 144.963769324125
+    },
+    "id": "koko-yee-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9f30uZY29TglWPGrcCc8Pg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "282 Lonsdale St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Koko Yee",
+    "phone": "+61433967509",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9f30uZY29TglWPGrcCc8Pg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/GvmH_hNQIHdhfu2_6SsvfA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BhI0_nFLVipg4vKNc1BvEA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/koko-yee-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6230"
+}

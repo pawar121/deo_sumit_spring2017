@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.9536649,
+        "longitude": -95.5395401
+    },
+    "id": "amc-willowbrook-24-houston-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TmIBKemvCjBM52tan7PiSQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "17145 Tomball Pkwy",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77064"
+    },
+    "name": "AMC Willowbrook 24",
+    "phone": "+12819709604",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pRTRv5DtKQeoeaN0mwfhIw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IMq0JbgHWOgfn6MjWAgWPQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 65,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amc-willowbrook-24-houston-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "434"
+}

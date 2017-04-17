@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8657494,
+        "longitude": 151.2088928
+    },
+    "id": "bistro-fax-sydney-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YsOqRc2ukLJi2xHv7U0KjA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Pitt St (cnr O'Connell & Hunter Sts)",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Bistro Fax",
+    "phone": "+61282140400",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YsOqRc2ukLJi2xHv7U0KjA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bistro-fax-sydney-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1343"
+}

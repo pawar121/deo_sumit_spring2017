@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86939,
+        "longitude": 2.29786
+    },
+    "id": "hôtel-belmont-paris-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-b9hKtX9-QNmoqp8CMjRLA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "30 Rue Bassano",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75116"
+    },
+    "name": "Hôtel Belmont",
+    "phone": "+33153577500",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-b9hKtX9-QNmoqp8CMjRLA/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-belmont-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5500"
+}

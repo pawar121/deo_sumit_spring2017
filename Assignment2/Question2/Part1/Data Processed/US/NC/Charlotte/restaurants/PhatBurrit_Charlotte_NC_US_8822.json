@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "tex-mex",
+            "title": "Tex-Mex"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.21506,
+        "longitude": -80.8563999
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "phat-burrito-charlotte",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pmDP_vnw8vdAYMID2_0lpQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1537 Camden Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28203"
+    },
+    "name": "Phat Burrito",
+    "phone": "+17043327428",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/pmDP_vnw8vdAYMID2_0lpQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xN2cTu23R5Hg3LNqsp3NRA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZqOZSeQBQhf2GD8PqnSXvQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 275,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/phat-burrito-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8822"
+}

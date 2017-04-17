@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9094505,
+        "longitude": 174.7628632
+    },
+    "id": "mt-roskill-motor-inn-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tPmn9DHzLIzl1eEc1s9cPw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "565 Mount Albert Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1025"
+    },
+    "name": "Mt Roskill Motor Inn",
+    "phone": "+6496255939",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tPmn9DHzLIzl1eEc1s9cPw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/mt-roskill-motor-inn-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7786"
+}

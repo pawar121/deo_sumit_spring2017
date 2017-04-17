@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.956155,
+        "longitude": -77.069823
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "little-red-fox-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i1byg4h_HZ4E1p0fZmIDMQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5035 Connecticut Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20008"
+    },
+    "name": "Little Red Fox",
+    "phone": "+12022486346",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/i1byg4h_HZ4E1p0fZmIDMQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0NiUdLA9opqHLO-Kwe4z7w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/h5tYj-gqgQsxi86DzOfyRw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 145,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/little-red-fox-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6725"
+}

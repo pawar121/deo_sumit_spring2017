@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.74381,
+        "longitude": -73.95153
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "jora-restaurant-and-bar-long-island-city",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fzckhw-nQGKVyBUKmsIfMA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "47-46 11th St",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11101"
+    },
+    "name": "Jora Restaurant & Bar",
+    "phone": "+17183922033",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Fzckhw-nQGKVyBUKmsIfMA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NAEpSWV5ckRiQHtPFgN2EQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yuSfRAa7jSrdE7oCqRX-ow/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 236,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jora-restaurant-and-bar-long-island-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5935"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.32022,
+        "longitude": -121.87818
+    },
+    "id": "puro-michoacan-restaurant-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I4s7fkWnYM-u-MyWRUuLyg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1065 S 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95110"
+    },
+    "name": "Puro Michoacan Restaurant",
+    "phone": "+14089717102",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/I4s7fkWnYM-u-MyWRUuLyg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tv5efHVaiFBWZKSGXwKJKQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dswVD05ehYiT5ju5d5JwBg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 31,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/puro-michoacan-restaurant-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9256"
+}

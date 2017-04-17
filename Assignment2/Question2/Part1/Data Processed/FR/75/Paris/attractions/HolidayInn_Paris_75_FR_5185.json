@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85278,
+        "longitude": 2.34229
+    },
+    "id": "holiday-inn-notre-dame-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VRzCXV-hYBoAp4ZbxCIAng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 rue Danton",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Holiday Inn Notre-Dame",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VRzCXV-hYBoAp4ZbxCIAng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/v6l3ULOeDBVyJsJW3lEufg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KK3-5Bgo1iKc35ldQCAS7Q/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/holiday-inn-notre-dame-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5185"
+}

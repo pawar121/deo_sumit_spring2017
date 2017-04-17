@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.4104075832971,
+        "longitude": -122.065547883214
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "navy-lodge-moffett-federal-airfield-mountain-view",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QACWQgt9Gh-aMKNiUSIpRA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "593 Vernon Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Mountain View",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94043"
+    },
+    "name": "Navy Lodge Moffett Federal Airfield",
+    "phone": "+16509621542",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QACWQgt9Gh-aMKNiUSIpRA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/G27mY4erXODucHRs-7UsbQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KmmbtE-0auoL_puPs9lVdw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/navy-lodge-moffett-federal-airfield-mountain-view?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7963"
+}

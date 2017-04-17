@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3858185,
+        "longitude": -2.9078062
+    },
+    "id": "spoon-liverpool",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "103-105 Allerton Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L18 2DD"
+    },
+    "name": "Spoon",
+    "phone": "+441517246070",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spoon-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10689"
+}

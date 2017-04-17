@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7099,
+        "longitude": -95.40327
+    },
+    "id": "hilton-houston-plaza-medical-center-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nX4NDTaKa3VRYTDzxLKWiA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6633 Travis St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77030"
+    },
+    "name": "Hilton Houston Plaza/Medical Center",
+    "phone": "+17133134000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nX4NDTaKa3VRYTDzxLKWiA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cnGIW_qtLTvFjpe6L3CAAQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zkmoZltpcrQTxGStYcNDCQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 31,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hilton-houston-plaza-medical-center-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5099"
+}

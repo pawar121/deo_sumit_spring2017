@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7322773584081,
+        "longitude": -95.4184300435165
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "elevation-burger-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O_EMq5RyI3oe8CAH5i60-w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3819 Kirby Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77098"
+    },
+    "name": "Elevation Burger",
+    "phone": "+17135242909",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/O_EMq5RyI3oe8CAH5i60-w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/swdgjkffUMFNeQqOoeaXsg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4oDYTSTBfDX5rCALYB99hw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 383,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elevation-burger-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3664"
+}

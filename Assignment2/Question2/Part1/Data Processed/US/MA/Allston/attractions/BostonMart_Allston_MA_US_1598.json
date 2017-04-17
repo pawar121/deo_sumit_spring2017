@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "martialarts",
+            "title": "Martial Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3515892,
+        "longitude": -71.1318359
+    },
+    "id": "boston-martial-arts-center-allston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cKm-kSEvPro2qR7SauPR5Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "161 Harvard Ave",
+        "address2": "Ste 4E",
+        "address3": "",
+        "city": "Allston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02134"
+    },
+    "name": "Boston Martial Arts Center",
+    "phone": "+16177895524",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cKm-kSEvPro2qR7SauPR5Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gQ5GNhBuLL9oY65zEszq7A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8IQ0gjXpoDIw31V04Tnlmg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-martial-arts-center-allston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1598"
+}

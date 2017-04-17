@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3475304,
+        "longitude": 149.088913
+    },
+    "id": "student-flights-phillip-phillip",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop G089 Westfield Woden, Keltie",
+        "address2": null,
+        "address3": null,
+        "city": "Phillip",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Student Flights Phillip",
+    "phone": "+1300836851",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/student-flights-phillip-phillip?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10900"
+}

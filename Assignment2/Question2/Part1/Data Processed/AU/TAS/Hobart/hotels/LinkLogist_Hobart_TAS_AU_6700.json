@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8773842,
+        "longitude": 147.3259583
+    },
+    "id": "link-logistics-international-hobart-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "17 Brisbane St",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Link Logistics International",
+    "phone": "+61362343433",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/link-logistics-international-hobart-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6700"
+}

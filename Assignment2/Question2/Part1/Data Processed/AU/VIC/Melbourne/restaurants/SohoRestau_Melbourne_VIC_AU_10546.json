@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8206063361745,
+        "longitude": 144.962976710242
+    },
+    "id": "soho-restaurant-and-bar-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_6ZyZt-9__HvD-RL5TuX9w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2/4 Riverside Quay",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3006"
+    },
+    "name": "Soho Restaurant & Bar",
+    "phone": "+61396824299",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_6ZyZt-9__HvD-RL5TuX9w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cDiYcdVOJop-8SIw7Wvt7Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VrjhPXHa1NjmJT_v9x-9_g/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 2.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/soho-restaurant-and-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10546"
+}

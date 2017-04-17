@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.578936,
+        "longitude": -83.475198
+    },
+    "id": "journey-to-atlantis-sea-world-san-diego-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZswSWAKBtol7QrcK41mKLA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "500 Sea World Dr",
+        "address2": "",
+        "address3": "",
+        "city": "San Diego",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "92109"
+    },
+    "name": "Journey to Atlantis - Sea World",
+    "phone": "+18002574268",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZswSWAKBtol7QrcK41mKLA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7RRp4PV6GZcGYdt-AnP6lg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/u-FdGs1kvoS7lRKHmI_-dw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/journey-to-atlantis-sea-world-san-diego-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5943"
+}

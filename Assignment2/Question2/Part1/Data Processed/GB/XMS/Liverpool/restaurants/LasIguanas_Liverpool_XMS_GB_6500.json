@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        },
+        {
+            "alias": "cuban",
+            "title": "Cuban"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4042435,
+        "longitude": -2.9861956
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "las-iguanas-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FKImCAnPQjWYtuIWK1bbyA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "14 Paradise Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 8J"
+    },
+    "name": "Las Iguanas",
+    "phone": "+441517094030",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FKImCAnPQjWYtuIWK1bbyA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aVQvsQPHiUByit187Epxbg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VcBHC14TZUQ7YRJlExSxuw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/las-iguanas-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6500"
+}

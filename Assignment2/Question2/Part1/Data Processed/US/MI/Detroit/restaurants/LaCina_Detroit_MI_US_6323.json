@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.39666,
+        "longitude": -82.92104
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "la-cina-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mr2QY50umWpAF_m7xNxO7g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "17201 Mack Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48224"
+    },
+    "name": "La Cina",
+    "phone": "+13138818226",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mr2QY50umWpAF_m7xNxO7g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gl0jyNLnWHLDz80MkRMF5Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VuMQeGTnX2MgUdQJEa0L8A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-cina-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6323"
+}

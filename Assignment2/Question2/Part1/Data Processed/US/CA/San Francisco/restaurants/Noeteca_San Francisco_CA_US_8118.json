@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.74453,
+        "longitude": -122.42407
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "noeteca-san-francisco",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dVWIkPAG2_4OJMk9FzS4Iw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1551 Dolores St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "Noeteca",
+    "phone": "+14158245524",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dVWIkPAG2_4OJMk9FzS4Iw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UbjFanGAqOsYSF5lUdg1dA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4d_pl8j7rBP9EF7ngjHc7g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 374,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/noeteca-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8118"
+}

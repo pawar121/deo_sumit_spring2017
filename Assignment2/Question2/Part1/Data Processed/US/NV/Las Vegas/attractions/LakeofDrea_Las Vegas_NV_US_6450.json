@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.126976,
+        "longitude": -115.167984
+    },
+    "id": "lake-of-dreams-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ygfaTDa6BMpnYpzmM3kmoQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3131 Las Vegas Blvd. South",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Lake of Dreams",
+    "phone": "+17027703392",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ygfaTDa6BMpnYpzmM3kmoQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FIaP7-gVn0PRi0fa0gAF-Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0HNfPy4bhbT7VL45X5SZLg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 19,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lake-of-dreams-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6450"
+}

@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        },
+        {
+            "alias": "caribbean",
+            "title": "Caribbean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6150589,
+        "longitude": -122.3489914
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "the-innkeeper-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ItXrA2HYx1EUne56Jwa-oA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2510 1st Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98121"
+    },
+    "name": "The Innkeeper",
+    "phone": "+12064417817",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ItXrA2HYx1EUne56Jwa-oA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iz470AtbdIDuF0T2YN18UQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CAx6slqjaUqY5Tdn-Fo73g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 278,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-innkeeper-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11665"
+}

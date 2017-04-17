@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.8486199,
+        "longitude": -73.9362
+    },
+    "id": "m5-bus-new-york",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Houston to W 179th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": ""
+    },
+    "name": "M5 Bus",
+    "phone": "",
+    "photos": [],
+    "rating": 2.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/m5-bus-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7014"
+}

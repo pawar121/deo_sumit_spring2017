@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.78265,
+        "longitude": -95.47851
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "boca2-gastro-bar-and-bites-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DDY6VgTohKZtsVvZe5TuoA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7951 Katy Fwy",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77024"
+    },
+    "name": "Boca2 Gastro Bar & Bites",
+    "phone": "+17132631700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DDY6VgTohKZtsVvZe5TuoA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/c8v35kJBt758Z1TiFnu7SQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pO9t88N2LoYDweY_Fi3mzQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 84,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/boca2-gastro-bar-and-bites-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1491"
+}

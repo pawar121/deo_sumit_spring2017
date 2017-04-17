@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "artclasses",
+            "title": "Art Classes"
+        },
+        {
+            "alias": "arttours",
+            "title": "Art Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.4206024,
+        "longitude": -119.6820504
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "santa-barbara-art-glass-santa-barbara-5",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RPsBnsTlP6tfg5DYiogHXA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "706 E Mason St",
+        "address2": "",
+        "address3": "",
+        "city": "Santa Barbara",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "93103"
+    },
+    "name": "Santa Barbara Art Glass",
+    "phone": "+18059651541",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3LfDU6yi8exJ7RoaTDB-yg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Vl8vxorJffaMH-k5pyCUMA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JLHcFu-ZL_3VJ4G-9ySF5w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 132,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/santa-barbara-art-glass-santa-barbara-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10037"
+}

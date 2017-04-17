@@ -1,0 +1,19 @@
+2017-03-06 15:18:33,415 - root - INFO - Application started....
+2017-03-06 15:18:33,419 - root - INFO - Reading JSON files from data folder.
+2017-03-06 15:18:33,429 - root - INFO - 41 number of JSON files found in data folder
+2017-03-06 15:18:33,507 - root - INFO - Iterating through all the JSON files.
+2017-03-06 15:19:13,628 - root - INFO - Application started....
+2017-03-06 15:19:13,630 - root - INFO - Reading JSON files from data folder.
+2017-03-06 15:19:13,634 - root - INFO - 41 number of JSON files found in data folder
+2017-03-06 15:19:13,729 - root - INFO - Iterating through all the JSON files.
+2017-03-06 15:19:13,790 - root - INFO - 1025 number of articles files found.
+2017-03-06 15:42:28,542 - root - INFO - Application started....
+2017-03-06 15:42:28,547 - root - INFO - Reading JSON files from data folder.
+2017-03-06 15:42:28,558 - root - INFO - 106 number of JSON files found in data folder
+2017-03-06 15:42:28,752 - root - INFO - Iterating through all the JSON files.
+2017-03-06 15:42:29,200 - root - INFO - 2650 number of comments files found.
+2017-03-06 16:33:26,892 - root - INFO - Application started....
+2017-03-06 16:33:26,896 - root - INFO - Reading JSON files from data folder.
+2017-03-06 16:33:26,908 - root - INFO - 106 number of JSON files found in data folder
+2017-03-06 16:33:26,994 - root - INFO - Iterating through all the JSON files.
+2017-03-06 16:33:27,657 - root - INFO - 2650 number of comments files found.

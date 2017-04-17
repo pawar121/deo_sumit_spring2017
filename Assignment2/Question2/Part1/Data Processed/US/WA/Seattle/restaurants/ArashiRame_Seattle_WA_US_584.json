@@ -1,0 +1,98 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6682,
+        "longitude": -122.3823
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "arashi-ramen-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ubd6oX1tKV9Ryf72Ej8eWg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5401 20th Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98107"
+    },
+    "name": "Arashi Ramen",
+    "phone": "+12064927933",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ubd6oX1tKV9Ryf72Ej8eWg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cV3X_YrLfjUDvGakfKVc7Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uQw9WawFy8GqOQERpdI5WQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 87,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/arashi-ramen-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "584"
+}

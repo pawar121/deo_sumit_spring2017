@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9752617,
+        "longitude": 174.8166504
+    },
+    "id": "airport-garden-inn-hotel-and-conference-centre-manukau-city",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Tidal Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Manukau City",
+        "country": "NZ",
+        "state": "NTL",
+        "zip_code": "0195"
+    },
+    "name": "Airport Garden Inn Hotel & Conference Centre",
+    "phone": "+6492750194",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/airport-garden-inn-hotel-and-conference-centre-manukau-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "275"
+}

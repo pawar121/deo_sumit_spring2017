@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "thrift_stores",
+            "title": "Thrift Stores"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "icecream",
+            "title": "Ice Cream & Frozen Yogurt"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2790167495695,
+        "longitude": 149.131704093062
+    },
+    "id": "the-garden-shed-cafe-canberra",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3fNs9mkcfzkp73Y5-xMq0g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "171 City Walk",
+        "address2": "",
+        "address3": null,
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "The Garden Shed Cafe",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3fNs9mkcfzkp73Y5-xMq0g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eybvQK2Pi0AGfUj7aqeWpg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XoajsvzW3pUl7n4Lj9KqPg/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-garden-shed-cafe-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11615"
+}

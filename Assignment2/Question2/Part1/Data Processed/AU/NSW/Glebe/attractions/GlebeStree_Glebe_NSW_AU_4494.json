@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.880801826914,
+        "longitude": 151.187753677368
+    },
+    "id": "glebe-street-fair-glebe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z9RP0IDg1Bj65cER0csZwg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Glebe Point Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Glebe",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2037"
+    },
+    "name": "Glebe Street Fair",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Z9RP0IDg1Bj65cER0csZwg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7Kht2gs6ZO6dYO7N51HhwQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/67g3CCsdgAeWYboECDRQCg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/glebe-street-fair-glebe?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4494"
+}

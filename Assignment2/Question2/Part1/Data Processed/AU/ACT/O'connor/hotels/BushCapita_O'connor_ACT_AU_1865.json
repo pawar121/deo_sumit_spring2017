@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        },
+        {
+            "alias": "apartments",
+            "title": "Apartments"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2521706,
+        "longitude": 149.1127472
+    },
+    "id": "bush-capital-lodge-o-connor",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "191 Dryandra St",
+        "address2": null,
+        "address3": null,
+        "city": "O'connor",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Bush Capital Lodge",
+    "phone": "+61261621915",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/bush-capital-lodge-o-connor?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1865"
+}

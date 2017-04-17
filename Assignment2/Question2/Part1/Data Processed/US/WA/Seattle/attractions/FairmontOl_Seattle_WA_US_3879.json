@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.60819,
+        "longitude": -122.33414
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "fairmont-olympic-hotel-seattle-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OhFZJBbMmQrWDDNlK7MzRg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "411 University Street",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Fairmont Olympic Hotel",
+    "phone": "+12066211700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OhFZJBbMmQrWDDNlK7MzRg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XOvSeowtb7bq4zaYy5G76Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2lEc_Zi_d2kECz6GjWhs4Q/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 284,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fairmont-olympic-hotel-seattle-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3879"
+}

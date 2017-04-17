@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8702563905053,
+        "longitude": 151.208043718716
+    },
+    "id": "burger-edge-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P5QysGqfzNFB1R-bMCJUuA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Sydney Central Plaza, Lower Ground Food Court",
+        "address2": "Pitt St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2088"
+    },
+    "name": "Burger Edge",
+    "phone": "+61292323441",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/P5QysGqfzNFB1R-bMCJUuA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qvqAYca-Z1vtszLBX50-lg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JI7CYCnxtzm0N0ETYRgTfw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/burger-edge-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1843"
+}

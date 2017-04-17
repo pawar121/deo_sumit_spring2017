@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.60958,
+        "longitude": -122.34204
+    },
+    "id": "giant-shoe-museum-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NnUzrLziP0AVw5J6G0m7Tg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Pikes Place Market",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Giant Shoe Museum",
+    "phone": "+12066232870",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NnUzrLziP0AVw5J6G0m7Tg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZhvYDpA5Y3l2WqkW5krKQQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lSFqQHN0z959dhUuvm0QYw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/giant-shoe-museum-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4459"
+}

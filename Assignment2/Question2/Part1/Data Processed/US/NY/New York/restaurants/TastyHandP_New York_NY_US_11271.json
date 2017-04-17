@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7142,
+        "longitude": -73.99787
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "tasty-hand-pulled-noodles-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rLQec4KYSfdnDELHa7JCQA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Doyers St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10013"
+    },
+    "name": "Tasty Hand-Pulled Noodles",
+    "phone": "+12127911817",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rLQec4KYSfdnDELHa7JCQA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2nfZ6-ReQCfu7ibH304p-Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KV9b8ErpS-lizuxIkouu2g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 1077,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tasty-hand-pulled-noodles-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11271"
+}

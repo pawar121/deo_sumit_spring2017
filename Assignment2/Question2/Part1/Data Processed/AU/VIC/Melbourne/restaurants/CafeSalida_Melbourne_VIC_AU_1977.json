@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8153385,
+        "longitude": 144.9573963
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-salida-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SnnFZqxf3H4P97QEH2oxzA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "TG25",
+        "address2": "Goldsborough Lane",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Cafe Salida",
+    "phone": "+61396060996",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SnnFZqxf3H4P97QEH2oxzA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HalvqjKwqNIoXGgZ-JIc7A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/h8yBqOOtSLrooW1twsOZuw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-salida-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1977"
+}

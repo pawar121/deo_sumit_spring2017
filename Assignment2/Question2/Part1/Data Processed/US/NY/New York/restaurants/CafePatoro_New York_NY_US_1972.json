@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "brazilian",
+            "title": "Brazilian"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7072720974983,
+        "longitude": -74.0023160353303
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-patoro-new-york",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rs6mD51cpQncwkfBO8nJoQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "223 Front St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10038"
+    },
+    "name": "Cafe Patoro",
+    "phone": "+19172620031",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rs6mD51cpQncwkfBO8nJoQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cLQCise5NCmzGbvsRqvcTQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DuTIL_CPtI374xkS2qfk0Q/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 58,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-patoro-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1972"
+}

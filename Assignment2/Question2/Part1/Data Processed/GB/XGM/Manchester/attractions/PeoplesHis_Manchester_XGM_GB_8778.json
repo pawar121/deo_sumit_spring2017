@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4813411,
+        "longitude": -2.2533836
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "peoples-history-museum-manchester-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UaNVuFcsJWf2qfXrHq-Deg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Left Bank",
+        "address2": "Spinningfields",
+        "address3": null,
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M3 3ER"
+    },
+    "name": "People's History Museum",
+    "phone": "+441618389190",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/UaNVuFcsJWf2qfXrHq-Deg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ad8HeOVCdUEgDc8XrH1lTQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/z0JJzDBEfq0Fhh6ppPY9tw/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/peoples-history-museum-manchester-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8778"
+}

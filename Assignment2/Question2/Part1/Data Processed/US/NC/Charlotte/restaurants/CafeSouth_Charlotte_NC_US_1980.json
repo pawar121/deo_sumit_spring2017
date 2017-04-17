@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.1357002,
+        "longitude": -80.9050293
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-south-charlotte",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tvyJ_kyY-Ets8wXazO937A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7901 Forest Pine Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28273"
+    },
+    "name": "Cafe South",
+    "phone": "+19802247328",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tvyJ_kyY-Ets8wXazO937A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5_BQJB-IEZ1JyxR7Pihy8Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/X1_GP6Xp0Ke4APseTQcn5w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 138,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-south-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1980"
+}

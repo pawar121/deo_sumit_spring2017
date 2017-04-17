@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.886112841294,
+        "longitude": -87.621051476607
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "fairmont-chicago-millennium-park-chicago-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OyP2e9GoiZzuejaXe_6Cpg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "200 North Columbus Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60601"
+    },
+    "name": "Fairmont Chicago, Millennium Park",
+    "phone": "+13125658000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OyP2e9GoiZzuejaXe_6Cpg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FzRF_7yq2bzBV85gXAkMuw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AkTCKGTLJzslXZQgwD14PA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 225,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fairmont-chicago-millennium-park-chicago-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3877"
+}

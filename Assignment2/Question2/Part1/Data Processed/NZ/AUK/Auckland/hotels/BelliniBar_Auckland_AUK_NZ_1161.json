@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "champagne_bars",
+            "title": "Champagne Bars"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "newzealand",
+            "title": "New Zealand"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8394199949793,
+        "longitude": 174.765945111608
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "bellini-bar-auckland",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DnDpsXI292PFMIt3pkPvug/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Ground Floor, Hilton Auckland",
+        "address2": "Princes Wharf, 147 Quay St",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Bellini Bar",
+    "phone": "+6499782025",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DnDpsXI292PFMIt3pkPvug/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JDNzw7M21-zRCGd333x3-w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zkeURoXASxrhFkpkxkk6jw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/bellini-bar-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1161"
+}

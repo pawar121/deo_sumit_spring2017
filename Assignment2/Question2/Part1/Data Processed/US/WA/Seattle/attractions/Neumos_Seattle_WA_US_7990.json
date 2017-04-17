@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6140125,
+        "longitude": -122.3200355
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "neumos-seattle-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/shy0LGIHwlu-QJC-ejbh-w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "925 E Pike St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Neumos",
+    "phone": "+12067099442",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/shy0LGIHwlu-QJC-ejbh-w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5RLXw6DUw7rc-Qpi7xIS0Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YtFe9SJbNdZOwnj2M0Fjwg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 210,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/neumos-seattle-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7990"
+}

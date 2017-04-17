@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.330636,
+        "longitude": -2.3802781
+    },
+    "id": "tatton-park-national-trust-knutsford",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bxOnEjqo81F9FJvkXW2K8A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Tatton Park",
+        "address2": "",
+        "address3": "",
+        "city": "Knutsford",
+        "country": "GB",
+        "state": "CHE",
+        "zip_code": "WA16 6SG"
+    },
+    "name": "Tatton Park - National Trust",
+    "phone": "+441625374400",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bxOnEjqo81F9FJvkXW2K8A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/I_ZslCGFce1PWX6uC9mCDg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/e68E20rpUtARnO61QAcMkQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 32,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tatton-park-national-trust-knutsford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11279"
+}

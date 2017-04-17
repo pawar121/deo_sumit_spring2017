@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3157883,
+        "longitude": 149.1404266
+    },
+    "id": "la-dolce-vita-restaurant-kingston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ep-JyzRdrNs6kMg0JSuc2A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "34 Giles St",
+        "address2": null,
+        "address3": null,
+        "city": "Kingston",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2604"
+    },
+    "name": "La Dolce Vita Restaurant",
+    "phone": "+61262957877",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ep-JyzRdrNs6kMg0JSuc2A/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-dolce-vita-restaurant-kingston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6333"
+}

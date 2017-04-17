@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.75579,
+        "longitude": -95.36391
+    },
+    "id": "alonti-cafe-and-catering-houston-11",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YSEhE4uunBZbwEJQZLacxg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1001 Fannin St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Alonti Cafe & Catering",
+    "phone": "+17136541856",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YSEhE4uunBZbwEJQZLacxg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/spWupruFus61Kfd2Hrq4vg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/XQOCwUJSWcUYvPe16vf3lQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/alonti-cafe-and-catering-houston-11?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "374"
+}

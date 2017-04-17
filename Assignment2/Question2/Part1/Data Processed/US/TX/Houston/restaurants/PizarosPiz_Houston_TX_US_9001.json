@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7535549444135,
+        "longitude": -95.3918996761977
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "pizaros-pizza-napoletana-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d-HXq8Fis2oDBG_E1tsgXg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1000 W Gray St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77019"
+    },
+    "name": "Pizaro's Pizza Napoletana",
+    "phone": "+18327425200",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/d-HXq8Fis2oDBG_E1tsgXg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/G3BR0RROkpVIFvlNko6bfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tiY6FXbhu7AQI2sYPXAPUQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 192,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pizaros-pizza-napoletana-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9001"
+}

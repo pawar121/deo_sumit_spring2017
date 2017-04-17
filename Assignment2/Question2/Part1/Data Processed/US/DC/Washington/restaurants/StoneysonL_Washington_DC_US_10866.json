@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9038766127399,
+        "longitude": -77.0473073199312
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "stoneys-on-l-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qVqYi2rwfn-8V3a1ngPg8Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2101 L St NW",
+        "address2": "Ste103",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20037"
+    },
+    "name": "Stoney's on L",
+    "phone": "+12027210019",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qVqYi2rwfn-8V3a1ngPg8Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dHwi6ju-8AGYum2UJiFrvA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jzBQU-rQBvhdB_ZwtXdaWw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 134,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/stoneys-on-l-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10866"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2389793,
+        "longitude": 149.0608826
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "archies-belconnen-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6/66 Josephson St",
+        "address2": null,
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2617"
+    },
+    "name": "Archie's @ Belconnen",
+    "phone": "+61261815573",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/archies-belconnen-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "594"
+}

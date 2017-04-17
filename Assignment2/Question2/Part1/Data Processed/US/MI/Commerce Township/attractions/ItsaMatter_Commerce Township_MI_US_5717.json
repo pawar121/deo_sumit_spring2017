@@ -1,0 +1,128 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.601606103087,
+        "longitude": -83.445718281285
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "its-a-matter-of-taste-commerce-township",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5IFwOcg4pRR2QidvSinwqg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2323 Union Lake Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Commerce Township",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48382"
+    },
+    "name": "It's a Matter of Taste",
+    "phone": "+12483606650",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5IFwOcg4pRR2QidvSinwqg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HltVotj2fOdax52eLukCyg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lCvmIFTUgoDhDSjMoCoYSw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 132,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/its-a-matter-of-taste-commerce-township?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5717"
+}

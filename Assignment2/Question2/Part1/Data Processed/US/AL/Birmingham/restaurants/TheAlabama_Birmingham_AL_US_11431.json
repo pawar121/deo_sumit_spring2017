@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.454481456411,
+        "longitude": -86.7264121184253
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "the-alabama-biscuit-co-birmingham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EASXN6kDZmlsbAbziNvn7Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4133 White Oak Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35243"
+    },
+    "name": "The Alabama Biscuit Co.",
+    "phone": "+12055782553",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EASXN6kDZmlsbAbziNvn7Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6bYavR-wGIST24rVHAP0Dg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mf-crFPrE-ZQQ8o-Az70lA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 136,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-alabama-biscuit-co-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11431"
+}

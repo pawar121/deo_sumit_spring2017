@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "taxis",
+            "title": "Taxis"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3400993,
+        "longitude": 149.2432404
+    },
+    "id": "cabxpress-queanbeyan",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Yass Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Queanbeyan",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2620"
+    },
+    "name": "Cabxpress",
+    "phone": "+61262606011",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/cabxpress-queanbeyan?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1899"
+}

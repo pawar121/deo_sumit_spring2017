@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33535,
+        "longitude": -121.89346
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "olla-cocina-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-f28VxGcplIXppUPllp-DA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "17 N San Pedro St",
+        "address2": "",
+        "address3": null,
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95110"
+    },
+    "name": "Olla Cocina",
+    "phone": "+14086067999",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/S0IT6EOsUUVW1Maa-xb5PQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/50xMmJENRvVG481RPphBKg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/U_E1ZKslcLeFlNO-IWKskw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 121,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/olla-cocina-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8355"
+}

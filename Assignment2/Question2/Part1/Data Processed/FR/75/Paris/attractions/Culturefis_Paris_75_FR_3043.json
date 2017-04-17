@@ -1,0 +1,129 @@
+{
+    "categories": [
+        {
+            "alias": "walkingtours",
+            "title": "Walking Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85551,
+        "longitude": 2.346843
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1530"
+                }
+            ]
+        }
+    ],
+    "id": "culturefish-tours-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7mkUpP8bshRpkwHB8iA7cA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Place Louis-Lepine",
+        "address2": null,
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75004"
+    },
+    "name": "Culturefish Tours",
+    "phone": "+33761934997",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7mkUpP8bshRpkwHB8iA7cA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IFL78UaPRVQECCP0iUY4jA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zP9UXObVWzZEY3JbAx9MIg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/culturefish-tours-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3043"
+}

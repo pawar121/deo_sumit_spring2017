@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "pilates",
+            "title": "Pilates"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7600994,
+        "longitude": -95.4818192
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "the-good-space-pilates-and-yoga-studio-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hS3RvwE7Oikwcn6boDn9oQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5757 Woodway Dr",
+        "address2": "Ste 150",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77057"
+    },
+    "name": "The Good Space Pilates and Yoga Studio",
+    "phone": "+17137848555",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hS3RvwE7Oikwcn6boDn9oQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zjSlORTtk0pSSF0RaYNYOg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/j2R_9-2aky77h8JZsXrqwg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-good-space-pilates-and-yoga-studio-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11648"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8139839,
+        "longitude": 144.9673157
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "stellini-bar-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/raAG7w5PLSxI6DI0bWrzMQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "198 Little Collins Street",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Stellini Bar",
+    "phone": "+61396545074",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/raAG7w5PLSxI6DI0bWrzMQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TriSWTUec5Ai_l_HhbuBlA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/31hGD4gess5dqSUfLOYZ4g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/stellini-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10823"
+}

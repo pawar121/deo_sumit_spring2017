@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "markets",
+            "title": "Fruits & Veggies"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.3908271448084,
+        "longitude": -112.012948350926
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "farm-at-south-mountain-phoenix",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/adWD3rBnVv8v36jj2PJP8g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6106 S 32nd St",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85042"
+    },
+    "name": "Farm At South Mountain",
+    "phone": "+16022766360",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/adWD3rBnVv8v36jj2PJP8g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uwEDvfGYVZUTf-tHwO_yQw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/muaxvyUkT6Gj1_jHPgZcoA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 330,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/farm-at-south-mountain-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3914"
+}

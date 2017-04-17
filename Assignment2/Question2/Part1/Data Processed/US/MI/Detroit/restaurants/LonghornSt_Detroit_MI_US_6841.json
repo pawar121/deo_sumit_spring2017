@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.2130322502979,
+        "longitude": -83.3546197420502
+    },
+    "id": "longhorn-steakhouse-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j3IIKVOgMtFDTJJ5es_PjA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Detroit Metropolitan Airport, McNamara Terminal, Gate A68",
+        "address2": "1 Detroit Metro Airport",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48242"
+    },
+    "name": "Longhorn Steakhouse",
+    "phone": "+17349410173",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/j3IIKVOgMtFDTJJ5es_PjA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uPrI7OPgOb4XLDQmhcK7Jw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/WU0XO6exuiwPQHCrNsUIWA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 43,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/longhorn-steakhouse-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6841"
+}

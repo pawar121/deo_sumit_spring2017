@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "nonprofit",
+            "title": "Community Service/Non-Profit"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.48646,
+        "longitude": -83.14733
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "stagecrafters-royal-oak",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IaBO3d2NF8CMnpuS4gBqiw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "415 S Lafayette Ave",
+        "address2": "",
+        "address3": "Baldwin Theatre",
+        "city": "Royal Oak",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48067"
+    },
+    "name": "Stagecrafters",
+    "phone": "+12485416430",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IaBO3d2NF8CMnpuS4gBqiw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EnsFMwa3pbsntO0aZJQRGQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_SmtPV_q3jCsdjrFyKrocQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/stagecrafters-royal-oak?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10774"
+}

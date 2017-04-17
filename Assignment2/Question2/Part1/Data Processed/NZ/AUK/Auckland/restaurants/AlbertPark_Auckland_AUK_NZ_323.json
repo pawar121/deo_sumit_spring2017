@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8497981,
+        "longitude": 174.7664627
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "albert-park-cafe-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CQ7IlMVlHUkcwL3SgcIRgQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "18 Kitchener St",
+        "address2": "Auckland Central",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Albert Park Cafe",
+    "phone": "+6493734912",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CQ7IlMVlHUkcwL3SgcIRgQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BLjflnFHaT10vWQHOGx6AA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Y2PLFIhBUL84JsSgKcTQ3w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/albert-park-cafe-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "323"
+}

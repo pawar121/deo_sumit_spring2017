@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33190306,
+        "longitude": -121.9266665
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "rose-garden-branch-library-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DjPUOFS9RNKD61SgSjXjow/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1580 Naglee Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95126"
+    },
+    "name": "Rose Garden Branch Library",
+    "phone": "+14088083070",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DjPUOFS9RNKD61SgSjXjow/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2MgZXU4zErO6X06OTPZ_TA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ax68FyJ2H-a3AXZiF4fUkg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 27,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rose-garden-branch-library-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9756"
+}

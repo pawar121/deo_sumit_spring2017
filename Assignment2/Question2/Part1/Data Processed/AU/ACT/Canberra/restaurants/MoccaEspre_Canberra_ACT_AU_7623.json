@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2813683,
+        "longitude": 149.1241608
+    },
+    "id": "mocca-espresso-lounge-civic-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18 Marcus Clarke St",
+        "address2": null,
+        "address3": null,
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Mocca Espresso Lounge Civic",
+    "phone": "+61262579900",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mocca-espresso-lounge-civic-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7623"
+}

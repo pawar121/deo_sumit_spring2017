@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.28708,
+        "longitude": -121.94073
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "oktoberfest-downtown-campbell-campbell",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xpeaQZYNyy1FUlWPSzvVvw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "E Campbell Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Campbell",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95008"
+    },
+    "name": "Oktoberfest - Downtown Campbell",
+    "phone": "+14083786252",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xpeaQZYNyy1FUlWPSzvVvw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TarP0YojeoI7i1bRSrJYzg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bSI8mdc3dkpMS17XqCafig/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 68,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/oktoberfest-downtown-campbell-campbell?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8316"
+}

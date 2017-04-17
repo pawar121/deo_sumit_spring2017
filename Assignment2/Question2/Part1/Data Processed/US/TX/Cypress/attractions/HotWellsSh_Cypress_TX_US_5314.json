@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "gun_ranges",
+            "title": "Gun/Rifle Ranges"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.9574242527068,
+        "longitude": -95.6824774572447
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "hot-wells-shooting-range-cypress",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a3otuw2RK0ks8WrctCdIIA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "24815 Hempstead Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Cypress",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77429"
+    },
+    "name": "Hot Wells Shooting Range",
+    "phone": "+12813730232",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/a3otuw2RK0ks8WrctCdIIA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Z0hTmhYLXDNwZlb_yw8hQw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_HLfy-XACg8mOc_kSJzP8A/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 31,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hot-wells-shooting-range-cypress?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5314"
+}

@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.32983,
+        "longitude": -71.07518
+    },
+    "id": "max-ultimate-food-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e6CmwDYCOVbkUzWQP46Apw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "101 Hampden St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02119"
+    },
+    "name": "Max Ultimate Food",
+    "phone": "+16174279799",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/e6CmwDYCOVbkUzWQP46Apw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/max-ultimate-food-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7324"
+}

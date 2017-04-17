@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35634,
+        "longitude": -71.05915
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "boston-sports-clubs-boston-13",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O8Me5qmvApd-LKwT3JKYSg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Franklin Street",
+        "address2": "3rd floor",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02110"
+    },
+    "name": "Boston Sports Clubs",
+    "phone": "+16176959944",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/O8Me5qmvApd-LKwT3JKYSg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/sdXjAoCzbA8wYCwlgAbNag/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0uq34u8_b9pbcs0p2c2K3Q/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-sports-clubs-boston-13?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1608"
+}

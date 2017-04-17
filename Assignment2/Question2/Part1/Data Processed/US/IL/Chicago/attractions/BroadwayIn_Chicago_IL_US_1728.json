@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8825721800896,
+        "longitude": -87.6277542908325
+    },
+    "id": "broadway-in-chicago-chicago-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I-gIXCbIpslanl0C4b3oRg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "17 N State St",
+        "address2": "Ste 810",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60607"
+    },
+    "name": "Broadway In Chicago",
+    "phone": "+13129771700",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/I-gIXCbIpslanl0C4b3oRg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Oom8xZA1WI4ZPqdf1ELyZQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TE0e4PNBjceSTmU3qhWrqg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 31,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/broadway-in-chicago-chicago-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1728"
+}

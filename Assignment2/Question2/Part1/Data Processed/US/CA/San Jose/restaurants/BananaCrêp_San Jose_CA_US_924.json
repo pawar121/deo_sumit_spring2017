@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "creperies",
+            "title": "Creperies"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "shavedice",
+            "title": "Shaved Ice"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.349403500416,
+        "longitude": -121.89335974936
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "banana-crêpe-san-jose-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2tFdMFWZ7cO1EmNtk8c-kQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "248 Jackson St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Banana Crêpe",
+    "phone": "+14082712644",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2tFdMFWZ7cO1EmNtk8c-kQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/82SJmmhrV_vsKEG-RKTfhA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TKE-voZqoPJkUIhaeA8LuA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 828,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/banana-cr%C3%AApe-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "924"
+}

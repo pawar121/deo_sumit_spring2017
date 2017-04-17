@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        },
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.605976,
+        "longitude": -122.315081
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "seven-beef-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/u_eFKP2lB7upFcz1JGAVPQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1305 E Jefferson St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Seven Beef",
+    "phone": "+12063287090",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/u_eFKP2lB7upFcz1JGAVPQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yVkF9QlKutEVpcQnsRkKdA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zqPW5QGL_ctcEUvBSQuEAg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 97,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/seven-beef-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10234"
+}

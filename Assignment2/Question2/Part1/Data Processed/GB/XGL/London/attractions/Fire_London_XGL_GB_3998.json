@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.484469395472,
+        "longitude": -0.12332722441814
+    },
+    "id": "fire-london-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KhLn3ZhshXmqAK7vi5Ar-g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "38 - 42 Parry Street",
+        "address2": "Vauxhaull",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW8 1RT"
+    },
+    "name": "Fire",
+    "phone": "+442032420040",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KhLn3ZhshXmqAK7vi5Ar-g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bB0_mfg8H2ddHRO5BYabMQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5BN1nco6n2YyOoC4DbKr4A/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fire-london-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3998"
+}

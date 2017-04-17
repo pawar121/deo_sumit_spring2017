@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.1903628,
+        "longitude": -3.0527655
+    },
+    "id": "st-davids-park-hotel-ewloe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hVNZLarW6CBghUb8JzE3Zw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "St David's Park",
+        "address2": "",
+        "address3": null,
+        "city": "Ewloe",
+        "country": "GB",
+        "state": "FLN",
+        "zip_code": "CH5 3YB"
+    },
+    "name": "St. David's Park Hotel",
+    "phone": "+448449802361",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hVNZLarW6CBghUb8JzE3Zw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Wq-DdEb3IgoLqsHzd8JBrQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jI9HfD37sa697z-olsqAPA/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/st-davids-park-hotel-ewloe?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10731"
+}

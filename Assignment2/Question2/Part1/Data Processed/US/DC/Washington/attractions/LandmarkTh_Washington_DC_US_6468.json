@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9179353545148,
+        "longitude": -77.0232343669398
+    },
+    "id": "landmark-theatres-atlantic-plumbing-cinema-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ram_Qx8sJ7aHjFjzKAvLrA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "807 V St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Landmark Theatres - Atlantic Plumbing Cinema",
+    "phone": "+12025341965",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ram_Qx8sJ7aHjFjzKAvLrA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QVsGlkFpL9JUZMpAybSJtA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4O8ngpSXysXSgqc4bSoEDA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 48,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/landmark-theatres-atlantic-plumbing-cinema-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6468"
+}

@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7771497,
+        "longitude": -122.4121886
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "ichido-san-francisco-6",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CFOfW0h6iwImiU-fUgF9dA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "687 Minna St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94107"
+    },
+    "name": "Ichido",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CFOfW0h6iwImiU-fUgF9dA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LTXZ7LUjKHCdZC3MVtv8Yw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/OMJcUnsHwD3yRa4rWhMRtw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 5.0,
+    "review_count": 58,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ichido-san-francisco-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5569"
+}

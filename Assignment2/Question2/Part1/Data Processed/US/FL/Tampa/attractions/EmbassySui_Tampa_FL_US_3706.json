@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9417638858844,
+        "longitude": -82.4548118644761
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "embassy-suites-tampa",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xt6d9PDwzSZzr0LNkLid5g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "513 S Florida Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "Embassy Suites",
+    "phone": "+18137698300",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xt6d9PDwzSZzr0LNkLid5g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Buj4ohLkC9_ewkLPgvFN1A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3IiB0Girew8CLldH4FpyLA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 117,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/embassy-suites-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3706"
+}

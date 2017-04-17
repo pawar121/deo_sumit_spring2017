@@ -1,0 +1,18 @@
+2017-03-31 22:00:32,400 - root - INFO - Application started....
+2017-03-31 22:00:32,400 - root - INFO - Reading data from cricket_matches.csv
+2017-03-31 22:00:32,465 - root - INFO - Filtering the data frame for which host is the winner
+2017-03-31 22:00:32,471 - root - INFO - Total number of matches where host team won is 3019
+2017-03-31 22:00:32,471 - root - INFO - Deriving another column winnerScore to keep wining team's score
+2017-03-31 22:00:32,500 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 22:00:32,820 - root - INFO - Writing summary metrix to Q3_Part1.csv
+2017-03-31 22:00:32,829 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q3_Part1.csv
+2017-03-31 22:00:32,835 - root - INFO - Application finished....
+2017-04-04 16:14:21,356 - root - INFO - Application started....
+2017-04-04 16:14:21,389 - root - INFO - Reading data from cricket_matches.csv
+2017-04-04 16:14:21,507 - root - INFO - Filtering the data frame for which host is the winner
+2017-04-04 16:14:21,549 - root - INFO - Total number of matches where host team won is 3019
+2017-04-04 16:14:21,549 - root - INFO - Deriving another column winnerScore to keep wining team's score
+2017-04-04 16:14:21,593 - root - INFO - Sorting the data frame by Total Compensation
+2017-04-04 16:14:22,096 - root - INFO - Writing summary metrix to Q3_Part1.csv
+2017-04-04 16:14:22,131 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q3_Part1.csv
+2017-04-04 16:14:22,137 - root - INFO - Application finished....

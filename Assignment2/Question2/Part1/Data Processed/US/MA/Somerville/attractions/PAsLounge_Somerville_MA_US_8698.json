@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3809115,
+        "longitude": -71.0983708
+    },
+    "id": "pas-lounge-somerville",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9KETqNd7U080x-nHNddiqw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "345 Somerville Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02143"
+    },
+    "name": "PA's Lounge",
+    "phone": "+16177761557",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/9KETqNd7U080x-nHNddiqw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PXDiDRnw4E7AA82aKa97RQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xmIXkwHURRNthblp-LXqGQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 54,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pas-lounge-somerville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8698"
+}

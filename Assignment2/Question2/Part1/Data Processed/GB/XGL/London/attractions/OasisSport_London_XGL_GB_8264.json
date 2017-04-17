@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "leisure_centers",
+            "title": "Leisure Centers"
+        },
+        {
+            "alias": "sports_clubs",
+            "title": "Sports Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5145278,
+        "longitude": -0.1248218
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "oasis-sports-centre-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QGdekiT401JnoEE5BzTdMA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "32 Endell Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2H 9AG"
+    },
+    "name": "Oasis Sports Centre",
+    "phone": "+442078311804",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QGdekiT401JnoEE5BzTdMA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VNYxGz3iy46KfCvG34swfA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/g3yXNnp1rtNDLCfXEOtTsw/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.0,
+    "review_count": 30,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/oasis-sports-centre-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8264"
+}

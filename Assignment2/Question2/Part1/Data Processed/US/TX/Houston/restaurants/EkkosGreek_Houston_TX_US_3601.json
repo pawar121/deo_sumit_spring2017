@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "delis",
+            "title": "Delis"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.73188,
+        "longitude": -95.46794
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "ekkos-greek-american-deli-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FgIxaIzCouZ5KBYule8OYg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5216 Richmond Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77056"
+    },
+    "name": "Ekko's Greek American Deli",
+    "phone": "+17136222625",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FgIxaIzCouZ5KBYule8OYg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/h7WbglFvnb9nzIkz95mAQw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MOoypWvDZb2ZfVb5Z0vC_Q/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 132,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ekkos-greek-american-deli-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3601"
+}

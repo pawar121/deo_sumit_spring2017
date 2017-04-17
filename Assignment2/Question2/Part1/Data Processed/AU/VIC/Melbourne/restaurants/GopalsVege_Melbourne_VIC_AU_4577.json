@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.814415,
+        "longitude": 144.9658356
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "gopals-vegetarian-restaurant-melbourne-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1QFU9ln3hbBdT7EmwROsgA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "139 Swanston St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Gopal's Vegetarian Restaurant",
+    "phone": "+61396501578",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1QFU9ln3hbBdT7EmwROsgA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ETqdLEJiuTxL0AypbspKeA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t6159uXitCQUjECQj2HmEA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gopals-vegetarian-restaurant-melbourne-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4577"
+}

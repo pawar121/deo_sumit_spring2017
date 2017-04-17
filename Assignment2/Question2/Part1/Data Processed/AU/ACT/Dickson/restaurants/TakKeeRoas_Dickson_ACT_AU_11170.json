@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2507095,
+        "longitude": 149.1367493
+    },
+    "id": "tak-kee-roast-inn-dickson",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jF3LIE7vWp_cwYMPGS4SFQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Woolley St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Tak Kee Roast Inn",
+    "phone": "+61262574939",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jF3LIE7vWp_cwYMPGS4SFQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BLBq08V72gf3Ll0_AtXq4Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tak-kee-roast-inn-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11170"
+}

@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8457603,
+        "longitude": 151.0295258
+    },
+    "id": "nepalese-and-indian-grocery-store-auburn",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Gibbons Street, Auburn",
+        "address2": "Opposite the railway station, just off Rawson Street",
+        "address3": "",
+        "city": "Auburn",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2144"
+    },
+    "name": "Nepalese and Indian Grocery Store",
+    "phone": "",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nepalese-and-indian-grocery-store-auburn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7984"
+}

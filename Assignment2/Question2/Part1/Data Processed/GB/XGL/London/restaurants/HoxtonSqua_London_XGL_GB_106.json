@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        },
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5277762,
+        "longitude": -0.0815855
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "8-hoxton-square-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tLmF16M396eRk64s1kRLEw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8 Hoxton Square",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "N1 6NU"
+    },
+    "name": "8 Hoxton Square",
+    "phone": "+442077294232",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tLmF16M396eRk64s1kRLEw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5bWA05uTE7-DiNuOCfcoTQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TcUM7uBMuB4KtSkadlk-JA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/8-hoxton-square-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "106"
+}

@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9536705,
+        "longitude": 115.8551407
+    },
+    "id": "ruby-thai-perth",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v5X2HMksxd8IJvekiFG5ww/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "160 St Georges Tce",
+        "address2": null,
+        "address3": null,
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Ruby Thai",
+    "phone": "+61892261385",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/v5X2HMksxd8IJvekiFG5ww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7sXMq0s6NSoAFS7B0t7szQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ruby-thai-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9839"
+}

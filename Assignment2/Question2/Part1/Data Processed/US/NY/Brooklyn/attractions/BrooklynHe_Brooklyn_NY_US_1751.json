@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.6979309758759,
+        "longitude": -73.9971359844473
+    },
+    "id": "brooklyn-heights-promenade-brooklyn",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ylxRWwtVuOgYZD_aoThvNA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Columbia Heights",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11201"
+    },
+    "name": "Brooklyn Heights Promenade",
+    "phone": "+12126399675",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ylxRWwtVuOgYZD_aoThvNA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Y8SDkUzJX8tbv3dFa8lO9g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/O7zQLRxK5AoetJxOK6w-rw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 285,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/brooklyn-heights-promenade-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1751"
+}

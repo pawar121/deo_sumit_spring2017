@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8598799,
+        "longitude": 2.29304
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "batobus-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/le8oVB17LHriiMidzQwPVA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Port La Bourdonnais",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75007"
+    },
+    "name": "Batobus",
+    "phone": "+33825050101",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/le8oVB17LHriiMidzQwPVA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/T3H2Xgv31vT1qmzgBmjkEw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zTFA1W9idrgEmg75HeUkQw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 40,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/batobus-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1037"
+}

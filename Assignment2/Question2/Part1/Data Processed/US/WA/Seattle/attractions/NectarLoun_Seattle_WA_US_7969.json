@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6521845,
+        "longitude": -122.3538836
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "nectar-lounge-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_8Mal9qkT4Luf_1NL3yXBQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "412 N 36th St",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98103"
+    },
+    "name": "Nectar Lounge",
+    "phone": "+12066322020",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_8Mal9qkT4Luf_1NL3yXBQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eNNesUJqXyMC2SyDmVFxVA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/icaGnwpxSDHiXVBc3G72cg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 183,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nectar-lounge-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7969"
+}

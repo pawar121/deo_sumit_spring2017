@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        },
+        {
+            "alias": "massage",
+            "title": "Massage"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.466253,
+        "longitude": -71.129827
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "innovative-bodywork-and-yoga-winchester-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pVM8mG16v3OJ7EL7fbLo6Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "70B Cross St",
+        "address2": "",
+        "address3": "",
+        "city": "Winchester",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "01890"
+    },
+    "name": "Innovative Bodywork & Yoga",
+    "phone": "+16177848735",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pVM8mG16v3OJ7EL7fbLo6Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Nam_y2P2HRawreLPK-ON1w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/v_x3fm-bcagXtlSRkvn1Mw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/innovative-bodywork-and-yoga-winchester-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5653"
+}

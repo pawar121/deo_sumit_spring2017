@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5189676,
+        "longitude": -0.1359559
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "lantana-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qvkvmXomm9Oq9SrZLCA6XA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13 Charlotte Place",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1T 1SN"
+    },
+    "name": "Lantana",
+    "phone": "+442076373347",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qvkvmXomm9Oq9SrZLCA6XA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2TvJJiKhOosZW1Qzyz_89A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/83qA0nzSmCM6AsNfnO_RxA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 112,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lantana-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6482"
+}

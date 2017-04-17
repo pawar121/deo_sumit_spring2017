@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3928719,
+        "longitude": -3.01577
+    },
+    "id": "birkenheads-heritage-tour-birkenhead",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Hamilton Sq",
+        "address2": "",
+        "address3": "",
+        "city": "Birkenhead",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "CH41"
+    },
+    "name": "Birkenhead's Heritage Tour",
+    "phone": "",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/birkenheads-heritage-tour-birkenhead?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1328"
+}

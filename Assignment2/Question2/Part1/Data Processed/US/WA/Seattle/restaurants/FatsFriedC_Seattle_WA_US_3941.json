@@ -1,0 +1,102 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "waffles",
+            "title": "Waffles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6081253897776,
+        "longitude": -122.296459855298
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "fats-fried-chicken-and-waffles-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hh-DHwVZaYq_wx89RDgesg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2726 E Cherry St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Fat's Fried Chicken & Waffles",
+    "phone": "+12066026863",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hh-DHwVZaYq_wx89RDgesg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/J8U6Gz5KZowg66brD9eC_g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/731pi3e-5wIn_NJngGsiWw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 153,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fats-fried-chicken-and-waffles-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3941"
+}

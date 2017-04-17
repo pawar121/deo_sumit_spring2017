@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.327961,
+        "longitude": 149.141861
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "aubergine-griffith",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Yw3dtEhWAGqzEBPQxn5SzA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18 Barker St",
+        "address2": null,
+        "address3": null,
+        "city": "Griffith",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Aubergine",
+    "phone": "+61262608666",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Yw3dtEhWAGqzEBPQxn5SzA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dpz4GUtHB_rkvf7akTi2ug/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/p9TUuDG8OqzkG-VRucbUnw/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/aubergine-griffith?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "735"
+}

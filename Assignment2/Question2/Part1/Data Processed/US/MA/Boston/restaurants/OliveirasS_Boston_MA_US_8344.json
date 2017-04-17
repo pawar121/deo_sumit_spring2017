@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "brazilian",
+            "title": "Brazilian"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3769684,
+        "longitude": -71.0301895
+    },
+    "id": "oliveiras-steak-house-boston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yD1KmPWcee30A8kryJQebA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "297 Chelsea St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02128"
+    },
+    "name": "Oliveira's Steak House",
+    "phone": "+16175617277",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yD1KmPWcee30A8kryJQebA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bV5609pF8KgEnItfUUnffQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oQ4MSG68eXRUZWyBIvfQ3g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 79,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/oliveiras-steak-house-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8344"
+}

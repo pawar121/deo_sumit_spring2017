@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7549706,
+        "longitude": -122.4235001
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "hoffmanns-grill-and-rotisserie-san-francisco",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PTgoDWykx5yC42JzNSAUdQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1000 Guerrero St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "Hoffmann's Grill & Rotisserie",
+    "phone": "+14153747479",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PTgoDWykx5yC42JzNSAUdQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tSZQMRnkg27Ec77mgyzLsg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lHO7YZH29dxnTajgB-AZzQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 135,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hoffmanns-grill-and-rotisserie-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5149"
+}

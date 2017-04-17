@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3997154,
+        "longitude": -2.9736218
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "mr-hardmans-photographic-studio-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Bu5mBgRDJLXc2UXvEiAvfQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "59 Rodney Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 9EX"
+    },
+    "name": "Mr. Hardman's Photographic Studio",
+    "phone": "+441517096261",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Bu5mBgRDJLXc2UXvEiAvfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5oBaPNAp5rpwqXRbZ_mI3Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_krLEEJ-EdCmjdyd_2I5iQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mr-hardmans-photographic-studio-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7758"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0899498632646,
+        "longitude": -115.175814183117
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "border-grill-las-vegas-8",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9Kd_YckzIm-3UfYlEH66xw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Mandalay Bay Resort Casino",
+        "address2": "3950 S Las Vegas Blvd",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    "name": "Border Grill",
+    "phone": "+17026327403",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9Kd_YckzIm-3UfYlEH66xw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iAXikD1JVw5-s0nCrSRZjg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sTBWkbfgGFZN3r8E_FKXPA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1231,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/border-grill-las-vegas-8?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1561"
+}

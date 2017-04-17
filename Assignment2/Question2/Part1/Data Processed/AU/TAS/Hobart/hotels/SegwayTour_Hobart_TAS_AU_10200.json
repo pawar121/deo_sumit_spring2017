@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "bikerentals",
+            "title": "Bike Rentals"
+        },
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8815165010573,
+        "longitude": 147.335241820675
+    },
+    "id": "segway-tours-hobart-hobart",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18 Hunter St",
+        "address2": "",
+        "address3": "",
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Segway Tours Hobart",
+    "phone": "+61459734929",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/segway-tours-hobart-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10200"
+}

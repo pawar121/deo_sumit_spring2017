@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "halal",
+            "title": "Halal"
+        },
+        {
+            "alias": "moroccan",
+            "title": "Moroccan"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4042877,
+        "longitude": -2.9757141
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "kimos-restaurant-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ss3PdmrTXSOCVPrOQn0UAA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Liverpool City Centre",
+        "address2": "38 - 44 Mount Pleasant",
+        "address3": null,
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 5SD"
+    },
+    "name": "Kimos Restaurant",
+    "phone": "+441517078288",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ss3PdmrTXSOCVPrOQn0UAA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DAnGrTfKQH9SWRvvYLmZFA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ox_T92ZYTMEfXmOC9MOrBQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kimos-restaurant-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6121"
+}

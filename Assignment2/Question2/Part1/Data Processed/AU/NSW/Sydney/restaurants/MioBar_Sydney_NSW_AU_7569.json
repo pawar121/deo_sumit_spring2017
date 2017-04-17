@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8642197,
+        "longitude": 151.204483
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "mio-bar-sydney",
+    "image_url": "",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "35 Clarence Street",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Mio Bar",
+    "phone": "+61292790548",
+    "photos": [],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mio-bar-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7569"
+}

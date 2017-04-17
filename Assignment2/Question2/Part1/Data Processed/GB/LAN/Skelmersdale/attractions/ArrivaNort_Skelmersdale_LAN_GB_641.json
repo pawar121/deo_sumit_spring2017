@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.55538,
+        "longitude": -2.80171
+    },
+    "id": "arriva-north-west-skelmersdale",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pn3aQ78PWXXMDmtAK1hIsA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Neverstitch Road",
+        "address2": "",
+        "address3": "",
+        "city": "Skelmersdale",
+        "country": "GB",
+        "state": "LAN",
+        "zip_code": "WN8 8ED"
+    },
+    "name": "Arriva North West",
+    "phone": "+441695727178",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Pn3aQ78PWXXMDmtAK1hIsA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WK34YL45hHIXz54neLrSnw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/A7evZgOBZF_2UvatM1AYpQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/arriva-north-west-skelmersdale?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "641"
+}

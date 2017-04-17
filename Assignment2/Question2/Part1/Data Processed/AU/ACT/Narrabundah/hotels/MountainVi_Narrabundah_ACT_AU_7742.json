@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.340641,
+        "longitude": 149.1442108
+    },
+    "id": "mountain-view-hostel-narrabundah",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Goyder St",
+        "address2": null,
+        "address3": null,
+        "city": "Narrabundah",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2604"
+    },
+    "name": "Mountain View Hostel",
+    "phone": "+61262951044",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/mountain-view-hostel-narrabundah?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7742"
+}

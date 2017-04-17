@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2138596,
+        "longitude": 149.0627747
+    },
+    "id": "national-tours-and-charter-evatt",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 Montagu Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Evatt",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2617"
+    },
+    "name": "National Tours & Charter",
+    "phone": "+61262591166",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/national-tours-and-charter-evatt?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7950"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8101637971496,
+        "longitude": 144.96386166662
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "menya-ramen-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5WfgnXYpytUXzxZanzsVeA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 146A",
+        "address2": "210 La Trobe St",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Menya Ramen",
+    "phone": "+61396393383",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5WfgnXYpytUXzxZanzsVeA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1xHvexFj_mJ8MyPfh-ERQA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5s7kCvF6e4o2Vjz2lObCcA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/menya-ramen-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7429"
+}

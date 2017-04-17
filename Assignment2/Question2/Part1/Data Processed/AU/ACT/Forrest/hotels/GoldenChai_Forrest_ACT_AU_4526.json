@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3153801,
+        "longitude": 149.1279297
+    },
+    "id": "golden-chain-forrest-hotel-and-apartments-forrest",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "30 National Cct",
+        "address2": null,
+        "address3": null,
+        "city": "Forrest",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Golden Chain Forrest Hotel & Apartments",
+    "phone": "+61262034300",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/golden-chain-forrest-hotel-and-apartments-forrest?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4526"
+}

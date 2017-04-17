@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "dance_schools",
+            "title": "Dance Schools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.28346,
+        "longitude": -71.15708
+    },
+    "id": "out-to-dance-west-roxbury",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LYFioYdR8YawhUwBDIoDPA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "West Roxbury",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02132"
+    },
+    "name": "Out to Dance",
+    "phone": "+16173630029",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LYFioYdR8YawhUwBDIoDPA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/out-to-dance-west-roxbury?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8475"
+}

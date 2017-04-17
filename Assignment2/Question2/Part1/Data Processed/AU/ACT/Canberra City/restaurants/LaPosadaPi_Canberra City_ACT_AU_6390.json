@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2784615,
+        "longitude": 149.1280975
+    },
+    "id": "la-posada-pizzeria-cafe-bar-canberra-city",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "60 Alinga St",
+        "address2": null,
+        "address3": null,
+        "city": "Canberra City",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "La Posada Pizzeria Cafe Bar",
+    "phone": "+61262485444",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-posada-pizzeria-cafe-bar-canberra-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6390"
+}

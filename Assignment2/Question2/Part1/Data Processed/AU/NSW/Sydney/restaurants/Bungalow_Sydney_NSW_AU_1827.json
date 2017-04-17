@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "austrian",
+            "title": "Austrian"
+        },
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8664,
+        "longitude": 151.20154
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "bungalow-8-sydney",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8WhnOookl_7ANM96bXiIcw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Lime St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Bungalow 8",
+    "phone": "+61292994660",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8WhnOookl_7ANM96bXiIcw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LTvtRIn0ZfenDcEzLXxoFQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Shh2tSW75r5ppkNBz136_g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 19,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bungalow-8-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1827"
+}

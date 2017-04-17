@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4945068,
+        "longitude": -0.1888662
+    },
+    "id": "free-tours-by-foot-london-tours-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C-YU6GTYltG_w0AiO-1cKg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "149 Cromwell Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW5 0TQ"
+    },
+    "name": "Free Tours by Foot - London Tours",
+    "phone": "+442032870675",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/C-YU6GTYltG_w0AiO-1cKg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8ZTLrx3wJJdWGIEMe5ugcg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KucJpLxqNGgnrP3oWQZXjg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 5.0,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/free-tours-by-foot-london-tours-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4275"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7224579182061,
+        "longitude": -95.3373593490754
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "pinks-pizza-houston-6",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fqsFmkbty1BDWEWDzkX1jg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4701 Calhoun Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77004"
+    },
+    "name": "Pink's Pizza",
+    "phone": "+18328313145",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fqsFmkbty1BDWEWDzkX1jg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BZR659Jdapl640KleqSM_A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lkfBeaEZpOWIHnEl2zIgRg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 82,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pinks-pizza-houston-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8968"
+}

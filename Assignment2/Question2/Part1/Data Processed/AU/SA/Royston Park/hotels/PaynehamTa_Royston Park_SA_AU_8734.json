@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "pubfood",
+            "title": "Pub Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.8989716,
+        "longitude": 138.6365814
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "payneham-tavern-royston-park",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OxEMWMr7MV2BB4gAt27DOA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "319 Payneham Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Royston Park",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5070"
+    },
+    "name": "Payneham Tavern",
+    "phone": "+61883621495",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OxEMWMr7MV2BB4gAt27DOA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/i5P4FI3LiDSwurRC1CalHQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cnw6d8MC9gsM9EM3qcNOJQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/payneham-tavern-royston-park?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8734"
+}

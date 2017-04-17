@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.87198,
+        "longitude": 151.19909
+    },
+    "id": "plate-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ATLFuNJUz_Wa2EQNablZHA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 177, Harbourside Shopping Centre",
+        "address2": "10 Darling Dr",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Plate",
+    "phone": "+61292124424",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ATLFuNJUz_Wa2EQNablZHA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QKCe1j24bhnRKy19l3khyg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mZ7Q1k3FDZuI57oB49f-zg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/plate-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9051"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3661461,
+        "longitude": -83.1537399
+    },
+    "id": "elmers-hamburgers-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KWv7i9FdBD2tyQo1-XfYEA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8515 W Chicago",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48204"
+    },
+    "name": "Elmer's Hamburgers",
+    "phone": "+13139337766",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KWv7i9FdBD2tyQo1-XfYEA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/by6qu1GuvJB8y6VNXJAjaw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/m6RQDhDUbBgKvWgEacEx9A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elmers-hamburgers-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3683"
+}

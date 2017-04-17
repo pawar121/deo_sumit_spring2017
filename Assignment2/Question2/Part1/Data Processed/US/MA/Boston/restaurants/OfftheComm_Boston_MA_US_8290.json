@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3510474708316,
+        "longitude": -71.0696800944176
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "off-the-common-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S_sya4B3KTWBDx8QrpsyYA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Boston Park Plaza",
+        "address2": "50 Park Plz",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Off the Common",
+    "phone": "+16174572330",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/S_sya4B3KTWBDx8QrpsyYA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/asECkYZsKS6mEGIPrZTl3g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6UbMwe4W5S4bgggEwWdiIA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 13,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/off-the-common-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8290"
+}

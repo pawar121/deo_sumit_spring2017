@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8591399,
+        "longitude": 2.26755
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "musée-marmottan-monet-paris-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vDPsETf21IFAkJiHXdB3YQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 rue Louis Boilly",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75016"
+    },
+    "name": "Musée Marmottan Monet",
+    "phone": "+33144965033",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vDPsETf21IFAkJiHXdB3YQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0D1JDS5tVEQxS87Z_rys7w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AH_ktqXNMIw9tyG6cDQbJQ/o.jpg"
+    ],
+    "price": "€",
+    "rating": 4.5,
+    "review_count": 58,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mus%C3%A9e-marmottan-monet-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7842"
+}

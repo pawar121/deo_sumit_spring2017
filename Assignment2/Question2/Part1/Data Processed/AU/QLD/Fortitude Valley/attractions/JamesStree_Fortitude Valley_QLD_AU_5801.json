@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        },
+        {
+            "alias": "shopping",
+            "title": "Shopping"
+        },
+        {
+            "alias": "arts",
+            "title": "Arts & Entertainment"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4577007,
+        "longitude": 153.0411224
+    },
+    "id": "james-street-precinct-fortitude-valley",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QnOyQ7nNQGu53-YUtP6l-Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "James St",
+        "address2": "",
+        "address3": "",
+        "city": "Fortitude Valley",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4006"
+    },
+    "name": "James Street Precinct",
+    "phone": "+61738500111",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QnOyQ7nNQGu53-YUtP6l-Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MtRJ-HV7V770dNaqsrQa9A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W_OGBzAjeKv9Vp78eyHnEQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/james-street-precinct-fortitude-valley?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5801"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.35413,
+        "longitude": -121.85363
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "la-costa-san-jose-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F28rK6EBujCita71Y8F8Ow/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1805 Alum Rock Ave",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95116"
+    },
+    "name": "La Costa",
+    "phone": "+14089371010",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/F28rK6EBujCita71Y8F8Ow/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uviEjMFhOVAK74hPz4ETmA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9CLW_-8crptx7NJ2EDFO3Q/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 705,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-costa-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6327"
+}

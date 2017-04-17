@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "casinos",
+            "title": "Casinos"
+        },
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.93811,
+        "longitude": 115.92143
+    },
+    "id": "ascot-racecourse-ascot-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3tglq5r3yHI5_26agPXsOw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Grandstand Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Ascot",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6104"
+    },
+    "name": "Ascot Racecourse",
+    "phone": "+61892770713",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3tglq5r3yHI5_26agPXsOw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OdQAAtXfbGc7qE29F4krmg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NlB_2LshuHzmDFGePEpl7A/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ascot-racecourse-ascot-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "680"
+}

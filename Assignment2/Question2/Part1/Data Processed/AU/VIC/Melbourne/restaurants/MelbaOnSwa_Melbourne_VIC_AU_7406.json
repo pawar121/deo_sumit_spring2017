@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.806855326177,
+        "longitude": 144.961713552475
+    },
+    "id": "melba-on-swanston-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WvBBeuSzuCv0ZZdLVFS9NQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "501 Swanston St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Melba On Swanston",
+    "phone": "+61396500736",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WvBBeuSzuCv0ZZdLVFS9NQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/melba-on-swanston-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7406"
+}

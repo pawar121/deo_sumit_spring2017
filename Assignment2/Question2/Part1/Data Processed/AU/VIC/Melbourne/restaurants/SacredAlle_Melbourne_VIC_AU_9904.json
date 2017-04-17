@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8159284500861,
+        "longitude": 144.963277098432
+    },
+    "id": "sacred-alley-espresso-bar-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EjMBM-MahOQI_0IsWYRFqQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 Equitable Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Sacred Alley Espresso Bar",
+    "phone": "+61396060205",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EjMBM-MahOQI_0IsWYRFqQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KkehB-oY1MXIyVNmsQgaiA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DGATu36OzoVwbuw3I3O1Cg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sacred-alley-espresso-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9904"
+}

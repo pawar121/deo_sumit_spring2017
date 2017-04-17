@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.744899,
+        "longitude": -95.3820099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "jus-mac-montrose-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4YdLuPgs22mBNiX9dGhddg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "106 Westheimer",
+        "address2": "Ste E",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Jus' Mac Montrose",
+    "phone": "+18322038340",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4YdLuPgs22mBNiX9dGhddg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-kWI64ufTlb81BNCYRcG0Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MjXNFh3cM2SYqfKcCPrBPQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 326,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jus-mac-montrose-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5981"
+}

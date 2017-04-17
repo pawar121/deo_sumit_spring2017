@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.4358956887795,
+        "longitude": -111.998094320297
+    },
+    "id": "chelseas-kitchen-phoenix-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qFeMCJXvc-CCsxPbqz0hDQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Phoenix Sky Harbor International Airport",
+        "address2": "Terminal 4, Level 3",
+        "address3": "3800 E Sky Harbor Blvd",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85034"
+    },
+    "name": "Chelsea's Kitchen",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qFeMCJXvc-CCsxPbqz0hDQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/twnSc59TbBLQ1koC7q-oOw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/qYH1A1wwD6DY3nUU6Wiyog/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 291,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chelseas-kitchen-phoenix-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2339"
+}

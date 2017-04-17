@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5081259969922,
+        "longitude": -0.0971178304595242
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "shakespeares-globe-theatre-bankside",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aVKFDDBalfzefq-9HuZh2w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "21 New Globe Walk",
+        "address2": "",
+        "address3": "",
+        "city": "Bankside",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 9DT"
+    },
+    "name": "Shakespeare's Globe Theatre",
+    "phone": "+442074019919",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/aVKFDDBalfzefq-9HuZh2w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-dBAV9wmmVv7sRMyN8LwtA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BUY-1TwPGSwmY5iePLQUxw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 190,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/shakespeares-globe-theatre-bankside?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10259"
+}

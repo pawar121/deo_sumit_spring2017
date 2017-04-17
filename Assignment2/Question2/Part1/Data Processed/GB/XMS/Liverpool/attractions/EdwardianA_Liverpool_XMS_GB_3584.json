@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "arcades",
+            "title": "Arcades"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4636154,
+        "longitude": -2.9592693
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "edwardian-amusements-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZFm9rM9kW7IYxQGsjf1qPw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "81 Walton Vale",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L9 4RQ"
+    },
+    "name": "Edwardian Amusements",
+    "phone": "+441515250138",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZFm9rM9kW7IYxQGsjf1qPw/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/edwardian-amusements-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3584"
+}

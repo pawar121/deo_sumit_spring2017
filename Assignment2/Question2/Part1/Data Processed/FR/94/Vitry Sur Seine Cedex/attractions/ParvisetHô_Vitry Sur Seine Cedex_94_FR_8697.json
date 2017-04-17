@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        },
+        {
+            "alias": "gardens",
+            "title": "Botanical Gardens"
+        },
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.788802,
+        "longitude": 2.389416
+    },
+    "id": "parvis-et-hôtel-de-ville-de-vitry-sur-seine-vitry-sur-seine-cedex",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Avenue Youri Gagarine",
+        "address2": null,
+        "address3": null,
+        "city": "Vitry Sur Seine Cedex",
+        "country": "FR",
+        "state": "94",
+        "zip_code": "94407"
+    },
+    "name": "Parvis et Hôtel de Ville de Vitry Sur Seine",
+    "phone": "+33146828000",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/parvis-et-h%C3%B4tel-de-ville-de-vitry-sur-seine-vitry-sur-seine-cedex?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8697"
+}

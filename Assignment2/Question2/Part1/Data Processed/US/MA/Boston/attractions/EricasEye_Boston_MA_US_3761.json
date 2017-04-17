@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "eventphotography",
+            "title": "Event Photography"
+        },
+        {
+            "alias": "sessionphotography",
+            "title": "Session Photography"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.34566,
+        "longitude": -71.05111
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "ericaseye-boston-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tUtMqps7iZS_VCWrSJB8FA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Channel Center Street",
+        "address2": "Ste 102",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "EricasEye",
+    "phone": "+19783324904",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tUtMqps7iZS_VCWrSJB8FA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8OyghtL5Cj1qnN6e-GPhWQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/76Cb5aF415uJriSIBFKuUQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ericaseye-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3761"
+}

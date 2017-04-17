@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.814181,
+        "longitude": 144.967138
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "hairy-canary-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/El0OoMr05KzH0IMV8ankDA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "212 Lt Collins St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Hairy Canary",
+    "phone": "+61396542471",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/El0OoMr05KzH0IMV8ankDA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/M6Cth49ItpLL-ciurcFamg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2zM5a-8lcNr4TzTt9-n73w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 18,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hairy-canary-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4833"
+}

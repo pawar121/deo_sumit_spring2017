@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5190173,
+        "longitude": -0.0865175
+    },
+    "id": "south-place-hotel-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ug9ttkQ05izF1xF1sdbk4Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 South Place",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC2M 2AF"
+    },
+    "name": "South Place Hotel",
+    "phone": "+442035030000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ug9ttkQ05izF1xF1sdbk4Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QvUL9XfAeCVzNUlnUJAepQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3SS3O5bWJqZXFBqSuGAOxg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.5,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/south-place-hotel-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10614"
+}

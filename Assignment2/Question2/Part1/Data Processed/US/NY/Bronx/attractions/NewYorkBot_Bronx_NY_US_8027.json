@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "gardens",
+            "title": "Botanical Gardens"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.8622798125418,
+        "longitude": -73.8771354681101
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "new-york-botanical-garden-bronx",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lxgf-S7_06ceSs0XVOcV_g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2900 Southern Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Bronx",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10458"
+    },
+    "name": "New York Botanical Garden",
+    "phone": "+17188178700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Lxgf-S7_06ceSs0XVOcV_g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/co9HcAVJomMvtxE05101gQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4RZbYPtE-NuuOwt9-F5IGg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 404,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-york-botanical-garden-bronx?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8027"
+}

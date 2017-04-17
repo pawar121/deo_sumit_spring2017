@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9955487,
+        "longitude": -87.7127364
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "charter-fitness-chicago-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u4WHHDOz576hFcFdhv1JiA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6253 McCormick Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60659"
+    },
+    "name": "Charter Fitness",
+    "phone": "+17735099700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/u4WHHDOz576hFcFdhv1JiA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/D6JPF1jy_lLc-4MuRq8kOQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WqJbn3TYxOFri0WeGmHpYQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 58,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/charter-fitness-chicago-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2304"
+}

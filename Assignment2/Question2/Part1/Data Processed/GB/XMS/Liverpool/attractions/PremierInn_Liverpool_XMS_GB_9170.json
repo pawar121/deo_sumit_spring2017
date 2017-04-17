@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.40001,
+        "longitude": -2.99054
+    },
+    "id": "premier-inn-liverpool",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "East Britannia Building",
+        "address2": "Albert Dock",
+        "address3": null,
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 4AD"
+    },
+    "name": "Premier Inn",
+    "phone": "+441517026320",
+    "photos": [],
+    "price": "££",
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/premier-inn-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9170"
+}

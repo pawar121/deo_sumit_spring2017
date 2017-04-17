@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "foodtours",
+            "title": "Food Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3727492851004,
+        "longitude": -71.0530471801758
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "boston-pizza-tours-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xPJPsDfHahx2lD5GQIELTQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "71 Commercial St",
+        "address2": "Ste 134",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02109"
+    },
+    "name": "Boston Pizza Tours",
+    "phone": "+16174010661",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xPJPsDfHahx2lD5GQIELTQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hEdX4sdhwtMiVvKrUgMqLw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CMqffu8m6no8r-_WN0QozA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-pizza-tours-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1604"
+}

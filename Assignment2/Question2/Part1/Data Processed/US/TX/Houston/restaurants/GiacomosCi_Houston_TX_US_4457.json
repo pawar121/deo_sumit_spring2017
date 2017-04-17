@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.742032,
+        "longitude": -95.423718
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "giacomos-cibo-e-vino-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tS3C85FzQioxz_2iBlYXRA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3215 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77098"
+    },
+    "name": "Giacomo's Cibo e Vino",
+    "phone": "+17135221934",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tS3C85FzQioxz_2iBlYXRA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r3I-VPpFiEMbGe-PipD7Xw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/UkWRq5DimyR3SShKLba3zQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 312,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/giacomos-cibo-e-vino-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4457"
+}

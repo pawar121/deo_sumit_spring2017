@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8264885,
+        "longitude": 2.3599899
+    },
+    "id": "l-âge-d-or-paris-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hyB8Wzq8iZTYxW9Iz1vKwQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "26 rue du Docteur Magnan",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75013"
+    },
+    "name": "L'âge d'or",
+    "phone": "+33145851058",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hyB8Wzq8iZTYxW9Iz1vKwQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zWaGn7l7ttxRoqr19qnxpg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/U0TVe8X0Wf6ZKWEzqYwuGw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 3.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/l-%C3%A2ge-d-or-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6301"
+}

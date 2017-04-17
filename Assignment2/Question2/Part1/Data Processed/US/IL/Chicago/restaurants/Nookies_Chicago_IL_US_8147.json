@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.91427,
+        "longitude": -87.63508
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "nookies-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_8u7NYYNC9B4Iw3ZLcf00w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1746 N Wells St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60614"
+    },
+    "name": "Nookies",
+    "phone": "+13123372454",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_8u7NYYNC9B4Iw3ZLcf00w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IBkTZyHXSmeWqjKZ4Ft1Dw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9dyj5yn0Vfj8qzzWWV3V5w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 521,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nookies-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8147"
+}

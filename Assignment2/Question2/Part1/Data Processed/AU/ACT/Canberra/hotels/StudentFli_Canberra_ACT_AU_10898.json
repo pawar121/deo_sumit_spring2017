@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2786713,
+        "longitude": 149.1288147
+    },
+    "id": "student-flights-canberra-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "59 Northbourne Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2600"
+    },
+    "name": "Student Flights Canberra",
+    "phone": "+1800844379",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/student-flights-canberra-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10898"
+}

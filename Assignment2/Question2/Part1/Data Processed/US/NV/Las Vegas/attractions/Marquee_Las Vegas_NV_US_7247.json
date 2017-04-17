@@ -1,0 +1,110 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.109779,
+        "longitude": -115.173874
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 0,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 6,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "marquee-las-vegas-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2qEEtVlvxB1HLzANJ_ZzfQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3708 S Las Vegas Blvd",
+        "address2": "",
+        "address3": "The Cosmopolitan",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Marquee",
+    "phone": "+17023339000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2qEEtVlvxB1HLzANJ_ZzfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-IgOiTfiWG9bUyhrv_N_Qw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9vvOCrKUoUbIu7PomfBLMA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 2020,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/marquee-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7247"
+}

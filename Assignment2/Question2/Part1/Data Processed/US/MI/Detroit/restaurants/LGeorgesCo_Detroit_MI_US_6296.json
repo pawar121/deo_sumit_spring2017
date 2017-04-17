@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4163,
+        "longitude": -83.18053
+    },
+    "id": "l-georges-coney-island-detroit-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TootCyB0SttKeqlOBnW5sA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13635 W McNichols Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48235"
+    },
+    "name": "L Georges Coney Island",
+    "phone": "+13133426516",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TootCyB0SttKeqlOBnW5sA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/l-georges-coney-island-detroit-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6296"
+}

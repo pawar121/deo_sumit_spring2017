@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.582011492702,
+        "longitude": -82.8096891485643
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "lake-st-clair-metropark-harrison-township",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gHsb8dkJvM5VVc83rDwZOw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "31300 Metro Pkwy",
+        "address2": null,
+        "address3": "",
+        "city": "Harrison Township",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48045"
+    },
+    "name": "Lake St. Clair Metropark",
+    "phone": "+15864634581",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gHsb8dkJvM5VVc83rDwZOw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZIUiZP4Hd5fsZ-sRYlONRw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SEejiIqTCNZwB2JKIWjayw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 36,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lake-st-clair-metropark-harrison-township?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6451"
+}

@@ -1,0 +1,114 @@
+{
+    "categories": [
+        {
+            "alias": "filipino",
+            "title": "Filipino"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7706706,
+        "longitude": -95.4130248
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "flip-n-patties-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N9owf4BQM73acH0qlInZaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5110 Washington Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77007"
+    },
+    "name": "Flip 'n Patties",
+    "phone": "+18324097580",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/N9owf4BQM73acH0qlInZaQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wrZe4H27zIV3vzCWitDj1g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/V6rEyY8InU-FKd1VUm5Hhg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 148,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/flip-n-patties-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4123"
+}

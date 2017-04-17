@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.0977499,
+        "longitude": -118.3338386
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "psychiatry-an-industry-of-death-los-angeles-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PoXXE0RC20yInGgnTpLtMw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6616 Sunset Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90028"
+    },
+    "name": "Psychiatry an Industry of Death",
+    "phone": "+13234674242",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PoXXE0RC20yInGgnTpLtMw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/y4Xe9o8Yd-WXiCDg53o8WA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8x_Y_xlMXIiXx5gT_Im7xA/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 50,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/psychiatry-an-industry-of-death-los-angeles-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9218"
+}

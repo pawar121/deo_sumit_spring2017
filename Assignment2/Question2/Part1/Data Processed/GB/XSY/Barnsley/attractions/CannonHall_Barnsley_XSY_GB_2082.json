@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "zoos",
+            "title": "Zoos"
+        },
+        {
+            "alias": "farmersmarket",
+            "title": "Farmers Market"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.5662499,
+        "longitude": -1.58836
+    },
+    "id": "cannon-hall-farm-barnsley",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sLQNokJYh5mhVdH-qEu3tg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Bark House Lane",
+        "address2": "",
+        "address3": "Cawthorne",
+        "city": "Barnsley",
+        "country": "GB",
+        "state": "XSY",
+        "zip_code": "S75 4AT"
+    },
+    "name": "Cannon Hall Farm",
+    "phone": "+441226790427",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sLQNokJYh5mhVdH-qEu3tg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Bz7chZIQoRTpYSl3_kCz0Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Vh5px0YTjY_YruNv2zCjqg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cannon-hall-farm-barnsley?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2082"
+}

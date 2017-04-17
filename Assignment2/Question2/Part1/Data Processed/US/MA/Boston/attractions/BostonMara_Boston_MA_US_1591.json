@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.350387,
+        "longitude": -71.0762761
+    },
+    "id": "boston-marathon-memorial-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WL7lSQ5M00NuoJL0M8wRnw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Boylston St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Boston Marathon Memorial",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WL7lSQ5M00NuoJL0M8wRnw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/x7Ur4c7h56qoGod50DVHvw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YayTy08Y4LMglGC4hkrSiw/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-marathon-memorial-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1591"
+}

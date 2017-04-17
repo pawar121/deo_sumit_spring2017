@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8153915,
+        "longitude": 144.9619141
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "2200"
+                }
+            ]
+        }
+    ],
+    "id": "cbd-nightclub-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BTc_BgVnWLjXGcAhMJziAw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12-14 McKillop St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "CBD Nightclub",
+    "phone": "+61396703638",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BTc_BgVnWLjXGcAhMJziAw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Y39Uccfe20oyo1R-NRf4Bw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Kx-FmJWz_fAIbj7W0slxjg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cbd-nightclub-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2216"
+}

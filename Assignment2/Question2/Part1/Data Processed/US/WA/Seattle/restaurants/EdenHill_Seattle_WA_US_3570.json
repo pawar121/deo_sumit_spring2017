@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.63876,
+        "longitude": -122.35715
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "eden-hill-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/10j9t6n1lFTwV5UXrG55bQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2209 Queen Anne Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98109"
+    },
+    "name": "Eden Hill",
+    "phone": "+12067086836",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/10j9t6n1lFTwV5UXrG55bQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Er5Tar179IxWP7eSpHiiOw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/CCt5ezOSc1qr-GeRhSw9cA/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.5,
+    "review_count": 62,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/eden-hill-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3570"
+}

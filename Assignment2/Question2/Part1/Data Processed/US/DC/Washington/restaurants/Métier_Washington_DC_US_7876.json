@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9034199,
+        "longitude": -77.0216
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "métier-washington-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2rVC9KTCDn3vA849plwhYA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1015 7th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Métier",
+    "phone": "+12027377500",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2rVC9KTCDn3vA849plwhYA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZQhf-iPIIsAVkJFMWoeapQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Lm6iBnHokeIb5fl553FHPQ/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/m%C3%A9tier-washington-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7876"
+}

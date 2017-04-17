@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        },
+        {
+            "alias": "portuguese",
+            "title": "Portuguese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.60825,
+        "longitude": -122.34073
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "jarrbar-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FTXLTCeUbSRzrH6295o8mA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1432 Western Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "JarrBar",
+    "phone": "+12062092239",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FTXLTCeUbSRzrH6295o8mA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/smrYOdUNZA9iOmug8ispoA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ov3P1P2UlCzMM1SV810dCA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 30,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jarrbar-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5825"
+}

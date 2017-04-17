@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8088684,
+        "longitude": 144.9605103
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "thai-culinary-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YT17PH5-2v7fhhywq853sw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "433 Elizabeth St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Thai Culinary",
+    "phone": "+61393283812",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YT17PH5-2v7fhhywq853sw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SDZGbadsvIA2v89Uq4X0zw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZdafcNq-u1tjJnHqv7oWlg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 14,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/thai-culinary-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11378"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.811922,
+        "longitude": 144.972088
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "lanes-edge-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0gf2HbE7mF75GmMyQpXqVw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "39 Bourke St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Lane's Edge",
+    "phone": "+61396542409",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0gf2HbE7mF75GmMyQpXqVw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HFdJnWZBQhPJs1F6LLnnSQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/crfjJy5DtIt5hamZnA797g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lanes-edge-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6474"
+}

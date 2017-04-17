@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.647547,
+        "longitude": -3.0069216
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "the-atkinson-southport",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PBqFa_eE-30c-RqkGcMRLA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Lord Street",
+        "address2": "",
+        "address3": "",
+        "city": "Southport",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "PR8 1DB"
+    },
+    "name": "The Atkinson",
+    "phone": "+441704533333",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PBqFa_eE-30c-RqkGcMRLA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-atkinson-southport?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11463"
+}

@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4261017,
+        "longitude": -83.0623932
+    },
+    "id": "nevada-a-coney-island-detroit",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18000 Ryan Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48234"
+    },
+    "name": "Nevada A Coney Island",
+    "phone": "+13133665101",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nevada-a-coney-island-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7991"
+}

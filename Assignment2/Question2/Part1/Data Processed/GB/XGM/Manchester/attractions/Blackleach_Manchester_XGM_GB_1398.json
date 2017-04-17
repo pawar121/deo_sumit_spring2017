@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.5307172717493,
+        "longitude": -2.39896774291992
+    },
+    "id": "blackleach-country-park-manchester",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "John Street",
+        "address2": "Walkden, Salford,",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M4 1"
+    },
+    "name": "Blackleach Country Park",
+    "phone": "+441617907746",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/blackleach-country-park-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1398"
+}

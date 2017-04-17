@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "streetvendors",
+            "title": "Street Vendors"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1597915384572,
+        "longitude": -115.151686779489
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "first-friday-las-vegas-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NXjaIVA85E1hz8ZZgR_Pfg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1025 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "First Friday",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NXjaIVA85E1hz8ZZgR_Pfg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TOWJIHufzkel5IKXJVcQVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n_XTyx-EHjalD7U8JB3Q4w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 134,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/first-friday-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4013"
+}

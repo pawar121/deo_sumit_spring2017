@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mini_golf",
+            "title": "Mini Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.874784235012,
+        "longitude": -77.026364387547
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0530"
+                }
+            ]
+        }
+    ],
+    "id": "east-potomac-golf-course-washington-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/prSwn8-l2Ns5cxgI-ZVacA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "972 Ohio Dr SW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20024"
+    },
+    "name": "East Potomac Golf Course",
+    "phone": "+12025547660",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/prSwn8-l2Ns5cxgI-ZVacA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5czPHleeaRqHUu26zUkUdg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eBpYp1EuYIqQ8OgQYRXvTQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/east-potomac-golf-course-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3522"
+}

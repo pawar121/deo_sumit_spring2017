@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        },
+        {
+            "alias": "tabletopgames",
+            "title": "Tabletop Games"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7172789919801,
+        "longitude": -104.998915984784
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "board-game-republic-denver-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E8CKHefAEw3aYMpCsGcoTA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "900 W 1st Ave",
+        "address2": "Ste 130",
+        "address3": null,
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80223"
+    },
+    "name": "Board Game Republic",
+    "phone": "+13039549165",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/E8CKHefAEw3aYMpCsGcoTA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_9X29BxFRI0cO5LsOkS9xw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ufcZ8SE5SbQXtjYvgZRIhw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 28,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/board-game-republic-denver-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1479"
+}

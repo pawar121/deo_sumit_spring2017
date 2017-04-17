@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85121,
+        "longitude": 2.32706
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "hôtel-lutétia-paris-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0lVoPBoKv7eTrJ9-ysNkNA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "45 bd Raspail",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Hôtel Lutétia",
+    "phone": "+33149544646",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0lVoPBoKv7eTrJ9-ysNkNA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/t-0DWSY4XqYnP4-xsfKwgw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PrlmfhAjoX1qj-cLNnseyw/o.jpg"
+    ],
+    "price": "€€€€",
+    "rating": 3.5,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-lut%C3%A9tia-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5525"
+}

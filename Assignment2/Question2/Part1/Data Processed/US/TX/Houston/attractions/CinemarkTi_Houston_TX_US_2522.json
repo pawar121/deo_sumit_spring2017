@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.84662,
+        "longitude": -95.49653
+    },
+    "id": "cinemark-tinseltown-290-houston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4Qp0U9LpuPS9IO4b6oNeZA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12920 Northwest Fwy",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77040"
+    },
+    "name": "Cinemark Tinseltown 290",
+    "phone": "+17133299402",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4Qp0U9LpuPS9IO4b6oNeZA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LAwOEBHNcJqspdkofjdUvg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SG0ec79vKGi_44XD3YdNYA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 70,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cinemark-tinseltown-290-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2522"
+}

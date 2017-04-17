@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9151236,
+        "longitude": -77.0217909
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0130",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0130",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "southern-efficiency-washington-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Wj7ldtE8pI1ei7-dqnmHPA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1841 7th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20004"
+    },
+    "name": "Southern Efficiency",
+    "phone": "+12023169396",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Wj7ldtE8pI1ei7-dqnmHPA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uVP2Q6W9xIvC5jlkDHXELg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gEw8-ZGOb71bzvvN-C5_eA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 68,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/southern-efficiency-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10627"
+}

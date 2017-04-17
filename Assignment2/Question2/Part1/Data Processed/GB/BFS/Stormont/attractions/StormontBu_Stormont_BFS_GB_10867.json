@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 54.5942688,
+        "longitude": -5.83709
+    },
+    "id": "stormont-building-stormont",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0qSLja1nwYaZSwfS_Nqkog/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Parliment Bulidings",
+        "address2": "Ballymiscaw Stormont",
+        "address3": "",
+        "city": "Stormont",
+        "country": "GB",
+        "state": "BFS",
+        "zip_code": "BT4 3XX"
+    },
+    "name": "Stormont Building",
+    "phone": "+442890521333",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0qSLja1nwYaZSwfS_Nqkog/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-p4uThcuU2flJes2guw-Gg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_7CS_LeP6dnzwuqQKB5-kQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/stormont-building-stormont?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10867"
+}

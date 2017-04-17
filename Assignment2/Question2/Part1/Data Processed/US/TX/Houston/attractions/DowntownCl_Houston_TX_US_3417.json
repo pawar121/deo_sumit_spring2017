@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "squash",
+            "title": "Squash"
+        },
+        {
+            "alias": "tennis",
+            "title": "Tennis"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7579649,
+        "longitude": -95.3724938
+    },
+    "id": "downtown-club-at-the-met-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KGMS1Ys0Ivi-cKUDH2sD2A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "340 W Dallas St",
+        "address2": "Ste 6",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Downtown Club At the Met",
+    "phone": "+17136520700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KGMS1Ys0Ivi-cKUDH2sD2A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/L5IRU9j763ikuMaCINZqLA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qskQcZGCA7Nkkd_N87Sl5g/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/downtown-club-at-the-met-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3417"
+}

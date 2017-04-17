@@ -1,0 +1,112 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4408493,
+        "longitude": 153.0687561
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "aamaya-indian-restaurant-brisbane",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kRfsUbf_1nIIDUvrWZZO4A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11/39, Portside Wharf",
+        "address2": "39 Hercules St",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4007"
+    },
+    "name": "Aamaya Indian Restaurant",
+    "phone": "+61732686787",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kRfsUbf_1nIIDUvrWZZO4A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JMud5TcmYijPAfs-zPKoPw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/SJuOKK64UveReOLYsfFBcw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/aamaya-indian-restaurant-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "141"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "taiwanese",
+            "title": "Taiwanese"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8764024451441,
+        "longitude": 151.206799737394
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "hot-star-large-fried-chicken-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lEurS8C4g2mfMiMxz-zbFQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "96 Liverpool St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Hot Star Large Fried Chicken",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lEurS8C4g2mfMiMxz-zbFQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kWAFHU-p4Yyn54ZdwgbJ2A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IH4AeQC_yItvVgP4skhmdQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 40,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hot-star-large-fried-chicken-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5310"
+}

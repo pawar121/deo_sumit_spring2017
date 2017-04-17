@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "escapegames",
+            "title": "Escape Games"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.384779,
+        "longitude": -121.9072155
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "castle-escape-room-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BQwyMdNsFW4eFf5_ZEMx0Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1967 O'Toole Way",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95131"
+    },
+    "name": "Castle Escape Room",
+    "phone": "+14089913411",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BQwyMdNsFW4eFf5_ZEMx0Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qZ_u6ZLlVu_yumKNvTwM_A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TpjeOPnonf2JXXhH_YPBrA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 22,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/castle-escape-room-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2190"
+}

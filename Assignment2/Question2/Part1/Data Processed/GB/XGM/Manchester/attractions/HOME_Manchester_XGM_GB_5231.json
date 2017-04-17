@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.47322,
+        "longitude": -2.247201
+    },
+    "id": "home-manchester-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wztJO-qcJnVmuwUX0-dODA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Tony Wilson Place",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M15 4FN"
+    },
+    "name": "HOME",
+    "phone": "+441612001500",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wztJO-qcJnVmuwUX0-dODA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vcDt4pjXrXCtWXDUIqD6kQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vttVScUGW2hPmZgHWoVaWA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/home-manchester-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5231"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8152885,
+        "longitude": 144.94133
+    },
+    "id": "cargo-docklands",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WWVOdRW2KFrYKFfRIbQlyQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "55 New Quay Promenade",
+        "address2": "",
+        "address3": "",
+        "city": "Docklands",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": ""
+    },
+    "name": "Cargo",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/WWVOdRW2KFrYKFfRIbQlyQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GNgYf3721lN13e8gAGVG_w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/I8bpVcIfFwaYf-m5b_eSQA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cargo-docklands?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2135"
+}

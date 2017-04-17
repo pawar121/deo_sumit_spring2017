@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5071588,
+        "longitude": -0.1154861
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "queens-walk-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9xH_tMYj4H2S_AzL7v97_g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "South Bank",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1"
+    },
+    "name": "Queen's Walk",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9xH_tMYj4H2S_AzL7v97_g/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/queens-walk-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9316"
+}

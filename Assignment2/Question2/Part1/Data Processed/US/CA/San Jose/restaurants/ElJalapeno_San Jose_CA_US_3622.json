@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3272988346649,
+        "longitude": -121.895626634359
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0130",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0130",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "el-jalapeno-rojo-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ch1UAvXkV_cJtlKLpufVTg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "400 W San Carlos St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95110"
+    },
+    "name": "El Jalapeno Rojo",
+    "phone": "+14082756299",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ch1UAvXkV_cJtlKLpufVTg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/864YCgkvMMsLmWaFI3N2eA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EvXTTgTOCgOGAUXjFqLHiw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 63,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-jalapeno-rojo-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3622"
+}

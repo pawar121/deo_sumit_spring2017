@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.88319,
+        "longitude": -87.63528
+    },
+    "id": "puppet-bike-chicago",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4Lq0OtGr0sr5RbiJjeQQ7w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60606"
+    },
+    "name": "Puppet Bike",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4Lq0OtGr0sr5RbiJjeQQ7w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bhxZjy4Tk2swxDooFqq_vg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bGomDl4BosRUFxFekJQRJA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 136,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/puppet-bike-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9246"
+}

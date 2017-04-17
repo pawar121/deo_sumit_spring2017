@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.5409413,
+        "longitude": -95.1316145
+    },
+    "id": "texas-avenue-park-webster",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4_lBQnBAfJtK32ELOpGUEA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "17100 Texas Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Webster",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77598"
+    },
+    "name": "Texas Avenue Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4_lBQnBAfJtK32ELOpGUEA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BQTJ9plp2wNwz-gnQmCZGA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YJ4YHDE_Hh6Dyfc6kO2Rew/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/texas-avenue-park-webster?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11362"
+}

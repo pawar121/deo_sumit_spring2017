@@ -1,0 +1,93 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.70791,
+        "longitude": -74.0065
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "crunch-new-york-44",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2XEUh_jdJp3rA8AMZVZdAA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "90 John Street",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10038"
+    },
+    "name": "Crunch",
+    "phone": "+12122270005",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2XEUh_jdJp3rA8AMZVZdAA/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 54,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/crunch-new-york-44?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3014"
+}

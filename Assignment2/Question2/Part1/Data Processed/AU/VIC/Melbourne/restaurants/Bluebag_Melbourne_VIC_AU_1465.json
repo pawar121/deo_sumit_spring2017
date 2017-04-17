@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8138123,
+        "longitude": 144.9715271
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "bluebag-melbourne-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BbHbqwxsDDyAJWvK3L1s-A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "84 Exhibition St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Bluebag",
+    "phone": "+61396393125",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BbHbqwxsDDyAJWvK3L1s-A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vDHqTwf2CaaQMoiWzxwV6g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KRld_seAn1B6dXzv1JZIxA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bluebag-melbourne-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1465"
+}

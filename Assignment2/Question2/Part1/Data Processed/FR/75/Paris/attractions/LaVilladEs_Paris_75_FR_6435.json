@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85333,
+        "longitude": 2.34225
+    },
+    "id": "la-villa-d-estrée-paris-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MHCe34ia5WIJJYxOEcPzXA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "17 rue Gît le Coeur",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "La Villa d'Estrée",
+    "phone": "+33155427111",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MHCe34ia5WIJJYxOEcPzXA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AyFF0CcFX3wZCU68OVjGjg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DpML2vb24f_ej8FE_3AkbQ/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/la-villa-d-estr%C3%A9e-paris-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6435"
+}

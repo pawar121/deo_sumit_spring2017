@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.0976143,
+        "longitude": -118.3289337
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2200"
+                }
+            ]
+        }
+    ],
+    "id": "lure-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SEbsq8UBwgcSu8gki9pjOg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1439 Ivar Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90028"
+    },
+    "name": "Lure",
+    "phone": "+13234630006",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/SEbsq8UBwgcSu8gki9pjOg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/437YETkwLQM2MbS1Cjyc8A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/V9LVhetP9HWxrE_LEE665Q/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 2.5,
+    "review_count": 323,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lure-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6992"
+}

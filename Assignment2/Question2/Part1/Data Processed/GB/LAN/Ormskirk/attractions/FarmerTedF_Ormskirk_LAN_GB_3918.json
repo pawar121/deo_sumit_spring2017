@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "arts",
+            "title": "Arts & Entertainment"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.54834,
+        "longitude": -2.97548
+    },
+    "id": "farmer-ted-farm-ormskirk",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/loyk21gtdEsXmSRetz6wAw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Flatmans Lane",
+        "address2": "",
+        "address3": "Downholland",
+        "city": "Ormskirk",
+        "country": "GB",
+        "state": "LAN",
+        "zip_code": "L39 7HW"
+    },
+    "name": "Farmer Ted Farm",
+    "phone": "+441515260002",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/loyk21gtdEsXmSRetz6wAw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/farmer-ted-farm-ormskirk?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3918"
+}

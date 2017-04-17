@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.92297,
+        "longitude": 138.5996
+    },
+    "id": "parking-day-adelaide",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wk30wmZ9Bl-hOZIiO9UniA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Hindley Street & Rundle Street",
+        "address2": "",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Parking Day",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Wk30wmZ9Bl-hOZIiO9UniA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0uy9FYLoR-adWrw_djpZOg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/05USKjfYOccb25xVu_owVA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/parking-day-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8678"
+}

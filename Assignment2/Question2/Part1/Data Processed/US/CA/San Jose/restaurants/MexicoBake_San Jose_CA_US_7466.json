@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3531827354946,
+        "longitude": -121.824288292862
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                }
+            ]
+        }
+    ],
+    "id": "mexico-bakery-san-jose-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cJ_Vt2bcK8l_TMo1e6ITLA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2811 Story Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95127"
+    },
+    "name": "Mexico Bakery",
+    "phone": "+14082723838",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cJ_Vt2bcK8l_TMo1e6ITLA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/57aSY1NAr8yl8wAvNKsMog/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lErXuHDh6QQ6bTJLN4mgDQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 790,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mexico-bakery-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7466"
+}

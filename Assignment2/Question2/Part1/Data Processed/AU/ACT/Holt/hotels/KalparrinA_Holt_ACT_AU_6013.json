@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2234802,
+        "longitude": 149.0192871
+    },
+    "id": "kalparrin-aged-care-facility-holt",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "138 Hardwick Crs",
+        "address2": null,
+        "address3": null,
+        "city": "Holt",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2615"
+    },
+    "name": "Kalparrin Aged Care Facility",
+    "phone": "+61262542544",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/kalparrin-aged-care-facility-holt?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6013"
+}

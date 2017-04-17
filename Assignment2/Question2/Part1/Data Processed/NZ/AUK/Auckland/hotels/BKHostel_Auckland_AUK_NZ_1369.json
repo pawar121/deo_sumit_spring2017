@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8580174,
+        "longitude": 174.7589752
+    },
+    "id": "bk-hostel-auckland-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8MZt0tHeIwxT5blD11adng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Mercury Lane",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "BK Hostel",
+    "phone": "+6493070052",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8MZt0tHeIwxT5blD11adng/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/bk-hostel-auckland-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1369"
+}

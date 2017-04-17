@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3196918,
+        "longitude": -121.8279871
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "el-grullo-restaurant-san-jose-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3CvvZlApzHb3Je2CdhxH7w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2444 Alvin Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95121"
+    },
+    "name": "El Grullo Restaurant",
+    "phone": "+14082705955",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3CvvZlApzHb3Je2CdhxH7w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lhrMm1COMZg0hZyIenqlIQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/afwV0rN1rreHCmHn-iS5Hw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 67,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-grullo-restaurant-san-jose-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3619"
+}

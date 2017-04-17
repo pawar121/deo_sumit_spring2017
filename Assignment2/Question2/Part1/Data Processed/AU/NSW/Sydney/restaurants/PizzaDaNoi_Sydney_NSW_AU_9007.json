@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8834,
+        "longitude": 151.1835327
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "pizza-da-noi-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8L0s2gkmx3cZKut3uWNU9w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 4, 198 - 206 St Johns Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2037"
+    },
+    "name": "Pizza Da Noi",
+    "phone": "+61295523995",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8L0s2gkmx3cZKut3uWNU9w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pizza-da-noi-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9007"
+}

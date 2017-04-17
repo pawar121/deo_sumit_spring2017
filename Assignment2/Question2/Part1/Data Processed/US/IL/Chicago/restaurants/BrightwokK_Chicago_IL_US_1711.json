@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8793571,
+        "longitude": -87.6270166
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "brightwok-kitchen-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B8O7R_-UkbvStlEqRNEdkQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "21 E Adams St",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60603"
+    },
+    "name": "Brightwok Kitchen",
+    "phone": "+13125830729",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/B8O7R_-UkbvStlEqRNEdkQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TsOtlIP7ujSYMJ3IiAwBng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/T6upmyrSxckazySfWrW34w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 283,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brightwok-kitchen-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1711"
+}

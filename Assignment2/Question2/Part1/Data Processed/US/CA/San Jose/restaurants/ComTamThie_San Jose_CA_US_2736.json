@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2990503595584,
+        "longitude": -121.839797873016
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "com-tam-thien-huong-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ofplnBmHcRK-8cDSX7emnA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2859 Senter Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95111"
+    },
+    "name": "Com Tam Thien Huong",
+    "phone": "+14083651434",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ofplnBmHcRK-8cDSX7emnA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NH7H0O402_PKN31BWPuPqA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JCmhotCuy552rVdeb9_EFw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 300,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/com-tam-thien-huong-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2736"
+}

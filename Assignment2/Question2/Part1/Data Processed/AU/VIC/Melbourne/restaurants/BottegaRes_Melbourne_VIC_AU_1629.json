@@ -1,0 +1,118 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.811683,
+        "longitude": 144.971007
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "bottega-restaurant-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pRdJD2Nr6A464w5vSak6Rw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "74 Bourke St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Bottega Restaurant",
+    "phone": "+61396542252",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pRdJD2Nr6A464w5vSak6Rw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iaN84w3AFmdbwSTWkE7XEA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/h8Muk2Sh854kLSAJt7WbIQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bottega-restaurant-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1629"
+}

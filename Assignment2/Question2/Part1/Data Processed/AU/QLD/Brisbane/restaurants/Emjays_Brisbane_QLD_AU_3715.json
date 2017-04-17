@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.464535,
+        "longitude": 153.029559
+    },
+    "id": "emjays-brisbane",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tP0oewTjT9KMO00QaZtW-A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "340 Adelaide St",
+        "address2": "",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Emjays",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tP0oewTjT9KMO00QaZtW-A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hIT8qMrfc1Wb5L4XCxbCOA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BwuvNNB8PrFlFNQORdWElg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/emjays-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3715"
+}

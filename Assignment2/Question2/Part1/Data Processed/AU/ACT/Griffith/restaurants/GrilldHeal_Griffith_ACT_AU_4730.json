@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.31985,
+        "longitude": 149.13249
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "grilld-healthy-burgers-griffith",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GVV3ka2Qik7rQa-KvJBILw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "40 Franklin St",
+        "address2": null,
+        "address3": null,
+        "city": "Griffith",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Grill'd Healthy Burgers",
+    "phone": "+61262396111",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GVV3ka2Qik7rQa-KvJBILw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qYtoUiy0lXs4GoDrBReQWg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mICJRWehgeQdaKo_0fvXNA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/grilld-healthy-burgers-griffith?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4730"
+}

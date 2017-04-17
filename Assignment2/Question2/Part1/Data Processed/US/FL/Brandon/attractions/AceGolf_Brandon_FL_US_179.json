@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "golf",
+            "title": "Golf"
+        },
+        {
+            "alias": "mini_golf",
+            "title": "Mini Golf"
+        },
+        {
+            "alias": "battingcages",
+            "title": "Batting Cages"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.92603,
+        "longitude": -82.29589
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "ace-golf-brandon",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JI_W10eU8a7y8ZHfvmI_rQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "820 S Kings Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brandon",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33511"
+    },
+    "name": "Ace Golf",
+    "phone": "+18136514653",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JI_W10eU8a7y8ZHfvmI_rQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/l9GIdoOh5hqL0dFFJuMymQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/gqtzSmnmmBJH5Z8ByHQi4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ace-golf-brandon?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "179"
+}

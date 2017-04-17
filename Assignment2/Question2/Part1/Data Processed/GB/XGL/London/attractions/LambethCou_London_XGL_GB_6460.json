@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4514045400728,
+        "longitude": -0.10503700236427
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "lambeth-country-show-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y5AqzZqy_atIEe5qXQC5lQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Brockwell Park",
+        "address2": "Herne Hill",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE24 9AE"
+    },
+    "name": "Lambeth Country Show",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/y5AqzZqy_atIEe5qXQC5lQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Mg8qLhs0sf-Ytc3d_yxlgw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-09ulSxhRvn9H37dJcCUgw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lambeth-country-show-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6460"
+}

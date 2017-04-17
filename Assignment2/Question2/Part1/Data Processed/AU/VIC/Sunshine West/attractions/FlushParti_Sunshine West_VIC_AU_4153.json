@@ -1,0 +1,30 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -37.8046188,
+        "longitude": 144.8142853
+    },
+    "id": "flush-partitions-sunshine-west",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d11APorLbjYcy4Y-L0wYLw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "49 North View Drv",
+        "address2": null,
+        "address3": null,
+        "city": "Sunshine West",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3020"
+    },
+    "name": "Flush Partitions",
+    "phone": "+61393112339",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/d11APorLbjYcy4Y-L0wYLw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/flush-partitions-sunshine-west?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4153"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4710926109485,
+        "longitude": 153.023406208261
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "fat-noodle-brisbane",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p9YzL6zkmnHx2i3UET4TZg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Treasury Casino",
+        "address2": "Top of Queen Street Mall",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Fat Noodle",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/p9YzL6zkmnHx2i3UET4TZg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Hv5rvqr52qvtBwd8gO0sVQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZDdRHo91xQLdHig9BFH6IQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 35,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fat-noodle-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3937"
+}

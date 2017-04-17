@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "australian",
+            "title": "Australian"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8108934204306,
+        "longitude": 144.970903689412
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "east-end-den-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OFLyXZTWdpkj7H2uSicJxQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "51 Little Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "East End Den",
+    "phone": "+61396509979",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OFLyXZTWdpkj7H2uSicJxQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HHiAPmg1mbmXOSv8FKntqQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uUamfPCIYtSIbZ4FRe3WdA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/east-end-den-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3520"
+}

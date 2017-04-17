@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "airlines",
+            "title": "Airlines"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.0016966674214,
+        "longitude": 174.790628984375
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "air-new-zealand-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g4eJLXP2dEH96iqoXUOSqQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Tom Pearce Drive",
+        "address2": "Manukau",
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1024"
+    },
+    "name": "Air New Zealand",
+    "phone": "+64800737000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/g4eJLXP2dEH96iqoXUOSqQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t-vTQ3QRFZQTQd6bgw9-6A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xiiP1SEvqPts-BuXGwEJQw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 36,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/air-new-zealand-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "269"
+}

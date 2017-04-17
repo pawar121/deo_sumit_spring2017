@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.830996823902,
+        "longitude": 174.745445251465
+    },
+    "id": "auckland-harbour-bridge-auckland",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FkOERvYWxyrG8xtcJi511Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Curran Street",
+        "address2": "Westhaven Marina",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Auckland Harbour Bridge",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FkOERvYWxyrG8xtcJi511Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3E6fL7hBP-hfhSv_HcwrOg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tJJFqKGUI7XIhdphioeoJw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/auckland-harbour-bridge-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "748"
+}

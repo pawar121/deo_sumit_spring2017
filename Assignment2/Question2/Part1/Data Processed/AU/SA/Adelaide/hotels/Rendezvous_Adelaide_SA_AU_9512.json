@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9260063,
+        "longitude": 138.5974731
+    },
+    "id": "rendezvous-hotel-adelaide-adelaide",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "55 Waymouth St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Rendezvous Hotel Adelaide",
+    "phone": "+611800088888",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/rendezvous-hotel-adelaide-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9512"
+}

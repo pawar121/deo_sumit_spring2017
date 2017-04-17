@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.5015793,
+        "longitude": -2.97387
+    },
+    "id": "city-explorer-bus-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YZQUx5v0XlT5gRAjAD_q2Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Maghull Coaches",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L29 9AE"
+    },
+    "name": "City Explorer Bus",
+    "phone": "+441519332324",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YZQUx5v0XlT5gRAjAD_q2Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/city-explorer-bus-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2565"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.144269,
+        "longitude": -115.191825
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "herbs-and-rye-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7IqPHZseAPfUHFPQBqNFMg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3713 W Sahara Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89102"
+    },
+    "name": "Herbs & Rye",
+    "phone": "+17029828036",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7IqPHZseAPfUHFPQBqNFMg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/t0i13F44eY-1gUx0EnqG-A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DIEkR0haTtyoxLIAeUlqMA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 852,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/herbs-and-rye-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5025"
+}

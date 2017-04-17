@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.90592,
+        "longitude": -77.04313
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "boqueria-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ISl7pn2Pono-X41N0M414A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1837 M Street NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20036"
+    },
+    "name": "Boqueria",
+    "phone": "+12025589545",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ISl7pn2Pono-X41N0M414A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9zFnUe7J5fUX4jbN6w-xrQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nwp-6Lzdk_f_oSEL6Qka8Q/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 697,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/boqueria-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1558"
+}

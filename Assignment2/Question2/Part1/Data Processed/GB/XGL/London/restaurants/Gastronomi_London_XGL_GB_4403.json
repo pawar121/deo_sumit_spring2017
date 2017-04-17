@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "beer_and_wine",
+            "title": "Beer, Wine & Spirits"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4915717,
+        "longitude": -0.1377743
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "gastronomica-london-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Nb4WxJAInP53LLdMdSD_vQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Tachbrook Street",
+        "address2": "Pimlico",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW1V 2LZ"
+    },
+    "name": "Gastronomica",
+    "phone": "+442072336656",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Nb4WxJAInP53LLdMdSD_vQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vQ5-p8SC15S3ka4wEl7hxA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZFAYSg4Ee2MHEvEk963gYA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gastronomica-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4403"
+}

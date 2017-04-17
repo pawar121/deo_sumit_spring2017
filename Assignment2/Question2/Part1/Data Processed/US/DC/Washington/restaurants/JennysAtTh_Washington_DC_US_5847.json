@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8778661430588,
+        "longitude": -77.0229547002777
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "jennys-at-the-wharf-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aJ4qAEh32Wp06r0bZojq7Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "668 Water St SW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20024"
+    },
+    "name": "Jenny's At The Wharf",
+    "phone": "+12025542202",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/aJ4qAEh32Wp06r0bZojq7Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5ySMoKRodpGweGgdrCgV6A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zHS7fHDOVkaDxGN_iSjSgg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 28,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jennys-at-the-wharf-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5847"
+}

@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "cheesesteaks",
+            "title": "Cheesesteaks"
+        },
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.742861,
+        "longitude": -95.39693
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "koagie-hots-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A-DwAiU8JK_MqB8wSE_0cQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1427 Westheimer Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Koagie Hots",
+    "phone": "+16023210423",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/A-DwAiU8JK_MqB8wSE_0cQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8SJD1bRLWjv4a5m7l8LCww/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DifRf2Rqbjx1pm-dMAzjnQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 120,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/koagie-hots-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6217"
+}

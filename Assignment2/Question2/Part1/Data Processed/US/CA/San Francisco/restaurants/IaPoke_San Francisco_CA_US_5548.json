@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "poke",
+            "title": "Poke"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7657662812014,
+        "longitude": -122.429002347472
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "ia-poke-san-francisco-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o65cLzv71isy_mt3Kz3_hQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "314 Church St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94114"
+    },
+    "name": "I'a Poke",
+    "phone": "+14158298030",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o65cLzv71isy_mt3Kz3_hQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tjBOX-3lCyfcmE88zMuNNQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wXmCKXNoo3Rixnc79j_Jow/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 116,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ia-poke-san-francisco-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5548"
+}

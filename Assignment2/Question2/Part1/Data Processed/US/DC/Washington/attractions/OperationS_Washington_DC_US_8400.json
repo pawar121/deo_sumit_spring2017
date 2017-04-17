@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.89701,
+        "longitude": -77.02367
+    },
+    "id": "operation-spy-washington",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "800 F St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20560"
+    },
+    "name": "Operation Spy",
+    "phone": "+12023937798",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/operation-spy-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8400"
+}

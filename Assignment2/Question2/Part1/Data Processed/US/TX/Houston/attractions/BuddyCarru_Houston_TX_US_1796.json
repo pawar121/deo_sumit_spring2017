@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6985607,
+        "longitude": -95.4014282
+    },
+    "id": "buddy-carruth-playground-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5Yk-KheWJw0swCuMSmTCZQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6001 Fannin",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77030"
+    },
+    "name": "Buddy Carruth Playground",
+    "phone": "+17138370311",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5Yk-KheWJw0swCuMSmTCZQ/o.jpg"
+    ],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/buddy-carruth-playground-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1796"
+}

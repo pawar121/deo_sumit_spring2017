@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2449684,
+        "longitude": 149.1270447
+    },
+    "id": "australian-capital-motor-inn-lyneham",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "193 Mouat St",
+        "address2": null,
+        "address3": null,
+        "city": "Lyneham",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Australian Capital Motor Inn",
+    "phone": "+61262578133",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/australian-capital-motor-inn-lyneham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "767"
+}

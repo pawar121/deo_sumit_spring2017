@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.7976494,
+        "longitude": 144.9783783
+    },
+    "id": "bar-open-fitzroy",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E7uopFQK4tsUfLZGIkeZxA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "317 Brunswick St",
+        "address2": null,
+        "address3": null,
+        "city": "Fitzroy",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3065"
+    },
+    "name": "Bar Open",
+    "phone": "+61394159601",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/E7uopFQK4tsUfLZGIkeZxA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_hd3L7HnJBh0qMt-iZkOwA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XVh3qrG1DugjE5K9myxspA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bar-open-fitzroy?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "966"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3699493,
+        "longitude": -83.0748901
+    },
+    "id": "st-regis-hotel-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B1zYPxqvLXOshAMLeQ1jNQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3071 W Grand Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48202"
+    },
+    "name": "St Regis Hotel",
+    "phone": "+13138733000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/B1zYPxqvLXOshAMLeQ1jNQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/p3C5qSJNEpJOM31i6eBiYw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/gfFRmn_5SWyl5Z3eUh6zJQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.0,
+    "review_count": 65,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/st-regis-hotel-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10758"
+}

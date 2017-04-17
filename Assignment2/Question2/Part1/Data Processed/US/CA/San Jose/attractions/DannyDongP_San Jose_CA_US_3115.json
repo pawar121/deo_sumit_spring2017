@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "photographers",
+            "title": "Photographers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.37642,
+        "longitude": -121.88645
+    },
+    "id": "danny-dong-photography-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uHLDTFLvJ-rX2zmqMlwheA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1439 Maxwell Way",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95131"
+    },
+    "name": "Danny Dong Photography",
+    "phone": "+14084290158",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uHLDTFLvJ-rX2zmqMlwheA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/brcpehoc-OlYq2Wx64y23Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rJlAvuTPEhCmvBpZTKZQtw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 44,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/danny-dong-photography-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3115"
+}

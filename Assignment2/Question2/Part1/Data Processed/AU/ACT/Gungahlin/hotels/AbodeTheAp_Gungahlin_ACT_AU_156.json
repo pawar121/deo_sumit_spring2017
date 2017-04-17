@@ -1,0 +1,32 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -35.1832619,
+        "longitude": 149.1313629
+    },
+    "id": "abode-the-apartment-hotel-gungahlin-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OB1ZjOBlFW9SzG7wa-jU2g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Gribble St",
+        "address2": null,
+        "address3": null,
+        "city": "Gungahlin",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2912"
+    },
+    "name": "Abode The Apartment Hotel",
+    "phone": "+611300122633",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OB1ZjOBlFW9SzG7wa-jU2g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OdeYBEDCLgvYfyWmXHAfHw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OgG9TneYCRFCrxnpZDZWvw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/abode-the-apartment-hotel-gungahlin-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "156"
+}

@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.68877,
+        "longitude": -95.4131533
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "asahi-sushi-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RxmBTp8UVu7U5GrU482aww/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8236 Kirby Dr",
+        "address2": "Ste 200",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77054"
+    },
+    "name": "Asahi Sushi",
+    "phone": "+17136647686",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RxmBTp8UVu7U5GrU482aww/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vmUVx3jdSgmNyz1vIFgO1A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cD_gzHZr0sJwlytZw66xMA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 217,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/asahi-sushi-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "671"
+}

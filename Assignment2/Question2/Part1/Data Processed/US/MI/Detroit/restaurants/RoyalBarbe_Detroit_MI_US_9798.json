@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3775711,
+        "longitude": -83.0319214
+    },
+    "id": "royal-barbecue-pizza-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WoKvSkGUuD9anRikLXFnFw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5844 Mount Elliott St",
+        "address2": null,
+        "address3": null,
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48211"
+    },
+    "name": "Royal Barbecue Pizza",
+    "phone": "+13139232222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WoKvSkGUuD9anRikLXFnFw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MNeKOQAg6ffHpIrQmyzkKQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/j5JNssA1kviv9xMxAJTBOQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/royal-barbecue-pizza-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9798"
+}

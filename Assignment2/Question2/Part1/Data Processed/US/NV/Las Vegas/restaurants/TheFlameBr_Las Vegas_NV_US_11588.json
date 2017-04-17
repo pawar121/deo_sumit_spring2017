@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.179192,
+        "longitude": -115.2425349
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "the-flame-broiler-las-vegas-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G0ErxB7M-cb7tlXt7_70dQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "651 N Rainbow Blvd",
+        "address2": "Ste 120",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89107"
+    },
+    "name": "The Flame Broiler",
+    "phone": "+17024876400",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/G0ErxB7M-cb7tlXt7_70dQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HBOCJ3z_EQbxKw4lymMWbA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pWN5hR6uDwtvUPzH19hVIQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 51,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-flame-broiler-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11588"
+}

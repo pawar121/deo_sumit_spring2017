@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.865304153058,
+        "longitude": 2.32710560055546
+    },
+    "id": "rue-de-rivoli-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7ab18hISxn4_eh-jpVVB7Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Rue de Rivoli",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75001"
+    },
+    "name": "Rue de Rivoli",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7ab18hISxn4_eh-jpVVB7Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6WVZ9nNf0CQsRzsUvGmY3g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ny4Bn-udFmNl_4UwxVi9Dw/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 30,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rue-de-rivoli-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9844"
+}

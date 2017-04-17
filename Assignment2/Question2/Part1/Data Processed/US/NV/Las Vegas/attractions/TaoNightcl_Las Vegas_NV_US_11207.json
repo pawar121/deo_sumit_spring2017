@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1214517,
+        "longitude": -115.169597788955
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1115"
+                },
+                {
+                    "day": 4,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "tao-nightclub-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/72tq_BqlUo69CRw33-kIDw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "The Venetian",
+        "address2": "3377 S Las Vegas Blvd",
+        "address3": null,
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Tao Nightclub",
+    "phone": "+17023888338",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/72tq_BqlUo69CRw33-kIDw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wJxvCnaMubFTvS24YgPDig/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WZzBwUgSdRUcmyA6i1cgqg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 2060,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tao-nightclub-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11207"
+}

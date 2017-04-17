@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotelstravel",
+            "title": "Hotels & Travel"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3456268,
+        "longitude": 149.2281647
+    },
+    "id": "hotel-queanbeyan-queanbeyan",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "59 Crawford St",
+        "address2": null,
+        "address3": null,
+        "city": "Queanbeyan",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2620"
+    },
+    "name": "Hotel Queanbeyan",
+    "phone": "+61262973299",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hotel-queanbeyan-queanbeyan?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5369"
+}

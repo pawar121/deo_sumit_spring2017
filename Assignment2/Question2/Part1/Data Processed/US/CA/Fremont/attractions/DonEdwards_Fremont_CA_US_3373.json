@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.53058,
+        "longitude": -122.09202
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "don-edwards-san-francisco-bay-national-wildlife-refuge-fremont",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wHhyjzMY2toTjWKqpJIlZA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Marshlands Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Fremont",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94555"
+    },
+    "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
+    "phone": "+15107920222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wHhyjzMY2toTjWKqpJIlZA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zEp74AChXrEd9jOVNRIcIw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ot60kVb09vMenviQ62HxTQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 79,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/don-edwards-san-francisco-bay-national-wildlife-refuge-fremont?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3373"
+}

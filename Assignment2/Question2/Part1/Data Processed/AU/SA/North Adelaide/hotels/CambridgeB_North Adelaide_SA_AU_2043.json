@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9056816,
+        "longitude": 138.5960846
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "cambridge-balcony-bar-north-adelaide",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/upoujPGQZ3JNxje3yjX1kA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "106 O'Connell St",
+        "address2": null,
+        "address3": null,
+        "city": "North Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5006"
+    },
+    "name": "Cambridge Balcony Bar",
+    "phone": "+61883619779",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/upoujPGQZ3JNxje3yjX1kA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/cambridge-balcony-bar-north-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2043"
+}

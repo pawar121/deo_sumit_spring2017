@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.304926461354,
+        "longitude": -121.921215948335
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "king-eggroll-express-san-jose-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GJpbpv6lyxcYT4_16we3OQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1052 Leigh Ave",
+        "address2": "",
+        "address3": null,
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95126"
+    },
+    "name": "King Eggroll Express",
+    "phone": "+14082750999",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GJpbpv6lyxcYT4_16we3OQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/s-MpKg72VsnCw0C8xYj09g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UKOe6WV76J8W6DXrwQmHuA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 21,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/king-eggroll-express-san-jose-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6140"
+}

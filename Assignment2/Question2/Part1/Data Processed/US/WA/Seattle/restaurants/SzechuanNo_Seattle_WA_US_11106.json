@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "szechuan",
+            "title": "Szechuan"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.5985680878656,
+        "longitude": -122.322288304567
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "szechuan-noodle-bowl-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p10txxVfYHvob8dZIXNQSA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "420 8th Ave S",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98104"
+    },
+    "name": "Szechuan Noodle Bowl",
+    "phone": "+12066234198",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/p10txxVfYHvob8dZIXNQSA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cgf6jVJlY8fRqePeIkiKIQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-dcB6fKM2AzHTAP1zjmsFg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 269,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/szechuan-noodle-bowl-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11106"
+}

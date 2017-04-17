@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "german",
+            "title": "German"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.68348,
+        "longitude": -73.99929
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "la-cigogne-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CuuN3US76eJSJa0jNu9f-Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "215 Union St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11231"
+    },
+    "name": "La Cigogne",
+    "phone": "+17188585641",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CuuN3US76eJSJa0jNu9f-Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0URMOZTPd0Gfwia8JXtbTg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mDIXEPye7Ht3rJIIDvAHmQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 223,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-cigogne-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6322"
+}

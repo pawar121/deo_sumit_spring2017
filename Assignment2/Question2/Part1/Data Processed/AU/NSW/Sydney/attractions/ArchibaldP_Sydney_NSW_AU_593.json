@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8715119,
+        "longitude": 151.2148424
+    },
+    "id": "archibald-prize-sydney",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Art Gallery of NSW",
+        "address2": "Art Gallery Rd, The Domain",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Archibald Prize",
+    "phone": "",
+    "photos": [],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/archibald-prize-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "593"
+}

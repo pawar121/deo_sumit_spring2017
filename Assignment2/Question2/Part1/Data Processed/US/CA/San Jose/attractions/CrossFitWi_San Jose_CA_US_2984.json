@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3123124,
+        "longitude": -121.867716
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 6,
+                    "end": "1000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "crossfit-willow-glen-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QhsL9xhO1wXtFZ6hSFEcOw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "95 Phelan Ave",
+        "address2": "Ste 5",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "CrossFit Willow Glen",
+    "phone": "+14086052772",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QhsL9xhO1wXtFZ6hSFEcOw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zgf3fyepufSKY6PG5pUmrw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ozp3j2GWo21pQ3siEtjfkg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 41,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/crossfit-willow-glen-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2984"
+}

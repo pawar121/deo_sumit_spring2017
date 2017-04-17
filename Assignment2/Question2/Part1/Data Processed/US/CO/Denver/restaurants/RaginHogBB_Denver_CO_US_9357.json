@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.77606,
+        "longitude": -105.03487
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "ragin-hog-bbq-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A6oFJz1KTEkdYCDkSqZdiA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4361 Lowell Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80211"
+    },
+    "name": "Ragin' Hog BBQ",
+    "phone": "+13038596003",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/A6oFJz1KTEkdYCDkSqZdiA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/OxgwsZziXtVJJEtIKOBeRw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-ruCIf4BJGEKqPFvgIaOAw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 132,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ragin-hog-bbq-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9357"
+}

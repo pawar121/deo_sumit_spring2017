@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.353216,
+        "longitude": -71.045152
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "strega-waterfront-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ROdulDjqoHIohVn0jChC0g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "One Marina Park Dr",
+        "address2": "56 Northern Ave On GPS",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Strega Waterfront",
+    "phone": "+16173453992",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ROdulDjqoHIohVn0jChC0g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NZ1yjziuHojZOoHQcGrH6w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6JvbDc4LXuYu_SeFsitgXw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 382,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/strega-waterfront-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10886"
+}

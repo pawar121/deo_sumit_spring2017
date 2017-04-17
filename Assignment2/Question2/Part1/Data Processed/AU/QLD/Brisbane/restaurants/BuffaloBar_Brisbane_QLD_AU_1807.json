@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "pubfood",
+            "title": "Pub Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4706593,
+        "longitude": 153.02948
+    },
+    "id": "buffalo-bar-brisbane",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nFDwlfcQYi_H9xJ0FR9Yiw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "169 Mary St",
+        "address2": "",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Buffalo Bar",
+    "phone": "+61732210199",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/nFDwlfcQYi_H9xJ0FR9Yiw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NkzMPbDYrGuLQ2U0A2hwbg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ozmYPyFjZDKjUm8kFPhSHA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 19,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/buffalo-bar-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1807"
+}

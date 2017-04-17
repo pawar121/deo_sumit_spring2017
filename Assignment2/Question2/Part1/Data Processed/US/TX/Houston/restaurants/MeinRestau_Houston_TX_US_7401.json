@@ -1,0 +1,118 @@
+{
+    "categories": [
+        {
+            "alias": "cantonese",
+            "title": "Cantonese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7075935270071,
+        "longitude": -95.5498995571722
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "mein-restaurant-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QdB99qp8mnNcw8h9A_9LlA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "9630 Clarewood Dr",
+        "address2": "Ste A-13",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77036"
+    },
+    "name": "Mein Restaurant",
+    "phone": "+17139237488",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QdB99qp8mnNcw8h9A_9LlA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Xc1gcovnQwWI8h7GQ4kz-A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zHiwkyH471VHs5U_t1dtzg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 240,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mein-restaurant-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7401"
+}

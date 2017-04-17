@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8153038,
+        "longitude": 144.9550476
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "kings-steak-and-seafood-bar-melbourne-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pKnSpGkWWOp46ORXsopX9g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "209 King St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "King's Steak & Seafood Bar",
+    "phone": "+61396021213",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pKnSpGkWWOp46ORXsopX9g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BOlwc9UreUcNTNcBrQMe2g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zqRk4-W7eD0wVdoA49zYYw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kings-steak-and-seafood-bar-melbourne-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6159"
+}

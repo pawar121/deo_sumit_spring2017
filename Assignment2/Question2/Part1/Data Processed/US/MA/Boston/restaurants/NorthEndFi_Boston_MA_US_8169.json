@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafoodmarkets",
+            "title": "Seafood Markets"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.36389,
+        "longitude": -71.05548
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "north-end-fish-market-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VvnELcZzO2wg5vDVCApzJQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "99 Salem St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02113"
+    },
+    "name": "North End Fish Market",
+    "phone": "+18573627477",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VvnELcZzO2wg5vDVCApzJQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NS1tljCOSVMdk9hto2SalA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MmrMPl473_NppTzz_Qaj6w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 185,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/north-end-fish-market-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8169"
+}

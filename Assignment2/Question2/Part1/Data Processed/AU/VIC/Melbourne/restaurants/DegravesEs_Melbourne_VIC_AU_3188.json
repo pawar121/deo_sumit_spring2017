@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "modern_european",
+            "title": "Modern European"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8170395,
+        "longitude": 144.9654846
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "degraves-espresso-bar-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rAW-jkRbt_REOMB8KN_i-w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "23-25 Degraves St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Degraves Espresso Bar",
+    "phone": "+61396541245",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rAW-jkRbt_REOMB8KN_i-w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AmKwv4VMnfH8F-htzmqAIg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hITIq2mS3poakJsjfb4jfw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 36,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/degraves-espresso-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3188"
+}

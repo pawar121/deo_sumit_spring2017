@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8618579,
+        "longitude": 151.2105461
+    },
+    "id": "captain-cook-cruises-sydney-5",
+    "image_url": "",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "No.6 Jetty Circular Quay",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Captain Cook Cruises",
+    "phone": "+61292061111",
+    "photos": [],
+    "rating": 2.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/captain-cook-cruises-sydney-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2124"
+}

@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8650354,
+        "longitude": -4.2758156
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1400"
+                }
+            ]
+        }
+    ],
+    "id": "horn-please-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LJ37KG0rHktxRtPT_UCPnw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "91B Berkeley Street",
+        "address2": "",
+        "address3": null,
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G3 7AR"
+    },
+    "name": "Horn Please",
+    "phone": "+441415733021",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LJ37KG0rHktxRtPT_UCPnw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_rDauJZxjLRFxPoMOzL8VA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tD-WdGzyFJ55QExdv0WdFg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/horn-please-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5286"
+}

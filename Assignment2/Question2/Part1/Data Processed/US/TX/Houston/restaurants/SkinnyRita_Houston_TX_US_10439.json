@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.793693,
+        "longitude": -95.376491
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "skinny-ritas-grille-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dre0szYRQKeeww5pJQduNw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4002 N Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77009"
+    },
+    "name": "Skinny Rita's Grille",
+    "phone": "+18328316895",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dre0szYRQKeeww5pJQduNw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GgYf_-cRIdGc_eS-oAC0Rg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6148oQepwYptG7s-J8Yifw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 226,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/skinny-ritas-grille-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10439"
+}

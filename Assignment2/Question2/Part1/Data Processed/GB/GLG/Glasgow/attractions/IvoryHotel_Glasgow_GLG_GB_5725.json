@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8285264,
+        "longitude": -4.2735926
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "ivory-hotel-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3wH0WFxcPN7bV2SpostpLA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Camphill Avenue",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G41 3AY"
+    },
+    "name": "Ivory Hotel",
+    "phone": "+441416360223",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3wH0WFxcPN7bV2SpostpLA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/GRRWxKRh4MTF9A8iyIWEXA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VCh_Ay-iTuX5BQUzHo8DqQ/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ivory-hotel-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5725"
+}

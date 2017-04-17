@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.348497846018,
+        "longitude": -71.036247224256
+    },
+    "id": "blue-hills-bank-pavilion-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qze-thrwKKtQtLbnXa006Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "290 Northern Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Blue Hills Bank Pavilion",
+    "phone": "+16177281600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qze-thrwKKtQtLbnXa006Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5sJXJEnakqnA0uS3BLtwTA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/exss47R6dPg-HtWE6iU5SQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 196,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/blue-hills-bank-pavilion-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1446"
+}

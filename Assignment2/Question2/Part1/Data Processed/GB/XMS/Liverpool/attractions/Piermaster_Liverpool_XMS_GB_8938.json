@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4101,
+        "longitude": -2.97844
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "piermasters-house-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XTcTTAc7urZphSKrtpq7fg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Liverpool City Council",
+        "address2": "Municipal Buildings",
+        "address3": "Dale Street",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L2 2DH"
+    },
+    "name": "Piermaster's House",
+    "phone": "+441512332008",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XTcTTAc7urZphSKrtpq7fg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ozr51kpjseCCV9AdAQSNwg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1PqUCgGhDij53yqA6Kl8Lw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/piermasters-house-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8938"
+}

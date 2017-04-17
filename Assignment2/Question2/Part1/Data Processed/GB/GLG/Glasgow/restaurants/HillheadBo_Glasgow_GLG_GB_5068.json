@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "scottish",
+            "title": "Scottish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.877012470529,
+        "longitude": -4.29069484781581
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "hillhead-bookclub-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4Y-SzXQjhqUIvykZIS-KcQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "17 Vinicombe Street",
+        "address2": null,
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G12 8"
+    },
+    "name": "Hillhead Bookclub",
+    "phone": "+441415761700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4Y-SzXQjhqUIvykZIS-KcQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xku07C9iGaSsjEPVtXH8cw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SRdk0dbL90qVXQVyoWpNlw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 62,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hillhead-bookclub-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5068"
+}

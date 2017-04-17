@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "fitness",
+            "title": "Fitness & Instruction"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2526259,
+        "longitude": -121.9610685
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "addison-penzak-jcc-los-gatos",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J0DboMj252nc-rUdDH2c-Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "14855 Oka Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Gatos",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95032"
+    },
+    "name": "Addison-Penzak JCC",
+    "phone": "+14083577429",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5ly4sSL8XOEcpFyIFWR51w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jaNPyc3OEE3Qgj1d6lOm9A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/n-wDxqKvrsnAe5FK6Sb0VA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 87,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/addison-penzak-jcc-los-gatos?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "209"
+}

@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7155499,
+        "longitude": -95.5010883
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "masala-munchies-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t60RKM_tald7HpgdheeAhA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6692 Southwest Fwy",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77074"
+    },
+    "name": "Masala Munchies",
+    "phone": "+17132662646",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/t60RKM_tald7HpgdheeAhA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8ZY0DB9DgAeeF7weHM_byQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SZxUlshoESSyp1yP0jD-Wg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/masala-munchies-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7279"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8155227,
+        "longitude": 144.9569993
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "tadka-boom-melbourne-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wWl3VGh1HoGC2n1EXZX4JA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Goldsbrough Lane",
+        "address2": "550 Bourke Street",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Tadka Boom!",
+    "phone": "+61396001633",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wWl3VGh1HoGC2n1EXZX4JA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0JB7lMU-Y2y6Tj2ZmWebiA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/K1rwLx7LI0wkHzDe_1KerQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tadka-boom-melbourne-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11156"
+}

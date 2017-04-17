@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.87215,
+        "longitude": 2.36502
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "le-comptoir-général-paris-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LsV0Zbld4nX39_HZrCC3bQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "80 quai de Jemmapes",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "Le Comptoir Général",
+    "phone": "+33144882448",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LsV0Zbld4nX39_HZrCC3bQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/e9VLdBsQvD3RobSd7OFGSQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kQwe31Z1J2eptUAjBC8PYA/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 188,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-comptoir-g%C3%A9n%C3%A9ral-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6547"
+}

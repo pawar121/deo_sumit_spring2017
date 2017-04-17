@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8438352,
+        "longitude": 2.3280708
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "hotel-le-six-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-XDt_L54MSjjiuXJogQNiw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "14 rue Stanislas",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Hotel le Six",
+    "phone": "+33142220075",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-XDt_L54MSjjiuXJogQNiw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/INEyWTdaq9ZeGQ2sg5nWUw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5Fahi3Ly3y2GMb3UF-OhTw/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-le-six-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5359"
+}

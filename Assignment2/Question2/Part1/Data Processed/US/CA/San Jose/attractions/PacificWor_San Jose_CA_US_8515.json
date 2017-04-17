@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "sharedofficespaces",
+            "title": "Shared Office Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33751,
+        "longitude": -121.8940245
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "pacific-workplaces-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GXZabIkzP516c6IoyVXQ8g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "111 North Market Street",
+        "address2": "Suite 300",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "Pacific Workplaces",
+    "phone": "+14083325800",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GXZabIkzP516c6IoyVXQ8g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7PDUxrrxEdkhan09d-kpdQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GTh9oOmY1MoaV1Mz2OPqIQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pacific-workplaces-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8515"
+}

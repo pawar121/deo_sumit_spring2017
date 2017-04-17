@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.08322,
+        "longitude": -118.37682
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2200"
+                }
+            ]
+        }
+    ],
+    "id": "greystone-manor-supperclub-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ufst9LUiQ1WGCzuWZWq20w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "643 N La Cienega Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90069"
+    },
+    "name": "Greystone Manor Supperclub",
+    "phone": "+13106522012",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ufst9LUiQ1WGCzuWZWq20w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JNX3iyOw9uA6yDh_EChfbw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9IA0EzDoCQB9iPEgjGmYFg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 130,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/greystone-manor-supperclub-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4717"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "arts",
+            "title": "Arts & Entertainment"
+        },
+        {
+            "alias": "shoppingcenters",
+            "title": "Shopping Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.879039,
+        "longitude": -4.37104
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "soar-at-intu-braehead-renfrewshire",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i9NK1njXars6lhc3ZIxfwg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Kings Inch Road",
+        "address2": "Braehead",
+        "address3": "Renfrew",
+        "city": "Renfrewshire",
+        "country": "GB",
+        "state": "RFW",
+        "zip_code": "PA4 8XQ"
+    },
+    "name": "Soar at Intu Braehead",
+    "phone": "+448712003222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/i9NK1njXars6lhc3ZIxfwg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ca0JWQ12m9_kGS0N8HzDGA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/L36itLLv1JibOjSEujgHUw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/soar-at-intu-braehead-renfrewshire?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10520"
+}

@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "boating",
+            "title": "Boating"
+        },
+        {
+            "alias": "auto",
+            "title": "Automotive"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9874592,
+        "longitude": -82.5123291
+    },
+    "id": "seamores-canvas-shop-tampa",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yy-qi90wVyjATZ0tgTkyuQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4712 N Clark Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33614"
+    },
+    "name": "Seamore's Canvas Shop",
+    "phone": "+18132372660",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yy-qi90wVyjATZ0tgTkyuQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tZ_mgMYRbmKVNYSx1IbcCQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sBairLyFFscxvhEr2_Kx0A/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/seamores-canvas-shop-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10155"
+}

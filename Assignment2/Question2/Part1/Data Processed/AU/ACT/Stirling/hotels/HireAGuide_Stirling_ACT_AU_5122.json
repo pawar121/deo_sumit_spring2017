@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3545418,
+        "longitude": 149.0473328
+    },
+    "id": "hire-a-guide-stirling",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 Reveley Crs",
+        "address2": null,
+        "address3": null,
+        "city": "Stirling",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2611"
+    },
+    "name": "Hire-A-Guide",
+    "phone": "+61262887894",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hire-a-guide-stirling?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5122"
+}

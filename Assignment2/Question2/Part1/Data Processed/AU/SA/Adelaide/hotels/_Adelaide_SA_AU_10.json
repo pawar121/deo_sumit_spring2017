@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9315,
+        "longitude": 138.604
+    },
+    "id": "109-adelaide",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wH4fF98xVlPaI6OEUUKpEQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Carrington Street 109",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "109",
+    "phone": "+6182231771",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wH4fF98xVlPaI6OEUUKpEQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/109-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10"
+}

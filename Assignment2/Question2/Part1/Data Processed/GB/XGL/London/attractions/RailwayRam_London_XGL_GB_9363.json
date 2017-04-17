@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4522209,
+        "longitude": -0.03563
+    },
+    "id": "railway-ramblers-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TbFy1Ubar4HoDw7FQJBEvQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Sevenoaks Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE4 1RA"
+    },
+    "name": "Railway Ramblers",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TbFy1Ubar4HoDw7FQJBEvQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/railway-ramblers-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9363"
+}

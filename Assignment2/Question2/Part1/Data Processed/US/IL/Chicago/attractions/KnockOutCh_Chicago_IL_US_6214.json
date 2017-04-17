@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "boating",
+            "title": "Boating"
+        },
+        {
+            "alias": "boatcharters",
+            "title": "Boat Charters"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8855615960737,
+        "longitude": -87.6132202148438
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "knockout-charters-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iF3ih6iDU2R-rps1RwVsWQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "111 N Lake Shore Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60601"
+    },
+    "name": "KnockOut Charters",
+    "phone": "+17732309173",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/iF3ih6iDU2R-rps1RwVsWQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ofk0Nhgrobm_Fc6Av7q4WQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lUorjuMdTv2lQGBbRLm4dg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 52,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/knockout-charters-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6214"
+}

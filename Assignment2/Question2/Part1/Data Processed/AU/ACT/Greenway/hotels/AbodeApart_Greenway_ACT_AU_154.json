@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.4144625919889,
+        "longitude": 149.066353941379
+    },
+    "id": "abode-apartments-tuggeranong-greenway",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VobaL0L8lmA0mLdxuSxWTg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "150 Anketell St",
+        "address2": "",
+        "address3": "",
+        "city": "Greenway",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2900"
+    },
+    "name": "Abode Apartments Tuggeranong",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VobaL0L8lmA0mLdxuSxWTg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DJGCs9s9epvlQ3fTH3xoKw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/AXg9eZGwKsi70Gzp4FSuWA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/abode-apartments-tuggeranong-greenway?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "154"
+}

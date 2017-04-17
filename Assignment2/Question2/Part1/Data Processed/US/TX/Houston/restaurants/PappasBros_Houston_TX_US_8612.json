@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7555094708505,
+        "longitude": -95.3628793166023
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "pappas-bros-steakhouse-houston-4",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0W9L4UbsN8Edbfn0APvFoA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1200 McKinney St.",
+        "address2": "",
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77010"
+    },
+    "name": "Pappas Bros Steakhouse",
+    "phone": "+17136581995",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0W9L4UbsN8Edbfn0APvFoA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3nBzTTxIhbJ1c-MpiBJVtw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/G3ngZSx5IHaNB8KsnqSW-w/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.5,
+    "review_count": 77,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pappas-bros-steakhouse-houston-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8612"
+}

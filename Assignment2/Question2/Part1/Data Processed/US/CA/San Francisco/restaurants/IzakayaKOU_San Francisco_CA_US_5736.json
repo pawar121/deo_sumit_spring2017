@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        },
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7840954508032,
+        "longitude": -122.432791119359
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "izakaya-kou-san-francisco",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qSqvUwzOHhw-gckN87owbA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1560 Fillmore St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94115"
+    },
+    "name": "Izakaya KOU",
+    "phone": "+14154419294",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Da4jjxNUeHEXW4MwsdJjTQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IVPOgeMwORAjgboKMgRPqQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xqr86N4O8ARWWHqD9mVoKQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 448,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/izakaya-kou-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5736"
+}

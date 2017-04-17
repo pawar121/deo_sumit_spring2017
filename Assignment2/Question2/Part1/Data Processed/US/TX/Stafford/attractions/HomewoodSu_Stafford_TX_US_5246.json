@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6363392,
+        "longitude": -95.5816422
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "homewood-suites-stafford-stafford",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Df1BnGSdSb-q0_WDp7W2xg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4520 Techniplex Dr",
+        "address2": null,
+        "address3": null,
+        "city": "Stafford",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77477"
+    },
+    "name": "Homewood Suites Stafford",
+    "phone": "+12812652760",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Df1BnGSdSb-q0_WDp7W2xg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/31WhFc8PB-4K65RD15nT7w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Jq-5VNhMkTuFgwZ0Yw742Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/homewood-suites-stafford-stafford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5246"
+}

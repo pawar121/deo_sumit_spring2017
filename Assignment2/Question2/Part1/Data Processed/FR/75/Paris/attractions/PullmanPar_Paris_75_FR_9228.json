@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8385391,
+        "longitude": 2.3203299
+    },
+    "id": "pullman-paris-montparnasse-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/59hjPFFpPnv9AI8eNIingg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "19 rue du Commandant Mouchotte",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75014"
+    },
+    "name": "Pullman Paris Montparnasse",
+    "phone": "+33144364436",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/59hjPFFpPnv9AI8eNIingg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MQF1ep-cH4BbHbq3yEE2yw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zCZu6spabgwl8sIUvSVyAQ/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 3.5,
+    "review_count": 36,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pullman-paris-montparnasse-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9228"
+}

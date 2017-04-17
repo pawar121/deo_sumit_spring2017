@@ -1,0 +1,30 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -37.8931198,
+        "longitude": 145.0961151
+    },
+    "id": "oakleigh-municipal-golf-course-oakleigh",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ebDL_p7wc6_8qpXztaNZUg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Park Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Oakleigh",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3166"
+    },
+    "name": "Oakleigh Municipal Golf Course",
+    "phone": "+61395683307",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ebDL_p7wc6_8qpXztaNZUg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/oakleigh-municipal-golf-course-oakleigh?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8260"
+}

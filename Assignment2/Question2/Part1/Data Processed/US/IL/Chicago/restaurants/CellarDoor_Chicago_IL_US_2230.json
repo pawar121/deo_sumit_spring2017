@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9320491,
+        "longitude": -87.7035751
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "cellar-door-provisions-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BRT-GJUpmntoWkikq4ycMw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3025 W Diversey Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60647"
+    },
+    "name": "Cellar Door Provisions",
+    "phone": "+17736978337",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BRT-GJUpmntoWkikq4ycMw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FV0cqXWz8ZWe-iD_dlJswg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/J3UABhrb35wp1EHwPxF7sg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 107,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cellar-door-provisions-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2230"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8613815,
+        "longitude": 151.2064056
+    },
+    "id": "shangri-la-hotel-sydney-the-rocks-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WAjGIXHcxkwYypdyCLHW7w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "176 Cumberland St",
+        "address2": "The Rocks",
+        "address3": null,
+        "city": "The Rocks",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Shangri-La Hotel, Sydney",
+    "phone": "+61292506000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WAjGIXHcxkwYypdyCLHW7w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8QUfjgY6bBvYwQWw_jrTLg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R7vYgtYnfbW2qjuFosWDeA/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.0,
+    "review_count": 50,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/shangri-la-hotel-sydney-the-rocks-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10279"
+}

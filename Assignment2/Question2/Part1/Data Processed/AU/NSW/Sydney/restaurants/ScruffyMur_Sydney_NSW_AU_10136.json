@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "sportsbars",
+            "title": "Sports Bars"
+        },
+        {
+            "alias": "irish",
+            "title": "Irish"
+        },
+        {
+            "alias": "irish_pubs",
+            "title": "Irish Pub"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8780609,
+        "longitude": 151.2060203
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1200",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "scruffy-murphys-hotel-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DH322FlmHw8W_NE5ICvY9g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "43-49 Goulburn St",
+        "address2": "",
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Scruffy Murphy's Hotel",
+    "phone": "+61292112002",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DH322FlmHw8W_NE5ICvY9g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/H72a5GdP90i4_UY7Kj5_mA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aFm8RkfCVut9LLEJKjBhDA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 21,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/scruffy-murphys-hotel-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10136"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8767891,
+        "longitude": 2.3071899
+    },
+    "id": "l-hôtel-du-collectionneur-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/53GWO9Hi50d_Zg1UOpnogw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "51-57 rue de Courcelles",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "L'Hôtel du Collectionneur",
+    "phone": "+33158366700",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/53GWO9Hi50d_Zg1UOpnogw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/B1hCELJVCJtgQhjFYF598A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/g9bg3ND9cuU87lA-MsDq8w/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 38,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/l-h%C3%B4tel-du-collectionneur-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6297"
+}

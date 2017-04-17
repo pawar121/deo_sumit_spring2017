@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7380757,
+        "longitude": -95.4752726
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "corellis-italian-cafe-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SHhoh1lcGbDX1AyQUS_iog/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5640 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77056"
+    },
+    "name": "Corelli's Italian Cafe",
+    "phone": "+17136294424",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SHhoh1lcGbDX1AyQUS_iog/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fJgrovfjtHiEKdM28Pm0fg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Soa5jNTCoLCR211enPARGA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 67,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/corellis-italian-cafe-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2841"
+}

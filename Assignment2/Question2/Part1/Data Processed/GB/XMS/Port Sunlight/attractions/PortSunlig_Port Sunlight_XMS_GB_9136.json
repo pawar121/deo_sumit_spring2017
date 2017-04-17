@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3550148,
+        "longitude": -2.9983366
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "port-sunlight-museum-and-garden-village-port-sunlight",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UQeM4h5C_CjUPrgPC0y5jw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "23 King George's Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Port Sunlight",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "CH62 5DX"
+    },
+    "name": "Port Sunlight Museum & Garden Village",
+    "phone": "+441516446466",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UQeM4h5C_CjUPrgPC0y5jw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mtBSknFOUqCDj7KXY4Ztiw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dWdf-SiiIHGIjP4vyF3itg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/port-sunlight-museum-and-garden-village-port-sunlight?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9136"
+}

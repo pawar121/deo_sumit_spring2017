@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.0498505,
+        "longitude": -118.3093796
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "ann-eden-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/26tJ_cE0cqYErPTiGcFRqQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1133 S Western Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90006"
+    },
+    "name": "Ann Eden",
+    "phone": "+13105916984",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/26tJ_cE0cqYErPTiGcFRqQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/doTAV1NSBEVSO9U3B_ArGQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UY6RRyGRBh68oxELntNbGg/o.jpg"
+    ],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ann-eden-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "526"
+}

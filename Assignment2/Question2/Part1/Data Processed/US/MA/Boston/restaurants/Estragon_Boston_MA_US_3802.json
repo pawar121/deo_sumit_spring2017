@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.33833,
+        "longitude": -71.07029
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "estragon-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yk8xuetXp5vhuwQi4tNK8g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "700 Harrison Ave",
+        "address2": "Unit D",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "Estragon",
+    "phone": "+16172660443",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yk8xuetXp5vhuwQi4tNK8g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BbLd9giPQCHmhIJHfDgz9w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/geI9zJavdeRev1BUwh7cjQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 395,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/estragon-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3802"
+}

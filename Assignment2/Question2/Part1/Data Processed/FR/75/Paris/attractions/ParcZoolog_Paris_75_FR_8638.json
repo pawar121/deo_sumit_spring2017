@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "zoos",
+            "title": "Zoos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.82931,
+        "longitude": 2.41992
+    },
+    "id": "parc-zoologique-de-paris-zoo-de-vincennes-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vioylkdq3sKHiiUgDR3UnQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "53 ave de Saint-Maurice",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75012"
+    },
+    "name": "Parc Zoologique de Paris - Zoo de Vincennes",
+    "phone": "+33144752010",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Vioylkdq3sKHiiUgDR3UnQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CyTq5olNSUk4Vl_2nHIdsg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AfpZCx_NhSzmBY7G1WNgLg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 46,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/parc-zoologique-de-paris-zoo-de-vincennes-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8638"
+}

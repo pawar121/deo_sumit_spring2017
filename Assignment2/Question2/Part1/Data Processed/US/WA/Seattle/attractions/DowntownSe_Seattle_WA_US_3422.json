@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.613680729111,
+        "longitude": -122.335756011307
+    },
+    "id": "downtown-seattle-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/47n03AltHs00DPo3cLsLqw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1809 7th Ave",
+        "address2": "Ste 900",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Downtown Seattle",
+    "phone": "+12066230340",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/47n03AltHs00DPo3cLsLqw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qgA1lRHKZ8UiFwnthuW1xQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fUHwKpmeSEkKWoVzjddOFw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/downtown-seattle-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3422"
+}

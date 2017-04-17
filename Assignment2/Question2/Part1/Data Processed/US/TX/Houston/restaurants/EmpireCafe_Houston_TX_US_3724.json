@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.742905,
+        "longitude": -95.403542
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "empire-cafe-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TzEsEDeo4NkXJuUpzTqUTQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1732 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77098"
+    },
+    "name": "Empire Cafe",
+    "phone": "+17135285282",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TzEsEDeo4NkXJuUpzTqUTQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1jeyTVxJZoad8btL61tDMQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OoD9d2ttA6223VPDkpYcXQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1281,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/empire-cafe-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3724"
+}

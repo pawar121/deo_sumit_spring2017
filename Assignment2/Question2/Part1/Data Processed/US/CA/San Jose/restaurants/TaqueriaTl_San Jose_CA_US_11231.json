@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3125799,
+        "longitude": -121.89368
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "taqueria-tlaquepaque-san-jose-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/v2YG-JrB0s9hmkKR0cHStA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "721 Willow St",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95125"
+    },
+    "name": "Taqueria Tlaquepaque",
+    "phone": "+14082879777",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/v2YG-JrB0s9hmkKR0cHStA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WOc9N1oLYJ0rK35wmQ74CQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5HbaCpdBaF5JgaQ1f7gB4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 673,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/taqueria-tlaquepaque-san-jose-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11231"
+}

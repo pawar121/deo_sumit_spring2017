@@ -1,0 +1,115 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8916397,
+        "longitude": 2.24371
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "0900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "0900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "0900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "0900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "blooweels-courbevoie",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Y0r5IO1t1jju_i-3JDrg0A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "10 avenue André Prothin",
+        "address2": null,
+        "address3": "",
+        "city": "Courbevoie",
+        "country": "FR",
+        "state": "92",
+        "zip_code": "92400"
+    },
+    "name": "Blooweels",
+    "phone": "+33786328072",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Y0r5IO1t1jju_i-3JDrg0A/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/blooweels-courbevoie?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1434"
+}

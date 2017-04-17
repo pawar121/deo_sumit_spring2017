@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5038871,
+        "longitude": -0.1043377
+    },
+    "id": "london-underground-transport-of-london-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EvcZSmaYkGcsCCov97Bxtw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "197 Blackfriars Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 8NJ"
+    },
+    "name": "London Underground - Transport of London",
+    "phone": "+448453007000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EvcZSmaYkGcsCCov97Bxtw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mNDadQS2QBraiY2dJ27rKg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dtn-EYEAXUZGM2c96hmtqw/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 136,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/london-underground-transport-of-london-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6833"
+}

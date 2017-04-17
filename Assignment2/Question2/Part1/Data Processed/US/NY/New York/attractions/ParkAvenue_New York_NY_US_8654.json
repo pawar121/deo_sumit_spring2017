@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7502730779747,
+        "longitude": -73.9786066681229
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "park-avenue-tavern-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SHf7Lp5-WmSNSrM8gbafvg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "99 Park Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "Park Avenue Tavern",
+    "phone": "+12128674484",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SHf7Lp5-WmSNSrM8gbafvg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BNawIixthcbN1Iq7x6Q2Dg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/k_7emXCpG7aOnLAaGDY4cQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 442,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/park-avenue-tavern-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8654"
+}

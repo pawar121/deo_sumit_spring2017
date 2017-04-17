@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.363295720144,
+        "longitude": -71.099788741129
+    },
+    "id": "jill-brown-rhone-park-cambridge",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Gn-mfAamiwK9JYZ8iMlVOQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "900 Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Cambridge",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02139"
+    },
+    "name": "Jill Brown-Rhone Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Gn-mfAamiwK9JYZ8iMlVOQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LqxbieckEoQEslCtt72HUA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5lIkwNNLbNxBffnxrlt0Hg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jill-brown-rhone-park-cambridge?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5870"
+}

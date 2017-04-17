@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8926583003172,
+        "longitude": 2.39395031972228
+    },
+    "id": "le-trabendo-paris-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/By-GZcvgUxEmTjnqe-FYHg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "211 ave Jean-Jaurès",
+        "address2": "",
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75019"
+    },
+    "name": "Le Trabendo",
+    "phone": "+33142060552",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/By-GZcvgUxEmTjnqe-FYHg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/db__KhiXYQmUPWYCK_5big/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MFnPmNcLhsjcvWAVqpOM5g/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-trabendo-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6584"
+}

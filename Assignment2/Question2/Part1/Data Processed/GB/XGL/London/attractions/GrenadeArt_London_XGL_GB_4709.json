@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.516431,
+        "longitude": -0.2062026
+    },
+    "id": "grenade-art-london",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "212 Kensington Park Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W11 1NR"
+    },
+    "name": "Grenade Art",
+    "phone": "+442077274447",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/grenade-art-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4709"
+}

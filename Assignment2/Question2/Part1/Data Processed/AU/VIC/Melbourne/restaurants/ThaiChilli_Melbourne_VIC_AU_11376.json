@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8109207,
+        "longitude": 144.9676819
+    },
+    "id": "thai-chilli-cafe-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1oGSKP5i-t8M3-sr3dMz-w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "234 Russell St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Thai Chilli Cafe",
+    "phone": "+61451566665",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1oGSKP5i-t8M3-sr3dMz-w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ipGVjSMn1nMWoF7ZD0tMBw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oJJ-g4td3aaV6sTACswLxw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/thai-chilli-cafe-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11376"
+}

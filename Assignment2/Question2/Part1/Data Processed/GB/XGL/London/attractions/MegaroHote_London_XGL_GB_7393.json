@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5298,
+        "longitude": -0.123823
+    },
+    "id": "megaro-hotel-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NtITFtkgRQ1LpWZF1_EJ-g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "23-27 Euston Road",
+        "address2": "St Pancras",
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC1H 8AB"
+    },
+    "name": "Megaro Hotel",
+    "phone": "+442078432222",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NtITFtkgRQ1LpWZF1_EJ-g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9IzbJ4mq7e4WkD3VEJAVOA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NbDkvO_0bXGl5qF20nDQ2g/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 45,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/megaro-hotel-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7393"
+}

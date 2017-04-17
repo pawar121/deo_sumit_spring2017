@@ -1,0 +1,118 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8571449,
+        "longitude": -4.2460438
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "the-dhabba-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C0SrJdmreQdGU6Az2qC5EQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "44 Candleriggs",
+        "address2": "Merchant City",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G1 1LE"
+    },
+    "name": "The Dhabba",
+    "phone": "+441415531249",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/C0SrJdmreQdGU6Az2qC5EQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TFy-9NRTWxz-uiOfuEDG3A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lJhY0VhuM7wBKG06H155Kw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 48,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-dhabba-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11511"
+}

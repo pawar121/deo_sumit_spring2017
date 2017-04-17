@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2774696,
+        "longitude": 149.1289978
+    },
+    "id": "one-bar-and-restaurant-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "65 Northbourne Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "One Bar and Restaurant",
+    "phone": "+61262455000",
+    "photos": [],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/one-bar-and-restaurant-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8380"
+}

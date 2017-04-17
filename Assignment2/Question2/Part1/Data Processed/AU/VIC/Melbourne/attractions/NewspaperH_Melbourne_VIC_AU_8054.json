@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.815979,
+        "longitude": 144.9656525
+    },
+    "id": "newspaper-house-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rrVTI6YuJ7xBmXIN0pQiFQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "247-249 Collins st",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Newspaper House",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rrVTI6YuJ7xBmXIN0pQiFQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mWXDXGNQ7vpWvQ3KO5p4SQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/newspaper-house-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8054"
+}

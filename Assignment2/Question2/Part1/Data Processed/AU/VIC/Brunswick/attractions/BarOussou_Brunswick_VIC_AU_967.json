@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.7618479,
+        "longitude": 144.9629126
+    },
+    "id": "bar-oussou-brunswick",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dPOI0Rd9aJd1SKpTZlbdXw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "653 Sydney Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Brunswick",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3056"
+    },
+    "name": "Bar Oussou",
+    "phone": "+6193843040",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dPOI0Rd9aJd1SKpTZlbdXw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lXFZJZW36DVX0mTeMPJCqQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tBNlZStVPIVLzwPgOA8p1w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bar-oussou-brunswick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "967"
+}

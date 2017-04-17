@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "barreclasses",
+            "title": "Barre Classes"
+        },
+        {
+            "alias": "cyclingclasses",
+            "title": "Cycling Classes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3069298,
+        "longitude": -121.8995038
+    },
+    "id": "lift-exercise-studio-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q52p9jzIfi5qm2Ppq8Nh5w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1202 Lincoln Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95125"
+    },
+    "name": "Lift Exercise Studio",
+    "phone": "+14082922263",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Q52p9jzIfi5qm2Ppq8Nh5w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5TE8xUZj28oDCG13YbtDHw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gonhycbMBytYHh2sz0tzQQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 74,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lift-exercise-studio-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6671"
+}

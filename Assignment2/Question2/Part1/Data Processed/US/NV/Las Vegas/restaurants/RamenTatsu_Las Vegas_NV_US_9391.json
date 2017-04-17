@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1276603052039,
+        "longitude": -115.224217678741
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "ramen-tatsu-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B1lHSZ3SGLklTHRF94Hclg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3400 S Jones Blvd",
+        "address2": "Ste 6",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89146"
+    },
+    "name": "Ramen Tatsu",
+    "phone": "+17026297777",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/B1lHSZ3SGLklTHRF94Hclg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ywjVbcIkil3xCddGTggbpg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/G-skZBVqcwNybrSvDtSUyw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 276,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ramen-tatsu-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9391"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.370948,
+        "longitude": -71.1143491
+    },
+    "id": "oberon-cambridge",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b3EXfllX1JMlhMiq-haZwA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Arrow St",
+        "address2": "",
+        "address3": "",
+        "city": "Cambridge",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02138"
+    },
+    "name": "Oberon",
+    "phone": "+16175478300",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/b3EXfllX1JMlhMiq-haZwA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/f9m25nZFmsxLoFGFxyCKsw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-mu5Flw8i24NaiEOHYln4w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 60,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/oberon-cambridge?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8266"
+}

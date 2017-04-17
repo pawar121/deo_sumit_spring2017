@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3158836,
+        "longitude": 149.140213
+    },
+    "id": "la-capanna-kingston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UCVAbxEkHZdRONOYvfkATw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "32 Giles St",
+        "address2": "",
+        "address3": "",
+        "city": "Kingston",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2604"
+    },
+    "name": "La Capanna",
+    "phone": "+61262396712",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UCVAbxEkHZdRONOYvfkATw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-capanna-kingston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6316"
+}

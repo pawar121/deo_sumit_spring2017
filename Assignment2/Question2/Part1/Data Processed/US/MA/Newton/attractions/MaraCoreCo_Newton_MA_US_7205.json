@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "pilates",
+            "title": "Pilates"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3305283,
+        "longitude": -71.2078323
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "mara-core-conditioning-newton",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iLKYT_UWSs8TO-vl4FNmcA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1108 Beacon St",
+        "address2": null,
+        "address3": "",
+        "city": "Newton",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02461"
+    },
+    "name": "Mara Core Conditioning",
+    "phone": "+16178526785",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iLKYT_UWSs8TO-vl4FNmcA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mara-core-conditioning-newton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7205"
+}

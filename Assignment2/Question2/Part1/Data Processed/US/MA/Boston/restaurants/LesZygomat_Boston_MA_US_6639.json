@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.351162781091,
+        "longitude": -71.057466873432
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "les-zygomates-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zIVJTReqb9GDtWG2pAE7Bg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "129 South St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02111"
+    },
+    "name": "Les Zygomates",
+    "phone": "+16175425108",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zIVJTReqb9GDtWG2pAE7Bg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HghiUD3nWWHByrBiZgbNcg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KiBdlf0CLV6hcgV_d2zSig/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 361,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/les-zygomates-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6639"
+}

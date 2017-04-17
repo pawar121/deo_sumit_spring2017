@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8975844,
+        "longitude": -87.667052
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "ruxbin-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hQzN3v2I-ieOUfWZJOG-cw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "851 N Ashland Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60622"
+    },
+    "name": "Ruxbin",
+    "phone": "+13126248509",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hQzN3v2I-ieOUfWZJOG-cw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uIbc7cDeJ9zM47KbNTDATQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ItZ8m7-6UOXK3LKN0ppaCw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 729,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ruxbin-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9874"
+}

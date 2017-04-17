@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8688,
+        "longitude": 2.30083
+    },
+    "id": "four-seasons-george-v-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gxzuZpYZ9uZ3L1dkAVzaoA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "31 avenue George V",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "Four Seasons George V",
+    "phone": "+33149527000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gxzuZpYZ9uZ3L1dkAVzaoA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n0BzyINq_tg_cv05HpGs6g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cmqHcxFfvDz3edBwGJfnXQ/o.jpg"
+    ],
+    "price": "€€€€",
+    "rating": 4.5,
+    "review_count": 101,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/four-seasons-george-v-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4220"
+}

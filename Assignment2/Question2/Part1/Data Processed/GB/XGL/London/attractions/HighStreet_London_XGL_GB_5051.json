@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5009223460129,
+        "longitude": -0.192850828170776
+    },
+    "id": "high-street-kensington-tube-station-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fOcM7bOpfV-bi4hGSN2KWA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Kensington High Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W8 5SA"
+    },
+    "name": "High Street Kensington Tube Station",
+    "phone": "+442072221234",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fOcM7bOpfV-bi4hGSN2KWA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2MCT5hmwInFpAmWEypc6Ww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ii6tLso6WyQXSMfhpD25DA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/high-street-kensington-tube-station-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5051"
+}

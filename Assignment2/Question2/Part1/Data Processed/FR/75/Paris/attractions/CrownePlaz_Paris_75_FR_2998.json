@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.867314,
+        "longitude": 2.365527
+    },
+    "id": "crowne-plaza-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YEG8VTDQw6lESp0_zksDYw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "10 place de la République",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75011"
+    },
+    "name": "Crowne Plaza",
+    "phone": "+33143144419",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YEG8VTDQw6lESp0_zksDYw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/69AlOF-_q7tgoUvGO2HoiA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OUxey0n7zuqVfFqzv1JURw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 3.5,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/crowne-plaza-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2998"
+}

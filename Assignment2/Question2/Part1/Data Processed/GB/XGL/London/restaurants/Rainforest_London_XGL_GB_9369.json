@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.519707057572,
+        "longitude": -0.0754371031798655
+    },
+    "id": "rainforest-creations-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vbgTbId6HOFxcNpHfErbVg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Old Spitalfields Market",
+        "address2": "Brushfield Street",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E1 6BG"
+    },
+    "name": "Rainforest Creations",
+    "phone": "+447985235219",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vbgTbId6HOFxcNpHfErbVg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XUdI4lg8dLukCFP6qYHcOg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 5.0,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rainforest-creations-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9369"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7542117,
+        "longitude": -104.9905643
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "ignite-burgers-and-bar-denver",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fF5DSrKrfEVHT2aeDrnxoA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2124 Larimer St",
+        "address2": null,
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80205"
+    },
+    "name": "Ignite Burgers & Bar",
+    "phone": "+13032962600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fF5DSrKrfEVHT2aeDrnxoA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Z3rwCPoteLxNMcdgLeaTdw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DxX2RNVamMUYGfIlBHqD4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 539,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ignite-burgers-and-bar-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5576"
+}

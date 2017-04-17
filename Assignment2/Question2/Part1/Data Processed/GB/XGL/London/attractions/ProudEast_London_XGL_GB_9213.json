@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.536930914483,
+        "longitude": -0.0783734576273543
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "proud-east-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0UtEyQkhKGsxnRtIkgGKEw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2-10 Hertford Road",
+        "address2": "Regent Canal",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "N1 5ET"
+    },
+    "name": "Proud East",
+    "phone": "+442035982626",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0UtEyQkhKGsxnRtIkgGKEw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Zb96UyiPu5o67DBsartnOQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aPuuLe5c07DINFHa19nRQw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 39,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/proud-east-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9213"
+}

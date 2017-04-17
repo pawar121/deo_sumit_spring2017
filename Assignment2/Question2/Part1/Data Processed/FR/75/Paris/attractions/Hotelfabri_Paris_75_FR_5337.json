@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86303,
+        "longitude": 2.37297
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "hotel-fabric-paris-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9SLc4dTuefCTGCUG3h-6qw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "31 rue de la Folie Méricourt",
+        "address2": null,
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75011"
+    },
+    "name": "Hotel fabric",
+    "phone": "+33143572700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/9SLc4dTuefCTGCUG3h-6qw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/sSNcpekyEAITFFYpWcH5yw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Ne4zXzs4pBWMpGYOmLYAFg/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.5,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-fabric-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5337"
+}

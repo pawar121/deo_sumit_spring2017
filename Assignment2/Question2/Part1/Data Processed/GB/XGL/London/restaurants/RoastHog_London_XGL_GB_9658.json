@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "portuguese",
+            "title": "Portuguese"
+        },
+        {
+            "alias": "foodstands",
+            "title": "Food Stands"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5060233583397,
+        "longitude": -0.0901962116394088
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "roast-hog-london-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ft0p8SrXAgfilgnYWnnZrg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Green Market",
+        "address2": "Cathedral St",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 1TL"
+    },
+    "name": "Roast Hog",
+    "phone": "+447499390309",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ft0p8SrXAgfilgnYWnnZrg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/UnEfE_LaKzFZtQEKxr2-pg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NJOeVUKntwEkdEFM3M1nyg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 5.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/roast-hog-london-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9658"
+}

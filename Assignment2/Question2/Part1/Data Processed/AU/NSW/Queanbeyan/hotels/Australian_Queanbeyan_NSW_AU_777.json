@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3419495,
+        "longitude": 149.2208252
+    },
+    "id": "australian-railway-historical-society-act-div-queanbeyan",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Henderson Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Queanbeyan",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2620"
+    },
+    "name": "Australian Railway Historical Society ACT Div",
+    "phone": "+61262842790",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/australian-railway-historical-society-act-div-queanbeyan?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "777"
+}

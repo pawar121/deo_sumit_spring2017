@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.25767,
+        "longitude": -121.87712
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "nick-the-greek-san-jose-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nK-mX2JEdA5-oHvWIRimVA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5019 Almaden Expy",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95118"
+    },
+    "name": "Nick The Greek",
+    "phone": "+14086228720",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nK-mX2JEdA5-oHvWIRimVA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hUQJoQimZDfQrTgJFUayvg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cbE7N-aN0NVfHnPWYdIe1g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 281,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nick-the-greek-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8065"
+}

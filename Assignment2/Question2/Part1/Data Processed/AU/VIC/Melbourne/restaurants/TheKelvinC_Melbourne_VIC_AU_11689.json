@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        },
+        {
+            "alias": "modern_european",
+            "title": "Modern European"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.813258,
+        "longitude": 144.968941
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "the-kelvin-club-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/N0pNnU__nn_G1XgyrZl4BQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "14-30 Melbourne Place",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "The Kelvin Club",
+    "phone": "+61396545711",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/N0pNnU__nn_G1XgyrZl4BQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9d6UEoENju93WzNKyYlw4g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/d2D5BSpi9VXYsHNoqPI6AA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-kelvin-club-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11689"
+}

@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3221817,
+        "longitude": 149.1480255
+    },
+    "id": "diplomat-hotel-griffith-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Hely St",
+        "address2": null,
+        "address3": null,
+        "city": "Griffith",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Diplomat Hotel",
+    "phone": "+611800026367",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/diplomat-hotel-griffith-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3294"
+}

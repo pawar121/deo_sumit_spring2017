@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4061758,
+        "longitude": -2.9882773
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "cavern-club-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a1Y_5_UBXegaYex1nEFsQw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Matthew Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L2 6RE"
+    },
+    "name": "Cavern Club",
+    "phone": "+441512361965",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/a1Y_5_UBXegaYex1nEFsQw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NaEHEmgLyfNgo-fkW4AuWQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9rf0vjG8XN4AB4lOW4_Mpg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 95,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cavern-club-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2212"
+}

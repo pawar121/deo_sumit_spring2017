@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7902010565423,
+        "longitude": -122.407361268997
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "bouche-san-francisco",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-jUMO628vMIXZ9_NYXg6lg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "603 Bush St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94108"
+    },
+    "name": "Bouche",
+    "phone": "+14159560396",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-jUMO628vMIXZ9_NYXg6lg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7FF7ZEF1_UWnIcpvzEP7Qw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xaa45qbsW9TG4wqzgR8GAg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 591,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bouche-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1635"
+}

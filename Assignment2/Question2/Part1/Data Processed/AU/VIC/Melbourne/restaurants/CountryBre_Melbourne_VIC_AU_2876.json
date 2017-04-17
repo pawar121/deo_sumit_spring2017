@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.810071552577,
+        "longitude": 144.969379980951
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "country-bred-on-lonsdale-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Adn907pxBvLYJDSeJ35aOg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Cnr Lonsdale & Exhibition St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Country Bred on Lonsdale",
+    "phone": "+61396601183",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Adn907pxBvLYJDSeJ35aOg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/euVIay2HblqBpC-u7lKZEA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oQBYgKR2JwC3gOFk5DqMKw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/country-bred-on-lonsdale-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2876"
+}

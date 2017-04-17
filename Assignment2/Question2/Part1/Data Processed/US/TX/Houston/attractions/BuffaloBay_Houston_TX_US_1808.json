@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7614075,
+        "longitude": -95.3755171
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "buffalo-bayou-park-cistern-houston-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rbc97_czk6F9hMTxZVGeKA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "105 Sabine St",
+        "address2": "",
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77007"
+    },
+    "name": "Buffalo Bayou Park Cistern",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Rbc97_czk6F9hMTxZVGeKA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mhMlbppJfh7wz1TM_9gkNQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/epPAYKAjTcX0Wwcy3ardtw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/buffalo-bayou-park-cistern-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1808"
+}

@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.04816,
+        "longitude": -118.28158
+    },
+    "id": "alvarado-inn-towner-motel-los-angeles",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1212 S Alvarado St",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90006"
+    },
+    "name": "Alvarado Inn Towner Motel",
+    "phone": "+12133834774",
+    "photos": [],
+    "price": "$$$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/alvarado-inn-towner-motel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "398"
+}

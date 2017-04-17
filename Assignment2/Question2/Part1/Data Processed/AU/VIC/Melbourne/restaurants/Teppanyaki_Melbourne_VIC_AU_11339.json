@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "teppanyaki",
+            "title": "Teppanyaki"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8149681,
+        "longitude": 144.9674835
+    },
+    "id": "teppanyaki-inn-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/btJyO7VfFn9hhYDmHKQx5Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "182 Collins St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Teppanyaki Inn",
+    "phone": "+61396509431",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/btJyO7VfFn9hhYDmHKQx5Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/abVSJ9TtUWmcyLpUyRHgDw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/w_XGQSj7ucPtIGbkMWOcQA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/teppanyaki-inn-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11339"
+}

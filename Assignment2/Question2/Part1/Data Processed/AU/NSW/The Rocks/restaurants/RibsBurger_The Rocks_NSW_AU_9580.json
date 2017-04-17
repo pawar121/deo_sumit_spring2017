@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.85786,
+        "longitude": 151.20921
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "ribs-and-burgers-the-rocks-4",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2UkogOWL7pznH4yfmyeJiA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "88 George St",
+        "address2": "",
+        "address3": "",
+        "city": "The Rocks",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Ribs & Burgers",
+    "phone": "+61292514488",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2UkogOWL7pznH4yfmyeJiA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VrsDlfZ0m8KYU2NSVl1e8Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tUrl5L4p0vuX7Z14Ypt1Hw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ribs-and-burgers-the-rocks-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9580"
+}

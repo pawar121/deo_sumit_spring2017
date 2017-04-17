@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35199,
+        "longitude": -71.0671651
+    },
+    "id": "massachusetts-bay-transportation-authority-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2rb5YadPbc2qiEnXuloLbg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Park Plz",
+        "address2": "Ste 3910",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Massachusetts Bay Transportation Authority",
+    "phone": "+16172225000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2rb5YadPbc2qiEnXuloLbg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Qp5WlcQZ4ayZBkU_tzNxTg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LmSt1gooMiLXy7t9zbfXag/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 247,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/massachusetts-bay-transportation-authority-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7286"
+}

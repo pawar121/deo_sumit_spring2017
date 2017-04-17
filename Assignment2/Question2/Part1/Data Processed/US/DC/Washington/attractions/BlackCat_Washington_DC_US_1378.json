@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.91458,
+        "longitude": -77.03155
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "black-cat-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MxxlVCHNZ2PMxN0E9dQ2mA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1811 14th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20009"
+    },
+    "name": "Black Cat",
+    "phone": "+12026674490",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MxxlVCHNZ2PMxN0E9dQ2mA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Onqt2ix5owd7TWEyzK7oPQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/K2PT8FRZ2ia1hhQDtRpl_g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 385,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/black-cat-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1378"
+}

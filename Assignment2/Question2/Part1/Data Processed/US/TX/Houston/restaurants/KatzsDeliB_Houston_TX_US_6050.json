@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.744855,
+        "longitude": -95.389568
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "katzs-deli-and-bar-houston-5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4yCE_wxPk9fBalG5VV459Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "616 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Katz's Deli & Bar",
+    "phone": "+17135213838",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dkIEc4HKSQUp8FoUVEIKIg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4yCE_wxPk9fBalG5VV459Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MPPdX5xKgUJf_FFjxJrPWQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 548,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/katzs-deli-and-bar-houston-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6050"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "apartments",
+            "title": "Apartments"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.89992,
+        "longitude": -77.04034
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "aka-white-house-washington-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LewomWBQddCDAPiqFVbmcg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1710 H St NW",
+        "address2": null,
+        "address3": null,
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20006"
+    },
+    "name": "AKA White House",
+    "phone": "+12029042500",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LewomWBQddCDAPiqFVbmcg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/O7giZurhqJOC48ROJ0yq7g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9wgrL8i-j5RkD1-s1a4Oww/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 44,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/aka-white-house-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "298"
+}

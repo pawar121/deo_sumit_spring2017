@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "boatcharters",
+            "title": "Boat Charters"
+        },
+        {
+            "alias": "boating",
+            "title": "Boating"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8916899,
+        "longitude": -87.60834
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "city-lights-cruises-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PzenukwbHIpdirHPsGFnaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "600 E Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60611"
+    },
+    "name": "City Lights Cruises",
+    "phone": "+13122389615",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PzenukwbHIpdirHPsGFnaQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ls7w540_9Bb2yOGv5XN3_w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0JXjaTodpkndDll4Up9dFg/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 37,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/city-lights-cruises-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2569"
+}

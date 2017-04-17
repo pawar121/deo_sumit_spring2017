@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.613367286656,
+        "longitude": -122.3401251
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "hotel-ändra-seattle-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pHPa3G3tuq21YHZNbsAT9g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2000 4th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98121"
+    },
+    "name": "Hotel Andra",
+    "phone": "+12064488600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pHPa3G3tuq21YHZNbsAT9g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hJT_RGkGIudVRgu6N8P19g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jjAhe_jfPkGHxdz3IAnbig/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 180,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-%C3%A4ndra-seattle-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5382"
+}

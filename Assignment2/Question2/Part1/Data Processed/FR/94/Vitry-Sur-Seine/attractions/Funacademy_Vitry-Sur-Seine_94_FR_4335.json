@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.781801,
+        "longitude": 2.407765
+    },
+    "id": "fun-academy-vitry-sur-seine",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "118 Avenue Leon Geffroy - ZI Les Ardoines",
+        "address2": null,
+        "address3": null,
+        "city": "Vitry-Sur-Seine",
+        "country": "FR",
+        "state": "94",
+        "zip_code": "94400"
+    },
+    "name": "Fun academy",
+    "phone": "+33146823000",
+    "photos": [],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fun-academy-vitry-sur-seine?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4335"
+}

@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9545117,
+        "longitude": 115.8556302
+    },
+    "id": "bobs-bar-perth-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VturgvAnXEA0uwJcn8SEkg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "125 St Georges Tce",
+        "address2": "",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Bob's Bar",
+    "phone": "+61862820000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VturgvAnXEA0uwJcn8SEkg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/J1of16XMAdfU6uKpWteDAg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ftNQi3qMpY-wHr-vePUuhw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 13,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bobs-bar-perth-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1487"
+}

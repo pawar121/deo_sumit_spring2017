@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.866291,
+        "longitude": 151.2089844
+    },
+    "id": "bar-pronto-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7hvTSYhKHq9FXPvIPGeFrg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shp2/ 72 Pitt St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Bar Pronto",
+    "phone": "+61292380611",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7hvTSYhKHq9FXPvIPGeFrg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n0WXqKUofz5-XcYMlqY7kg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rctbtwLJ7EdQKMDMg51FIA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bar-pronto-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "971"
+}

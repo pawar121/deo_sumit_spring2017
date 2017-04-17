@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "amateursportsteams",
+            "title": "Amateur Sports Teams"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.71876,
+        "longitude": -73.98965
+    },
+    "id": "nyc-social-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8-ekwP346rp-y1VsyAQ2AA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "85 Delancey St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10002"
+    },
+    "name": "NYC Social",
+    "phone": "+12129295353",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8-ekwP346rp-y1VsyAQ2AA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LhbQ4kXP9VWVBmLOsppdDg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yCouGcQQnQlf8BwTR60meQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 113,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nyc-social-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8224"
+}

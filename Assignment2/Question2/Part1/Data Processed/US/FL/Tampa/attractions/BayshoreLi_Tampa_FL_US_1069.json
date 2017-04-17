@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9404678,
+        "longitude": -82.4598312
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "bayshore-linear-park-trail-tampa",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vWiFwt-ELwvvm2rfw2I1XA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "312 Bayshore Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33606"
+    },
+    "name": "Bayshore Linear Park Trail",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vWiFwt-ELwvvm2rfw2I1XA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aF8O-dgaL9whDe8NG-HwmA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7it-TxI-lJK2LBrWpz5Cng/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 42,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bayshore-linear-park-trail-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1069"
+}

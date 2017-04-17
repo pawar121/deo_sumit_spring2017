@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.1536022,
+        "longitude": -80.8761265
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "500-degrees-new-york-style-pizzeria-charlotte-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tsksaxrvMxYmUfJv1fmGFQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6037 South Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28217"
+    },
+    "name": "500 Degrees New York Style Pizzeria",
+    "phone": "+17045546601",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tsksaxrvMxYmUfJv1fmGFQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7UE0eYBHLhY57ANuy1-AcA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UysjCr3sMP_U-N7_YaYfFA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 99,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/500-degrees-new-york-style-pizzeria-charlotte-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "86"
+}

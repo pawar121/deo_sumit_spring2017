@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "rvparks",
+            "title": "RV Parks"
+        },
+        {
+            "alias": "campgrounds",
+            "title": "Campgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.10886,
+        "longitude": -115.0595093
+    },
+    "id": "las-vegas-koa-at-sams-town-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hWqGQ5PhSwEA--tHuMnrSg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5225 Boulder Hwy",
+        "address2": null,
+        "address3": null,
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89122"
+    },
+    "name": "Las Vegas KOA at Sam's Town",
+    "phone": "+17024548055",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hWqGQ5PhSwEA--tHuMnrSg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2yJBghPeDlNeLcZWtlWvsg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eZY9EXeH_bkM-2SoNBRsXA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 25,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/las-vegas-koa-at-sams-town-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6510"
+}

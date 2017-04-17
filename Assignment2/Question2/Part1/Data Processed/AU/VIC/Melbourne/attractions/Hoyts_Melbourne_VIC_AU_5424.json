@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8096146045868,
+        "longitude": 144.963817176474
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "hoyts-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5ZTmiBolCaVD7nSIK9qHlQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Level 3, Melbourne Central Shopping Centre",
+        "address2": "Swanston St",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Hoyts",
+    "phone": "+611300357357",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5ZTmiBolCaVD7nSIK9qHlQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wsPZNqNnKh6v4qnKRqNw5g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zi3ZBmtclawA4nRuxRvpKA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 25,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hoyts-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5424"
+}

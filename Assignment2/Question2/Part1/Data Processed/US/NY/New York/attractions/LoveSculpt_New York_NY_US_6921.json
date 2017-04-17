@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publicart",
+            "title": "Public Art"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.763158183256,
+        "longitude": -73.9782295443495
+    },
+    "id": "love-sculpture-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_NOFIWC-u-z8c6hxstyInw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1359 Ave of the Americas",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10019"
+    },
+    "name": "Love Sculpture",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_NOFIWC-u-z8c6hxstyInw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/891lcUFd1j4KuHbZxecLtw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bMmGNjo5hPQJuh6ae8gvuw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 67,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/love-sculpture-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6921"
+}

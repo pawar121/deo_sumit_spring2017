@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.68339,
+        "longitude": -122.31782
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "thai-u-up-roosevelt-seattle-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7EcEdkLuzruUMEq-5jnUsg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7501 Roosevelt Way NE",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98115"
+    },
+    "name": "Thai-u-up Roosevelt",
+    "phone": "+12067926190",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7EcEdkLuzruUMEq-5jnUsg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RXq3SDGZH2lsGgahxk_1JA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rn_iuBUAngUicEYIU_k1mw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 30,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/thai-u-up-roosevelt-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11405"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5441064606704,
+        "longitude": -0.15295765739638
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "the-enterprise-london-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h6WmpG1jDat4_1uR8Z2ULw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Haverstock Hill",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "NW3 2BL"
+    },
+    "name": "The Enterprise",
+    "phone": "+442074852659",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/h6WmpG1jDat4_1uR8Z2ULw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2mvqb46tHSRClLPJM07Lbw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yFoMsOTttNxyQ10DQhXkHQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-enterprise-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11554"
+}

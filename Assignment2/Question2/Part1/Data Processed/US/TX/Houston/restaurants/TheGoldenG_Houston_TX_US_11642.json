@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7431508,
+        "longitude": -95.3897499682618
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0415",
+                    "is_overnight": false,
+                    "start": "0400"
+                }
+            ]
+        }
+    ],
+    "id": "the-golden-grill-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8dua_gGA8pfbBowzA-D32g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "H-town",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "The Golden Grill",
+    "phone": "+16023210423",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8dua_gGA8pfbBowzA-D32g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/h521IrlZj7U-0zcptRBwBA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dveWkYsKI5NfzwaTnXJKNA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 58,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-golden-grill-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11642"
+}

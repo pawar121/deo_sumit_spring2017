@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3562084,
+        "longitude": -71.0622806
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "boston-civil-war-tours-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/szLtm-N2F0bmqmBjA6BvDA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "24 Beacon St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02111"
+    },
+    "name": "Boston Civil War Tours",
+    "phone": "+16174136998",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/szLtm-N2F0bmqmBjA6BvDA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tPlC-bKkhcHFgtZZL2hCfw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/grlYL5IT_-jnPzB5NxB7gw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-civil-war-tours-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1580"
+}

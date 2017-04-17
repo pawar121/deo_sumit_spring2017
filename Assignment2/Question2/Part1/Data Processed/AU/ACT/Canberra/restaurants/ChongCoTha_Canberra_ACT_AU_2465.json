@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2377501227179,
+        "longitude": 149.06316397473
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "chong-co-thai-canberra-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/imS3QPSF3SY1Phqy-aQJHw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 327A , Westfield Belconnen",
+        "address2": "Lathlain St",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2617"
+    },
+    "name": "Chong Co Thai",
+    "phone": "+61262519963",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/imS3QPSF3SY1Phqy-aQJHw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pN1Bjs6rp9Wb_i01CLpEDQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/j743Yt6yaRdNDnaEwN8pvQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chong-co-thai-canberra-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2465"
+}

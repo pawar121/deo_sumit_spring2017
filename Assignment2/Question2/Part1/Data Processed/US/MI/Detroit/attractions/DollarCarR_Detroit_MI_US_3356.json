@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.235807,
+        "longitude": -83.3296235
+    },
+    "id": "dollar-car-rental-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/avSZValGeFtCrYJoUV_LUA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "334 Lucas Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48242"
+    },
+    "name": "Dollar Car Rental",
+    "phone": "+18664342226",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/avSZValGeFtCrYJoUV_LUA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ft9wS5csbh9aBOvBsgyfbA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/74YZfb9sVkyf3ltUJpflAw/o.jpg"
+    ],
+    "rating": 1.5,
+    "review_count": 62,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dollar-car-rental-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3356"
+}

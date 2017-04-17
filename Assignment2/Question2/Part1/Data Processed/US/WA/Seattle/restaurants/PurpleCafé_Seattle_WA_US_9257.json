@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.60795,
+        "longitude": -122.33508
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "purple-café-and-wine-bar-seattle-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yK8b6N3ymhCGSR5EFN6tHQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1225 4th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Purple Café and Wine Bar",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yK8b6N3ymhCGSR5EFN6tHQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KciNEzZTecMI0MOOzyrLgA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3ojlBV1W9cZJIeNdwUyokw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 1744,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/purple-caf%C3%A9-and-wine-bar-seattle-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9257"
+}

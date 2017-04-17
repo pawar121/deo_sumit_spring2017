@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9278107,
+        "longitude": 138.5955963
+    },
+    "id": "premier-stateliner-coach-group-adelaide-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zFAvUILhT3ujiEZuJsAMxQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Central Bus Station 85 Franklin St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Premier Stateliner Coach Group",
+    "phone": "+61884155555",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zFAvUILhT3ujiEZuJsAMxQ/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/premier-stateliner-coach-group-adelaide-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9174"
+}

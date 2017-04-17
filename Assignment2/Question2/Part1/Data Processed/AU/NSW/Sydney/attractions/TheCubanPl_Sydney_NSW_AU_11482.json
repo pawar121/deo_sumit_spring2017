@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cuban",
+            "title": "Cuban"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8717613,
+        "longitude": 151.2060242
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "the-cuban-place-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1okzzzv7d5sLbjByx8MlGA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "125 York St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "The Cuban Place",
+    "phone": "+61292644224",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1okzzzv7d5sLbjByx8MlGA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5hadPSBHcmig_vYXhad-pQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/c6n7mxTk7TqhHZUhtlzEmA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-cuban-place-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11482"
+}

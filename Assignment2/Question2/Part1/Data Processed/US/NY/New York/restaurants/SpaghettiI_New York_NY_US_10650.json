@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7223153441439,
+        "longitude": -73.9899454318763
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "spaghetti-incident-new-york-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IZ_0FxWXYSS1Chcb0igqaw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "231 Eldridge St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10002"
+    },
+    "name": "Spaghetti Incident",
+    "phone": "+16468961446",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IZ_0FxWXYSS1Chcb0igqaw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/PFMdMBJZDjrcEY8ki2lFfg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ReIN_StK6yTD_MHD0yZHzA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 227,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spaghetti-incident-new-york-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10650"
+}

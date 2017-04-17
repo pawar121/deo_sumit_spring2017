@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.32651,
+        "longitude": -71.0602399
+    },
+    "id": "south-boston-courtyard-by-marriott-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ejvS2NVvJiy_b9trD19Hxw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "63 R Boston St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02125"
+    },
+    "name": "South Boston Courtyard by Marriott",
+    "phone": "+16174368200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ejvS2NVvJiy_b9trD19Hxw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7az2jrryebOUPrAR8Q6Zhw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QtHBR4lBr-Ktrn1FTkZzdw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 52,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/south-boston-courtyard-by-marriott-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10603"
+}

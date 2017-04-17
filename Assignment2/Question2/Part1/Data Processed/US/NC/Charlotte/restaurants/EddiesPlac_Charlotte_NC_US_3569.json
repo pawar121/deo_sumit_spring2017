@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.1717635,
+        "longitude": -80.8062086
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "eddies-place-charlotte-4",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/035hKACxaSEMwihYyP3azw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "617 S Sharon Amity Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28211"
+    },
+    "name": "Eddie's Place",
+    "phone": "+17044420147",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/035hKACxaSEMwihYyP3azw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/M-kPPMHb2hklNlmCYXyvOA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/n2zEM31M-aDibEZ-jVwn3Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 195,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/eddies-place-charlotte-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3569"
+}

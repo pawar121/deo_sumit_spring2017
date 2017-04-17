@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7112399,
+        "longitude": -104.9732499
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "café-marmotte-denver",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/buxzSpe_aREK12eFjkoW5g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "290 S Downing St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80209"
+    },
+    "name": "Café Marmotte",
+    "phone": "+13039990395",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Tjl8bSssBqGgtl_2bU2WjQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mXZ4KZ8ClyK1bpoHNXm1_g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xMymyWhfbkuxbB3HzRLetQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 44,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/caf%C3%A9-marmotte-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2015"
+}

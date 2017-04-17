@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.308366,
+        "longitude": -121.901722
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "bills-cafe-san-jose-10",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s5fwStkjj5iWdoeIugv9ew/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1115 Willow St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95125"
+    },
+    "name": "Bill's Cafe",
+    "phone": "+14082941125",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/s5fwStkjj5iWdoeIugv9ew/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3K4Ks6KulLxYOD1vh3P2ZQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_A_FLqq4QujR2ybLuRI4Jg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1794,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bills-cafe-san-jose-10?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1306"
+}

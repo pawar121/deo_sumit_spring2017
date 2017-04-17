@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8511716096409,
+        "longitude": -4.29733967178197
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "cherry-and-heather-glasgow",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xM4w3RISdMQnQsUbScKVrg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 North Gower Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G51 1PW"
+    },
+    "name": "Cherry & Heather",
+    "phone": "+441414270272",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xM4w3RISdMQnQsUbScKVrg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mvWzi_79PkEWJQYbVORdxQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uYJ6wWcLBe4BkjoBqZBLNQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cherry-and-heather-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2345"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8526497,
+        "longitude": 2.30901
+    },
+    "id": "hôtel-duquesne-eiffel-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FUw0wq7g3BsiZ4tkcBXoPg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "23 ave Duquesne",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75007"
+    },
+    "name": "Hôtel Duquesne Eiffel",
+    "phone": "+33144420909",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FUw0wq7g3BsiZ4tkcBXoPg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BFTbHriOc8zmGSVGmwmuNA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HHwNQAVyeVSH0GLw4AQHtg/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.5,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-duquesne-eiffel-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5512"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "aquariums",
+            "title": "Aquariums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.2628288,
+        "longitude": -2.8880799
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "blue-planet-aquarium-ellesmere-port",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mTmVg9HDaSedX0EbkvzOEg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Kinsey Rd",
+        "address2": "Chesire Oaks",
+        "address3": "Cheshire",
+        "city": "Ellesmere Port",
+        "country": "GB",
+        "state": "CHW",
+        "zip_code": "CH65 9LF"
+    },
+    "name": "Blue Planet Aquarium",
+    "phone": "+441513578800",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mTmVg9HDaSedX0EbkvzOEg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/UoqeH22vMdI5oGYD6FJGfQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/K900DrGdyLOVxHsBaLlotA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/blue-planet-aquarium-ellesmere-port?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1458"
+}

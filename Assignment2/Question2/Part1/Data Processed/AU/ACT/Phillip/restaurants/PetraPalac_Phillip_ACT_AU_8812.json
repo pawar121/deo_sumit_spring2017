@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "lebanese",
+            "title": "Lebanese"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3524173457914,
+        "longitude": 149.089235253632
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "petra-palace-restaurant-phillip",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iOX8KGoMHIZNkmXJAckayg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "51 Colbee Court",
+        "address2": null,
+        "address3": null,
+        "city": "Phillip",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Petra Palace Restaurant",
+    "phone": "+61488448922",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iOX8KGoMHIZNkmXJAckayg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cir5ZEmM5RC79pwocKhRlA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FqTq8Y6DvTXi6jl2vK9PjA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/petra-palace-restaurant-phillip?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8812"
+}

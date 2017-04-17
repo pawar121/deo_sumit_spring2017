@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8475189,
+        "longitude": 151.1249847
+    },
+    "id": "my-selection-sydney",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 8, Hunter Connection",
+        "address2": "Basement, 7-13 Hunter St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "My Selection",
+    "phone": "+61439998276",
+    "photos": [],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/my-selection-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7858"
+}

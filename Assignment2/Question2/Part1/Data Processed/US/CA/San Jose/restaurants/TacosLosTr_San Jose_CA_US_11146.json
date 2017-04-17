@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.300504,
+        "longitude": -121.857782
+    },
+    "id": "tacos-los-tres-reyes-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c1QrzZd1fcMJgjAHtYi4qQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2410 Monterey Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95111"
+    },
+    "name": "Tacos Los Tres Reyes",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/c1QrzZd1fcMJgjAHtYi4qQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MpF0L6Yp0gn_4fChSx2FuA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QqK4kqji1XtZZjlhBSCqiA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 37,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tacos-los-tres-reyes-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11146"
+}

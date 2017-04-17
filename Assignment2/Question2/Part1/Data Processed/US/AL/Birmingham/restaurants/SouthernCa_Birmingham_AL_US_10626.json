@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "caribbean",
+            "title": "Caribbean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.4801292,
+        "longitude": -86.8958664
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "southern-caribbean-birmingham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e8wgEEoY9mEPCAIH_Xe5VQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1316 Bessemer Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35208"
+    },
+    "name": "Southern Caribbean",
+    "phone": "+12059230197",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/e8wgEEoY9mEPCAIH_Xe5VQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IV_xBUdIRGTq-nw1P0wXzg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oQ2s2seijjXTx29O3eRfgg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/southern-caribbean-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10626"
+}

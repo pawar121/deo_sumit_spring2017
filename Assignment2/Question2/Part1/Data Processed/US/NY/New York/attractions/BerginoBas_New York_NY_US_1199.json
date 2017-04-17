@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "sportgoods",
+            "title": "Sporting Goods"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7330093,
+        "longitude": -73.9922638
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "bergino-baseball-clubhouse-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/poIOSHO1j5DeSKJUeYBvWQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Cast Iron Building",
+        "address2": "67 East 11th St",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10003"
+    },
+    "name": "Bergino Baseball Clubhouse",
+    "phone": "+12122267150",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/poIOSHO1j5DeSKJUeYBvWQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9ayZVpBC7FHNiqdlqzpDUw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/6Old4eM1uUZz277aPpxmPw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 36,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bergino-baseball-clubhouse-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1199"
+}

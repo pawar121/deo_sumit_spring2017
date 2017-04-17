@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9278603,
+        "longitude": 174.7835388
+    },
+    "id": "retail-systems-and-catering-machinery-auckland",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 Selwyn St",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1061"
+    },
+    "name": "Retail Systems & Catering Machinery",
+    "phone": "+6496222877",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/retail-systems-and-catering-machinery-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9547"
+}

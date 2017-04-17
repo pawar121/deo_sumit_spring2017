@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2728535799944,
+        "longitude": 149.131650108765
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "blackfire-braddon",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NFaYaf20wqF8IkZ3gKeKvw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Unit 45",
+        "address2": "45/38 Mort St",
+        "address3": "",
+        "city": "Braddon",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "Blackfire",
+    "phone": "+61262305921",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NFaYaf20wqF8IkZ3gKeKvw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/aIBgFEvH41RuXLv03rLpZQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/blackfire-braddon?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1396"
+}

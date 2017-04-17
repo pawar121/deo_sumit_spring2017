@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.33855,
+        "longitude": -83.04665
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "elwood-bar-and-grill-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-0MAJCZESEPSJfCOa4pQug/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "300 E Adams Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Elwood Bar & Grill",
+    "phone": "+13139622337",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-0MAJCZESEPSJfCOa4pQug/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iOUfjd4obSqa3ZcpKp4eCQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NqYAxAlEwXR3sbcveDQiQw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 34,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elwood-bar-and-grill-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3691"
+}

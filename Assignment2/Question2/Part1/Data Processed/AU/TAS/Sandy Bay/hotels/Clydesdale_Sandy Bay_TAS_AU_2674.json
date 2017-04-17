@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8976801482536,
+        "longitude": 147.329374551773
+    },
+    "id": "clydesdale-manor-sandy-bay",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "292 Sandy Bay Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Sandy Bay",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7005"
+    },
+    "name": "Clydesdale Manor",
+    "phone": "+61418877026",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/clydesdale-manor-sandy-bay?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2674"
+}

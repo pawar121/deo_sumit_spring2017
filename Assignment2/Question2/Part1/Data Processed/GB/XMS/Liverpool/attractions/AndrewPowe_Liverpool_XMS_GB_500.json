@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3886909,
+        "longitude": -2.9207423
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "andrew-power-personal-trainer-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A0jlc7SBVVU0a097pwJNzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "42 Russell Road",
+        "address2": "Garston",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L19 1RJ"
+    },
+    "name": "Andrew Power Personal Trainer",
+    "phone": "+447503115813",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/A0jlc7SBVVU0a097pwJNzQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ey6xAS0qUFfjplN1PLcs4Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/otZTdO4bHjRzJ374JyBhaw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/andrew-power-personal-trainer-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "500"
+}

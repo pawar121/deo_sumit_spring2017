@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4837424,
+        "longitude": -3.0401993
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "lemon-tree-restaurant-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HrAoNSCruFks-jRLPk0tgg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "22 Bridge Rd",
+        "address2": "Crosby",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L23 6SG"
+    },
+    "name": "Lemon Tree Restaurant",
+    "phone": "+441519321119",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HrAoNSCruFks-jRLPk0tgg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oOP_f_exukE3rDIyDWP2kA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IlFEVYkpPdfwDguf4aKq5Q/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lemon-tree-restaurant-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6618"
+}

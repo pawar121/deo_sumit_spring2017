@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3280925178284,
+        "longitude": -121.892924308777
+    },
+    "id": "monopoly-in-the-park-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Nn9zDcTJUEkbw_zSA5bfYg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Discovery Meadow",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95110"
+    },
+    "name": "Monopoly In the Park",
+    "phone": "+14089956487",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Nn9zDcTJUEkbw_zSA5bfYg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nHWwkzxhoms73rA_xo_O9Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3D_lTvHkhmCY7q6Si6xsJg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 31,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/monopoly-in-the-park-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7664"
+}

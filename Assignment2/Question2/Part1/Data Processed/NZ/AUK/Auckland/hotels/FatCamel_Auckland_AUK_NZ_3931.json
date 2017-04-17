@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8461685,
+        "longitude": 174.76828
+    },
+    "id": "fat-camel-auckland",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OGAs8keZcGuswJeV-umx3A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "38 Fort Street",
+        "address2": null,
+        "address3": "Auckland Central",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Fat Camel",
+    "phone": "+6493090798",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OGAs8keZcGuswJeV-umx3A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/fat-camel-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3931"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.876049,
+        "longitude": 151.2064972
+    },
+    "id": "metro-theatre-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QcjD2OrP7lwbcwGSEr3Cmg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "624 George St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Metro Theatre",
+    "phone": "+61295503666",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QcjD2OrP7lwbcwGSEr3Cmg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/j0g3ZHnULbVpaooCpLK35g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cwY6fWbQlVo1UnU27y5xcA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/metro-theatre-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7459"
+}

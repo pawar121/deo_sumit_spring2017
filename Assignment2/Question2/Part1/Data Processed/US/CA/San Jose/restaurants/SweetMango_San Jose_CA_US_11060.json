@@ -1,0 +1,126 @@
+{
+    "categories": [
+        {
+            "alias": "burmese",
+            "title": "Burmese"
+        },
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3088799,
+        "longitude": -121.8996506
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 5,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 6,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1630"
+                }
+            ]
+        }
+    ],
+    "id": "sweet-mango-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OocaZf8DJDFLdh_4-SJbGQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1040 Willow St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95125"
+    },
+    "name": "Sweet Mango",
+    "phone": "+14082932268",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OocaZf8DJDFLdh_4-SJbGQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zc8r5Gf2HF0qw4PD2hZRKw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IeTUEZkfwOuyaKqYK0ru9Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 706,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sweet-mango-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11060"
+}

@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "bootcamps",
+            "title": "Boot Camps"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6016197,
+        "longitude": -95.6218872
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2215",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2215",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2215",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2215",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "1845",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 6,
+                    "end": "1445",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "orangetheory-fitness-sugar-land-sugar-land-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3bTzOH3TaYIflpctSiFctw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15890 Southwest Fwy",
+        "address2": "Ste 300",
+        "address3": "",
+        "city": "Sugar Land",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77478"
+    },
+    "name": "Orangetheory Fitness Sugar Land",
+    "phone": "+12813250018",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3bTzOH3TaYIflpctSiFctw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rECDqZwN7e97iHhpedYeeA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_vOQf9RGFQKkxDUUWhUZyQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/orangetheory-fitness-sugar-land-sugar-land-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8416"
+}

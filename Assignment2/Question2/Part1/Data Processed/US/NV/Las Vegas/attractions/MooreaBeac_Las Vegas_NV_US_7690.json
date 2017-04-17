@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0921499,
+        "longitude": -115.17665
+    },
+    "id": "moorea-beach-club-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M4k81WhEnWmwcNzquG8uMg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Mandalay Bay Resort And Casino",
+        "address2": "3950 S Las Vegas Boulevard",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    "name": "Moorea Beach Club",
+    "phone": "+17026327777",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/M4k81WhEnWmwcNzquG8uMg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NI1_Y9Kypoudxl_BpEgb_A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PSCcXSUfWzDLgsrRgN7szA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 126,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/moorea-beach-club-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7690"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5245752,
+        "longitude": -0.176988
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "laville-café-london-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fQ6hrX00qsHekK2Vd2vaVA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "453 Edgware Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 1TH"
+    },
+    "name": "Laville Café",
+    "phone": "+442077062620",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fQ6hrX00qsHekK2Vd2vaVA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2ZeEooQxaas163PmikAPtA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Jx4oleC5XJ-jVApSS3lpdw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 24,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/laville-caf%C3%A9-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6529"
+}

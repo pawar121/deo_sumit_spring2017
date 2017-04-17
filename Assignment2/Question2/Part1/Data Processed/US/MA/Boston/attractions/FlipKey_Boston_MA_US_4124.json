@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "guesthouses",
+            "title": "Guest Houses"
+        },
+        {
+            "alias": "vacation_rentals",
+            "title": "Vacation Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.36678,
+        "longitude": -71.05941
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "flipkey-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DMxtzCPSBsZBp76BQizQtw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "226 Causeway St",
+        "address2": "2nd Fl",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02114"
+    },
+    "name": "FlipKey",
+    "phone": "+18773547539",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DMxtzCPSBsZBp76BQizQtw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SUEtIhPm8W0vFmhnm26thg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OSPJgQk1UJriitlRZylA1w/o.jpg"
+    ],
+    "rating": 1.0,
+    "review_count": 62,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/flipkey-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4124"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "taxis",
+            "title": "Taxis"
+        },
+        {
+            "alias": "limos",
+            "title": "Limos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.361255,
+        "longitude": -121.862852
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 6,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "lucky7cab-san-jose-11",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kgoz0bL-psf6_k6VTL7xVQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1725 Schulte Dr",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95133"
+    },
+    "name": "Lucky7Cab",
+    "phone": "+14083470777",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/L3AhITicXh5hLgnwOIrRWQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Kgoz0bL-psf6_k6VTL7xVQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/z9RnGmVTAmd8Hwh_tQlDzQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 278,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lucky7cab-san-jose-11?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6955"
+}

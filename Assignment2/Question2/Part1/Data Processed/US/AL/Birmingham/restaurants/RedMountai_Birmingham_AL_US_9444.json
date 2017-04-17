@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5243276611594,
+        "longitude": -86.7739104925652
+    },
+    "id": "red-mountain-crawfish-birmingham-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5hRvtbm1cegoJ5MK1oP2IA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "201 41st St S",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35205"
+    },
+    "name": "Red Mountain Crawfish",
+    "phone": "+12054903219",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5hRvtbm1cegoJ5MK1oP2IA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/10gKa3X4SNw4sYmVurr0Kg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2iGXCr5ZGVlh0dQKC2swOQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 21,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/red-mountain-crawfish-birmingham-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9444"
+}

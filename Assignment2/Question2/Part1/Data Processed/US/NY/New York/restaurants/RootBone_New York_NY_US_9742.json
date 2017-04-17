@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7226711,
+        "longitude": -73.9833545
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "root-and-bone-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CG-rI6U0_EC6ZbNfdlPn4g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "200 E 3rd St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10009"
+    },
+    "name": "Root & Bone",
+    "phone": "+16466827076",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CG-rI6U0_EC6ZbNfdlPn4g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/shZerCff_3O3Rmt255ASnQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/PeXb1q9jrIjtbqXmD__TnQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 899,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/root-and-bone-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9742"
+}

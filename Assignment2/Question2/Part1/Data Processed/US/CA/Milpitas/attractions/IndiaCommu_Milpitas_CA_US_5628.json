@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "sports_clubs",
+            "title": "Sports Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.431996,
+        "longitude": -121.895312
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "india-community-center-milpitas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bGsTFj-5tk1bxs_vke6Gjw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "525 Los Coches St",
+        "address2": "",
+        "address3": "",
+        "city": "Milpitas",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95035"
+    },
+    "name": "India Community Center",
+    "phone": "+14089341130",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bGsTFj-5tk1bxs_vke6Gjw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/nagzRepZ6hqxfyQRBaU2og/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JkdVypEJipxppsbLMehwAg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 40,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/india-community-center-milpitas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5628"
+}

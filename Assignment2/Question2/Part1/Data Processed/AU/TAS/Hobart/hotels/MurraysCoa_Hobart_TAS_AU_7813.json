@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "bustours",
+            "title": "Bus Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.87158,
+        "longitude": 147.32156
+    },
+    "id": "murrays-coaches-buses-and-limousines-hobart",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yIJo_ybz6StsAwHr-hDkjg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Murrays Coaches, Buses & Limousines",
+    "phone": "+61132259",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yIJo_ybz6StsAwHr-hDkjg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WSlO8AbWrwOrIRnYqB8v2w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vzXer2TSViwoirjDO9ce8A/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/murrays-coaches-buses-and-limousines-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7813"
+}

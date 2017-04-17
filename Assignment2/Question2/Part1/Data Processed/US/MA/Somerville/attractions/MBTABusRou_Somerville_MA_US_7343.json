@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.38274,
+        "longitude": -71.10055
+    },
+    "id": "mbta-bus-route-89-somerville-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ywgi9VRtPVlCsR7bsfW1Ng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Clarendon Hill or Davis Square - Sullivan Square Station",
+        "address2": "via Broadway",
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02143"
+    },
+    "name": "MBTA Bus Route 89",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ywgi9VRtPVlCsR7bsfW1Ng/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ut18pOibqHupS3NhiGPZ6A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/g_T6s50b6lta5TJ1BvkvdA/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mbta-bus-route-89-somerville-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7343"
+}

@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "juicebars",
+            "title": "Juice Bars & Smoothies"
+        },
+        {
+            "alias": "soup",
+            "title": "Soup"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.33197,
+        "longitude": -83.0476599
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "freshii-detroit-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5VLHz99BRqyy5P9D2Kb9pg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1001 Woodward",
+        "address2": "Ste 105",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Freshii",
+    "phone": "+13132370700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5VLHz99BRqyy5P9D2Kb9pg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/xMktfWufCoadhWV5Ltq4UQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/m3G59R5ueJQG0ww1zXJmkg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 21,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/freshii-detroit-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4302"
+}

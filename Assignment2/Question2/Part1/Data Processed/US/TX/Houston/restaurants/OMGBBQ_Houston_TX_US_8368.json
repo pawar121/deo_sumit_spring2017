@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "streetvendors",
+            "title": "Street Vendors"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.8041560847877,
+        "longitude": -95.3853618683549
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "omg-bbq-houston-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mZmmQ6B0gR4gLfRLUANdUw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1040 W Cavalcade St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77009"
+    },
+    "name": "OMG BBQ",
+    "phone": "+18323732945",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mZmmQ6B0gR4gLfRLUANdUw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GH2He-FKTh0g0p0iaOge8A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wrGZ_PSdPKWcnlBdakm8Cw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 28,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/omg-bbq-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8368"
+}

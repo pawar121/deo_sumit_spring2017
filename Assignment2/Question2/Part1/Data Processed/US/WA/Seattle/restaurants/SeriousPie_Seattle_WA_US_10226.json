@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6140289,
+        "longitude": -122.3281479
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "serious-pie-seattle-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N2Al2IP3Oc-pMatvUUJ9nQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1124 Pike St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Serious Pie",
+    "phone": "+12069238012",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/N2Al2IP3Oc-pMatvUUJ9nQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UcgT1h7b23AjFUgQvgoAjg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/J4bWGIfpGlPKLtGBzeL38g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 216,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/serious-pie-seattle-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10226"
+}

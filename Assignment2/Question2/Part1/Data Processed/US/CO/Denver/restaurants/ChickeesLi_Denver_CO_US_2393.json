@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7762,
+        "longitude": -105.0155599
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "chickees-lil-kitchen-denver",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cELWb1YsZg8e9SE9RY_zew/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4340 Zuni St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80211"
+    },
+    "name": "Chickee's Lil Kitchen",
+    "phone": "+17203293980",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cELWb1YsZg8e9SE9RY_zew/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fvt9ha66c9DUMPacB7VLlw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Np20IHMaa7qPyUfE023H2A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 41,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chickees-lil-kitchen-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2393"
+}

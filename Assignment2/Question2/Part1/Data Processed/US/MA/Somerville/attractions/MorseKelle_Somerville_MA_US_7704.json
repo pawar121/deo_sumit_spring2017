@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3884315,
+        "longitude": -71.110611
+    },
+    "id": "morse-kelley-park-somerville",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QLAx75KwwBKwRBySQoaP-A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Summer St and Craigie St",
+        "address2": "",
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02143"
+    },
+    "name": "Morse-Kelley Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QLAx75KwwBKwRBySQoaP-A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/M6qqrxI9Vw7vqjrtRLzOnA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Lct9haaPQ2MiG9-a1DwSDw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/morse-kelley-park-somerville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7704"
+}

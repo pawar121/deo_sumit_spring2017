@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9000975754609,
+        "longitude": -77.0337614773155
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "joes-seafood-prime-steak-and-stone-crab-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qytXjs_MWond0QL0usI9RA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "740 15th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20005"
+    },
+    "name": "Joe's Seafood, Prime Steak & Stone Crab",
+    "phone": "+12024890140",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qytXjs_MWond0QL0usI9RA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GmgmK4-isdKG6XWZnNP0PA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/iRfc6We6ZGRCINwCpOVSXg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 594,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/joes-seafood-prime-steak-and-stone-crab-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5908"
+}

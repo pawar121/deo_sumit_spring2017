@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "sportsbars",
+            "title": "Sports Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3550647,
+        "longitude": -71.1341649
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "lulus-allston-boston-4",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pphYnzRVz_X0E9A269Pu7Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "421 Cambridge St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02134"
+    },
+    "name": "Lulu's Allston",
+    "phone": "+16177871117",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pphYnzRVz_X0E9A269Pu7Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wt091z9vQdtEtX8CnOyPFA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/srUB8D1qoxoyi4jxOzQmlA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 235,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lulus-allston-boston-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6971"
+}

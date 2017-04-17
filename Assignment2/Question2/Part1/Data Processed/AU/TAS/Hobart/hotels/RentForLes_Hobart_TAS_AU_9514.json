@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8845901,
+        "longitude": 147.324646
+    },
+    "id": "rent-for-less-hobart",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aZsxV3aw9eSoQGdBC44Nmw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "92 Harrington St",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Rent For Less",
+    "phone": "+611300883728",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/aZsxV3aw9eSoQGdBC44Nmw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/rent-for-less-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9514"
+}

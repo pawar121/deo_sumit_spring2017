@@ -1,0 +1,94 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9614,
+        "longitude": -87.71341
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "ixcateco-grill-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lajavr-e55Oi1O_CXMMsTg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3402 W Montrose Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60618"
+    },
+    "name": "Ixcateco Grill",
+    "phone": "+17735395887",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lajavr-e55Oi1O_CXMMsTg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/h0r4ZtaBCJEZuE_6X7b9Dg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/K1o2J1TGDi6BbrFiHXzxlw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 105,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ixcateco-grill-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5729"
+}

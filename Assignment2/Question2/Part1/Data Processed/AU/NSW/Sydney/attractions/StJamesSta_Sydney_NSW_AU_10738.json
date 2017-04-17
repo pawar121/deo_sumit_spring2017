@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8855095,
+        "longitude": 151.1947174
+    },
+    "id": "st-james-station-sydney",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "City Circle",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2226"
+    },
+    "name": "St James Station",
+    "phone": "",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/st-james-station-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10738"
+}

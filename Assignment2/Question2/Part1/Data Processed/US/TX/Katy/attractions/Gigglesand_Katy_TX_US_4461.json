@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7897390993647,
+        "longitude": -95.7252834756409
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "giggles-and-fun-katy",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cBbLRIz2zMPBrBYtmJss3Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "20117 Park Row Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Katy",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77449"
+    },
+    "name": "Giggles and Fun",
+    "phone": "+12814922000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cBbLRIz2zMPBrBYtmJss3Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/B1rKjlXfDEvV1yv59JHzuA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IkTnH6ZcKcRhGUreuD83_g/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 22,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/giggles-and-fun-katy?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4461"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8720816,
+        "longitude": 151.206842
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "jet-bar-caffe-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uwROUPe4h29QBpu7vNjPqA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 55, Queen Victoria Building",
+        "address2": "455 George St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Jet Bar Caffe",
+    "phone": "+61292835004",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uwROUPe4h29QBpu7vNjPqA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZCIOcx1P_PS1QXBe7Lr0sQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uHIyiEtTV9lK0zih0fSFvA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jet-bar-caffe-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5857"
+}

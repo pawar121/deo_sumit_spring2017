@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "foodstands",
+            "title": "Food Stands"
+        },
+        {
+            "alias": "gourmet",
+            "title": "Specialty Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.52953,
+        "longitude": -86.8019
+    },
+    "id": "spoonfed-grill-birmingham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QDLOzXBMUil-hxo3R66cYQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1000 28th St N",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35203"
+    },
+    "name": "Spoonfed Grill",
+    "phone": "+12059373788",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QDLOzXBMUil-hxo3R66cYQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/S3e7ljH_xcJ4eXnNVVOMpg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zsnb03Sm2tB1SzAIYBYsmA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spoonfed-grill-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10690"
+}

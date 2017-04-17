@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8714218,
+        "longitude": 151.2080688
+    },
+    "id": "malacca-straits-thai-sydney",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "303 Pitt St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Malacca Straits Thai",
+    "phone": "+61292675454",
+    "photos": [],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/malacca-straits-thai-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7120"
+}

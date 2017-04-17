@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.58684,
+        "longitude": -122.28772
+    },
+    "id": "colman-park-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IZU4TX5vRMygyxuuqy7WIw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1800 Lake Washington Blvd S",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98144"
+    },
+    "name": "Colman Park",
+    "phone": "+12066844075",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IZU4TX5vRMygyxuuqy7WIw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-jrrmDyUF1JRfy_UlbR_gA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2NRNsbiNmvoBku4UthlhIA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/colman-park-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2716"
+}

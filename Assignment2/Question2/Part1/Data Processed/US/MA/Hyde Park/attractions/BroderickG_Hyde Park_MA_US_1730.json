@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "gymnastics",
+            "title": "Gymnastics"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.2352104,
+        "longitude": -71.1381073
+    },
+    "id": "broderick-gymnastics-academy-hyde-park-3",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "67 Sprague St",
+        "address2": "",
+        "address3": "",
+        "city": "Hyde Park",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02136"
+    },
+    "name": "Broderick Gymnastics Academy",
+    "phone": "+16173617300",
+    "photos": [],
+    "rating": 3.5,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/broderick-gymnastics-academy-hyde-park-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1730"
+}

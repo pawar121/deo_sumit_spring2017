@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.8029284,
+        "longitude": -95.4091676
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "southern-goods-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qFGY-dasrT8Dx3CCUwgwsQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "623 W 19th St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77008"
+    },
+    "name": "Southern Goods",
+    "phone": "+13469808152",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qFGY-dasrT8Dx3CCUwgwsQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ukgkqNSVxuJq9fUhByNX6g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WgQutzyns0jYYA-x2uruuA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 207,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/southern-goods-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10628"
+}

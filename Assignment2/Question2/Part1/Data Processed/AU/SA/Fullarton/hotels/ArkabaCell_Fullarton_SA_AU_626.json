@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9471703,
+        "longitude": 138.6257935
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "arkaba-cellars-fullarton",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FaJJhbUfQI3XfIszMqiZig/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "150 Glen Osmond Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Fullarton",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5063"
+    },
+    "name": "Arkaba Cellars",
+    "phone": "+61883381100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FaJJhbUfQI3XfIszMqiZig/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/arkaba-cellars-fullarton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "626"
+}

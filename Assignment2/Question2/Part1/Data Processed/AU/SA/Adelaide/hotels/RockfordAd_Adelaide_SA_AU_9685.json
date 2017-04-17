@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9231834,
+        "longitude": 138.5930328
+    },
+    "id": "rockford-adelaide-adelaide",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z6kyZ6QSDvtxwR6TsTC1iQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "164 Hindley St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Rockford Adelaide",
+    "phone": "+61882118255",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/z6kyZ6QSDvtxwR6TsTC1iQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/l54WFy3mBBjgAX1TzUZOXQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/rockford-adelaide-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9685"
+}

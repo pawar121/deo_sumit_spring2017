@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.89377,
+        "longitude": -87.62707
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "holiday-inn-express-chicago-magnificent-mile-chicago",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/drhWjNXWe2slQMI7oTtXYQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "640 N Wabash Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60611"
+    },
+    "name": "Holiday Inn Express Chicago - Magnificent Mile",
+    "phone": "+13127874030",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5_d25tgbJXdQ976wP3NkQw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OIor9W5Er8i663VH4z_New/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_ANK_eSWiP5KNpbAc01pPw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 106,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/holiday-inn-express-chicago-magnificent-mile-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5171"
+}

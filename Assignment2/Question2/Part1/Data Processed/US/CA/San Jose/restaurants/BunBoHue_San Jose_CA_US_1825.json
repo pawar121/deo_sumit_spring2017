@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2993499,
+        "longitude": -121.83962
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "bun-bo-hue-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dW6chApQxXGKqGWoH6v0WQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2871 Senter Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95111"
+    },
+    "name": "Bun Bo Hue",
+    "phone": "+14086294212",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dW6chApQxXGKqGWoH6v0WQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iqp_n6gNhZCmAsgURSOW1Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ohp7BZJFwaJ9Gbp2PtnjJg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 242,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bun-bo-hue-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1825"
+}

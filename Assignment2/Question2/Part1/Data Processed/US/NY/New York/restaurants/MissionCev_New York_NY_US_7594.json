@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "foodstands",
+            "title": "Food Stands"
+        },
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.74108,
+        "longitude": -74.004628
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "mission-ceviche-new-york",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p045OeiL1gEJokK-thJhLw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "353 W 14th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10014"
+    },
+    "name": "Mission Ceviche",
+    "phone": "+13478216359",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/p045OeiL1gEJokK-thJhLw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Ey8Z6D3M8pUgjGYUmM_O0A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_DuI3zp5kfod_Wmwh_1Mvw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 33,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mission-ceviche-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7594"
+}

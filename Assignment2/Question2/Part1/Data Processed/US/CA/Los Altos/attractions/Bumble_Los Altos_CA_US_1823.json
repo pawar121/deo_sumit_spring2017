@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "kids_activities",
+            "title": "Kids Activities"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3796304,
+        "longitude": -122.1187828
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "bumble-los-altos",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Yf8yy6q6mLz42jFxFukCnA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "145 1st St",
+        "address2": null,
+        "address3": "",
+        "city": "Los Altos",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94022"
+    },
+    "name": "Bumble",
+    "phone": "+16503835340",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Yf8yy6q6mLz42jFxFukCnA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0e-mKAFg23LblgYw2_H9RA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QwffGiaPwrByfE4Xwyy-ag/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 446,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bumble-los-altos?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1823"
+}

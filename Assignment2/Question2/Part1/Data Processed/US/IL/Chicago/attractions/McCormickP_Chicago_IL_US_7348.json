@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8498811884961,
+        "longitude": -87.6159906950709
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "mccormick-place-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-gkHRZhoPHAlxdIRRDnYZQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2301 S Martin Luther King Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60616"
+    },
+    "name": "McCormick Place",
+    "phone": "+13127917000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-gkHRZhoPHAlxdIRRDnYZQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/sGgiF6QhyjNk3OPFGCDjKA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BNv4ZKriNE4igc60vBp7yw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 174,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mccormick-place-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7348"
+}

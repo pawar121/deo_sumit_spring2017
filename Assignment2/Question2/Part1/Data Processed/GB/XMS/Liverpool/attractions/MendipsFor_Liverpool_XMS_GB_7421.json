@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3696823,
+        "longitude": -2.8979492
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "mendips-and-20-forthlin-road-tours-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fXYLKKMG1oaN4GNGMYj5-Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "20 Forthlin Road",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L24 1YP"
+    },
+    "name": "Mendips & 20 Forthlin Road Tours",
+    "phone": "+441514277231",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fXYLKKMG1oaN4GNGMYj5-Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Ia0T6v_4DUqMsyGzeLBA9A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/sYfcDeqMKL6FzLDHWV5_CA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mendips-and-20-forthlin-road-tours-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7421"
+}

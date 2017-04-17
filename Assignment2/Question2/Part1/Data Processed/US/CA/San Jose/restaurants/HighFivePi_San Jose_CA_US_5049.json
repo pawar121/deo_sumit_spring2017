@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2671509,
+        "longitude": -121.8322372
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "high-five-pizza-san-jose-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y0JsBORfpbxIdZuqgvcJrw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "171 Branham Ln",
+        "address2": "Ste 1",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95136"
+    },
+    "name": "High Five Pizza",
+    "phone": "+14086296800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/y0JsBORfpbxIdZuqgvcJrw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VhVjmPEWs3eW1TNvkSiDGg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yG3W8EbxAQAiCkOmoNgAXw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 597,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/high-five-pizza-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5049"
+}

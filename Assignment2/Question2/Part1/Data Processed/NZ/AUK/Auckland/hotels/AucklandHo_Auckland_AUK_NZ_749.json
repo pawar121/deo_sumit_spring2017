@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9061317,
+        "longitude": 174.9017029
+    },
+    "id": "auckland-hockey-association-auckland",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Bells Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "2010"
+    },
+    "name": "Auckland Hockey Association",
+    "phone": "+6495760683",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/auckland-hockey-association-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "749"
+}

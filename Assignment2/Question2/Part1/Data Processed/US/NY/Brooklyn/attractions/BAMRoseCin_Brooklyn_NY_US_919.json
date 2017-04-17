@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.68673,
+        "longitude": -73.97775
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1330"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1330"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1330"
+                }
+            ]
+        }
+    ],
+    "id": "bam-rose-cinemas-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LeqMd6H2pPrWGg5dK-XrJw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "30 Lafayette Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11217"
+    },
+    "name": "BAM Rose Cinemas",
+    "phone": "+17186364100",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LeqMd6H2pPrWGg5dK-XrJw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tzWkuHnQn_aAXB4lEjmYVA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/A1Zlco-IU_JN_5Dipm-iYQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 176,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bam-rose-cinemas-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "919"
+}

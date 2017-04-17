@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "modern_european",
+            "title": "Modern European"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.814091,
+        "longitude": 144.961314
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "campari-house-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tQfqmakwEZm57JInV9qo0g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "23-25 Hardware Lane",
+        "address2": "",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Campari House",
+    "phone": "+61396001574",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tQfqmakwEZm57JInV9qo0g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yC4V4FtjAP642UAxK4cDwA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0o8ShDjAMz-Z0G6RF3f-mg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/campari-house-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2053"
+}

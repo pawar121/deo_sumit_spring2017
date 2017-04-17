@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.6246605,
+        "longitude": -2.562
+    },
+    "id": "rivington-hall-barn-preston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wf58JBJMekfc-ejVkJ1Ksg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": "",
+        "address3": "",
+        "city": "Preston",
+        "country": "GB",
+        "state": "LAN",
+        "zip_code": "BL6 7SB"
+    },
+    "name": "Rivington Hall Barn",
+    "phone": "+441204669332",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Wf58JBJMekfc-ejVkJ1Ksg/o.jpg"
+    ],
+    "price": "££££",
+    "rating": 5.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rivington-hall-barn-preston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9649"
+}

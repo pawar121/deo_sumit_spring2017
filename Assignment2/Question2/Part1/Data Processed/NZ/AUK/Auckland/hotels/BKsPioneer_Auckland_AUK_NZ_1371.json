@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9731827,
+        "longitude": 174.7881165
+    },
+    "id": "bks-pioneer-motor-lodge-auckland",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gV5BFG2ZiCeQa165yP5a_g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "205 Kirkbride Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "2022"
+    },
+    "name": "BKs Pioneer Motor Lodge",
+    "phone": "+6492757752",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gV5BFG2ZiCeQa165yP5a_g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/bks-pioneer-motor-lodge-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1371"
+}

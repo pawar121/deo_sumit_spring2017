@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "attractionfarms",
+            "title": "Attraction Farms"
+        },
+        {
+            "alias": "hauntedhouses",
+            "title": "Haunted Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.12348,
+        "longitude": -118.27386
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "los-angeles-haunted-hayride-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U-w1xkmfnB43AWVGCueQBA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4730 Crystal Springs Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90027"
+    },
+    "name": "Los Angeles Haunted Hayride",
+    "phone": "+13109938289",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/U-w1xkmfnB43AWVGCueQBA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/g5yIDuvPSpIiytGeWzjE1Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/f2XbC2Xhp2RzAM4-jpzWCg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 597,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/los-angeles-haunted-hayride-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6872"
+}

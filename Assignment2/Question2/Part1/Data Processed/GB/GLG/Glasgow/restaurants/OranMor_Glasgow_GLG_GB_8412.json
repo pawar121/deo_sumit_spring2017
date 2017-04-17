@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "scottish",
+            "title": "Scottish"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8774053325772,
+        "longitude": -4.28921699523926
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "oran-mor-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3qY_7w3H3u3fFUXewFY9Og/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "731 Great Western Road",
+        "address2": "Hillhead",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G12 8QX"
+    },
+    "name": "Oran Mor",
+    "phone": "+441413576200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3qY_7w3H3u3fFUXewFY9Og/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/g0M7QPPH4AzQqUt8uzhRZA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zltFgQUaTqah3odmguDV_A/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 113,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/oran-mor-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8412"
+}

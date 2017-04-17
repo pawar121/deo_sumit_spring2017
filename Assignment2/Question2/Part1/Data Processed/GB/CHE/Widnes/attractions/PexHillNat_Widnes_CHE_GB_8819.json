@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "active",
+            "title": "Active Life"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.37423,
+        "longitude": -2.73328
+    },
+    "id": "pex-hill-nature-reserve-widnes",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IZGafu9K2M8mWKQwb7XlDw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": "",
+        "address3": "",
+        "city": "Widnes",
+        "country": "GB",
+        "state": "CHE",
+        "zip_code": "WA8 5QW"
+    },
+    "name": "Pex Hill Nature Reserve",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IZGafu9K2M8mWKQwb7XlDw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pex-hill-nature-reserve-widnes?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8819"
+}

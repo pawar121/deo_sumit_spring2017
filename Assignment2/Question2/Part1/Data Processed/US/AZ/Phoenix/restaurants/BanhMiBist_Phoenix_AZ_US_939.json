@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.6406782416876,
+        "longitude": -112.110540077578
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "banh-mi-bistro-vietnamese-eatery-phoenix",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9psdF4AlXo57nxkBGB0hDA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2340 W Bell Rd",
+        "address2": "Ste 110",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85023"
+    },
+    "name": "Banh Mi Bistro Vietnamese Eatery",
+    "phone": "+16028433637",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9psdF4AlXo57nxkBGB0hDA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VAVourD225gMywC1kKARvg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JZic8-m1d2ujbuOxOPq8fg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 212,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/banh-mi-bistro-vietnamese-eatery-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "939"
+}

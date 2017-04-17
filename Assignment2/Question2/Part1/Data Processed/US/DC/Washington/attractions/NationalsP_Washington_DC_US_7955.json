@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        },
+        {
+            "alias": "baseballfields",
+            "title": "Baseball Fields"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.873512,
+        "longitude": -77.007422
+    },
+    "id": "nationals-park-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EpOHwXGrfpyycfBQugv0HQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1500 S Capitol St SE",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20003"
+    },
+    "name": "Nationals Park",
+    "phone": "+18886326287",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EpOHwXGrfpyycfBQugv0HQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Qi_TPTG4fJZDDdsHZIY1nw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/szjkdvdITO1wEa6NAufsLg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 652,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nationals-park-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7955"
+}

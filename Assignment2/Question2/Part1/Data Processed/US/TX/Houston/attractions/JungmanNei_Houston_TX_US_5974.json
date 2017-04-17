@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7379749,
+        "longitude": -95.48199
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "jungman-neighborhood-library-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A3q6VpQ5TBXMdmTugdyJCQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5830 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77057"
+    },
+    "name": "Jungman Neighborhood Library",
+    "phone": "+18323931860",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/A3q6VpQ5TBXMdmTugdyJCQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jungman-neighborhood-library-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5974"
+}

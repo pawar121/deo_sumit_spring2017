@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7009471103624,
+        "longitude": -74.0130525827408
+    },
+    "id": "staten-island-ferry-whitehall-terminal-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f_BnSBMcmhcf02S9h57i5Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 S St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10004"
+    },
+    "name": "Staten Island Ferry Whitehall Terminal",
+    "phone": "+17188152628",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/f_BnSBMcmhcf02S9h57i5Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NZ5_kn3vO6BgO9KBjtw9tQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rM41ZMBxxqzJ3WasdGry3A/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 175,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/staten-island-ferry-whitehall-terminal-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10801"
+}

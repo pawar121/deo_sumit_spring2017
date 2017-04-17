@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "bowling",
+            "title": "Bowling"
+        },
+        {
+            "alias": "escapegames",
+            "title": "Escape Games"
+        },
+        {
+            "alias": "karaoke",
+            "title": "Karaoke"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8811285407541,
+        "longitude": 145.164536833763
+    },
+    "id": "strike-glen-waverley-glen-waverley",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Avux5q3u1EBujXODBE1YeQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Century City Walk",
+        "address2": "285 Springvale Rd",
+        "address3": null,
+        "city": "Glen Waverley",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3150"
+    },
+    "name": "Strike - Glen Waverley",
+    "phone": "+611300787453",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Avux5q3u1EBujXODBE1YeQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DExD4jMbf1w_CgmMWrIWEQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/strike-glen-waverley-glen-waverley?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10888"
+}

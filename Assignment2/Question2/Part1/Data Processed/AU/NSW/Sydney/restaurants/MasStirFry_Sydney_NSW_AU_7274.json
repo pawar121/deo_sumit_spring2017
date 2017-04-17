@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.878437,
+        "longitude": 151.2046204
+    },
+    "id": "mas-stir-fry-sydney",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D6-NigRBv-PorN_jRmnj4g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "401 Sussex Street",
+        "address2": "Sussex Centre",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Ma's Stir Fry",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/D6-NigRBv-PorN_jRmnj4g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/n2dgc0J67074WHafa2lG1A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1dz_1sfSIlipH9K9mZ9Ylw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mas-stir-fry-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7274"
+}

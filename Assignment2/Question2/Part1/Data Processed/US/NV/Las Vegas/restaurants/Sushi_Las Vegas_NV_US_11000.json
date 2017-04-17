@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1006939,
+        "longitude": -115.2090751
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "sushi-21-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WKFGuszNQJu7T2PAX2KmNw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4965 W Tropicana Ave",
+        "address2": "Ste 102",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89103"
+    },
+    "name": "Sushi 21",
+    "phone": "+17029522500",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WKFGuszNQJu7T2PAX2KmNw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/m2Osi6YkLnHoXdaaev5z3Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jNv9DMm4uWYXiewv3NWG0A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 509,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sushi-21-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11000"
+}

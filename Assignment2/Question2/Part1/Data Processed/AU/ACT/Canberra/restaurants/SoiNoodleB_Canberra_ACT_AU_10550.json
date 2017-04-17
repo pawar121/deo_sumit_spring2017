@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2784922687454,
+        "longitude": 149.133227452638
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "soi-noodle-bar-canberra",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_XgrT3eT9Mx_I1bhUPNPhg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop EG08",
+        "address2": "Bunda St",
+        "address3": null,
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Soi Noodle Bar",
+    "phone": "+61262470888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_XgrT3eT9Mx_I1bhUPNPhg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WQgz5Su4vxoCRutYqN1UcA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fgX9MapeOAVFpL_jpWXh-w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/soi-noodle-bar-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10550"
+}

@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "gourmet",
+            "title": "Specialty Food"
+        },
+        {
+            "alias": "boatcharters",
+            "title": "Boat Charters"
+        },
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5087818003374,
+        "longitude": -0.121504322753935
+    },
+    "id": "bateaux-london-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3XbS4Fq3hDNmzeGhcXNP0w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Embankment Pier",
+        "address2": "Charing Cross",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2N 6NU"
+    },
+    "name": "Bateaux London",
+    "phone": "+442076951800",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3XbS4Fq3hDNmzeGhcXNP0w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-gqt0SijYRCLqySehpw70w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/C5QNn_LvAs5FgLFt4RH3Ag/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.5,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bateaux-london-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1032"
+}

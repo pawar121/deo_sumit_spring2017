@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.745032,
+        "longitude": -95.391123
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "aladdin-mediterranean-cuisine-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ozwTXU9TRlkrnfidAE-jEQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "912 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Aladdin Mediterranean Cuisine",
+    "phone": "+17139422321",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ozwTXU9TRlkrnfidAE-jEQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oriAnERd7TFtKbmfaoU2Ng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9G6dzzAgnMvv7MmtsdbMkw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 710,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/aladdin-mediterranean-cuisine-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "310"
+}

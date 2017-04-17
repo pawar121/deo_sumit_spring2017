@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "venezuelan",
+            "title": "Venezuelan"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6647592219734,
+        "longitude": -122.312693352331
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "arepa-venezuelan-kitchen-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pOyAQ6IsF57-0r8n07a4SQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1405 NE 50th St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98105"
+    },
+    "name": "Arepa Venezuelan Kitchen",
+    "phone": "+12065564879",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pOyAQ6IsF57-0r8n07a4SQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tU7aZHc9mYVrvP1mj17mxQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/EjLetoyO8XZ3y_JVt3dKyg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 101,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/arepa-venezuelan-kitchen-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "607"
+}

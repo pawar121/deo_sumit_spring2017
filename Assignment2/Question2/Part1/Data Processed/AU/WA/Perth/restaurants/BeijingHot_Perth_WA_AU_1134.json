@@ -1,0 +1,100 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.94641,
+        "longitude": 115.86194
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "beijing-hotpot-restaurant-perth",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i__FtjTsD4jUNkdDBm-uPg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "41/188 Newcastle St",
+        "address2": "",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Beijing Hotpot Restaurant",
+    "phone": "+61892275150",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/i__FtjTsD4jUNkdDBm-uPg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/naVZVUvxJcut_tQSb3mCPA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gw6nn5y6YvH3T5sJLLpduA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/beijing-hotpot-restaurant-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1134"
+}

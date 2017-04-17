@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8295364,
+        "longitude": 151.2275391
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "pizza-pesce-birra-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GljCtBEiPVUQzuM5JKPhhQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "314 Military Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2090"
+    },
+    "name": "Pizza Pesce Birra",
+    "phone": "+61299045818",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GljCtBEiPVUQzuM5JKPhhQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AhVHS0GXVXN35twgjjoFLQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Wm8crI1LP8qExg-CKCmbDw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pizza-pesce-birra-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9011"
+}

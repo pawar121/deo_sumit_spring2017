@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7540795,
+        "longitude": -95.3805613
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "the-african-american-library-at-the-gregory-school-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qui8CuRkFUmczgOb-_8jMg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1300 Victor St",
+        "address2": null,
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77019"
+    },
+    "name": "The African American Library at the Gregory School",
+    "phone": "+18323931440",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qui8CuRkFUmczgOb-_8jMg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZTSNqO0PFglLLlJRVegcUQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EOX7oqnbP-Wr5iFwDT1YFg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-african-american-library-at-the-gregory-school-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11429"
+}

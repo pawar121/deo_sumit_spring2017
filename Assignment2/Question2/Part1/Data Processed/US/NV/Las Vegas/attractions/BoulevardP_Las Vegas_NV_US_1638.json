@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1098756592764,
+        "longitude": -115.17396221272
+    },
+    "id": "boulevard-pool-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cF9CQHgvsUYqXMTKyh2fkg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3708 Las Vegas Blvd S",
+        "address2": "3708 Las Vegas Blvd S",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Boulevard Pool",
+    "phone": "+17026987000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cF9CQHgvsUYqXMTKyh2fkg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OX5EKahCTw0xmkr8JuN7vg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tsxw2RiAp07DDI8jZgp41g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 128,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boulevard-pool-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1638"
+}

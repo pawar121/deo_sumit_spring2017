@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3732315433583,
+        "longitude": -71.2365495041013
+    },
+    "id": "moody-street-bridge-waltham-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kCdvfJOcIzDT0n7tjiPH2g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Moody St",
+        "address2": "",
+        "address3": "",
+        "city": "Waltham",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02453"
+    },
+    "name": "Moody Street Bridge",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kCdvfJOcIzDT0n7tjiPH2g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/e_9iJVYkg17sWupy6CgTXA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/moody-street-bridge-waltham-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7682"
+}

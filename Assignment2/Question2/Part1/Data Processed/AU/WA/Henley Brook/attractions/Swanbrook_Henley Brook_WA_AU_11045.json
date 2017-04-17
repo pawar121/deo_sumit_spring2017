@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "wineries",
+            "title": "Wineries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.8000603,
+        "longitude": 116.0024109
+    },
+    "id": "swanbrook-henley-brook",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v-fBPEDH7vinNvZtyp4iOA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "38 Swan St",
+        "address2": null,
+        "address3": "",
+        "city": "Henley Brook",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6055"
+    },
+    "name": "Swanbrook",
+    "phone": "+61892963100",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/v-fBPEDH7vinNvZtyp4iOA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0CtzWbmvutR-pkuFu8Lypg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oK-BrRz-D6M-Um1xsVy9yg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/swanbrook-henley-brook?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11045"
+}

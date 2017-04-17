@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.344109,
+        "longitude": -71.077773
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "charlies-sandwich-shoppe-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YPcRPT694ymmp1jCvpxlVw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "429 Columbus Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Charlie's Sandwich Shoppe",
+    "phone": "+16175367669",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YPcRPT694ymmp1jCvpxlVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/q48R_xghX-5UuhRBXcoUmw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5r3or7w0Jvsz7c8UmxW-Ww/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 231,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/charlies-sandwich-shoppe-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2300"
+}

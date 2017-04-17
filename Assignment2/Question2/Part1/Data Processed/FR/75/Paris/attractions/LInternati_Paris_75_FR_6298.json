@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.866812,
+        "longitude": 2.3798665
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "l-international-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Jdl1zK-kCitKdDz7VX_ddQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5-7 rue Moret",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75011"
+    },
+    "name": "L'International",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Jdl1zK-kCitKdDz7VX_ddQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wAhGye-_SotgRzukt4a7yg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/f5x2APQpFz0UoTny37rk0g/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 74,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/l-international-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6298"
+}

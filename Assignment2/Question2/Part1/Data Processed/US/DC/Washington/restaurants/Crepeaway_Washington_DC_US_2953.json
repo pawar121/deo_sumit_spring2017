@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "creperies",
+            "title": "Creperies"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.90403,
+        "longitude": -77.04528
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "crepeaway-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mU_5KBl5_59pv0qEgWA2VA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2001 L St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20036"
+    },
+    "name": "Crepeaway",
+    "phone": "+12029730404",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mU_5KBl5_59pv0qEgWA2VA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DIo_oTpJ4BHzDWhqdsiBIQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rMlNDfZJG8GnzXakFPACdQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 303,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crepeaway-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2953"
+}

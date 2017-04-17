@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81805,
+        "longitude": 144.9687099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "arintji-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UX9eTnV0f5yKoYY21pr7Ig/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 26, Federation Square",
+        "address2": "2 Swanston St",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Arintji",
+    "phone": "+61396639900",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/UX9eTnV0f5yKoYY21pr7Ig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BYAGlTcItNrwY_w46jpOPw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/f7nHE8n-DXlBK89QjAqK-A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/arintji-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "617"
+}

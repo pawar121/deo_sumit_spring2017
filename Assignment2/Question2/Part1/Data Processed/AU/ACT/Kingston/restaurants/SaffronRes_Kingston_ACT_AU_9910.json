@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3167,
+        "longitude": 149.1412354
+    },
+    "id": "saffron-restaurant-kingston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RSKKQfFYSErA_GGbZc9thQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "31 Kennedy St",
+        "address2": "",
+        "address3": "",
+        "city": "Kingston",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2604"
+    },
+    "name": "Saffron Restaurant",
+    "phone": "+6162958839",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RSKKQfFYSErA_GGbZc9thQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/saffron-restaurant-kingston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9910"
+}

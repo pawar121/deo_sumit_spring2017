@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4977599,
+        "longitude": -0.098315
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "southwark-playhouse-london-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/anTtWIzJafi6OejtRilHpw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "77-85 Newington Causeway",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 6BD"
+    },
+    "name": "Southwark Playhouse",
+    "phone": "+442074070234",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/anTtWIzJafi6OejtRilHpw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ez5CrAN0fwx1oruW3dfohw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MN1Wlk4qTTQS10oWcPanwg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/southwark-playhouse-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10638"
+}

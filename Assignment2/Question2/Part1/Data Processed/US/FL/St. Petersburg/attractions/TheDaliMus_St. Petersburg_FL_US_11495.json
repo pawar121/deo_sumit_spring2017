@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "artmuseums",
+            "title": "Art Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.76598,
+        "longitude": -82.63142
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "the-dali-museum-st-petersburg",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h5SQE0eF--OSqkqajnNlsg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Dali Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "St. Petersburg",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33701"
+    },
+    "name": "The Dali Museum",
+    "phone": "+17278233767",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/h5SQE0eF--OSqkqajnNlsg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qms16Z3M9rLdCmrQzstXww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NFozbX8uIdUTp-Sj5gMf8w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 537,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-dali-museum-st-petersburg?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11495"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.08546,
+        "longitude": -115.10181
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "hometown-classic-american-eats-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jIVyZuakg5K6Kink3T1inQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5715 S Pecos Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89120"
+    },
+    "name": "Hometown Classic American Eats",
+    "phone": "+17029826683",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jIVyZuakg5K6Kink3T1inQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eLUw6RLiOK9YplpTKYkC6A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RTSzdiAmwLGBoyD5gEc4Wg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 152,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hometown-classic-american-eats-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5239"
+}

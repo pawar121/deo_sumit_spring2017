@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3403877,
+        "longitude": -121.9279523
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "san-jose-greek-festival-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S4BeC3zISYhNjYQcQ4LrVQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Saint Nicholas Greek Orthodox Church",
+        "address2": "1260 Davis St",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95126"
+    },
+    "name": "San Jose Greek Festival",
+    "phone": "+14082462770",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/S4BeC3zISYhNjYQcQ4LrVQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pQ3sVSkdVJfcPXJBmenKHA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t2c_7BSi9FxbWsG1YJQiww/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 93,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/san-jose-greek-festival-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10008"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "leisure_centers",
+            "title": "Leisure Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8787534547077,
+        "longitude": -4.37176465988159
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "gambado-renfrew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iCbpROeUcL399WgPLEtUcA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Xscape King's Inch Road",
+        "address2": "",
+        "address3": "",
+        "city": "Renfrew",
+        "country": "GB",
+        "state": "RFW",
+        "zip_code": "PA4 8XQ"
+    },
+    "name": "Gambado",
+    "phone": "+441412184572",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iCbpROeUcL399WgPLEtUcA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/gTeP2UGP3OaCnjW_yMV08Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gambado-renfrew?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4370"
+}

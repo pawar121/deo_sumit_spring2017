@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.54182,
+        "longitude": -0.06187
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "london-fields-lido-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2ELH9httVAu9WErluqIEBQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "London Fields Westside",
+        "address3": "Hackney",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E8 3EU"
+    },
+    "name": "London Fields Lido",
+    "phone": "+442072549038",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2ELH9httVAu9WErluqIEBQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XOiy2F7q7AbLRCN3ABnO8w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bqZH81aaIB587kc32wZx3g/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/london-fields-lido-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6822"
+}

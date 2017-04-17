@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "eventphotography",
+            "title": "Event Photography"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.02606,
+        "longitude": -118.42182
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "next-exit-photography-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V7AjCiTHwZHaPYydeKPshw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3216 Greenfield Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90034"
+    },
+    "name": "Next Exit Photography",
+    "phone": "+13104747871",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/V7AjCiTHwZHaPYydeKPshw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4MIqHSjhx1Ci_C1z3FP_5g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6MDL7kUt8I5UCBr_zGs_cw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 31,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/next-exit-photography-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8057"
+}

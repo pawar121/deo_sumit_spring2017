@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "dance_schools",
+            "title": "Dance Schools"
+        },
+        {
+            "alias": "gymnastics",
+            "title": "Gymnastics"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3135203,
+        "longitude": -121.7938951
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "achieve-dance-arts-academy-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aiGDM8rXzEibPPwnFYMzwQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2726 Aborn Rd",
+        "address2": null,
+        "address3": null,
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95121"
+    },
+    "name": "Achieve Dance Arts Academy",
+    "phone": "+14085338835",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/aiGDM8rXzEibPPwnFYMzwQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2KqFn23h1A1le3A5D4rDaA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XbKqHfx3poK7BkPbApeFVA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/achieve-dance-arts-academy-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "184"
+}

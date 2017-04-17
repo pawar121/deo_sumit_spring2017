@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2753309,
+        "longitude": -121.9239021
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "adelitas-taqueria-san-jose-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FkbcOu--JCq-0h3I2pYkJg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1896 Curtner Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95124"
+    },
+    "name": "Adelita's Taqueria",
+    "phone": "+14083699905",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FkbcOu--JCq-0h3I2pYkJg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/u_CRCyxcvxanv3MwHVnGGg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AOpGSWYg4P6JL4zoEEhjAw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 879,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/adelitas-taqueria-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "235"
+}

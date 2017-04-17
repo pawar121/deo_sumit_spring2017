@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2892126019549,
+        "longitude": 149.116805161904
+    },
+    "id": "ivy-and-the-fox-acton",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mUcK5orJzVOvIOwn4n52Mw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Old Canberra House",
+        "address2": "73 Lennox Crossing",
+        "address3": null,
+        "city": "Acton",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Ivy & The Fox",
+    "phone": "+61262579229",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mUcK5orJzVOvIOwn4n52Mw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AZ_sFFkIeOCJKkWV01viGw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ivy-and-the-fox-acton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5727"
+}

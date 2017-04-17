@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2784996,
+        "longitude": 149.1331024
+    },
+    "id": "jamie-italian-canberra-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "125 Bunda St",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Jamie Italian",
+    "phone": "+61262680400",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jamie-italian-canberra-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5802"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5138654,
+        "longitude": -0.1207865
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "farmstand-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P3Z7JMrfW4rpEI6h6CoTuQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "42 Drury Lane",
+        "address2": "Covent Garden",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2B 5AJ"
+    },
+    "name": "Farmstand",
+    "phone": "+442072403866",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/P3Z7JMrfW4rpEI6h6CoTuQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hFadjOc3PAgUc6YhwYMRcg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/luFB9BN4dWbrvtojwRNZvQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/farmstand-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3924"
+}

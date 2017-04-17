@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        },
+        {
+            "alias": "food_court",
+            "title": "Food Court"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9529991,
+        "longitude": 115.8532791
+    },
+    "id": "the-cutting-board-eathouse-perth",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9y-wZqoUvgTFcJTltax89Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "200 St Georges Tce",
+        "address2": "",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "The Cutting Board Eathouse",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9y-wZqoUvgTFcJTltax89Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6HEgTWOx3hJCilt0ZaLQ8Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kS8O2utG3UJI3qOjIWGXkg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-cutting-board-eathouse-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11486"
+}

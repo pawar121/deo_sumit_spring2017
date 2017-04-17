@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8664568,
+        "longitude": -87.6192535
+    },
+    "id": "adler-after-dark-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S0YjllNKmwmE9FlzBTegiQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1300 S Lake Shore Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60605"
+    },
+    "name": "Adler After Dark",
+    "phone": "+13129227827",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/S0YjllNKmwmE9FlzBTegiQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/GEG6OH-nF2sMQQI1QHKsfQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ayEBYz-vuuRXCr3Gfzt_pw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/adler-after-dark-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "239"
+}

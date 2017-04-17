@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "teppanyaki",
+            "title": "Teppanyaki"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4704107392286,
+        "longitude": 153.025624752045
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "teppanyaki-lovers-brisbane",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dNX264j2WDpF42Mu283-Lg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Level A , Shop 7,  The Myer Centre",
+        "address2": "91 Queen St",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Teppanyaki Lovers",
+    "phone": "+61732106776",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dNX264j2WDpF42Mu283-Lg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JGHf4lndN6pEEuQK-lzhGA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VY9ov8MSD5AzoQ_zk3OWgA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/teppanyaki-lovers-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11340"
+}

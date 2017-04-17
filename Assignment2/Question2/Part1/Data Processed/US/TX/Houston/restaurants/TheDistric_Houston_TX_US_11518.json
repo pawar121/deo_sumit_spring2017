@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7598776,
+        "longitude": -95.3628361
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "the-district-houston-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bL-0p8NLj85qLiXH263oSg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "610 Main St",
+        "address2": null,
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "The District",
+    "phone": "+17132298611",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bL-0p8NLj85qLiXH263oSg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/M2H4l9KxxBvJ0u-T16g4Gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LUgZSTr3fViIKakEJ4Yl0w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 48,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-district-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11518"
+}

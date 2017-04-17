@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "alias": "waterparks",
+            "title": "Water Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.5175629193101,
+        "longitude": -122.010627482103
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "silliman-activity-and-family-aquatic-center-newark",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LICmGx1kqvXfgmFEGcntsw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6800 Mowry Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Newark",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94560"
+    },
+    "name": "Silliman Activity and Family Aquatic Center",
+    "phone": "+15105784620",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LICmGx1kqvXfgmFEGcntsw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/D9Bq_mt1ZpSPJbazTObskQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bl7M0iOuDhzpuN8w2W5MMw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 199,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/silliman-activity-and-family-aquatic-center-newark?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10391"
+}

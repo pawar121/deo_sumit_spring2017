@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85901,
+        "longitude": 2.35035
+    },
+    "id": "hôtel-saint-merry-paris-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xNRe1Cn4UJ8US3ybcw-F3Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "78 rue Verrerie",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75004"
+    },
+    "name": "Hôtel Saint Merry",
+    "phone": "+33142781541",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xNRe1Cn4UJ8US3ybcw-F3Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dTA4Lh8MUJHcGrMlTv3HPA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YkSkKbbrUvr0QM55fwoLTg/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-saint-merry-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5539"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8962649,
+        "longitude": -77.0263866
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "and-pizza-washington-11",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aKG7SbnnSwkX7pnU4lPQng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1005 E St NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20004"
+    },
+    "name": "&pizza",
+    "phone": "+12023475056",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aKG7SbnnSwkX7pnU4lPQng/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IkuuJFY2b5V0npNq-z8QUQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ECKZkKO_A7DKjryXO0j76A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 604,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/and-pizza-washington-11?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "479"
+}

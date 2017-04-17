@@ -1,0 +1,116 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.86676,
+        "longitude": 151.2065299
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "steel-bar-and-grill-sydney",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TltScYGkCHRRRjq02TWTYQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Unit 2",
+        "address2": "60 Carrington St",
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Steel Bar & Grill",
+    "phone": "+61292999997",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TltScYGkCHRRRjq02TWTYQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gF4d_P1Z6BFZeNUsj1oR_w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5V5_PDKJsGTjGagflcY7cQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 14,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/steel-bar-and-grill-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10818"
+}

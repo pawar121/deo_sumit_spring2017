@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.13989,
+        "longitude": -118.19931
+    },
+    "id": "rose-bowl-motel-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yMlSXKdhf28eCvO18Jmcog/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1533 Colorado Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90041"
+    },
+    "name": "Rose Bowl Motel",
+    "phone": "+13232588033",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yMlSXKdhf28eCvO18Jmcog/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ffMOnxJsU6OThx5lcvrQhw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TSgeznJLeRIOBFRQMZ2Iig/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 17,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/rose-bowl-motel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9753"
+}

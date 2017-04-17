@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "british",
+            "title": "British"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8234933097088,
+        "longitude": -4.28808213809816
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "loks-bar-and-kitchen-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tplGbcAVojp17wEK5XXykw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "16 Newlandsfield Road",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G43 2XR"
+    },
+    "name": "Loks Bar & Kitchen",
+    "phone": "+441416325727",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tplGbcAVojp17wEK5XXykw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1OrRqEn1fUyKgYD0lASUug/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pCgm_B4MOK9YtN-oOOsy4g/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/loks-bar-and-kitchen-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6801"
+}

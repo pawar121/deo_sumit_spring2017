@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "dimsum",
+            "title": "Dim Sum"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.37367,
+        "longitude": -121.872178
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "king-eggroll-san-jose-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QvO5HjgJcjYrrKZgLgTrgg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "980 Lundy Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95133"
+    },
+    "name": "King Eggroll",
+    "phone": "+14087298307",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QvO5HjgJcjYrrKZgLgTrgg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xT5ktaFpM9rVgT_nlcYxig/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IDd4lTQ7vqhuVeXZVDatJg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 555,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/king-eggroll-san-jose-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6141"
+}

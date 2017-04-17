@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4973959,
+        "longitude": -0.0997896
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "2300"
+                },
+                {
+                    "day": 4,
+                    "end": "0630",
+                    "is_overnight": true,
+                    "start": "2230"
+                },
+                {
+                    "day": 5,
+                    "end": "0700",
+                    "is_overnight": true,
+                    "start": "2300"
+                }
+            ]
+        }
+    ],
+    "id": "ministry-of-sound-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UgkmFJv56xZ2YDwOxS1hAA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Elephant & Castle",
+        "address2": "103 Gaunt Street",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 6DP"
+    },
+    "name": "Ministry Of Sound",
+    "phone": "+442077408600",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/UgkmFJv56xZ2YDwOxS1hAA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/c2FnRLW0RtZ469e1gqpGmA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kJ480Y6N2gFoctmGABQ2Uw/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 102,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ministry-of-sound-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7562"
+}

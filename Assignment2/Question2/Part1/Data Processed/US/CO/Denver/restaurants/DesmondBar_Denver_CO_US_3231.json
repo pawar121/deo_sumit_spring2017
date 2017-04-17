@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7503699,
+        "longitude": -104.90779
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1630"
+                }
+            ]
+        }
+    ],
+    "id": "desmond-bar-and-grill-denver",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GmjM82ty3SYFtFPOtqms_Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2230 Oneida St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80207"
+    },
+    "name": "Desmond Bar & Grill",
+    "phone": "+17205429035",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GmjM82ty3SYFtFPOtqms_Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/8to4sUhLkz_W1GmKl8MDog/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-xmaCldllhQvHG6fXprrwQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 56,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/desmond-bar-and-grill-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3231"
+}

@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "alias": "attractionfarms",
+            "title": "Attraction Farms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 28.04493,
+        "longitude": -82.0712099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "sunflowers-on-the-ranch-plant-city",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wtms5GXjgVSVproKkhmY7Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3002 Charlie Taylor Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Plant City",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33565"
+    },
+    "name": "Sunflowers On the Ranch",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Wtms5GXjgVSVproKkhmY7Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VUF38Jlo05sWiNZhhkPLxA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dETWE7_x1bCiAUPhKBT9bg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sunflowers-on-the-ranch-plant-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10962"
+}

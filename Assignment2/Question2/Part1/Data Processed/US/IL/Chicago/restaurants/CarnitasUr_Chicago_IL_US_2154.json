@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.857612801225,
+        "longitude": -87.669703625051
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "carnitas-uruapan-restaurant-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CDPgJDyfNiLKDDfEkvXrwQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1725 W 18th St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60608"
+    },
+    "name": "Carnitas Uruapan Restaurant",
+    "phone": "+13122262654",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/g97X7bXcFvbHalrSXfenXg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Y2DPUNvKaiuIO8Ig7J6gqw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uxNwVW0Q5FgIKeilU8snpw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 163,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/carnitas-uruapan-restaurant-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2154"
+}

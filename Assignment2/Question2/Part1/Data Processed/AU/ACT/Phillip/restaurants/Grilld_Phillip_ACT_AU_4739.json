@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3451118,
+        "longitude": 149.0851135
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "grilld-phillip",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Egw_uS1U3B48HKJGybW1gw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Westfield Woden",
+        "address2": "9A Keltie St",
+        "address3": "",
+        "city": "Phillip",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Grill'd",
+    "phone": "+61262605111",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Egw_uS1U3B48HKJGybW1gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xsEUeoisv77PNgS4JuMtww/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/v_8fN570IWva-Peb6awYxA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/grilld-phillip?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4739"
+}

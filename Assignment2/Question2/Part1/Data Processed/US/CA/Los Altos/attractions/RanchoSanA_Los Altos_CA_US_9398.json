@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.331257672506,
+        "longitude": -122.08329126012
+    },
+    "id": "rancho-san-antonio-open-space-preserve-los-altos",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v_bzlAyGmX4UW2R-I1CWpQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "22500 Cristo Rey Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Los Altos",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94024"
+    },
+    "name": "Rancho San Antonio Open Space Preserve",
+    "phone": "+16506911200",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/v_bzlAyGmX4UW2R-I1CWpQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gO5G1qP9Bd6-HoqrqB4kWQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TN3JslfFh8l8EG3ctihzrQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 573,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rancho-san-antonio-open-space-preserve-los-altos?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9398"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9240303,
+        "longitude": 138.5975378
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "rigonis-bistro-adelaide",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lg6SyrU5PpTfAOeilA0KMw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "27 Leigh St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Rigoni's Bistro",
+    "phone": "+61882315160",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lg6SyrU5PpTfAOeilA0KMw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Dip5RqGcept_BgQnxRsEMA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3yzLyyPXrV7_SKvDLE1swQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 25,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/rigonis-bistro-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9602"
+}

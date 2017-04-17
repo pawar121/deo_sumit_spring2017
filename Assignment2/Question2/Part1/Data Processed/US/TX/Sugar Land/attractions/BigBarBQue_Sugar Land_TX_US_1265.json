@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6711413,
+        "longitude": -95.6433448
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "big-6-bar-b-que-sugar-land",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V_7hjRp4la7_YPxnnrGU9g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "9907 Hwy 6 S",
+        "address2": "Ste 500",
+        "address3": "",
+        "city": "Sugar Land",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77498"
+    },
+    "name": "Big 6 Bar B Que",
+    "phone": "+18323536756",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/V_7hjRp4la7_YPxnnrGU9g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_0Ozy6aLEzg0bku_FOgQqw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OiYEMcPnAY9fWWLAU4YZlQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 58,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/big-6-bar-b-que-sugar-land?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1265"
+}

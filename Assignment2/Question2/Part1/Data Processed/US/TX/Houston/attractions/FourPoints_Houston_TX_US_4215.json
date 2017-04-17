@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6640797,
+        "longitude": -95.2603531
+    },
+    "id": "four-points-by-sheraton-houston-hobby-airport-houston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xIX1jrCiAHsEAIIKcOwdVA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8720 Gulf Freeway",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77017"
+    },
+    "name": "Four Points by Sheraton Houston Hobby Airport",
+    "phone": "+17139480800",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xIX1jrCiAHsEAIIKcOwdVA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qlc302WTHQl2q_Ilj-sQBg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GWENuy9EbrCTNSZMX_L23w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 40,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/four-points-by-sheraton-houston-hobby-airport-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4215"
+}

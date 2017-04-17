@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3351707,
+        "longitude": -83.0424423
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "santorini-estiatorio-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6SK57KR9Ax6jS1UoepZaWA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "501 Monroe St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Santorini Estiatorio",
+    "phone": "+13139629366",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6SK57KR9Ax6jS1UoepZaWA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wdHA5kGgnSRIENcLF1ROCg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bKhbrgG__OoaA6MwtE8ZOA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 184,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/santorini-estiatorio-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10053"
+}

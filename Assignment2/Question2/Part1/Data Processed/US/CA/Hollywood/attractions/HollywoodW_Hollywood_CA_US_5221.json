@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.10738,
+        "longitude": -118.32673
+    },
+    "id": "hollywood-walk-of-fame-hollywood",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZrzcmX-0HYqHWqdsMLldtQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Hollywood Blvd & Vine St",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90068"
+    },
+    "name": "Hollywood Walk of Fame",
+    "phone": "+13234698311",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZrzcmX-0HYqHWqdsMLldtQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mvhNA2w6gBBi8mJny4Gj3g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iKIjAAbQvXP_i8ILOAPnXA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 495,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hollywood-walk-of-fame-hollywood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5221"
+}

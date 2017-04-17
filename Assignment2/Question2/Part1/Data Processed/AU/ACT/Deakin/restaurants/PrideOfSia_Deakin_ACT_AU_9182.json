@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.314408132267,
+        "longitude": 149.107021220462
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "pride-of-siam-deakin",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nwr5MdM3ULoWMpC9qYUbYw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Duff Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Deakin",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2600"
+    },
+    "name": "Pride Of Siam",
+    "phone": "+6162820837",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nwr5MdM3ULoWMpC9qYUbYw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TNg0dNH87NQTD_cCRIBjPA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pride-of-siam-deakin?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9182"
+}

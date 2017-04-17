@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8123245,
+        "longitude": 144.9691925
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "ajisen-ramen-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FWNEImBO86C64GjaUuMLDw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "130 Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Ajisen Ramen",
+    "phone": "+61396621100",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FWNEImBO86C64GjaUuMLDw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7Ins8k_G8NfuQuZIrBoUeQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xmtEFDCJiOkNkHYULq1q2A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 22,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ajisen-ramen-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "295"
+}

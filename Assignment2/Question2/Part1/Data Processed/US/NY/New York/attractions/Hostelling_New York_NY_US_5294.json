@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.79873,
+        "longitude": -73.96669
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "hostelling-international-new-york-hostel-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LGaxBvqFL_MzKrx_OQ3lDw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "891 Amsterdam Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10025"
+    },
+    "name": "Hostelling International-New York Hostel",
+    "phone": "+12129322300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LGaxBvqFL_MzKrx_OQ3lDw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OmnXF63x37mIGZ_WOQ5fuQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Bc2GWzVpZk2zOmg4QiCN-g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 96,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hostelling-international-new-york-hostel-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5294"
+}

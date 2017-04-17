@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4693604,
+        "longitude": 153.0292969
+    },
+    "id": "market-street-cafe-brisbane",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5lNZ2QwI0pbw5spriwJXNw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "30 Market St",
+        "address2": null,
+        "address3": null,
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Market Street Cafe",
+    "phone": "+61732212421",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5lNZ2QwI0pbw5spriwJXNw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lIijwdlREMzR-M9OX-E2ow/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_M7tbxKkzBEPvwfzHy7j-Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/market-street-cafe-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7238"
+}

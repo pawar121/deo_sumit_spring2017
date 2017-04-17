@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "pakistani",
+            "title": "Pakistani"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4085055,
+        "longitude": -2.9840111
+    },
+    "id": "sultans-palace-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/--DQ2iCjX-SEukGAv8idWg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "75-77 Victoria St",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 6DE"
+    },
+    "name": "Sultans Palace",
+    "phone": "+441512279020",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/--DQ2iCjX-SEukGAv8idWg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_9yxkjF4Ahq5S5AaopmGgQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Dgn2YK-YMbKhiHVrl-g46A/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sultans-palace-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10942"
+}

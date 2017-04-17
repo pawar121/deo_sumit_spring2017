@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "casinos",
+            "title": "Casinos"
+        },
+        {
+            "alias": "pubfood",
+            "title": "Pub Food"
+        },
+        {
+            "alias": "sportsbars",
+            "title": "Sports Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8188340096407,
+        "longitude": 144.967541888916
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "clocks-at-flinders-st-station-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9WYSmtNV2x951KP8XtGhhA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 17, The Concourse",
+        "address2": "Flinders St Station",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Clocks at Flinders St Station",
+    "phone": "+61396212133",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9WYSmtNV2x951KP8XtGhhA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jlsv1uIKWTJgotKg_VlbQg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ijxvQsQRbTgXLMAzrqS9vg/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/clocks-at-flinders-st-station-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2650"
+}

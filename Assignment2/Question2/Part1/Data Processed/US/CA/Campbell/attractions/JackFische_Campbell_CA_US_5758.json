@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2663738,
+        "longitude": -121.9757193
+    },
+    "id": "jack-fischer-park-campbell",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ko92C9OogAd_piR4TrK9Jg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1499 Abbott Ave",
+        "address2": "at Pollard Rd",
+        "address3": "",
+        "city": "Campbell",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95009"
+    },
+    "name": "Jack Fischer Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ko92C9OogAd_piR4TrK9Jg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qF5iCodlLYglc-8O-EKygg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RQ7C941pzCDafMzpb3ElTw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jack-fischer-park-campbell?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5758"
+}

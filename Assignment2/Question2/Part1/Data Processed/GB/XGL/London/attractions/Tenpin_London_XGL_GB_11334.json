@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "bowling",
+            "title": "Bowling"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5253241,
+        "longitude": -0.281324
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "tenpin-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cAqGxN-HEWyP8v3bIm3Plg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Royale Leisure Park Western Avenue",
+        "address2": "Park Royal Acton",
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W3 0PA"
+    },
+    "name": "Tenpin",
+    "phone": "+448712223675",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cAqGxN-HEWyP8v3bIm3Plg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wzFZ5w_cwZsqKc_5p7EAHA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tenpin-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11334"
+}

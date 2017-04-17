@@ -1,0 +1,122 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9504108,
+        "longitude": -82.4587708
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1400"
+                }
+            ]
+        }
+    ],
+    "id": "tampa-theatre-tampa",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/20CbF0XoRaWyg8kCchMwgg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "711 N Franklin St",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "Tampa Theatre",
+    "phone": "+18132748286",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/20CbF0XoRaWyg8kCchMwgg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Wn7NbI_KHxoUktAd4yf7sg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SU9vZxTakRu2GuM3oL9mGA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 149,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tampa-theatre-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11196"
+}

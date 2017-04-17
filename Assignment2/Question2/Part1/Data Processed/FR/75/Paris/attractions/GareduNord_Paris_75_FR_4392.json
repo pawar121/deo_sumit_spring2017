@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        },
+        {
+            "alias": "metrostations",
+            "title": "Metro Stations"
+        },
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.881072,
+        "longitude": 2.35555
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0430"
+                }
+            ]
+        }
+    ],
+    "id": "gare-du-nord-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8f3MFkm9UiC_i_UHXGJ7vg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "112 rue de Maubeuge",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "Gare du Nord",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/8f3MFkm9UiC_i_UHXGJ7vg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YTTfrlHOv5eNXYRswrgaHQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fmALzL0umL2flE6X2zPEng/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 2.5,
+    "review_count": 228,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gare-du-nord-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4392"
+}

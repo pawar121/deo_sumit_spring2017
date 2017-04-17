@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.764812,
+        "longitude": -104.960098
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "nola-voodoo-tavern-and-perks-denver",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kOJQffBp0xWjPbsTG05rGg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2231 E Bruce Randolph Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80205"
+    },
+    "name": "NOLA Voodoo Tavern And Perks",
+    "phone": "+17203899544",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kOJQffBp0xWjPbsTG05rGg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/XCYdleTa0AM6zeGxcw9b9Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/34Xhm3zpMCVAa05qVOu1nA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 60,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nola-voodoo-tavern-and-perks-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8120"
+}

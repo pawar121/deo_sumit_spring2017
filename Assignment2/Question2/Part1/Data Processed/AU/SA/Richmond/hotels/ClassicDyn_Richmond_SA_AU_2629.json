@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9419899,
+        "longitude": 138.5619659
+    },
+    "id": "classic-dynamics-sa-richmond",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "197 Richmond Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Richmond",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5033"
+    },
+    "name": "Classic Dynamics SA",
+    "phone": "+61884435181",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/classic-dynamics-sa-richmond?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2629"
+}

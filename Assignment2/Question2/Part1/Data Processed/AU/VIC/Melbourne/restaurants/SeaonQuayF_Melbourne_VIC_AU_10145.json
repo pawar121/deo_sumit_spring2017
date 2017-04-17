@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8226091013084,
+        "longitude": 144.952394217253
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "sea-on-quay-fish-bar-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LHb7y8rHWsXGMCQRES8U4g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "13a/60 Siddeley St",
+        "address2": "Docklands",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3008"
+    },
+    "name": "Sea on Quay Fish Bar",
+    "phone": "+61396298887",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LHb7y8rHWsXGMCQRES8U4g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TU1bZSVo-ph0grQ7wuxCdw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-g48QqbNA971M64_8u-UXA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sea-on-quay-fish-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10145"
+}

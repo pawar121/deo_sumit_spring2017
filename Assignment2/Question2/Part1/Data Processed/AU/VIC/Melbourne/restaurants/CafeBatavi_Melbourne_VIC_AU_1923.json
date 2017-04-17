@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "alias": "indonesian",
+            "title": "Indonesian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8526688,
+        "longitude": 144.9810486
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-batavia-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EStMdTX_SX79gk1XSfUIlQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6/618 St Kilda Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3004"
+    },
+    "name": "Cafe Batavia",
+    "phone": "+61415686110",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EStMdTX_SX79gk1XSfUIlQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sB0mWBRXaWgzRoSQUyFraw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-batavia-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1923"
+}

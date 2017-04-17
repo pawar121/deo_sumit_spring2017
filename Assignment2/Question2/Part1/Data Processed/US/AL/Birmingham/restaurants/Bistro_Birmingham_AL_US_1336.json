@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5159743721624,
+        "longitude": -86.8068717342802
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "bistro-218-birmingham",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TTnQkuoc2Enci-oBRLF0IQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "218 N 20th St",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35203"
+    },
+    "name": "Bistro 218",
+    "phone": "+12059837999",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TTnQkuoc2Enci-oBRLF0IQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/P6WaYNOZOGE--WSGlOdrww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tIAmjfjWr_AZfORaB47Vjw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 48,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bistro-218-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1336"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.702786,
+        "longitude": -73.9946349
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "bargemusic-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rMQ5JJGJ40AW3PHLwewXUA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Old Fulton St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11201"
+    },
+    "name": "Bargemusic",
+    "phone": "+17186242083",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rMQ5JJGJ40AW3PHLwewXUA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_jW-xU8U2A8Q4WD_iDb1sQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YbCffAZcVMoIrh0DI2VGOw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 27,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bargemusic-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "988"
+}

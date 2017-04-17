@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "boating",
+            "title": "Boating"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8785591,
+        "longitude": -77.0239792
+    },
+    "id": "dc-harbor-cruises-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AHaix4uOaPTtJcyVCWb72w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "700 Water Street SW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20024"
+    },
+    "name": "DC Harbor Cruises",
+    "phone": "+17036747824",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AHaix4uOaPTtJcyVCWb72w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZbeOwAczRkvi6IxNE5XyNQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/laVVIqfnrcsWI7IcFff06g/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 41,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dc-harbor-cruises-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3165"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.764153,
+        "longitude": -73.994963
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "comfort-inn-midtown-west-new-york-5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vGs1P7u7YZxgX-_pUriaOQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "548 West 48th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10036"
+    },
+    "name": "Comfort Inn Midtown West",
+    "phone": "+12125860400",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vGs1P7u7YZxgX-_pUriaOQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/icJZ5M17m-a52L-3tGdhCg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r7dglMLH6g02FwLJB_lJ8A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/comfort-inn-midtown-west-new-york-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2755"
+}

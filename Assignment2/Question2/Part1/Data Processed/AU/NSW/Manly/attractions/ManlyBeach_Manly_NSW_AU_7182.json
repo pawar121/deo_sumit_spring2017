@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "apartments",
+            "title": "Apartments"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.7960014,
+        "longitude": 151.2873383
+    },
+    "id": "manly-beachfront-motel-and-apartments-manly",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DGsQuBZy08VOumsSrqjCKg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "54 North Steyne Rd",
+        "address2": "Manly",
+        "address3": null,
+        "city": "Manly",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2095"
+    },
+    "name": "Manly Beachfront Motel and Apartments",
+    "phone": "+61299775799",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DGsQuBZy08VOumsSrqjCKg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3w8_H3-lTx9clAzrHIDTaQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YXrZCFIwpDwvWeDKEABByQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/manly-beachfront-motel-and-apartments-manly?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7182"
+}

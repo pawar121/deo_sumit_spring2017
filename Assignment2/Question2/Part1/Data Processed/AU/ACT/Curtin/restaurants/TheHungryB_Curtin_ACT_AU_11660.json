@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "mongolian",
+            "title": "Mongolian"
+        },
+        {
+            "alias": "himalayan",
+            "title": "Himalayan/Nepalese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.325356643257,
+        "longitude": 149.082315523776
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "the-hungry-buddha-curtin-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yMU-DJXy0qMjMY1iwCQI0A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "44E Curtin Place",
+        "address2": "",
+        "address3": "",
+        "city": "Curtin",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2605"
+    },
+    "name": "The Hungry Buddha",
+    "phone": "+61262852425",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yMU-DJXy0qMjMY1iwCQI0A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/flMpzE9-E9AptXasWc_eLQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/skI2jlFuaUQ17_VqKVFgtw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-hungry-buddha-curtin-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11660"
+}

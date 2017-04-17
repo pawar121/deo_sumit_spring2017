@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5321808,
+        "longitude": -86.8314514
+    },
+    "id": "gabriellas-bistro-and-art-gallery-birmingham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RN3i-RaYoDWSCnblTl-VQw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "317 17th Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35204"
+    },
+    "name": "GaBriella's Bistro & Art Gallery",
+    "phone": "+12059837249",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RN3i-RaYoDWSCnblTl-VQw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hvg8I0GoxYpixYEPQOD1SA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/T1lkLEGNgpnNfvTV8fEySQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gabriellas-bistro-and-art-gallery-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4350"
+}

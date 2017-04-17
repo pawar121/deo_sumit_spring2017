@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.366435,
+        "longitude": -71.0755989
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "royal-sonesta-hotel-cambridge",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8cVBW1oBgr4Q01ZRjNyapQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "40 Edwin H Land Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Cambridge",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02142"
+    },
+    "name": "Royal Sonesta Hotel",
+    "phone": "+18007663782",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8cVBW1oBgr4Q01ZRjNyapQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sq--uV_MteZ8k7Zlbpw-SQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/XzTfSk5aDc3ZMr2WkE_dfQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 177,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/royal-sonesta-hotel-cambridge?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9823"
+}

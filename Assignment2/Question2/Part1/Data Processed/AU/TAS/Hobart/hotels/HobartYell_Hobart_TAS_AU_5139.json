@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "taxis",
+            "title": "Taxis"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8816414,
+        "longitude": 147.3316345
+    },
+    "id": "hobart-yellow-water-cabs-hobart-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Watermans Dock",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Hobart Yellow Water Cabs",
+    "phone": "+61407036268",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hobart-yellow-water-cabs-hobart-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5139"
+}

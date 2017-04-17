@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "football",
+            "title": "Soccer"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.89146,
+        "longitude": -4.39092
+    },
+    "id": "clydebank-football-club-west-dunbartonshire",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Dock Street",
+        "address2": "Yoker",
+        "address3": "",
+        "city": "West Dunbartonshire",
+        "country": "GB",
+        "state": "WDU",
+        "zip_code": "G81 1LX"
+    },
+    "name": "Clydebank Football Club",
+    "phone": "",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/clydebank-football-club-west-dunbartonshire?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2672"
+}

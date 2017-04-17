@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7523801491968,
+        "longitude": -122.414512708783
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "dum-indian-soul-food-san-francisco",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HlgZeVjkcdqQfM6tWhG2jA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3111 24th St",
+        "address2": "",
+        "address3": null,
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "DUM Indian Soul Food",
+    "phone": "+14158749045",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HlgZeVjkcdqQfM6tWhG2jA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/SpuHk6SOz56sGDrwix89bg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OQtfzLt73J6lTmpKdP1MSQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 62,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dum-indian-soul-food-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3470"
+}

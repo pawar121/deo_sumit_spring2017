@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2895699,
+        "longitude": 149.1538696
+    },
+    "id": "leong-kitchen-campbell",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cViU--Fr5oWtxcc6T6hfLg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Blamey Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Campbell",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "Leong Kitchen",
+    "phone": "+61262575553",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cViU--Fr5oWtxcc6T6hfLg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/EqYNrMs3nywmUTtijtS7yw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vFOAuI0Y7nHcLzYyiFR9VQ/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/leong-kitchen-campbell?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6626"
+}

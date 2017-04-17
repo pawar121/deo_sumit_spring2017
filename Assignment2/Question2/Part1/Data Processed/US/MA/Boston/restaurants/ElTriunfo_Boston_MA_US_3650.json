@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.34347,
+        "longitude": -71.06481
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "el-triunfo-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mLJFzGIud6shQ-LSNZ3HPg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "147 E Berkeley St",
+        "address2": null,
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "El Triunfo",
+    "phone": "+16175428499",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mLJFzGIud6shQ-LSNZ3HPg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oBAbanddOWpH1git03qbfw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ja9d-S_NYf6nIa5UysnHKQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 224,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-triunfo-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3650"
+}

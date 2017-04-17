@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "vacation_rentals",
+            "title": "Vacation Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8579,
+        "longitude": 174.75661
+    },
+    "id": "haka-lodge-auckland-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Gs25NH2pfD4nmCSXBSgJKQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "373 Karangahape Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Haka Lodge Auckland",
+    "phone": "+6493794559",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Gs25NH2pfD4nmCSXBSgJKQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7KbifbL21csQyJR66Chbhw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/haka-lodge-auckland-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4835"
+}

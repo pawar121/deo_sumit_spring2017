@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.2957899,
+        "longitude": -83.49351
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "summit-on-the-park-canton",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vRfNYCftjgTcFkA0XyG4Eg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "46000 Summit Pkwy",
+        "address2": "",
+        "address3": "",
+        "city": "Canton",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48188"
+    },
+    "name": "Summit on the Park",
+    "phone": "+17343945460",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vRfNYCftjgTcFkA0XyG4Eg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4JXhNsNhvo6vZTLGvAuCyg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RqnWBE9EEpBEm-XOCknWNA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/summit-on-the-park-canton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10949"
+}

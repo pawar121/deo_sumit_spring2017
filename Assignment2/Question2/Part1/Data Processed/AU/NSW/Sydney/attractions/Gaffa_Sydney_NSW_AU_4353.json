@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8723984,
+        "longitude": 151.2054749
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "gaffa-sydney-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VM0OW0OXhzcvX42aw0iFvA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "281 Clarence St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Gaffa",
+    "phone": "+61292834273",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VM0OW0OXhzcvX42aw0iFvA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1B7lgz0IjPEJyyABHHeA_Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/J7EAV4eZW4awxNTaL1rSKA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gaffa-sydney-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4353"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.06801,
+        "longitude": -118.27013
+    },
+    "id": "hollywood-inn-express-south-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2z6qOkfbX7DKdp3kJZvtUw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "141 N Alvarado St",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90026"
+    },
+    "name": "Hollywood Inn Express South",
+    "phone": "+12134136699",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2z6qOkfbX7DKdp3kJZvtUw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZooXNNpsixnOmv_SNQsNEg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Kh0S10gN3yCBLy12qRmsog/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.0,
+    "review_count": 81,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hollywood-inn-express-south-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5214"
+}

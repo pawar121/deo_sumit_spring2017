@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "kids_activities",
+            "title": "Kids Activities"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.7024781224794,
+        "longitude": -83.3015741769796
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "legoland-discovery-center-michigan-auburn-hills",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YiyGs00pP7E-mCHsEDBFBQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4000 Baldwin Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Auburn Hills",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48326"
+    },
+    "name": "Legoland Discovery Center Michigan",
+    "phone": "+18666220605",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YiyGs00pP7E-mCHsEDBFBQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2BqaPKgVrhGUWAb3pdXuCw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eyvrvCmSrnrUXNKn3qCr4w/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/legoland-discovery-center-michigan-auburn-hills?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6611"
+}

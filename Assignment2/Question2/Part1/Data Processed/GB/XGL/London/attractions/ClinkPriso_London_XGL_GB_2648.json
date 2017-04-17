@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5070433706857,
+        "longitude": -0.0918525573030515
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "clink-prison-museum-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pepX5deG4SMNtKVLMSwYUw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Clink Wharf",
+        "address2": "1 Clink St",
+        "address3": "Southwark",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 9DG"
+    },
+    "name": "Clink Prison Museum",
+    "phone": "+442074036515",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/pepX5deG4SMNtKVLMSwYUw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BT_PKl60WDt4URrVtbLkMw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/awZxfIGzkHh7fd1433GReA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.0,
+    "review_count": 34,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/clink-prison-museum-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2648"
+}

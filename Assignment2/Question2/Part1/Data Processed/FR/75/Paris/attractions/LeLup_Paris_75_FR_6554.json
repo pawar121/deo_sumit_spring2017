@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85301,
+        "longitude": 2.33133
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 5,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "le-lup-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HsEJYtQ4HHGYya4sOQizyQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 rue du Sabot",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Le Lup",
+    "phone": "+33145488647",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HsEJYtQ4HHGYya4sOQizyQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PEH4gJj-hCKyVh3Djhru6w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cjPGo0fuduYhOeMVHA0r_w/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 2.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-lup-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6554"
+}

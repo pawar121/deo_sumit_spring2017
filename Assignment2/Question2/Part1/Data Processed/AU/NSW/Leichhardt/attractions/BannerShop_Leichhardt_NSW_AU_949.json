@@ -1,0 +1,32 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -33.8896675,
+        "longitude": 151.1491699
+    },
+    "id": "banner-shop-leichhardt-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hLvf7pddZcDzrSyHiclRrQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "635 Parramatta Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Leichhardt",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2040"
+    },
+    "name": "Banner Shop",
+    "phone": "+61295162228",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hLvf7pddZcDzrSyHiclRrQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qPGqWyGrrHFOuEQl2HF_Cw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/KdIAqaZqmeA3A2tKpljlIA/o.jpg"
+    ],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/banner-shop-leichhardt-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "949"
+}

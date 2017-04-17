@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9479599,
+        "longitude": 115.8420334
+    },
+    "id": "papa-wok-perth",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dMjp4PAratRjQAevq2xy2A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 1",
+        "address2": "77-79 Colin St",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6005"
+    },
+    "name": "Papa Wok",
+    "phone": "+61433993368",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dMjp4PAratRjQAevq2xy2A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nqX8qep-mf_ZoJMIjrhy3Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bBli2Ui4L0Xmml2MlkM9UQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/papa-wok-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8587"
+}

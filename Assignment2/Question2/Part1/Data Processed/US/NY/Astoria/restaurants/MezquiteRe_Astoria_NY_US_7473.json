@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        },
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7616692,
+        "longitude": -73.9108963
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "mezquite-restaurant-astoria",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZTwFfFW_fusjA0CP_9ug7w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "45-06 30th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Astoria",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11103"
+    },
+    "name": "Mezquite Restaurant",
+    "phone": "+17182551722",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZTwFfFW_fusjA0CP_9ug7w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RNEvEuN6DdV1uWDKdl5lTw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/s0uZV5kbvCuKOQNbcg6O8A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 155,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mezquite-restaurant-astoria?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7473"
+}

@@ -1,0 +1,126 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.91527,
+        "longitude": -77.01242
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "aroi-fine-thai-and-japanese-cuisine-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o_NRx1o1ppnP1Bh_Sn6opw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1832 1st St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Aroi Fine Thai & Japanese Cuisine",
+    "phone": "+12026520642",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/o_NRx1o1ppnP1Bh_Sn6opw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/SLHosC0Q9kLvlF-DSOX8AQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/aaSWZA3o1lgMzuqH5jpEhg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 132,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/aroi-fine-thai-and-japanese-cuisine-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "637"
+}

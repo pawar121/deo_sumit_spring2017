@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8270146,
+        "longitude": -4.2670724
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "langside-library-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tDmAp0n5tjazMGAv2tQB2w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Sinclair Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G42 9QE"
+    },
+    "name": "Langside Library",
+    "phone": "+441412760777",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tDmAp0n5tjazMGAv2tQB2w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9O4SBjmQ1S_dOR3CCX3wvw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/langside-library-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6478"
+}

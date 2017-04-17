@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "photographers",
+            "title": "Photographers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.9417305,
+        "longitude": -0.53551
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "pzazz-photography-luton",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sGMV8nLFhIVBdzFKv-ZZrw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Randall Drive",
+        "address2": "Toddington",
+        "address3": "Bedfordshire",
+        "city": "Luton",
+        "country": "GB",
+        "state": "BDF",
+        "zip_code": "LU5 6FE"
+    },
+    "name": "Pzazz Photography",
+    "phone": "+447917190258",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sGMV8nLFhIVBdzFKv-ZZrw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pzazz-photography-luton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9265"
+}

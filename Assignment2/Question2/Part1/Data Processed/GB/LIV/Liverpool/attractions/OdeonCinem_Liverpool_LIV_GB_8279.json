@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.409288,
+        "longitude": -2.9756877
+    },
+    "id": "odeon-cinema-liverpool-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "London Road",
+        "address2": null,
+        "address3": null,
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "LIV",
+        "zip_code": "L3 5NF"
+    },
+    "name": "Odeon Cinema",
+    "phone": "+448712244007",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/odeon-cinema-liverpool-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8279"
+}

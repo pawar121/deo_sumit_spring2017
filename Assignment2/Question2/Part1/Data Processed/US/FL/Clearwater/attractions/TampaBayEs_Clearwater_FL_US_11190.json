@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "escapegames",
+            "title": "Escape Games"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9654451,
+        "longitude": -82.7975828
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "tampa-bay-escape-room-clearwater",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6-u_cwgCOYziggiJ7IqeQA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "625 Cleveland St",
+        "address2": "",
+        "address3": "",
+        "city": "Clearwater",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33755"
+    },
+    "name": "Tampa Bay Escape Room",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6-u_cwgCOYziggiJ7IqeQA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LXGBcaE6ar4E9EzwGnkPCg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/WARKlAGls7Tsu3ZhgRWHuw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tampa-bay-escape-room-clearwater?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11190"
+}

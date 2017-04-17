@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "limos",
+            "title": "Limos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0895476,
+        "longitude": -115.2045423
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "abraham-limo-service-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dx4UE17ONFor5SJLpijeng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5525 Cameron St.",
+        "address2": "",
+        "address3": null,
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89118"
+    },
+    "name": "Abraham Limo Service",
+    "phone": "+17026757775",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dx4UE17ONFor5SJLpijeng/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2qXkmmCQTwV15UNo-BLClQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VWNCuYgeT3096evbvTNRnA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/abraham-limo-service-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "159"
+}

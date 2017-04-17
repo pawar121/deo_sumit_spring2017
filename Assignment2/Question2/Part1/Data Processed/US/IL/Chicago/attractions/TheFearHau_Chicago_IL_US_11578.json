@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hauntedhouses",
+            "title": "Haunted Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8916899,
+        "longitude": -87.60834
+    },
+    "id": "the-fear-haunted-house-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jBslemy8NWFPoXMw_TFoiw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "600 E Grand Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60686"
+    },
+    "name": "The Fear Haunted House",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jBslemy8NWFPoXMw_TFoiw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/I84-NOe2h3Hgr94Z5GTn3A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/R5NS6yDUa5cN4GIrFvkZMg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-fear-haunted-house-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11578"
+}

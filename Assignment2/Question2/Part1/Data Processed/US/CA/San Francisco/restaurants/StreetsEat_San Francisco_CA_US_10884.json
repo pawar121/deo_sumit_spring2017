@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "tacos",
+            "title": "Tacos"
+        },
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7826847,
+        "longitude": -122.418926
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "streets-eat-street-food-san-francisco",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DYI6Ln8zzOU5N0wJS9kB-w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "634 Polk St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94102"
+    },
+    "name": "Streets Eat Street Food",
+    "phone": "+14157751055",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DYI6Ln8zzOU5N0wJS9kB-w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ocvI7RvZqd08ajeualAZyA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2J4F28khpWglgonzX1vIQQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 40,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/streets-eat-street-food-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10884"
+}

@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.44625,
+        "longitude": -86.8242999
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "costas-birmingham",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lnFN8UKsjz-cEi_GU_7zJg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "215 Lakeshore Pkwy",
+        "address2": null,
+        "address3": null,
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35209"
+    },
+    "name": "Costa's",
+    "phone": "+12052630145",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lnFN8UKsjz-cEi_GU_7zJg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/CZoLQ189tJ7j8YL92DajYg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2JQE-JnheUJDZVGjDcszwg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/costas-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2864"
+}

@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.34542,
+        "longitude": 149.0847
+    },
+    "id": "soul-origin-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 48, Westfield",
+        "address2": "Woden, Keltie St",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Soul Origin",
+    "phone": "+61262603605",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/soul-origin-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10586"
+}

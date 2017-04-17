@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3906141,
+        "longitude": -71.0820257
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "assembly-sports-club-somerville",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BPTN2nqi0FJqEWwQ50fs1w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5 Middlesex Avenue",
+        "address2": "Ste 203",
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02145"
+    },
+    "name": "Assembly Sports Club",
+    "phone": "+16176284272",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BPTN2nqi0FJqEWwQ50fs1w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/koLZpGuoS61Bz6g7DgTTDA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/McnMLJuI-DRRkZRXsSiIhg/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/assembly-sports-club-somerville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "706"
+}

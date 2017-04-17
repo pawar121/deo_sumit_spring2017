@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "skate_parks",
+            "title": "Skate Parks"
+        },
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8419789185983,
+        "longitude": 174.654449116112
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "jack-pringle-park-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dqHrH0UgO1pivcU-vn0fjg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Pringle Rd",
+        "address2": "Te Atatu Peninsula",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "0610"
+    },
+    "name": "Jack Pringle Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dqHrH0UgO1pivcU-vn0fjg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1eZSlZHEBRy49twhd6w_ow/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jack-pringle-park-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5762"
+}

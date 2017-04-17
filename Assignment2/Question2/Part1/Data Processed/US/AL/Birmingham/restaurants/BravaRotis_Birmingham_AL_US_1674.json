@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5170288,
+        "longitude": -86.8071747
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "brava-rotisserie-grill-birmingham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OITNJEe7PIC7znf5yjUqIg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "321 20th St N",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35203"
+    },
+    "name": "Brava Rotisserie Grill",
+    "phone": "+12055027914",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OITNJEe7PIC7znf5yjUqIg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HVc9yWsHk8g8-GkPiG_IxA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pnCTEkt3YBi2Cz6kKjSISA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brava-rotisserie-grill-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1674"
+}

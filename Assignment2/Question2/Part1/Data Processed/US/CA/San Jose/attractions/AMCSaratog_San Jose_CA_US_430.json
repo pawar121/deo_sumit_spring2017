@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2895752,
+        "longitude": -121.9937036
+    },
+    "id": "amc-saratoga-14-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fb2L4YuP0SUWlEdDCw1PlA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "700 El Paseo De Saratoga",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95130"
+    },
+    "name": "AMC Saratoga 14",
+    "phone": "+14088712277",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fb2L4YuP0SUWlEdDCw1PlA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/i8eyiEmb1ae7dDVzyBUXPg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 311,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amc-saratoga-14-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "430"
+}

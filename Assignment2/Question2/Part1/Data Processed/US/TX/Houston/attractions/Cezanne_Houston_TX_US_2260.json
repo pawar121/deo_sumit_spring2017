@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7358556052597,
+        "longitude": -95.3915512561798
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "2100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "2100"
+                }
+            ]
+        }
+    ],
+    "id": "cezanne-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IvVwDD-HOo5QDhUk9PAtNw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Black Labrador Pub",
+        "address2": "4100 Montrose Blvd",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Cezanne",
+    "phone": "+17135229621",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IvVwDD-HOo5QDhUk9PAtNw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bBltAxmL0SA11oYlxMqjpQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MzgbtduPPFm4a5FJpbRXWA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 39,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cezanne-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2260"
+}

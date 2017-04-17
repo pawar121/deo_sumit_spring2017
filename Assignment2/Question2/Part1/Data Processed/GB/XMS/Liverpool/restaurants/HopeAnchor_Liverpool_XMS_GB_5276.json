@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.40245,
+        "longitude": -2.97152
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "hope-and-anchor-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q9rfqBlqtvjidXn1l8lqEA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Maryland Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 9DE"
+    },
+    "name": "Hope & Anchor",
+    "phone": "+441517027911",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Q9rfqBlqtvjidXn1l8lqEA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lxLtCzMwoFI5qwBc8s7WaQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/u3zj9BdgWt33RqcR0rI11g/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hope-and-anchor-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5276"
+}

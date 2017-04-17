@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4021263,
+        "longitude": -2.970268
+    },
+    "id": "free-state-kitchen-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yZhmnqGz_HHVwDbFUFP6fA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Maryland Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 9DE"
+    },
+    "name": "Free State Kitchen",
+    "phone": "+441517085005",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yZhmnqGz_HHVwDbFUFP6fA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4k4109_RKmKsYSWPnxRQpA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JOnWvSIzm-Qer-xwq2aRZg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/free-state-kitchen-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4273"
+}

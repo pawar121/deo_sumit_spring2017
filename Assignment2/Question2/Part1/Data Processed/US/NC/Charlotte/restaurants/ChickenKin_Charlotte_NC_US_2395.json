@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.25613,
+        "longitude": -80.8744
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "chicken-king-charlotte-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TmorgfcbjgbLfdx_NQ5Png/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3222 Rozzelles Ferry Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28208"
+    },
+    "name": "Chicken King",
+    "phone": "+17043927744",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TmorgfcbjgbLfdx_NQ5Png/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4zjA9J2aESAHiW1QUhORgQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Of9u5dNed0VfNWmh9s9MGw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chicken-king-charlotte-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2395"
+}

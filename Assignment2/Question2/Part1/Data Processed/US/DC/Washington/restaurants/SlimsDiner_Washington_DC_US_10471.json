@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9420401288107,
+        "longitude": -77.0253100991249
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "slims-diner-washington-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Sza6R0X0lqTbq_4GJzcQpw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4201 Georgia Ave NW",
+        "address2": "",
+        "address3": null,
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20011"
+    },
+    "name": "Slim's Diner",
+    "phone": "+12027830699",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Sza6R0X0lqTbq_4GJzcQpw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/06Fo2u1qj41gJhJWQGgYHg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/x59L8PG7398iRHq9oinNrQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 143,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/slims-diner-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10471"
+}

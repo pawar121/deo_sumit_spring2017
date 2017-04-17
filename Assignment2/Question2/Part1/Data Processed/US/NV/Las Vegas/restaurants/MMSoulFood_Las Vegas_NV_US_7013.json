@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1588056244571,
+        "longitude": -115.193109512329
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "m-and-m-soul-food-cafe-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OWuLDq6fPyzwVQyJ23e-IQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3923 W Charleston Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89102"
+    },
+    "name": "M&M Soul Food Cafe",
+    "phone": "+17024537685",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OWuLDq6fPyzwVQyJ23e-IQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KkM1F0Cf6HiZs5aNx8FQxA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Tz1LwC5QVZHhhnuJ0uzNcQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 563,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/m-and-m-soul-food-cafe-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7013"
+}

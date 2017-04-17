@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.901329,
+        "longitude": -77.0383759
+    },
+    "id": "the-army-and-navy-club-on-farragut-square-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BAAfbf4b0etKBHpaHODiJw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "901 17th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20006"
+    },
+    "name": "The Army and Navy Club on Farragut Square",
+    "phone": "+12026288400",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BAAfbf4b0etKBHpaHODiJw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FlFhjC5ZP9HMtwGDUBP4Ug/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FO0TZcCcDncRkqVLcXYStg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-army-and-navy-club-on-farragut-square-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11455"
+}

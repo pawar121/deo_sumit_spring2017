@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7003199,
+        "longitude": -104.9642781
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "fooducopia-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xk_7Wy7rnT3f6wGUeghX0A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1939 E Kentucky Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80209"
+    },
+    "name": "Fooducopia",
+    "phone": "+13037227838",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xk_7Wy7rnT3f6wGUeghX0A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/f5OI-4_v6rheC-KhDfZ72w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/N5G-PWhmnDLyEha_XnEwCw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 211,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fooducopia-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4172"
+}

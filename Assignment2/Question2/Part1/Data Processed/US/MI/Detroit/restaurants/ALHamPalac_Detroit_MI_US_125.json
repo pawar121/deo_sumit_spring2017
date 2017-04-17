@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.29542,
+        "longitude": -83.13079
+    },
+    "id": "a-and-l-ham-palace-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5E0B9SPef2fagtgMClaCfQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "9405 W Fort St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48209"
+    },
+    "name": "A & L Ham Palace",
+    "phone": "+13138411309",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5E0B9SPef2fagtgMClaCfQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TFCq6EJ-xEV1m-JbuYHpdw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t_kcBCn0FInoYwzVocOu3w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/a-and-l-ham-palace-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "125"
+}

@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "streetvendors",
+            "title": "Street Vendors"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7007844,
+        "longitude": -105.0031457
+    },
+    "id": "ophelias-kansas-city-bbq-denver",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vWo29dVYDk8hXLF3pMNQcQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80223"
+    },
+    "name": "Ophelia's Kansas City BBQ",
+    "phone": "+17206128055",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vWo29dVYDk8hXLF3pMNQcQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ufxy4KcSX-fB_qy-uFTAgg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QquamEEsucMVPFd7csr1TA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ophelias-kansas-city-bbq-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8402"
+}

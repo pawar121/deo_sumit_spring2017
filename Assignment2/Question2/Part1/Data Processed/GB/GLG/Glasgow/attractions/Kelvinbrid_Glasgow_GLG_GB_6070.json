@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.87572,
+        "longitude": -4.2772451
+    },
+    "id": "kelvinbridge-subway-station-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EWWUpV9tXpDKJsKw23vy3A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "99 South Woodside Road",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G4 9HJ"
+    },
+    "name": "Kelvinbridge Subway Station",
+    "phone": "+441414251023",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EWWUpV9tXpDKJsKw23vy3A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yHdw0ID3wrdPXJ8MekkV_A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qgTb79jygfbWPrWJsTw01Q/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kelvinbridge-subway-station-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6070"
+}

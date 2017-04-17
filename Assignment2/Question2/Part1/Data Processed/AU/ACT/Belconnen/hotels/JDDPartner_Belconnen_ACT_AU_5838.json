@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2403183,
+        "longitude": 149.0590973
+    },
+    "id": "jdd-partners-belconnen",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Cohen St",
+        "address2": null,
+        "address3": null,
+        "city": "Belconnen",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2616"
+    },
+    "name": "JDD Partners",
+    "phone": "+61261560945",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/jdd-partners-belconnen?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5838"
+}

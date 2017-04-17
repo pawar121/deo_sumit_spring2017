@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.23666,
+        "longitude": -80.77453
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "lang-van-vietnamese-charlotte",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jofoXoPW7NB_5Q1A8r5kaQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3019 Shamrock Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28215"
+    },
+    "name": "Lang Van Vietnamese",
+    "phone": "+17045319525",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jofoXoPW7NB_5Q1A8r5kaQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/u8kn0fZTtmSNwxgZm7nhsw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jy5_6-lK_qAam5USyniJ7w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 240,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lang-van-vietnamese-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6476"
+}

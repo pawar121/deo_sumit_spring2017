@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.99265,
+        "longitude": -95.56892
+    },
+    "id": "element-houston-vintage-park-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zu8S2tGNoRg6zBIbPVa_Pw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "14555 Vintage Preserve Parkway",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77070"
+    },
+    "name": "Element Houston Vintage Park",
+    "phone": "+12813797300",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zu8S2tGNoRg6zBIbPVa_Pw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eXD2IcKw4jgqqQZrzrQ3Dg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/O8rME0iPtqL46nQKp1ZSzg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 42,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/element-houston-vintage-park-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3656"
+}

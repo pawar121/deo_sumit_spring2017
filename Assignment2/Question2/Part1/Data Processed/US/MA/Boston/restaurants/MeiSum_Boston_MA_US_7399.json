@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3515936,
+        "longitude": -71.0616044
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "mei-sum-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vx3sJAXPTiz6SNYTtQAhbQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "36 Beach St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02111"
+    },
+    "name": "Mei Sum",
+    "phone": "+16173574050",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Vx3sJAXPTiz6SNYTtQAhbQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fnIyeGA7ceHFOJWkr1NeYw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lmihPH-zTRUO3hJ6JhCzVQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 115,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mei-sum-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7399"
+}

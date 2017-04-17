@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.50495,
+        "longitude": -0.12479
+    },
+    "id": "the-household-cavalry-museum-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hWg1QxzYeHOmZlWUbsQM8A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Horse Guards",
+        "address2": "Whitehall",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW1A 2AX"
+    },
+    "name": "The Household Cavalry Museum",
+    "phone": "+442079303070",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hWg1QxzYeHOmZlWUbsQM8A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dA_68VQxdrZrRtWgh0WPZQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/didpaJz7mcJxu96OnZUoeQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-household-cavalry-museum-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11650"
+}

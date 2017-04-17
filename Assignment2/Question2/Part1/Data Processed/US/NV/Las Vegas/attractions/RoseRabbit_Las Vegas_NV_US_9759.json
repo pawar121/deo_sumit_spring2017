@@ -1,0 +1,78 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.110091,
+        "longitude": -115.173908
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "rose-rabbit-lie-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JE-RQjmtcKIdFXcd4PAO8w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "The Cosmopolitan Of Las Vegas",
+        "address2": "3708 Las Vegas Blvd S",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Rose. Rabbit. Lie",
+    "phone": "+18776670585",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QydNmAu1O2IDjk4SfnS8Rw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hK2PnGA77Gu_zhovMYhXUg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pTgosCFeFfc-GuNV9iwEAw/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.0,
+    "review_count": 596,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rose-rabbit-lie-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9759"
+}

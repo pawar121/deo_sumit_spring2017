@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "mini_golf",
+            "title": "Mini Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8715096,
+        "longitude": -4.3674202
+    },
+    "id": "paradise-island-adventure-golf-renfrew-2",
+    "image_url": "",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Xscape",
+        "address2": "Kings Inch Rd",
+        "address3": "",
+        "city": "Renfrew",
+        "country": "GB",
+        "state": "RFW",
+        "zip_code": "PA4 8"
+    },
+    "name": "Paradise Island Adventure Golf",
+    "phone": "+441418866600",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/paradise-island-adventure-golf-renfrew-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8623"
+}

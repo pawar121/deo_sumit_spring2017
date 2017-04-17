@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.85975,
+        "longitude": 151.20813
+    },
+    "id": "harbour-rocks-hotel-the-rocks-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y7sq3p2M1v5fOo8-36ejLg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "34 Harrington St",
+        "address2": "",
+        "address3": "",
+        "city": "The Rocks",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Harbour Rocks Hotel",
+    "phone": "+61282209999",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/y7sq3p2M1v5fOo8-36ejLg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BICMxGB8-VFhSFiwU62y7g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ktr7INh7zn4dj73uldupGA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/harbour-rocks-hotel-the-rocks-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4909"
+}

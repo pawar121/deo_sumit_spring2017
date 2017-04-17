@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "artmuseums",
+            "title": "Art Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.897133205545,
+        "longitude": -87.6214514115064
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "museum-of-contemporary-art-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0Yesluyudvq3y_qwMVeA4w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "220 E Chicago Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60611"
+    },
+    "name": "Museum of Contemporary Art",
+    "phone": "+13122802660",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0Yesluyudvq3y_qwMVeA4w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-169JmM_OKJ0hUPkx1Qk0A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dwTCuJQ3cyBwsB_fbiaBzg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 414,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/museum-of-contemporary-art-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7823"
+}

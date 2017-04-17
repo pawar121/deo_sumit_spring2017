@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8494026415366,
+        "longitude": 151.220241702575
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "celsius-coffee-co-sydney",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zAjloG9UojV5LlaZCNuqnw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Kirribilli Commutter Wharf",
+        "address2": "Holbrook Ave",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2061"
+    },
+    "name": "Celsius Coffee Co",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zAjloG9UojV5LlaZCNuqnw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mMO7THVwhaQHtOmKAJ8dHg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Cu9Y4f29liMHc7_o7a4qlg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/celsius-coffee-co-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2231"
+}

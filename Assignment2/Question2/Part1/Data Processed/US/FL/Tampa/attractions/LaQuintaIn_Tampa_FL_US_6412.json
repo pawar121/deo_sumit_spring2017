@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 28.033698,
+        "longitude": -82.427068
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "la-quinta-inn-tampa-near-busch-gardens-tampa",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vg63c2elhwcVc5bXGpJf-Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "9202 North 30th St",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33612"
+    },
+    "name": "La Quinta Inn Tampa Near Busch Gardens",
+    "phone": "+18139306900",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vg63c2elhwcVc5bXGpJf-Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1olN5alnO_Ez7VRhvIniTQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ux5cka6QecnSVPvAdNz68g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 25,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/la-quinta-inn-tampa-near-busch-gardens-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6412"
+}

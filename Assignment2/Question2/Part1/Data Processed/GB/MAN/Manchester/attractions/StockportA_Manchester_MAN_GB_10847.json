@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4116096,
+        "longitude": -2.1596401
+    },
+    "id": "stockport-air-raid-shelters-manchester",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Merseyway",
+        "address2": "Stockport",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "MAN",
+        "zip_code": "SK3 9QW"
+    },
+    "name": "Stockport Air raid Shelters",
+    "phone": "",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/stockport-air-raid-shelters-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10847"
+}

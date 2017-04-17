@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.89826,
+        "longitude": -77.0422
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "rolling-cow-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1M4O6KA2Lectkfek34nfjw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20006"
+    },
+    "name": "Rolling Cow",
+    "phone": "+15714380612",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0RlzZv4xwx6Rs5hruslbwg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rcEclwasvC7yDMZvYhii4A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZLbMSvIWX7zqIs3PgiQkqw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rolling-cow-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9720"
+}

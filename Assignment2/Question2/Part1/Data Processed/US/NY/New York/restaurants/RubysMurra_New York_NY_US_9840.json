@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.74371,
+        "longitude": -73.98
+    },
+    "id": "rubys-murray-hill-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aTtuXdt-tFR9RpdTUCxi_g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "442 3rd Ave",
+        "address2": "",
+        "address3": null,
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "Ruby's- Murray Hill",
+    "phone": "+12123004245",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/aTtuXdt-tFR9RpdTUCxi_g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2POyrNW0vuJfQN_lFaPlDw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Fg8GpcvqpzHrmkuFs3pSKw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 79,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rubys-murray-hill-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9840"
+}

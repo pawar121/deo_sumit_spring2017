@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.58659,
+        "longitude": -122.37666
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "saltys-alki-beach-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yiD-pjuVbCZlGt_X-4G69A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1936 Harbor Ave SW",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98126"
+    },
+    "name": "Salty's - Alki Beach",
+    "phone": "+12069371600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yiD-pjuVbCZlGt_X-4G69A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1LWmHnb7pSZX4fGbHpCdOA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2u01m6pxoheisPO0jJAwBQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 1302,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/saltys-alki-beach-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9970"
+}

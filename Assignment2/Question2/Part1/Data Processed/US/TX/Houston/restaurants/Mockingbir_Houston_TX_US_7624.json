@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7479216,
+        "longitude": -95.4077136
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "mockingbird-bistro-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Om6PV9Fqgtdcp2Mt3xaW7w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1985 Welch St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77019"
+    },
+    "name": "Mockingbird Bistro",
+    "phone": "+17135330200",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Om6PV9Fqgtdcp2Mt3xaW7w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vryQ_jCX6A9Yv_7aBWfxvw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/EIBhDmljnG4NS-kdnX3sLg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 514,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mockingbird-bistro-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7624"
+}

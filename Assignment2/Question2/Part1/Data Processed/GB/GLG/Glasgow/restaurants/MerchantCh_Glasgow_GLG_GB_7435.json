@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8590144400612,
+        "longitude": -4.24153804779053
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "merchant-chippie-glasgow",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FJQXy1FJIwG8GPbTj2-nig/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "155 High Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G1 1PH"
+    },
+    "name": "Merchant Chippie",
+    "phone": "+441415525789",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FJQXy1FJIwG8GPbTj2-nig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ihRsei075-MIuQV5kHX7XA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Bcdb46NpRDKk9VFU6OjtAQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/merchant-chippie-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7435"
+}

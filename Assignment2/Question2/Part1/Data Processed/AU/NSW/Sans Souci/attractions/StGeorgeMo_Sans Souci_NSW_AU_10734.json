@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.0000153,
+        "longitude": 151.1238251
+    },
+    "id": "st-george-motor-boat-club-sans-souci",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QZmuEfifgGoUHdjI3ZJ4pg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Wellington St",
+        "address2": null,
+        "address3": null,
+        "city": "Sans Souci",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2219"
+    },
+    "name": "St George Motor Boat Club",
+    "phone": "+61295297276",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QZmuEfifgGoUHdjI3ZJ4pg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GGu6t7Cu2SqUvoMynHnPEg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8yFfcjpELmnuQr4OwPoR_A/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/st-george-motor-boat-club-sans-souci?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10734"
+}

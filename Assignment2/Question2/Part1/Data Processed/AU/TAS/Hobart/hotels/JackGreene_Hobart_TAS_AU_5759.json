@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8866723,
+        "longitude": 147.3325193
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "jack-greene-hobart",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LAWiW-5-9ZIEaQmVa_ZfTw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "49 Salamanca Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7004"
+    },
+    "name": "Jack Greene",
+    "phone": "+61362249655",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LAWiW-5-9ZIEaQmVa_ZfTw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Cl8cLzUnRSXwhy3BYbXcmQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/D-NmKgqhBi-QgUT0ARP2dQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 27,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/jack-greene-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5759"
+}

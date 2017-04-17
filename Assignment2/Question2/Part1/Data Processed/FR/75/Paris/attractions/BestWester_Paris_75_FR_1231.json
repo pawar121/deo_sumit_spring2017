@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8527659,
+        "longitude": 2.3438338
+    },
+    "id": "best-western-premier-hôtel-royal-saint-michel-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NulPRr4S6soG3cYlpSGJ7A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 bd Saint Michel",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75005"
+    },
+    "name": "Best Western Premier- Hôtel Royal Saint Michel",
+    "phone": "+33144073625",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NulPRr4S6soG3cYlpSGJ7A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yaXwo2sUn9nAwTZKyIDmVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OmjOmN5SyhJtN-j8xtxysw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/best-western-premier-h%C3%B4tel-royal-saint-michel-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1231"
+}

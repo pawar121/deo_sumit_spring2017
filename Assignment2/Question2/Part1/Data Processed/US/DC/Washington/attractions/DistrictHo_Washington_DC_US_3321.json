@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.90796,
+        "longitude": -77.03321
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "district-hotel-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZgmiSKjv6PW6UNj_3IhtbA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1440 Rhode Island Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20005"
+    },
+    "name": "District Hotel",
+    "phone": "+12022327800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZgmiSKjv6PW6UNj_3IhtbA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/r-V7hCJ8zVTbxDgvu0scJA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gOGPuK9v4kJwZDvWzaEwig/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/district-hotel-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3321"
+}

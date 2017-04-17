@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9010696,
+        "longitude": -77.0391617
+    },
+    "id": "club-quarters-washington-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a30Uu9EXEXY9trvTqTrdPA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "839 17th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20006"
+    },
+    "name": "Club Quarters Washington",
+    "phone": "+12026002579",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/a30Uu9EXEXY9trvTqTrdPA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MD291zZ1i53GsDNyU1g2jQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vgzXG2hJR6SMU6Vf_YIPyA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 110,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/club-quarters-washington-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2666"
+}

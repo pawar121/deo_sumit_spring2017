@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.59401,
+        "longitude": -122.30967
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "san-fernando-roasted-chicken-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gcdKbCfkqLjGaCv5JUK8RA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "900 Rainier Ave S",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98144"
+    },
+    "name": "San Fernando Roasted Chicken",
+    "phone": "+12063313763",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gcdKbCfkqLjGaCv5JUK8RA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/V8EZHrf6Rx4g1tDBMwPckg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Px57C2tFu6S6P-T7FOXpjQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 223,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/san-fernando-roasted-chicken-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9997"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "belgian",
+            "title": "Belgian"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.90665,
+        "longitude": -77.0427799
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "st-arnolds-on-jefferson-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oZlRtLqzwYCBoGngkstikA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1827 Jefferson Pl NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20036"
+    },
+    "name": "St. Arnold's On Jefferson",
+    "phone": "+12028331321",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oZlRtLqzwYCBoGngkstikA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GQE_xUyR0y0ecb2POmSYMQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TKkl8N_v1VhnJGJLCHqBog/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 577,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/st-arnolds-on-jefferson-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10725"
+}

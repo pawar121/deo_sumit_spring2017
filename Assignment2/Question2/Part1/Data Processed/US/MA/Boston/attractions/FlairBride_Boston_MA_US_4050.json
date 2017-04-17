@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "bridal",
+            "title": "Bridal"
+        },
+        {
+            "alias": "wedding_planning",
+            "title": "Wedding Planning"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35085,
+        "longitude": -71.07734
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "flair-brides-maids-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ty9dHEa0ShCGTYdW2D4ulQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "140 Newbury St",
+        "address2": "Ste 202",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Flair Brides + Maids",
+    "phone": "+16172472828",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ty9dHEa0ShCGTYdW2D4ulQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cXMT2LgMM9uFlYt0-VczIw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hXic8SyMOvAZ_3SgRNCnMg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/flair-brides-maids-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4050"
+}

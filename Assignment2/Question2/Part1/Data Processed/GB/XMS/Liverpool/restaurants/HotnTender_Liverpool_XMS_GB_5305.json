@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "chicken_wings",
+            "title": "Chicken Wings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4021746,
+        "longitude": -2.9744177
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "hot-n-tender-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rRP_TN1od24R9vo4Mxhp_A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "39 Leece St",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 2TR"
+    },
+    "name": "Hot 'n' Tender",
+    "phone": "+441517078181",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rRP_TN1od24R9vo4Mxhp_A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mvm17iK9bWF1BeAWMa3FhA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sSPinu64121JzybsIar-SA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hot-n-tender-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5305"
+}

@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "comedyclubs",
+            "title": "Comedy Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1183682563994,
+        "longitude": -115.172274112701
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "jeff-civillico-comedy-in-action-las-vegas-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sSv3bbVHmLtb-aS2Woucag/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Flamingo Las Vegas Hotel & Casino",
+        "address2": "3555 Las Vegas Blvd S",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Jeff Civillico: Comedy In Action",
+    "phone": "+17027943296",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sSv3bbVHmLtb-aS2Woucag/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GVYccR5eEYqqigvc-MTdiw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Rqi6OP_pafQD3_R95TiD-w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 178,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jeff-civillico-comedy-in-action-las-vegas-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5842"
+}

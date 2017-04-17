@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3363088,
+        "longitude": -83.0494216
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "angelina-italian-bistro-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HKYL2V3aLOyEmyXUU3UlLA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1565 Broadway St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Angelina Italian Bistro",
+    "phone": "+13139621355",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HKYL2V3aLOyEmyXUU3UlLA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-pzB6fRNdPJtB6-h_gxqBQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TgxudOYspVrTqMkPDyZz8w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 231,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/angelina-italian-bistro-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "512"
+}

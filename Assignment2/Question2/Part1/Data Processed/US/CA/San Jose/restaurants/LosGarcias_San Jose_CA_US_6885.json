@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3716622,
+        "longitude": -121.8933041
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "los-garcias-restaurant-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0Meh1EngZxw-c8Y1rVhbnw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1390 Oakland Rd",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Los Garcias Restaurant",
+    "phone": "+14084411401",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0Meh1EngZxw-c8Y1rVhbnw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BwRLqEa2-IaQlKsfTWjfMQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Tus3Rf6bF3FTcQs8MEHyAg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 230,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/los-garcias-restaurant-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6885"
+}

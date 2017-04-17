@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "recreation",
+            "title": "Recreation Centers"
+        },
+        {
+            "alias": "summer_camps",
+            "title": "Summer Camps"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.337771,
+        "longitude": -121.920434
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 6,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "central-ymca-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vLXllLmvNyviBVL3kkGisg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1717 The Alameda",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95126"
+    },
+    "name": "Central YMCA",
+    "phone": "+14082981717",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vLXllLmvNyviBVL3kkGisg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/87ARoYFdvVTFxDgmVONacQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GdwA9bjtlmQ-nZlihIvFUw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 104,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/central-ymca-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2250"
+}

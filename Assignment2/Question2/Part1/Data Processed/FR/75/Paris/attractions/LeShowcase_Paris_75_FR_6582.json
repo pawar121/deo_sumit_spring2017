@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8643170252088,
+        "longitude": 2.31398685833585
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0700",
+                    "is_overnight": true,
+                    "start": "2330"
+                },
+                {
+                    "day": 5,
+                    "end": "0700",
+                    "is_overnight": true,
+                    "start": "2330"
+                }
+            ]
+        }
+    ],
+    "id": "le-showcase-paris-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ugdf_pzTbJHFyuBVX63h0A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Sous le Pont Alexandre III",
+        "address2": "Port des Champs Elysées",
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "Le Showcase",
+    "phone": "+33145612543",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ugdf_pzTbJHFyuBVX63h0A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Kj99My73SYORWIK9j2jl8A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/i2cPoqW_hcrv7CTBocIS0Q/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 3.5,
+    "review_count": 133,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-showcase-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6582"
+}

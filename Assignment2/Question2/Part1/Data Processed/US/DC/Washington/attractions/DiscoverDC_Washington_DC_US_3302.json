@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8950005,
+        "longitude": -77.0211411
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "discover-dc-pedicab-tours-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MZQTxWD4aUIfcqOKgOvclA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "631 D St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20549"
+    },
+    "name": "Discover DC Pedicab Tours",
+    "phone": "+12026563593",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MZQTxWD4aUIfcqOKgOvclA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4_FkRxwB3mtHdc3gsA4CPw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uxTmu-oCG5FPeS5gwqxlJg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 45,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/discover-dc-pedicab-tours-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3302"
+}

@@ -1,0 +1,83 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "escapegames",
+            "title": "Escape Games"
+        },
+        {
+            "alias": "hauntedhouses",
+            "title": "Haunted Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.0974067,
+        "longitude": -76.8548916
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "laurels-house-of-horror-laurel-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KP0w5SLxx9PQemymjcRcLg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "935 Fairlawn Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Laurel",
+        "country": "US",
+        "state": "MD",
+        "zip_code": "20707"
+    },
+    "name": "Laurels House Of Horror",
+    "phone": "+12402784545",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KP0w5SLxx9PQemymjcRcLg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NYQQa48ANbhfmMomHWGhdQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/p3T_5TTP6_nyeaZCc6aAbw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 49,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/laurels-house-of-horror-laurel-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6525"
+}

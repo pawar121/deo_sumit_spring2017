@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8610816,
+        "longitude": 144.9754085
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "easystay-motel-st-kilda-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2-ysi-nQazH42wbsBwLhqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "63 Fitzroy St",
+        "address2": null,
+        "address3": null,
+        "city": "St Kilda",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3182"
+    },
+    "name": "Easystay Motel",
+    "phone": "+61385980251",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2-ysi-nQazH42wbsBwLhqA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6pvPwWxS4lY3fyuwVzhYZA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wo4HJoMgUK9hL_NSfphWnA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/easystay-motel-st-kilda-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3539"
+}

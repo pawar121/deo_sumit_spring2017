@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "artmuseums",
+            "title": "Art Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8978591623305,
+        "longitude": -77.02331371296
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "smithsonian-american-art-museum-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ld9QQSSgHSjqvh9wZiwO0Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8th St & F St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20560"
+    },
+    "name": "Smithsonian American Art Museum",
+    "phone": "+12026331000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ld9QQSSgHSjqvh9wZiwO0Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KIV-zmk3k5KFlZoAZeT-cw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-kyu1lthnBj4-soXU_pR1w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 173,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/smithsonian-american-art-museum-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10502"
+}

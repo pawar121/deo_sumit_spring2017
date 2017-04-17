@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.98068,
+        "longitude": -77.03317
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "spirited-painting-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KOcs5fLyelrdX0CJdnoMjA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20012"
+    },
+    "name": "Spirited Painting",
+    "phone": "+12022587222",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KOcs5fLyelrdX0CJdnoMjA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cfkkcshYVKk3bayIPA17RA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-n4tDJHvUDPwuamb933Nqw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/spirited-painting-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10682"
+}

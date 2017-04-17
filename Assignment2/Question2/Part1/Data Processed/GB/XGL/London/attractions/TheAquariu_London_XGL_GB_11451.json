@@ -1,0 +1,70 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "aquariums",
+            "title": "Aquariums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5208536,
+        "longitude": -0.1061541
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "the-aquarium-london-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PIaFxoqWwMyNnmGmgfPD9Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "63 Farringdon Road",
+        "address2": null,
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC1M 3JB"
+    },
+    "name": "The Aquarium",
+    "phone": "+442032060008",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PIaFxoqWwMyNnmGmgfPD9Q/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-aquarium-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11451"
+}

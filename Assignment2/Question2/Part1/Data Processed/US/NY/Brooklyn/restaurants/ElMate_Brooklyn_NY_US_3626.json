@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "brazilian",
+            "title": "Brazilian"
+        },
+        {
+            "alias": "argentine",
+            "title": "Argentine"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.6749782203506,
+        "longitude": -73.9995224876405
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "el-mate-brooklyn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3q1Xt67rYZFvAsl5tA9xOg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "550 Court St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11231"
+    },
+    "name": "El Mate",
+    "phone": "+17182221102",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3q1Xt67rYZFvAsl5tA9xOg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/SVPFxvmBZzW5Z1_c1f4bnw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iHB1I0dDoQfK7K0yS0Ejfg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 151,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-mate-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3626"
+}

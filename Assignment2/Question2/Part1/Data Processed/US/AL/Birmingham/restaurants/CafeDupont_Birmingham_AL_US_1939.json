@@ -1,0 +1,100 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.51509,
+        "longitude": -86.8057
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-dupont-birmingham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/To0USdjN0_sR-xf0Jzkq4g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "113 20th St N",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35203"
+    },
+    "name": "Cafe Dupont",
+    "phone": "+12053221282",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/To0USdjN0_sR-xf0Jzkq4g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hG9hjvgOaEDs1PnCfcgDaQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_efX7VwWYX5QUVvSBq_y0w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 65,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-dupont-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1939"
+}

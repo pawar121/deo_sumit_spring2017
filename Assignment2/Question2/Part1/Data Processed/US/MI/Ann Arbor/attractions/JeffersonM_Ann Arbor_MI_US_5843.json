@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.27574,
+        "longitude": -83.75531
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "jefferson-market-ann-arbor",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z1jKexAJ8iXmhCSWv8G7RQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "609 W Jefferson St",
+        "address2": "",
+        "address3": "",
+        "city": "Ann Arbor",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48103"
+    },
+    "name": "Jefferson Market",
+    "phone": "+17346656666",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Z1jKexAJ8iXmhCSWv8G7RQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1xLAPGeK75BR6Fra2Rc8ig/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rv1PlH3btQwmvA4s90xHnA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 31,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jefferson-market-ann-arbor?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5843"
+}

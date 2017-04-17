@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8131324,
+        "longitude": 144.961484
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "sun-moth-canteen-and-bar-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ILGvHYrpq6GxrQE7WLaOjA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "28 Niagara Lane",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Sun Moth Canteen & Bar",
+    "phone": "+61396024554",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ILGvHYrpq6GxrQE7WLaOjA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RgDUt_cPV4UUgwBcd1L7Ag/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6avw8WxLo4-L-ZELl0bESg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 20,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sun-moth-canteen-and-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10953"
+}

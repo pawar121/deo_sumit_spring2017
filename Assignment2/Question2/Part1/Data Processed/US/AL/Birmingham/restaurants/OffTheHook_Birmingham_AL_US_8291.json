@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": null,
+        "longitude": null
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "off-the-hook-birmingham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sAa9ufGv1ieGz2Fiv6FVxQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": ""
+    },
+    "name": "Off The Hook",
+    "phone": "+12056161757",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sAa9ufGv1ieGz2Fiv6FVxQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cue48MmqZC_kwd7nmYP8AQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nAJmIe4mXQCvglVcrvE8QQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/off-the-hook-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8291"
+}

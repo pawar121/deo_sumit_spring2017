@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "casinos",
+            "title": "Casinos"
+        },
+        {
+            "alias": "resorts",
+            "title": "Resorts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1276844749393,
+        "longitude": -115.167446136475
+    },
+    "id": "encore-las-vegas-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GcfjmqvYszTWnVr_i9UWKA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3121 S Las Vegas Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Encore",
+    "phone": "+17027708000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GcfjmqvYszTWnVr_i9UWKA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/iLAWMWEtg2OALkC2SUti0A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KLDmm3Jv5pHEatbLPo-t5w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 1561,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/encore-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3736"
+}

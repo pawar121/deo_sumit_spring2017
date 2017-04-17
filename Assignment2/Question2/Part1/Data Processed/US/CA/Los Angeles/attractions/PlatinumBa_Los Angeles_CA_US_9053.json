@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "bartenders",
+            "title": "Bartenders"
+        },
+        {
+            "alias": "djs",
+            "title": "DJs"
+        },
+        {
+            "alias": "partyequipmentrentals",
+            "title": "Party Equipment Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.055834,
+        "longitude": -118.345689
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "platinum-bartenders-los-angeles-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vMB3Sh9sAilLnWoYx0a68w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1038 S Redondo",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90019"
+    },
+    "name": "Platinum Bartenders",
+    "phone": "+13109853014",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vMB3Sh9sAilLnWoYx0a68w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jx_2wb_zKjl-4_lgI5cu1Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iKtYWeqW9_vpOErzQ2Zd9g/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/platinum-bartenders-los-angeles-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9053"
+}

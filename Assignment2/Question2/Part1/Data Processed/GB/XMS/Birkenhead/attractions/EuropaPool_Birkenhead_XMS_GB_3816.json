@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.39204,
+        "longitude": -3.02362
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "europa-pools-birkenhead",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fMxqO-5dFKV_unJW8Lk7uw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Conway Street",
+        "address2": "",
+        "address3": "",
+        "city": "Birkenhead",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "CH41 6RN"
+    },
+    "name": "Europa Pools",
+    "phone": "+441516665555",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fMxqO-5dFKV_unJW8Lk7uw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/europa-pools-birkenhead?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3816"
+}

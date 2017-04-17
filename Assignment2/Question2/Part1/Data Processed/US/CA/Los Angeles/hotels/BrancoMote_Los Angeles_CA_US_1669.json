@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.99226,
+        "longitude": -118.3093
+    },
+    "id": "branco-motel-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JIdn0422IoWA_wkxJdtD4g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5501 S Western Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90062"
+    },
+    "name": "Branco Motel",
+    "phone": "+13232903563",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JIdn0422IoWA_wkxJdtD4g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vnuBQcoRv7jc-oELJI5q7g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bFQOWz84nl28lf8PiTwMLA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/branco-motel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1669"
+}

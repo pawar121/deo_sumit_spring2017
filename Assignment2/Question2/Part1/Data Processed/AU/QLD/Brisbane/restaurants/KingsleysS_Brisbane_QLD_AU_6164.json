@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4683893884818,
+        "longitude": 153.030539564788
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "kingsleys-steak-and-crabhouse-brisbane",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6w7WZZkcOYAu2j5wJTU8jA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Riparian Plaza",
+        "address2": "71 Eagle St",
+        "address3": null,
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Kingsleys Steak & Crabhouse",
+    "phone": "+611300546475",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6w7WZZkcOYAu2j5wJTU8jA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cKOqMxW55qcxzEvTGwwlYw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MP9O-XMMsXbdNkTvA_SFOA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 20,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kingsleys-steak-and-crabhouse-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6164"
+}

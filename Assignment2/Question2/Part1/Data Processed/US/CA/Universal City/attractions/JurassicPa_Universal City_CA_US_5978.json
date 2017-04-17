@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.1403826724607,
+        "longitude": -118.357360833644
+    },
+    "id": "jurassic-park-the-ride-universal-city",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BgPfViHmo-IyayYXWzljWQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "100 Universal City Plz",
+        "address2": "",
+        "address3": "",
+        "city": "Universal City",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "91608"
+    },
+    "name": "Jurassic Park The Ride",
+    "phone": "+18008648377",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BgPfViHmo-IyayYXWzljWQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 93,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jurassic-park-the-ride-universal-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5978"
+}

@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7853683796699,
+        "longitude": -122.429324202239
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "kui-shin-bo-san-francisco-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zlMYf0U0MkxusfJ6BVo90A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "22 Peace Plz",
+        "address2": "2nd Fl",
+        "address3": null,
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94115"
+    },
+    "name": "Kui Shin Bo",
+    "phone": "+14159229575",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zlMYf0U0MkxusfJ6BVo90A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GF3xHR2VL_7O7diY-Zqt2Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/h2PM3appSsrWy4HsZmsAhQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 430,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kui-shin-bo-san-francisco-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6269"
+}

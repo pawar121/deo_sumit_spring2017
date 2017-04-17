@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3770315544916,
+        "longitude": -121.986038258278
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "bay-club-santa-clara-santa-clara",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_qqd9eQJKJ5XqCFYcCUf2g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3250 Central Expy",
+        "address2": "",
+        "address3": "",
+        "city": "Santa Clara",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95051"
+    },
+    "name": "Bay Club Santa Clara",
+    "phone": "+14087382582",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_qqd9eQJKJ5XqCFYcCUf2g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VyUK97mCqftRhxikhdJ_HQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/085q86dCxjiHrZvzRhbNEQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 178,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bay-club-santa-clara-santa-clara?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1061"
+}

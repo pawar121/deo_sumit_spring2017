@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "bootcamps",
+            "title": "Boot Camps"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3694425,
+        "longitude": -121.9664099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "fns-training-center-santa-clara",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mbnYTsAYUvhhoThPFluwAg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2342 Walsh Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Santa Clara",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95051"
+    },
+    "name": "FNS Training Center",
+    "phone": "+14082357624",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mbnYTsAYUvhhoThPFluwAg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MFBIQUVybz4HE_KTnyKHjA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VEpHwgM1xjhOxjq1vxZHiw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 139,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fns-training-center-santa-clara?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4157"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "publicservicesgovt",
+            "title": "Public Services & Government"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3513031005859,
+        "longitude": -71.0604705810547
+    },
+    "id": "chinatown-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ubXDdgjnVwzLspqGGezstQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02111"
+    },
+    "name": "Chinatown",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ubXDdgjnVwzLspqGGezstQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/s-U1bIhIjw2jQTkTDr6j5w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7iKU8QEG5mhqoQKUtCc3jg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 47,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/chinatown-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2433"
+}

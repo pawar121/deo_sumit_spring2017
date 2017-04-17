@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "airports",
+            "title": "Airports"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9797950266012,
+        "longitude": -82.5347246676293
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "tampa-international-airport-tpa-tampa-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qTHWZG-hk4-FtjJT5hJoqQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4100 George J Bean Pkwy",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33607"
+    },
+    "name": "Tampa International Airport - TPA",
+    "phone": "+18138708700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qTHWZG-hk4-FtjJT5hJoqQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eI9YIz-WL-B492MIombIbQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MoaziFIMlq9hkbbLH9ufWQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 1031,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tampa-international-airport-tpa-tampa-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11193"
+}

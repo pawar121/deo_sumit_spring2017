@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5142846,
+        "longitude": -0.1620015
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "salt-bar-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FS1zFrXlUbhPDgPtrcswHA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13 Edgware Road",
+        "address2": null,
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 2JE"
+    },
+    "name": "Salt Bar",
+    "phone": "+442074021155",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FS1zFrXlUbhPDgPtrcswHA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LSvHJW1zE5WsNY7-ZhPMzw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gkWWJAthOLff4SbB-Pyp5A/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 29,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/salt-bar-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9966"
+}

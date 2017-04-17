@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "limos",
+            "title": "Limos"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9297788222914,
+        "longitude": 138.601828439435
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "adelaide-limo-services-adelaide",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8AlNpgIQ9xteu4o7pyLr4w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Adelaide Limo Services",
+    "phone": "+61881204129",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8AlNpgIQ9xteu4o7pyLr4w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lvPmOMRleZIvfxRUWUGUDA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8OYVt193Wov0FBkiIkhCIQ/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/adelaide-limo-services-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "221"
+}

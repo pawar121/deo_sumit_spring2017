@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4610271805609,
+        "longitude": -71.1641410253321
+    },
+    "id": "prana-power-yoga-woburn",
+    "image_url": "",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "356 Cambridge Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Woburn",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "01801"
+    },
+    "name": "Prana Power Yoga",
+    "phone": "+17819339642",
+    "photos": [],
+    "rating": 4.5,
+    "review_count": 22,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/prana-power-yoga-woburn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9166"
+}

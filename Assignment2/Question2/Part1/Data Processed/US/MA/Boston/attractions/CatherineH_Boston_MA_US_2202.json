@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "lifecoach",
+            "title": "Life Coach"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        },
+        {
+            "alias": "c_and_mh",
+            "title": "Counseling & Mental Health"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.339904,
+        "longitude": -71.0898892
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "catherine-hummel-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ibNMvGHiixzqwlLWGN891Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02115"
+    },
+    "name": "Catherine Hummel",
+    "phone": "+15185770091",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ibNMvGHiixzqwlLWGN891Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RkpEEXBbeUo1ZaSPZ-bdUA/o.jpg"
+    ],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/catherine-hummel-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2202"
+}

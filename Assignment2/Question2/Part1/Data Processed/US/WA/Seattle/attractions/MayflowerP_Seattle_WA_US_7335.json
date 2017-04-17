@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6121850004303,
+        "longitude": -122.338128220307
+    },
+    "id": "mayflower-park-hotel-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ADa3tYGDxbU9A4rO-IcXtg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "405 Olive Way",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Mayflower Park Hotel",
+    "phone": "+12066238700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ADa3tYGDxbU9A4rO-IcXtg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/v6kaNN0TPSEHPvPaNoVbBQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ybgXIpAkoD9O8uNlVHVEHQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 152,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mayflower-park-hotel-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7335"
+}

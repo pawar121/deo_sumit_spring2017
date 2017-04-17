@@ -1,0 +1,108 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.88069,
+        "longitude": -76.99534
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "pineapple-and-pearls-washington-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5-YDETlgnbpoFDh15ykBrQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "715 8th St SE",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20003"
+    },
+    "name": "Pineapple & Pearls",
+    "phone": "+12025957375",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5-YDETlgnbpoFDh15ykBrQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3ZjY5kNP1C1vs-evbJ1Htw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QBP9ggcF3wvVlPYogfLwZA/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.5,
+    "review_count": 99,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pineapple-and-pearls-washington-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8962"
+}

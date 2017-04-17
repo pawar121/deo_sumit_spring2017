@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3400499,
+        "longitude": -121.8899473
+    },
+    "id": "fitness-evolution-san-jose-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wI7dEqnk8pzrSNMRa0efog/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "196 N Third St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Fitness Evolution",
+    "phone": "+14082921141",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wI7dEqnk8pzrSNMRa0efog/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ANIjzTyKgSgGuMWBLVL9hw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TDCCwDNRRRRzhDX_Teqmew/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 70,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fitness-evolution-san-jose-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4034"
+}

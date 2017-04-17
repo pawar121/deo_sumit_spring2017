@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3721085,
+        "longitude": -83.2184525
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "sterlings-old-style-bbq-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gEv9zKwx1CnmkF7F2U6nLw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18241 Plymouth Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48228"
+    },
+    "name": "Sterling's Old Style BBQ",
+    "phone": "+13134939495",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gEv9zKwx1CnmkF7F2U6nLw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qkGL353MjXzEp4DUdKcRUw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SVJdcZhsbWnjtFcjdCP4bQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 13,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sterlings-old-style-bbq-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10832"
+}

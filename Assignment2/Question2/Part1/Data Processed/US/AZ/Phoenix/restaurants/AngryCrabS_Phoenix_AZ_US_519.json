@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.4962047,
+        "longitude": -112.0212354
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "angry-crab-shack-phoenix-6",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-VhVAvWqtPWooyj8qCCAdQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2808 East Indian School Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85016"
+    },
+    "name": "Angry Crab Shack",
+    "phone": "+16029563088",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-VhVAvWqtPWooyj8qCCAdQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IZpJbqZV8cdNHvqZmFgDZw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZbzSnoM-Amlbk7HAvarmcw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 611,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/angry-crab-shack-phoenix-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "519"
+}

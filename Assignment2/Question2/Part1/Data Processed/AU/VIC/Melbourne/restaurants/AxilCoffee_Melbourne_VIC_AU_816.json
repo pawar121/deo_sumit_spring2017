@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8150199,
+        "longitude": 144.9716
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "axil-coffee-roasters-melbourne-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bGKxmdVgu59WB1hpWGQ8EA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "76 Flinders Lane",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Axil Coffee Roasters",
+    "phone": "+61398190091",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bGKxmdVgu59WB1hpWGQ8EA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0FDao1938dFI48PvigNc1A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dJmxDAfpR3sWPZ_01OY20A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/axil-coffee-roasters-melbourne-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "816"
+}

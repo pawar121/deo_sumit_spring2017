@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.61065,
+        "longitude": -122.34224
+    },
+    "id": "pensione-nichols-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1HV97a5u1CdUMitGGuVDkA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1923 1st Ave.",
+        "address2": "Suite 300",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Pensione Nichols",
+    "phone": "+12064417125",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1HV97a5u1CdUMitGGuVDkA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RVrR8klmELntwKh7PXdPWA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mdw_PEEgqWU1f6rexDO4_g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 64,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pensione-nichols-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8776"
+}

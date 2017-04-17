@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3267132150732,
+        "longitude": -83.0494330755879
+    },
+    "id": "cobo-conference-center-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lYeOdIGUBHLZebjHUHWV4A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Washington Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Cobo Conference Center",
+    "phone": "+13138778777",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lYeOdIGUBHLZebjHUHWV4A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/N3M2i8QQsKXTr-Ag-XDXqw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UejKkOURCjNsa1RqiwAUfg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 44,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cobo-conference-center-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2685"
+}

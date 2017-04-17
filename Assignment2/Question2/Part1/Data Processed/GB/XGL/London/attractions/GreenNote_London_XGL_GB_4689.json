@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.537438632465,
+        "longitude": -0.14565062803498
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "green-note-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ekob8tFPyxG4VaYQGeyzOA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "106 Parkway",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "NW1 7AN"
+    },
+    "name": "Green Note",
+    "phone": "+442074857744",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ekob8tFPyxG4VaYQGeyzOA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/E1wavGlv5cr3pAcur6dC5g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IYbO-8Zx4zQ-rvtdW9tuuA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/green-note-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4689"
+}

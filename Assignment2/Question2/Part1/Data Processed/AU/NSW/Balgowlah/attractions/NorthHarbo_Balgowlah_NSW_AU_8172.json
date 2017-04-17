@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        },
+        {
+            "alias": "dog_parks",
+            "title": "Dog Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.7938385,
+        "longitude": 151.2649384
+    },
+    "id": "north-harbour-reserve-balgowlah",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "LOT 7001 Condamine St S",
+        "address2": "",
+        "address3": "",
+        "city": "Balgowlah",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2093"
+    },
+    "name": "North Harbour Reserve",
+    "phone": "",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/north-harbour-reserve-balgowlah?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8172"
+}

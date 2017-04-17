@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.60762,
+        "longitude": -122.33922
+    },
+    "id": "four-seasons-hotel-seattle-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rcHH4g7XyQEX1bgsumr0bw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "99 Union St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Four Seasons Hotel Seattle",
+    "phone": "+12067497000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rcHH4g7XyQEX1bgsumr0bw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HbSFPWdzjkRGR6VG7VvAMw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FNlQML5D7E4yey3AtgCi2g/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.5,
+    "review_count": 143,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/four-seasons-hotel-seattle-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4224"
+}

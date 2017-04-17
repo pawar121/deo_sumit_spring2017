@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1268196105957,
+        "longitude": -115.209419250488
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "japanese-curry-zen-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6l0Lh_XouVJlBmpzdYFljg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5020 Spring Mountain Rd",
+        "address2": "Ste 1",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89146"
+    },
+    "name": "Japanese Curry Zen",
+    "phone": "+17029851192",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/6l0Lh_XouVJlBmpzdYFljg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BAFKwPbJGoarv3D57KL0vg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NkbU4fyAmI1ZCWIMtJVWZw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 664,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/japanese-curry-zen-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5818"
+}

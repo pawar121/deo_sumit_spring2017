@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1265907,
+        "longitude": -115.2017517
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "ramen-sora-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fBOK5QBSsJQkz5ivbWg6WQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4490 Spring Mountain Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89102"
+    },
+    "name": "Ramen Sora",
+    "phone": "+17026851011",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fBOK5QBSsJQkz5ivbWg6WQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Nwn7YXx0OvHYOeelRKwZmA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YGZk4gsJofECaAFEs9m2dQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 994,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ramen-sora-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9390"
+}

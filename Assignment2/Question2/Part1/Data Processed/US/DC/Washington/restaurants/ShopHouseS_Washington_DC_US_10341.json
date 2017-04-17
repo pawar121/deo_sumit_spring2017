@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.905488,
+        "longitude": -77.05729
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "shophouse-southeast-asian-kitchen-washington-8",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_PKGRgdUWVbI7IUkQTkEZg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2805 M St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20007"
+    },
+    "name": "ShopHouse Southeast Asian Kitchen",
+    "phone": "+12026271958",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_PKGRgdUWVbI7IUkQTkEZg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o5_0xwwmzUn2Glo4z0cBHQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZmBON89vVbF85kunwdcukA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 187,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/shophouse-southeast-asian-kitchen-washington-8?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10341"
+}

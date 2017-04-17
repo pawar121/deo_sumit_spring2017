@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7478357755914,
+        "longitude": -73.8521849227539
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "new-york-hall-of-science-corona-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-iFFlrQKdGJiD-6v0N3K3A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "47-01 111th St",
+        "address2": "",
+        "address3": "",
+        "city": "Corona",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11368"
+    },
+    "name": "New York Hall Of Science",
+    "phone": "+17186990005",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-iFFlrQKdGJiD-6v0N3K3A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/V31tYvx_Ffo19V__8Pn2Jg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9neLGQDY4S88Z45t2NJ94Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 181,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-york-hall-of-science-corona-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8032"
+}

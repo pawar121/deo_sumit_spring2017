@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7572277060474,
+        "longitude": -122.418840453029
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "myriad-gastropub-san-francisco",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bHXXEbxW7K1-_SMb9QKRmg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2491 Mission St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "Myriad Gastropub",
+    "phone": "+14155254335",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bHXXEbxW7K1-_SMb9QKRmg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5y3s2_hPzTgvaktCvfHr_A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-SUBp6sMDLzz1UZQac4Dow/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 272,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/myriad-gastropub-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7865"
+}

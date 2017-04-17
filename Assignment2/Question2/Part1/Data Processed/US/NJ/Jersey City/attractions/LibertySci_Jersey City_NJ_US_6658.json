@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7082774542377,
+        "longitude": -74.054571136174
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "liberty-science-center-jersey-city",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/H5GZ85W0hmXeQsdmx17BUg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Liberty State Park",
+        "address2": "222 Jersey City Blvd",
+        "address3": "",
+        "city": "Jersey City",
+        "country": "US",
+        "state": "NJ",
+        "zip_code": "07305"
+    },
+    "name": "Liberty Science Center",
+    "phone": "+12012001000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/H5GZ85W0hmXeQsdmx17BUg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nwAh8C_U47SXpUMtew6S3Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/q9JUrzjy4477x2hUsUhQXQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 192,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/liberty-science-center-jersey-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6658"
+}

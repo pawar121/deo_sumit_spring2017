@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "eventphotography",
+            "title": "Event Photography"
+        },
+        {
+            "alias": "sessionphotography",
+            "title": "Session Photography"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3403587,
+        "longitude": -71.1536179
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "raskin-studio-photography-brighton",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4CKBoBEmhypEbPLIcXOtgw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Lothian Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Brighton",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02135"
+    },
+    "name": "Raskin Studio Photography",
+    "phone": "+16177630539",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4CKBoBEmhypEbPLIcXOtgw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kiO56Iwa2Dko5BbQjU-DvA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZSzdHLeRnE0swyiyF6s0kg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/raskin-studio-photography-brighton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9406"
+}

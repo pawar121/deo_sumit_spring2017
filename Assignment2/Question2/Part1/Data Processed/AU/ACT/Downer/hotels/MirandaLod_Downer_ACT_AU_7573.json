@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2446785,
+        "longitude": 149.1350861
+    },
+    "id": "miranda-lodge-downer",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "534 Northbourne Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Downer",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Miranda Lodge",
+    "phone": "+61262498038",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/miranda-lodge-downer?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7573"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "comedyclubs",
+            "title": "Comedy Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.07795,
+        "longitude": -118.3762
+    },
+    "id": "largo-at-the-coronet-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4JYVr7kHHvu0wVBm-y7Meg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "366 N La Cienega Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90048"
+    },
+    "name": "Largo at the Coronet",
+    "phone": "+13108550350",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4JYVr7kHHvu0wVBm-y7Meg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tWU0V0SUPL-9lZzb59Ph8g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eSKJzJSz4qCaj7syTt1cJA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 272,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/largo-at-the-coronet-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6489"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.519131499225,
+        "longitude": -0.13643751745084
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "benitos-hat-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dXULaMJuDL5v1l4-6qIKuA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "56 Goodge Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1T 4NB"
+    },
+    "name": "Benito's Hat",
+    "phone": "+442076373732",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dXULaMJuDL5v1l4-6qIKuA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8YRIvqPA7E3z7N2D9yLp_g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/186StMxgNkzfnnb-hBlqqA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 138,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/benitos-hat-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1185"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5466842,
+        "longitude": -0.0833915
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "salvation-in-noodles-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q5fxXKDQ9v2EVQ4u9TFQNQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "122 Balls Pond Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "N1 4AE"
+    },
+    "name": "Salvation in Noodles",
+    "phone": "+442072544534",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/q5fxXKDQ9v2EVQ4u9TFQNQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DQmrzbd6MlpVOUkXulNzSw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o4Jg4spBKS_E9B1-X02ifg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/salvation-in-noodles-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9971"
+}

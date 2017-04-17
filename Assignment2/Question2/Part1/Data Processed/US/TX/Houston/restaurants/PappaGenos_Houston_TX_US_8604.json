@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "cheesesteaks",
+            "title": "Cheesesteaks"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.80202,
+        "longitude": -95.43037
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "pappa-genos-steak-and-cheese-houston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8bDYJ4qq9HfSrVNBbhujhw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1801 Ella Blvd",
+        "address2": "Ste C",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77008"
+    },
+    "name": "Pappa Geno's Steak & Cheese",
+    "phone": "+17138631222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8bDYJ4qq9HfSrVNBbhujhw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_BR_N4Pg-Euv-lBUi8yUxQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iWBVCYJhb8RxIufNtGwyqQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 409,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pappa-genos-steak-and-cheese-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8604"
+}

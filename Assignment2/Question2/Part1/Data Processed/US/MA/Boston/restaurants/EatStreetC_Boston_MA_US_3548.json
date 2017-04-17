@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.00982,
+        "longitude": -71.20854
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "eat-street-cafe-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R7yXzHW67qe5mNAsnropuA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "55 Fruit St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02228"
+    },
+    "name": "Eat Street Cafe",
+    "phone": "+16177262000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/R7yXzHW67qe5mNAsnropuA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yWA5fTMO9Ij-ri1rLuFSsg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SQEzhscEv7ZPVRHARRnIrg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 22,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/eat-street-cafe-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3548"
+}

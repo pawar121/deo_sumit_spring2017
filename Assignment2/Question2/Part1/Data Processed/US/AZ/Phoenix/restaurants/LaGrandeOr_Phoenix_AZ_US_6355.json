@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.4341007950577,
+        "longitude": -111.999435804066
+    },
+    "id": "la-grande-orange-phoenix",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9Qjl7hk2HFb2-o4YdBVTGw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Phoenix Sky Harbor International Airport",
+        "address2": "3400 E Sky Harbor Blvd",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85034"
+    },
+    "name": "La Grande Orange",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/9Qjl7hk2HFb2-o4YdBVTGw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/E_mkpLLepg3TiamtrLOO2w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vg1-STxFbhMObtT70ZW_QA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 267,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-grande-orange-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6355"
+}

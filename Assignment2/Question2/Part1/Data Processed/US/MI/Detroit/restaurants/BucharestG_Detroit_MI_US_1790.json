@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        },
+        {
+            "alias": "importedfood",
+            "title": "Imported Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3667145,
+        "longitude": -83.0694809
+    },
+    "id": "bucharest-grill-detroit-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Gv2w9_U6yWdhVPfTYM82Ew/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "112 Piquette St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48202"
+    },
+    "name": "Bucharest Grill",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Gv2w9_U6yWdhVPfTYM82Ew/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tLNFYELRGfa5NM03f0Rgsw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Nud9Iwx_5yhccF-4Q8nhTg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 49,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bucharest-grill-detroit-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1790"
+}

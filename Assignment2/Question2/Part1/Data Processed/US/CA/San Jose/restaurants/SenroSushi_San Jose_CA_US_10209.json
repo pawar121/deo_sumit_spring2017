@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2482805773306,
+        "longitude": -121.80277267057
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "senro-sushi-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PR1GHiItdJsAJB--Jf2OdQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5730 Cottle Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95123"
+    },
+    "name": "Senro Sushi",
+    "phone": "+14083609828",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sfTZ2PgDQqWEnb-MvVToag/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/EHA5Twu9en5sGPJuiP-Dhw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GtpDj3UhpTMF-seNSn3N0Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 158,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/senro-sushi-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10209"
+}

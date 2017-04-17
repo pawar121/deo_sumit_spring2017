@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4860191,
+        "longitude": -3.0328376
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "moose-coffee-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F5mag0Ag3TP1nsgwPjsAGA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "157 College Road",
+        "address2": "Crosby",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L23 3AS"
+    },
+    "name": "Moose Coffee",
+    "phone": "+441519246578",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/F5mag0Ag3TP1nsgwPjsAGA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Of4C-itMNUCFnd3EcxmvAA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cZNY3LHcQtAvwhFM8glaiQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/moose-coffee-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7692"
+}

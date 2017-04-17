@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5061996701451,
+        "longitude": -0.120255971776682
+    },
+    "id": "golden-jubilee-bridge-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sOnOvphW-HdF0qOa4g7_kg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 7PB"
+    },
+    "name": "Golden Jubilee Bridge",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sOnOvphW-HdF0qOa4g7_kg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TrmDLiVO0gUB55BiPo5Bhw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r7wHp4lsVvRW5RxBcdnBNg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/golden-jubilee-bridge-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4541"
+}

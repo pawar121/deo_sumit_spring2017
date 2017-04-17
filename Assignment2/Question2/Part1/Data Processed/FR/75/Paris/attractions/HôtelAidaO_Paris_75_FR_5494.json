@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.87402,
+        "longitude": 2.34674
+    },
+    "id": "hôtel-aida-opéra-paris-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WEsGu5vlyzIplrewidjORg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11 Rue Richer",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75009"
+    },
+    "name": "Hôtel Aida Opéra",
+    "phone": "+33145231111",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WEsGu5vlyzIplrewidjORg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/S23H5TcYO6-b0HiEJYvjMw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vhHUlMyjcJdmscAIboJuZw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 2.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-aida-op%C3%A9ra-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5494"
+}

@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.10998,
+        "longitude": -115.1726851
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "nathan-burton-comedy-magic-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-1VA1p5L62wCBjzp_TYObw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Planet Hollywood Casino - Saxe Theater",
+        "address2": "3663 Las Vegas Blvd South",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Nathan Burton Comedy Magic",
+    "phone": "+18007159219",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-1VA1p5L62wCBjzp_TYObw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yDqGHMnX5BZ7YmnzpaZmng/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W8IZckTk4rgwxj9bsgWB9A/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 191,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nathan-burton-comedy-magic-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7929"
+}

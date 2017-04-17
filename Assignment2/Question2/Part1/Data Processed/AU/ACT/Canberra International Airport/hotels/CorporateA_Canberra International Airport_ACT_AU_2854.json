@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "airlines",
+            "title": "Airlines"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3034592,
+        "longitude": 149.1837311
+    },
+    "id": "corporate-air-canberra-international-airport",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Rayner Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra International Airport",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2609"
+    },
+    "name": "Corporate Air",
+    "phone": "+61262497044",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/corporate-air-canberra-international-airport?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2854"
+}

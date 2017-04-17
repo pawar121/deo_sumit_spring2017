@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.71782,
+        "longitude": -95.41351
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "hungrys-houston-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AIhPo5A6iWirVJyN68rbbA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2356 Rice Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77005"
+    },
+    "name": "Hungry's",
+    "phone": "+17135238652",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2E1YLH9324cvYQtNsnU0bA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AIhPo5A6iWirVJyN68rbbA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5LJ45Z4ONX280irJAVArPw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 345,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hungrys-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5449"
+}

@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8842392,
+        "longitude": 147.3310852
+    },
+    "id": "red-decker-company-tas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GjTlt8imJj87KMCJ_Lwe9w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Brooke St Pier Brooke St",
+        "address2": null,
+        "address3": null,
+        "city": "TAS",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Red Decker Company",
+    "phone": "+61362313927",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GjTlt8imJj87KMCJ_Lwe9w/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/red-decker-company-tas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9431"
+}

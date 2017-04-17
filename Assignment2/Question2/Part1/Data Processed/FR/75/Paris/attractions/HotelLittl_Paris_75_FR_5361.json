@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.87609,
+        "longitude": 2.3578
+    },
+    "id": "hotel-little-régina-paris-3",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "89 Boulevard Strasbourg",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "Hotel Little Régina",
+    "phone": "+33140377230",
+    "photos": [],
+    "price": "€€",
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-little-r%C3%A9gina-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5361"
+}

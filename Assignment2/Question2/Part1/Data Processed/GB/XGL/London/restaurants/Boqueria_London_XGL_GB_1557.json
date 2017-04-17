@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.459870028924,
+        "longitude": -0.12713936531653
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "boqueria-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EXN3AGoNJniIl8sbQmW_zQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "192 Acre Lane",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW2 5UL"
+    },
+    "name": "Boqueria",
+    "phone": "+442077334408",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/EXN3AGoNJniIl8sbQmW_zQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hF4EA_8p-X-gSfZgA3Masg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HLHJKCzZvJdX8_GHDUUing/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/boqueria-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1557"
+}

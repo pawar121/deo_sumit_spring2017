@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "vacation_rentals",
+            "title": "Vacation Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3507936,
+        "longitude": -3.3221146
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "point-of-ayr-holiday-park-holywell-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SpRXFST_BRRWGZXWHlSjwg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "West Road",
+        "address2": "Talacre",
+        "address3": "",
+        "city": "Holywell",
+        "country": "GB",
+        "state": "FLN",
+        "zip_code": "CH8 9SA"
+    },
+    "name": "Point Of Ayr Holiday Park",
+    "phone": "+441745853385",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SpRXFST_BRRWGZXWHlSjwg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6Cwy7hGWeMbVnTZnPRSFrg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JGEmq_RY8iCm4WaAerYLZg/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/point-of-ayr-holiday-park-holywell-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9082"
+}

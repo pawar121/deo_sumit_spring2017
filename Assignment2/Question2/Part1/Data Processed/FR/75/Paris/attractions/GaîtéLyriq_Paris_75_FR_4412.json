@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86678,
+        "longitude": 2.3538199
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "gaîté-lyrique-paris-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8G7u4MngNi367aY15Lqz7w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3 bis rue Papin",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75003"
+    },
+    "name": "Gaîté Lyrique",
+    "phone": "+33153015200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8G7u4MngNi367aY15Lqz7w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ml4Olz3At0WEDh3zOvTyhg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wSUz-ZPWq9MGT_Vl984bPg/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.5,
+    "review_count": 41,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ga%C3%AEt%C3%A9-lyrique-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4412"
+}

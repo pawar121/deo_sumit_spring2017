@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.89197,
+        "longitude": -87.63146
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "blue-chicago-chicago",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j-znrHLjuZf9rdUo6FG15A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "536 N Clark St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60610"
+    },
+    "name": "Blue Chicago",
+    "phone": "+13126610100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/j-znrHLjuZf9rdUo6FG15A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/M7RFICwlp2bxPLn6VXwb1g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pWbhj1TQFIjl-8696ar3qQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 173,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/blue-chicago-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1440"
+}

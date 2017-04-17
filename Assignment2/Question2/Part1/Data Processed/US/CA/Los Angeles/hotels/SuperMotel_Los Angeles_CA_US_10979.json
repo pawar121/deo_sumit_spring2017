@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.07291,
+        "longitude": -118.25074
+    },
+    "id": "super-8-motel-los-angeles-downtown-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kdxeBFZASh7y_FEoPXvb5w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1341 Sunset Blvd.",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90026"
+    },
+    "name": "Super 8 Motel Los Angeles Downtown",
+    "phone": "+18005369326",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kdxeBFZASh7y_FEoPXvb5w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GN_vIQhEDVzbxRQ2X6KQuw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XyG38ZFVvuaWLWbwb62SCQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 36,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/super-8-motel-los-angeles-downtown-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10979"
+}

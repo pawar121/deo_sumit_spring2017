@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7144949,
+        "longitude": -95.3894186
+    },
+    "id": "flock-the-houston-zoo-young-supporters-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IIchh6J28DYF0G6hOa44xg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6200 Hermann Park Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77030"
+    },
+    "name": "Flock The Houston Zoo Young Supporters",
+    "phone": "+17135336500",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IIchh6J28DYF0G6hOa44xg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Og4U3espwEAdssIn0c4wQQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ntAdDWhtqv-5z_01eg_0qQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/flock-the-houston-zoo-young-supporters-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4130"
+}

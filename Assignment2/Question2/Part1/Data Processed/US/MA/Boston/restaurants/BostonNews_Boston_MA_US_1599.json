@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3551598,
+        "longitude": -71.0580597
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "boston-news-cafe-boston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E1WIRh5owA3MKJHY9Tfdaw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "80 Arch St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02110"
+    },
+    "name": "Boston News Cafe",
+    "phone": "+16174231149",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/E1WIRh5owA3MKJHY9Tfdaw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BHjkTX6rUIs_gsbmDD96yA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yJT_R2nKqteNi3DmddaFrQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/boston-news-cafe-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1599"
+}

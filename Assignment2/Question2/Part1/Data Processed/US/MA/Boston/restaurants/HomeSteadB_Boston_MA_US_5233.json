@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3010532798369,
+        "longitude": -71.0597299039364
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "home-stead-bakery-and-cafe-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3-huh51NZ_ghAyOQmyfVcw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1448 Dorchester avenue",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02122"
+    },
+    "name": "Home.Stead Bakery & Cafe",
+    "phone": "+16175337585",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3-huh51NZ_ghAyOQmyfVcw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0Ok82VlZacm5_V0M9WtOOw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/J1R8fFO2hStivFaVmQcaLw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 52,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/home-stead-bakery-and-cafe-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5233"
+}

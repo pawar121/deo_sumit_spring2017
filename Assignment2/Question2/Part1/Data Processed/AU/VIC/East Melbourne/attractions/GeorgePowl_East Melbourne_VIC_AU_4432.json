@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8155098,
+        "longitude": 144.9855957
+    },
+    "id": "george-powlet-apartments-east-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5-5rPXQDct_tWVLiKZpGpQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "30 Powlett St",
+        "address2": null,
+        "address3": null,
+        "city": "East Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3002"
+    },
+    "name": "George Powlet Apartments",
+    "phone": "+61394199488",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5-5rPXQDct_tWVLiKZpGpQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/T5y2Ugt410tYrA1SpYH-UA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Kd4IAWgo80Dh7szRMzA2xA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/george-powlet-apartments-east-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4432"
+}

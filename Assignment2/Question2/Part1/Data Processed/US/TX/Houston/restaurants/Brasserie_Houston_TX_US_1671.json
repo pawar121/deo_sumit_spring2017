@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "brasseries",
+            "title": "Brasseries"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7531949,
+        "longitude": -95.40723
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "brasserie-19-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yvh2eTBjLqbSUrfv9VLHng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1962 W Gray",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77019"
+    },
+    "name": "Brasserie 19",
+    "phone": "+17135241919",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yvh2eTBjLqbSUrfv9VLHng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xoCWgCtonkb-PQe0kyVpIg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zXBmUcMCN4sW7XfxACJNcg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 436,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brasserie-19-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1671"
+}

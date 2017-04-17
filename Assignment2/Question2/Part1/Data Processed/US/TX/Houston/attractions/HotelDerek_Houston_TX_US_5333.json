@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7415226,
+        "longitude": -95.4569255
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "hotel-derek-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XXWKAt3kpan0UZRk_SE5Lg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2525 W Loop S",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77027"
+    },
+    "name": "Hotel Derek",
+    "phone": "+17139613000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XXWKAt3kpan0UZRk_SE5Lg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iQYFuqL0c31G_wJcha3-0A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7yYVMg4vDrpw9LqOaLaozQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 2.5,
+    "review_count": 249,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-derek-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5333"
+}

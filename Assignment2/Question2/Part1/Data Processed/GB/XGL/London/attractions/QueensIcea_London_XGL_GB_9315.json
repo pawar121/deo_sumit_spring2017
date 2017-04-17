@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bowling",
+            "title": "Bowling"
+        },
+        {
+            "alias": "skatingrinks",
+            "title": "Skating Rinks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5106881,
+        "longitude": -0.1872467
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "queens-ice-and-bowl-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PGVndBqr3FR1mmvI4XS9HQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "17 Queensway",
+        "address2": "Bayswater",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 4QP"
+    },
+    "name": "Queens Ice and Bowl",
+    "phone": "+442072290172",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PGVndBqr3FR1mmvI4XS9HQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/057zqpHYOClutBxJ_W2bZQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dMpWtuGXUeylD1mlnfkJuQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 21,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/queens-ice-and-bowl-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9315"
+}

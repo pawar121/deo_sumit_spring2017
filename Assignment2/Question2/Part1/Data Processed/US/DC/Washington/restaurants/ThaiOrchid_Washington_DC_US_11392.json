@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.87435,
+        "longitude": -76.97169
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1630"
+                }
+            ]
+        }
+    ],
+    "id": "thai-orchids-kitchen-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v9PXrBS0syNyI5RfZhgGHQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2314 Pennsylvania Ave SE",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20020"
+    },
+    "name": "Thai Orchid's Kitchen",
+    "phone": "+12022903204",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/v9PXrBS0syNyI5RfZhgGHQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YlcLAnoXMiq09qf33JlT5A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ca5hcWpci4Qbd8Eunbx9lw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 208,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/thai-orchids-kitchen-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11392"
+}

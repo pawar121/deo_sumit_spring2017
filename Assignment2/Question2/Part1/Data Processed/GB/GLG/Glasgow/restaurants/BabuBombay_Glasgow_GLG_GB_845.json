@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8637990547351,
+        "longitude": -4.26204722374678
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "babu-bombay-street-kitchen-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BktWhp2LR8FhPO1JpVDKyA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "186 W Regent Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G2 4RU"
+    },
+    "name": "Babu Bombay Street Kitchen",
+    "phone": "+441412044042",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BktWhp2LR8FhPO1JpVDKyA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5rSYvCyFyUVH4OXC2uwsjw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5ytTBJA_oeScU8giR6ng0Q/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 28,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/babu-bombay-street-kitchen-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "845"
+}

@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        },
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.87076,
+        "longitude": -4.28578
+    },
+    "id": "stewart-memorial-fountain-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NaJ6Z3DXQZMCR1kn1ynNgA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Kelvingrove Park",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G12 8NR"
+    },
+    "name": "Stewart Memorial Fountain",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NaJ6Z3DXQZMCR1kn1ynNgA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KtKrSgezwne6LvsyWl0Dvw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/stewart-memorial-fountain-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10838"
+}

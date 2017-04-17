@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        },
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3654017,
+        "longitude": -71.0611435
+    },
+    "id": "mbta-north-station-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ROg-WJe_fy-2rAWFE4n85A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "135 Causeway St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02114"
+    },
+    "name": "MBTA - North Station",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ROg-WJe_fy-2rAWFE4n85A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jRXlYjB-sjuxKuQF3pX2qA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XkCLdAZPUbjj1i3AMIa-YA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 66,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mbta-north-station-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7344"
+}

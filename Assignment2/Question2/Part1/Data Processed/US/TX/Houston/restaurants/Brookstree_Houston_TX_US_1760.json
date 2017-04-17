@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74608,
+        "longitude": -95.39144
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "brookstreet-bar-b-que-houston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pEsft3QOVyw4Z5561maIIg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1009 Missouri St",
+        "address2": "",
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Brookstreet Bar-B-Que",
+    "phone": "+17132343165",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/pEsft3QOVyw4Z5561maIIg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iY7KTRdPDrn_JcyVWAbugg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Y7D84gzUVzyLzdlBnIFBVA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 136,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brookstreet-bar-b-que-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1760"
+}

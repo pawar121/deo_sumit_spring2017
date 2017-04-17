@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "modern_european",
+            "title": "Modern European"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.877094461139,
+        "longitude": 151.184980200225
+    },
+    "id": "esca-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oICDTy3v7xLJNRhCsr3aVA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "333B Glebe Point Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2037"
+    },
+    "name": "Esca",
+    "phone": "+61295664860",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oICDTy3v7xLJNRhCsr3aVA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ixCvpFPzflRrVaF9Ibr24g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kvzXYg_59maIZ34tatzrHA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 2.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/esca-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3768"
+}

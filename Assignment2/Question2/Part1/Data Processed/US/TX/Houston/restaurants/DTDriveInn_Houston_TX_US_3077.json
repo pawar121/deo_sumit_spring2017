@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "beergardens",
+            "title": "Beer Gardens"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.803433,
+        "longitude": -95.375824
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "d-and-t-drive-inn-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lGyMi3ALUVZwlJi71ssGdw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1307 Enid St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77009"
+    },
+    "name": "D & T Drive Inn",
+    "phone": "+17138686165",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lGyMi3ALUVZwlJi71ssGdw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KDLEhMeFCm0t7viC7vH8Vg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s63MXhbi7y31v084h7eqsQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 132,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/d-and-t-drive-inn-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3077"
+}

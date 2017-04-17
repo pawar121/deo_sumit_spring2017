@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8125902574493,
+        "longitude": 144.960767497295
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "kalamaki-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rxlyoMkxpU_1IoZm7Z-UoQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "389 Lonsdale St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Kalamaki",
+    "phone": "+61396024444",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rxlyoMkxpU_1IoZm7Z-UoQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/EkZNnPOun1a07Lrcz8yviw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DhsKAhuf9L1D4OayLRMfpQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kalamaki-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6010"
+}

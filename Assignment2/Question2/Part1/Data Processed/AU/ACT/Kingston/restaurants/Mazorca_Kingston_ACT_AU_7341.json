@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "spanish",
+            "title": "Spanish"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3167324044422,
+        "longitude": 149.140980449073
+    },
+    "id": "mazorca-kingston",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "27 Kennedy St",
+        "address2": "",
+        "address3": "",
+        "city": "Kingston",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2604"
+    },
+    "name": "Mazorca",
+    "phone": "+6162959590",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mazorca-kingston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7341"
+}

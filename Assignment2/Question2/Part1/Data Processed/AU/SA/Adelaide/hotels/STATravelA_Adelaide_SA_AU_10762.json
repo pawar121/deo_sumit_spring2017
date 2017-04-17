@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "alias": "travelagents",
+            "title": "Travel Agents"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9141998,
+        "longitude": 138.6011658
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "sta-travel-adelaide-uni-adelaide",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Level 4 Union House",
+        "address2": "Adelaide University",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5005"
+    },
+    "name": "STA Travel Adelaide Uni",
+    "phone": "+61882236620",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/sta-travel-adelaide-uni-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10762"
+}

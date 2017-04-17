@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "sports_clubs",
+            "title": "Sports Clubs"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.381279,
+        "longitude": -121.997448
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "city-sports-club-sunnyvale-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MZ_umDPvfjrDQA8Rd09piA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1165 E Arques Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Sunnyvale",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94085"
+    },
+    "name": "City Sports Club",
+    "phone": "+14089902216",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MZ_umDPvfjrDQA8Rd09piA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-1L0OiQX_-toIACbO-Likw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qgZBkhm8G5prpPDViYpA0Q/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 152,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/city-sports-club-sunnyvale-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2592"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.41908,
+        "longitude": -122.13553
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "creekside-inn-palo-alto-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fsNUYWZD1zFfRt7phe6QuA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3400 El Camino Real",
+        "address2": "",
+        "address3": "",
+        "city": "Palo Alto",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94306"
+    },
+    "name": "Creekside Inn",
+    "phone": "+16504932411",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fsNUYWZD1zFfRt7phe6QuA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JXH511tDG5i7yW0M1WqM-w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Qh9GqsJdoXMkWtjLXu6jnw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 98,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/creekside-inn-palo-alto-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2950"
+}

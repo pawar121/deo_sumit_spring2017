@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "limos",
+            "title": "Limos"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3615189,
+        "longitude": 149.0409393
+    },
+    "id": "capital-stretch-limos-chapman",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 Hertz Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Chapman",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2611"
+    },
+    "name": "Capital Stretch Limos",
+    "phone": "+61412233148",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/capital-stretch-limos-chapman?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2107"
+}

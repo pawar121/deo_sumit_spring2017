@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.91739,
+        "longitude": -77.02898
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "lincoln-theatre-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yNpYCXpyivR1i4nIxx7isA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1215 U St NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20009"
+    },
+    "name": "Lincoln Theatre",
+    "phone": "+12028880050",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/yNpYCXpyivR1i4nIxx7isA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yCyH6n7qjxketdJa4y_Yzg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bmfEXMgbPoHuJDoArOxxqw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 100,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lincoln-theatre-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6694"
+}

@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "german",
+            "title": "German"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8071108,
+        "longitude": 144.9598236
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "bratwurst-shop-and-co-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jZsbycsByLPSS-stiRGFQg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 99 - 100, Queen Victoria Market Deli Hall",
+        "address2": "Therry Street",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Bratwurst Shop & Co",
+    "phone": "+61393282076",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jZsbycsByLPSS-stiRGFQg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/S-RXhbjBKarL2STi5xYTIA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Inn52qzCTXn5s8daox3fbw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bratwurst-shop-and-co-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1673"
+}

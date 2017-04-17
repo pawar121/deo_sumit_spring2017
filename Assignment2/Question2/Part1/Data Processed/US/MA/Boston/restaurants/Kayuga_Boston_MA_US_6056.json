@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35147,
+        "longitude": -71.12212
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                }
+            ]
+        }
+    ],
+    "id": "kayuga-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jLtlnbSxChjwVJJVZ7_pqg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1030 Commonwealth Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02215"
+    },
+    "name": "Kayuga",
+    "phone": "+16175668888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jLtlnbSxChjwVJJVZ7_pqg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/i_Djx4QsjYkip_RNs2LUEg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ehe51vw-du9cIIHMGRUCLg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 169,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kayuga-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6056"
+}

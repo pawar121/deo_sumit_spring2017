@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9280891,
+        "longitude": 138.6062927
+    },
+    "id": "backpack-oz-adelaide",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NIGyDRPcKvsb3cEg3NdPkA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "144 Wakefield St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Backpack Oz",
+    "phone": "+61882233551",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NIGyDRPcKvsb3cEg3NdPkA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hjPWxFBAL8W476ZoPZ1tKg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OgcMI921_ZlA1NXAnwB3QQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/backpack-oz-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "866"
+}

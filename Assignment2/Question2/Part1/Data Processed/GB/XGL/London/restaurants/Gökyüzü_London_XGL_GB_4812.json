@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "turkish",
+            "title": "Turkish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5804170542816,
+        "longitude": -0.0991859667246686
+    },
+    "id": "gökyüzü-london-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g_91OJCDasKSmkXOU32AXg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "26-27 Grand Parade",
+        "address2": "Green Lanes",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "N4 1LG"
+    },
+    "name": "Gökyüzü",
+    "phone": "+442082118406",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/g_91OJCDasKSmkXOU32AXg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1x0KJ-NgY5Vpmkh7xyCZPQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ViV5DJd4m4mFC79oiXilXA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 56,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/g%C3%B6ky%C3%BCz%C3%BC-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4812"
+}

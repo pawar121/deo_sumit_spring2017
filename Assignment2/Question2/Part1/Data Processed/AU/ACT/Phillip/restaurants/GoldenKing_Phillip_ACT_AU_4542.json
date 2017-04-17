@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3537102,
+        "longitude": 149.0888367
+    },
+    "id": "golden-king-restaurant-phillip",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ibclKL2JiENu8On1fheEFg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13 Dundas Crt",
+        "address2": null,
+        "address3": null,
+        "city": "Phillip",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Golden King Restaurant",
+    "phone": "+61262823874",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ibclKL2JiENu8On1fheEFg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4TuTTSPSjrnC4Q3kkF3t8w/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/golden-king-restaurant-phillip?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4542"
+}

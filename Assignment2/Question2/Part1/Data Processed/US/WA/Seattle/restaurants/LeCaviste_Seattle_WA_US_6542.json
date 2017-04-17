@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6145686,
+        "longitude": -122.3366618
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "le-caviste-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uUdTm1S-G6Lz1eA0YS_uMw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1919 7th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Le Caviste",
+    "phone": "+12067282657",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uUdTm1S-G6Lz1eA0YS_uMw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/buejiWSQNcdzkrEkuljp8w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/f8bCHWPIefyRz7n6GWJq4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 135,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/le-caviste-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6542"
+}

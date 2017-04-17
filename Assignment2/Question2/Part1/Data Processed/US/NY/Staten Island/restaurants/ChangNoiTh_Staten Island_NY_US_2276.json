@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.6437040412059,
+        "longitude": -74.0776029179201
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "chang-noi-thai-staten-island",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/onCMgXE35LQhIhRzMMmdjA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "100 Stuyvesant Pl",
+        "address2": "",
+        "address3": null,
+        "city": "Staten Island",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10301"
+    },
+    "name": "Chang Noi Thai",
+    "phone": "+17184428424",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/onCMgXE35LQhIhRzMMmdjA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MclmBGMwhtfOKCnkr094pw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jfkq6UOHVSd_JY2ByXd4wA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 43,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chang-noi-thai-staten-island?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2276"
+}

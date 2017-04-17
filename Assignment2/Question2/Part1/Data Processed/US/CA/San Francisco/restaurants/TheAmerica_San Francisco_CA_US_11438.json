@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7984012314894,
+        "longitude": -122.401162348688
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "the-american-grilled-cheese-kitchen-san-francisco-5",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NqMpoePBFd-O5MbzSVjNfQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "799 Battery St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94111"
+    },
+    "name": "The American Grilled Cheese Kitchen",
+    "phone": "+14158729230",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NqMpoePBFd-O5MbzSVjNfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5CD3SNnQRe2fEKje6Olfpg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sZl9hqNpFGF0qISYhZt3AQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 39,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-american-grilled-cheese-kitchen-san-francisco-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11438"
+}

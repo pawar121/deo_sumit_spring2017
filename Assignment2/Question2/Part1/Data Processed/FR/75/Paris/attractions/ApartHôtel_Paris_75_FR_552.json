@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85528,
+        "longitude": 2.34153
+    },
+    "id": "apart-hôtel-citadines-paris-28",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BVmfWK_uP-D8Vn_heMlpmA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "53 Ter Quai Grands Augustins",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Apart'Hôtel Citadines",
+    "phone": "+33825010380",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BVmfWK_uP-D8Vn_heMlpmA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Y1Q3qcge42XGWQ9PDv9oeg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/49NgTOM7ThQxwDXFeUWL-Q/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/apart-h%C3%B4tel-citadines-paris-28?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "552"
+}

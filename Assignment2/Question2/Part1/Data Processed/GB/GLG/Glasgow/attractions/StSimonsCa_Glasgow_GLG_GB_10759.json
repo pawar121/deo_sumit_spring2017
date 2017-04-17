@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "churches",
+            "title": "Churches"
+        },
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.86949,
+        "longitude": -4.2994051
+    },
+    "id": "st-simons-catholic-church-glasgow",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cAm63wK51wm72IuYMTTxbA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "33-37 Partick Bridge Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G11 6PQ"
+    },
+    "name": "St Simon's Catholic Church",
+    "phone": "+441413397618",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cAm63wK51wm72IuYMTTxbA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/st-simons-catholic-church-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10759"
+}

@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8809814,
+        "longitude": 151.2164764
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": true,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": true,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": true,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": true,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "lo-fi-darlinghurst",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b2cSIlDyUy4ICNJCIRm_uA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "383 Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Darlinghurst",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2010"
+    },
+    "name": "Lo-Fi",
+    "phone": "+61293313100",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/b2cSIlDyUy4ICNJCIRm_uA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ygHu1sXgSGtBCW6MK0mBcA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/awQVQSUQ7_MjIE-GedipNw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lo-fi-darlinghurst?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6767"
+}

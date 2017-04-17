@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "gardening",
+            "title": "Nurseries & Gardening"
+        },
+        {
+            "alias": "gardens",
+            "title": "Botanical Gardens"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.7894075,
+        "longitude": -82.6383951
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "sunken-gardens-saint-petersburg",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BeTfwZe6pgwzs2WWSGH6gw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1825 4th St N",
+        "address2": "",
+        "address3": "",
+        "city": "Saint Petersburg",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33704"
+    },
+    "name": "Sunken Gardens",
+    "phone": "+17275513102",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BeTfwZe6pgwzs2WWSGH6gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7qjD3tOY6hxG9jaq5_jNLA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4KiFIwyhR6Un1bn60-7Kiw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 107,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sunken-gardens-saint-petersburg?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10964"
+}

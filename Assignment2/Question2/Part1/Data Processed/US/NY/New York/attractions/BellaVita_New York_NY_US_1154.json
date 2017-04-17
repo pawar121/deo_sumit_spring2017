@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7433586,
+        "longitude": -73.9954224
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2145",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2145",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2145",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "bellavita-new-york-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PRkIafx3XxEmfo8kbpvpFw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "161 W 22nd St",
+        "address2": "Ground Floor",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10011"
+    },
+    "name": "BellaVita",
+    "phone": "+19177222378",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PRkIafx3XxEmfo8kbpvpFw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2FKv7D9s-MSW5lnrAqaBNQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z2y6UcqEkwXdxyL47dLtPg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bellavita-new-york-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1154"
+}

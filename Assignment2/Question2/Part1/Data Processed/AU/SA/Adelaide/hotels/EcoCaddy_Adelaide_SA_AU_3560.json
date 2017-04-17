@@ -1,0 +1,61 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        },
+        {
+            "alias": "advertising",
+            "title": "Advertising"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9316711,
+        "longitude": 138.5933838
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "ecocaddy-adelaide",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A9BokKMR8pBCye-Tb7YVyg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "174 Wright St",
+        "address2": null,
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "EcoCaddy",
+    "phone": "+61411180578",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/A9BokKMR8pBCye-Tb7YVyg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7CeSee4qw9N-M8XKfXAIJw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2_HypE-WRWFLV5UNLeMB4A/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/ecocaddy-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3560"
+}

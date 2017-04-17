@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.613063,
+        "longitude": -122.314078
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "skillet-capitol-hill-seattle-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4lKmXSxQxaNjT15F4iAcfA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1400 E Union St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Skillet Capitol Hill",
+    "phone": "+12065122001",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4lKmXSxQxaNjT15F4iAcfA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/koc_UijMyrFCYPL7Tfcn5g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UvJAx4zVMPtKxUF7vCOAUw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1330,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/skillet-capitol-hill-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10436"
+}

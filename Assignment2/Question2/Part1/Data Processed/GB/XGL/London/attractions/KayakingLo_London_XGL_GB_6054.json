@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "rafting",
+            "title": "Rafting/Kayaking"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4783446,
+        "longitude": -0.181336
+    },
+    "id": "kayaking-london-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kqgWRJzUlcoz6wWcZNSgzw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Cremorne Riverside Cremorne Gardens",
+        "address2": "Lots Road",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW10 0QH"
+    },
+    "name": "Kayaking London",
+    "phone": "+442073499591",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kqgWRJzUlcoz6wWcZNSgzw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mPuF5yV4GfMR21iegS6HNw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KGZutbzsaU2P2uBb1WyfPQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kayaking-london-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6054"
+}

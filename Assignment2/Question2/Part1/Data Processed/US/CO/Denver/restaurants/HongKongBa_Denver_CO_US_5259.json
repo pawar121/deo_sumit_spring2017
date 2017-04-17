@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "cantonese",
+            "title": "Cantonese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.69767,
+        "longitude": -105.0246887
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "hong-kong-barbecue-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3yBfnLUnP5I35quzm0-3vQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1048 S Federal Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80219"
+    },
+    "name": "Hong Kong Barbecue",
+    "phone": "+13039379088",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3yBfnLUnP5I35quzm0-3vQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/V3MKQw7bz0yykD47N3adwA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/n93TUuR-GT0zmjuYRKfzGw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 121,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hong-kong-barbecue-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5259"
+}

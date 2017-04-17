@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.276741,
+        "longitude": 149.1101379
+    },
+    "id": "europcar-car-and-truck-rental-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Terminal Building, Canberra Airport,",
+        "address2": null,
+        "address3": null,
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Europcar Car & Truck Rental",
+    "phone": "+611300131390",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/europcar-car-and-truck-rental-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3819"
+}

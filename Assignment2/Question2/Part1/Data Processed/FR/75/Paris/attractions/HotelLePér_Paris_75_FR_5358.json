@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8713112,
+        "longitude": 2.3280399
+    },
+    "id": "hotel-le-péra-paris-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2dD7j5m3Tkft5ZXD4cGBNg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "17 rue de Caumartin",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75009"
+    },
+    "name": "Hotel Le Péra",
+    "phone": "+33153435400",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2dD7j5m3Tkft5ZXD4cGBNg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5EKDz9EjQvI8Cb-Je4fYbw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/diE1lgX1gCJMZWv9b9gDDQ/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-le-p%C3%A9ra-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5358"
+}

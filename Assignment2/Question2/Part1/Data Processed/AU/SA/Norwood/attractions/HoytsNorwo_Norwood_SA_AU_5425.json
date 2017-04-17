@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9206338933579,
+        "longitude": 138.636903762817
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "hoyts-norwood-cinema-norwood",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8gsvejffmri1embaKAV5jw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "185 The Parade",
+        "address2": "Parade Central",
+        "address3": "",
+        "city": "Norwood",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5067"
+    },
+    "name": "Hoyts Norwood Cinema",
+    "phone": "+61883325555",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8gsvejffmri1embaKAV5jw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9dlRNxb_ZH8SekwSSNBOnw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Ru4SZNqqV6yQ80d5yzQ7RA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 19,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hoyts-norwood-cinema-norwood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5425"
+}

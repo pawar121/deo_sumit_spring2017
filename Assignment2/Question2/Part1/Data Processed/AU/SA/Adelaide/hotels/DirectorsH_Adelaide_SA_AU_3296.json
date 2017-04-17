@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9307556,
+        "longitude": 138.5901031
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "directors-hotel-adelaide",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CdO9X6jotnaweLlTP3XSWg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "247 Gouger St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Directors Hotel",
+    "phone": "+61882318484",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CdO9X6jotnaweLlTP3XSWg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jblzaQ84_oRBGhlES5l7YQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/O7rF2hYNiEkT8vdqhF9axA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/directors-hotel-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3296"
+}

@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2203178,
+        "longitude": 149.141571
+    },
+    "id": "mitchell-rent-a-ute-mitchell-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZrNXzyfo67uggrbMssv-RA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5 Winchcombe Crt",
+        "address2": null,
+        "address3": null,
+        "city": "Mitchell",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2911"
+    },
+    "name": "Mitchell Rent A Ute",
+    "phone": "+61262428442",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZrNXzyfo67uggrbMssv-RA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8PfEYd8DvYDpMz7TlJvveA/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/mitchell-rent-a-ute-mitchell-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7605"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "walkingtours",
+            "title": "Walking Tours"
+        },
+        {
+            "alias": "historicaltours",
+            "title": "Historical Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.88164,
+        "longitude": 147.33163
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "hobart-walking-tours-hobart",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kui801qwXr_PuHNIjg_2WQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": ""
+    },
+    "name": "Hobart Walking Tours",
+    "phone": "+61413383207",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Kui801qwXr_PuHNIjg_2WQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LdSDf4hbC2JM-KufN23wtA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MwLHnekGzNLPEGxD5WBwJw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hobart-walking-tours-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5138"
+}

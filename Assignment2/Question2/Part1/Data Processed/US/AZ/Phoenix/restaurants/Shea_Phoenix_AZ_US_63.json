@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5834963362894,
+        "longitude": -112.013492785083
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "32-shea-phoenix",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0sbWmE2zx4N5APH53o-HwQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "10626 N 32nd St",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85028"
+    },
+    "name": "32 Shea",
+    "phone": "+16028677432",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0sbWmE2zx4N5APH53o-HwQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gqHOmIl5RxgIzihc5ZXYag/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gm3-ZB6gSz_5l4g36DGItg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 497,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/32-shea-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "63"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7444728,
+        "longitude": -73.9855426
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "carlton-hotel-autograph-collection-new-york-city",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/58JLfuG0N-UWlSfWn_kXOw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "88 Madison Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York City",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "Carlton Hotel, Autograph Collection",
+    "phone": "+12125324100",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/58JLfuG0N-UWlSfWn_kXOw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_iZ-fwS4jULqdZhOhVfovA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/puq3_3u-jEQIThyynjy0Ag/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 176,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/carlton-hotel-autograph-collection-new-york-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2147"
+}

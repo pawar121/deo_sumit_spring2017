@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9494896,
+        "longitude": 138.6313019
+    },
+    "id": "adelaide-city-fringe-serviced-apartments-and-motel-frewville-frewville",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "239 Glenosmond Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Frewville",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5063"
+    },
+    "name": "Adelaide City Fringe Serviced Apartments & Motel - Frewville",
+    "phone": "+61883382426",
+    "photos": [],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/adelaide-city-fringe-serviced-apartments-and-motel-frewville-frewville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "214"
+}

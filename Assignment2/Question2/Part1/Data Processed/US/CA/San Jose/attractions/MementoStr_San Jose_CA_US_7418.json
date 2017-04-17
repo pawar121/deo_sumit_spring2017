@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "photoboothrentals",
+            "title": "Photo Booth Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3641398548547,
+        "longitude": -121.890336582735
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "mementostrip-photobooth-san-jose-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MSNaym8AdGOPIinZ0Iql0A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "761 Mabury Rd",
+        "address2": "Ste 40",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95133"
+    },
+    "name": "MementoStrip Photobooth",
+    "phone": "+18885055993",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_SawpThIbovdF_I7Y4jByQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yTIDR3XbO32Cw9Yc-4FpGg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/487vQBqba989AI_SS-dciQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 104,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mementostrip-photobooth-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7418"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6249899,
+        "longitude": -122.35627
+    },
+    "id": "marqueen-hotel-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FdmJMtjGaremsech689bLA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "600 Queen Anne Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98109"
+    },
+    "name": "MarQueen Hotel",
+    "phone": "+12062827407",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FdmJMtjGaremsech689bLA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/j895ugOVvAU-5L_IRwndpw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rY-XbeduipEPX_FEtGvW1g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 125,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/marqueen-hotel-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7248"
+}

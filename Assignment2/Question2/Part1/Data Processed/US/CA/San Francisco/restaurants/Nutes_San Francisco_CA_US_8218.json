@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.73908,
+        "longitude": -122.41383
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "nutes-san-francisco-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uQp6mCSKRkSYb27S6O2GvA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "903 Cortland Ave",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "Nute's",
+    "phone": "+14152600192",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uQp6mCSKRkSYb27S6O2GvA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/J1sCUpaR7suBDYs1_3Kp8A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_aRB1eS8gZlZqYJWLX6kbQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 42,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nutes-san-francisco-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8218"
+}

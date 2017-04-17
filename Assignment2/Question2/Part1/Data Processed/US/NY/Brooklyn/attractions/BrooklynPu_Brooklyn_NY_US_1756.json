@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.67286462,
+        "longitude": -73.96897785
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "brooklyn-public-library-central-library-brooklyn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cEBuMEHJ3T_Z_2ZO_Kb2pA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Grand Army Plz",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11238"
+    },
+    "name": "Brooklyn Public Library - Central Library",
+    "phone": "+17182302100",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cEBuMEHJ3T_Z_2ZO_Kb2pA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/64pjmyBYmX6JQoju5rGh8g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7b2fT6H0RohOAeEulFk_MQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 124,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/brooklyn-public-library-central-library-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1756"
+}

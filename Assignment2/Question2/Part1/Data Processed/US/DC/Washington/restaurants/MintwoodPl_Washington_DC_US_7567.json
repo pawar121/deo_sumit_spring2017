@@ -1,0 +1,102 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9220912,
+        "longitude": -77.0434449
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "mintwood-place-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/trenDo6I3g23dhulTKmbtA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1813 Columbia Rd NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20009"
+    },
+    "name": "Mintwood Place",
+    "phone": "+12022346732",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/trenDo6I3g23dhulTKmbtA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jI1vpzZnd7i-iyt5FaI5Aw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wphWuG75wdL7s2tjy6l1PA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 497,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mintwood-place-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7567"
+}

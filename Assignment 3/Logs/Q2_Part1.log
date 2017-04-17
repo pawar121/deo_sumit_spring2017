@@ -1,0 +1,7 @@
+2017-04-04 16:13:28,730 - root - INFO - Application started....
+2017-04-04 16:13:28,731 - root - INFO - Reading data from employee_compensation.csv
+2017-04-04 16:13:31,896 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-04-04 16:13:32,024 - root - INFO - Sorting the data frame by Total Compensation
+2017-04-04 16:13:32,119 - root - INFO - Writing summary metrix to Q2_Part1.csv
+2017-04-04 16:13:32,128 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part1.csv
+2017-04-04 16:13:32,135 - root - INFO - Application finished....

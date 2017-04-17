@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4622593,
+        "longitude": 153.0308838
+    },
+    "id": "sss-bbq-barns-brisbane",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r0Xwn_ScFaHb8kLqqJMA3w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "570 Queen St",
+        "address2": null,
+        "address3": null,
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "SSS BBQ Barns",
+    "phone": "+61738391162",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/r0Xwn_ScFaHb8kLqqJMA3w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DjcXeF9HpDeiiVPEs25w-w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/waxDcmMbXNruHbbZNkNwKw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sss-bbq-barns-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10722"
+}

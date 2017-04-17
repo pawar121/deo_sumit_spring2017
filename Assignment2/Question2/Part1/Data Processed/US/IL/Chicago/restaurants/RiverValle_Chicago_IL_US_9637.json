@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.965285053298,
+        "longitude": -87.6757046380287
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "river-valley-farmers-table-chicago-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t-RHHupkKGU2_CK74YFSzA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1820 W Wilson Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60640"
+    },
+    "name": "River Valley Farmer's Table",
+    "phone": "+18722083267",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/t-RHHupkKGU2_CK74YFSzA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vanLUodAhKrIoZrWl9ySew/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/moli-DHcVnbWRB7d8PejCg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 224,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/river-valley-farmers-table-chicago-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9637"
+}

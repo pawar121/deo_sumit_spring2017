@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5033709573635,
+        "longitude": -0.22243150995874
+    },
+    "id": "dorsett-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A4XbGbTy96tlcdU9pmOMbg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "58 Shepherds Bush Green",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W12 8QE"
+    },
+    "name": "Dorsett ",
+    "phone": "+442032621026",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/A4XbGbTy96tlcdU9pmOMbg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/iMYyhUFGmTVMI0AvKg8wvw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_EnUSOhSM5qbnLDfgn473Q/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dorsett-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3387"
+}

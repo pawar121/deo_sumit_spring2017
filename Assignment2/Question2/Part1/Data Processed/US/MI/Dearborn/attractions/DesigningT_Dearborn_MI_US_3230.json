@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3031087,
+        "longitude": -83.2331085
+    },
+    "id": "designing-tomorrow-americas-worlds-fairs-of-the-1930s-dearborn",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YmYP_ff2K4-_f3SQGXmeAQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "20900 Oakwood Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Dearborn",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48124"
+    },
+    "name": "Designing Tomorrow:  America's World's Fairs of the 1930s",
+    "phone": "+13139826001",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YmYP_ff2K4-_f3SQGXmeAQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CpT7YA9ZWmqmAe_iBNnugg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/designing-tomorrow-americas-worlds-fairs-of-the-1930s-dearborn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3230"
+}

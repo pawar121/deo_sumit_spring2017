@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8738177193293,
+        "longitude": 151.207822675445
+    },
+    "id": "sayong-curry-and-laksa-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MPLN8vAPRCDdDismI5ZAIg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Lg Food Court",
+        "address2": "303 Pitt St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Sayong Curry And Laksa",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MPLN8vAPRCDdDismI5ZAIg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Cc80vQbM_cDXspR0YnrC-A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cgAVk0YnVl3d5mnQldMf7w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sayong-curry-and-laksa-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10098"
+}

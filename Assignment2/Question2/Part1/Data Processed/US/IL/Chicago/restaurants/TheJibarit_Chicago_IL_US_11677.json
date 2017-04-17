@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "puertorican",
+            "title": "Puerto Rican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8578068605835,
+        "longitude": -87.6678551616172
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "the-jibarito-stop-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yF1193au7eB-bwAKWWKdyQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1646 W 18th St",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60608"
+    },
+    "name": "The Jibarito Stop",
+    "phone": "+13129880585",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/yF1193au7eB-bwAKWWKdyQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HGYeVUc5uawOAQ3YBnJOfg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DGXvrxV7sxgivRzjAIr0Dw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 105,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-jibarito-stop-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11677"
+}

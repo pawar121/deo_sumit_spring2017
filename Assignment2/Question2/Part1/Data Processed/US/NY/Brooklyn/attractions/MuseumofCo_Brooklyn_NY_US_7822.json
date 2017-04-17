@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        },
+        {
+            "alias": "nonprofit",
+            "title": "Community Service/Non-Profit"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.68538,
+        "longitude": -73.97445
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "museum-of-contemporary-african-diasporan-arts-mocada-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iuTuyt50etwkJWWeuxZxWw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "80 Hanson Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11217"
+    },
+    "name": "Museum of Contemporary African Diasporan Arts - MoCADA",
+    "phone": "+17182300492",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iuTuyt50etwkJWWeuxZxWw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QIuJ9oK9Yg84BzCUKYVfbg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oQBytE7A3HugFs55_h1FjA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/museum-of-contemporary-african-diasporan-arts-mocada-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7822"
+}

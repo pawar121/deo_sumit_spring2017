@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8742798945954,
+        "longitude": 151.204705589871
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "chinatown-noodle-restaurant-sydney-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x3oo0QrytlnlRvzhaB4-8g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "77 Bathurst St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Chinatown Noodle Restaurant",
+    "phone": "+61292838859",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/x3oo0QrytlnlRvzhaB4-8g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uKKc-w976A-MTrDQ3s4t8Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o1s6d8BLd2oAyLranUC56A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chinatown-noodle-restaurant-sydney-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2437"
+}

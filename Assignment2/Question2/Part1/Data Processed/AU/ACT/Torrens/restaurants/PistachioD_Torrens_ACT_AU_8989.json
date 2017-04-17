@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3731499,
+        "longitude": 149.0870056
+    },
+    "id": "pistachio-dining-at-torrens-torrens",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Torrens Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Torrens",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2607"
+    },
+    "name": "Pistachio Dining at Torrens",
+    "phone": "+61262862966",
+    "photos": [],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pistachio-dining-at-torrens-torrens?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8989"
+}

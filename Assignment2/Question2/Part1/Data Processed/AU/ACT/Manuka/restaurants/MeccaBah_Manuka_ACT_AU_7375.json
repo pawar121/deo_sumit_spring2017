@@ -1,0 +1,43 @@
+{
+    "categories": [
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        },
+        {
+            "alias": "moroccan",
+            "title": "Moroccan"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3208114827362,
+        "longitude": 149.134051333875
+    },
+    "id": "mecca-bah-manuka",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TgPRMZKPkw9noqdRL0MrVQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "25-29 Flinders Way",
+        "address2": null,
+        "address3": null,
+        "city": "Manuka",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Mecca Bah",
+    "phone": "+61262606700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TgPRMZKPkw9noqdRL0MrVQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mecca-bah-manuka?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7375"
+}

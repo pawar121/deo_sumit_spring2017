@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4058495,
+        "longitude": -2.96457
+    },
+    "id": "oven-door-bakery-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l96nwGe3qP6urxutZPqcFg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Alsop Court",
+        "address2": "Brownlow Hill",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 5UB"
+    },
+    "name": "Oven Door Bakery",
+    "phone": "+441517096826",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/l96nwGe3qP6urxutZPqcFg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rvhgo6n3zI8nXEF-kiwYSw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CMWwvGgTrv23RW9nMY_DBg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/oven-door-bakery-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8481"
+}

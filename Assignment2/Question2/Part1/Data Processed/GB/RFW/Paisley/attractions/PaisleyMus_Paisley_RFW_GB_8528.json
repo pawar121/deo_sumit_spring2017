@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.84508,
+        "longitude": -4.42812
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1400"
+                }
+            ]
+        }
+    ],
+    "id": "paisley-museum-and-art-gallery-paisley",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2k1mckeiD75J2aG7NC8_Nw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "High Street",
+        "address2": "",
+        "address3": "",
+        "city": "Paisley",
+        "country": "GB",
+        "state": "RFW",
+        "zip_code": "PA1 2BA"
+    },
+    "name": "Paisley Museum & Art Gallery",
+    "phone": "+441418893151",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2k1mckeiD75J2aG7NC8_Nw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/AOBmbBGhYys4m0tsStd2Mg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GoeCoeJSY20ssfcTz0kAkg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/paisley-museum-and-art-gallery-paisley?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8528"
+}

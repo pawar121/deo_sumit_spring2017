@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8834643138798,
+        "longitude": -77.0449716911253
+    },
+    "id": "franklin-delano-roosevelt-memorial-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rVFFUKhHYkgt5ON923k76Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1850 W Basin Dr SW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20024"
+    },
+    "name": "Franklin Delano Roosevelt Memorial",
+    "phone": "+12024266841",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rVFFUKhHYkgt5ON923k76Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Rt0vKFGIrwQNTrA14XDkmA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ie73ZG_nTle5NEQW9-T1jA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 162,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/franklin-delano-roosevelt-memorial-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4256"
+}

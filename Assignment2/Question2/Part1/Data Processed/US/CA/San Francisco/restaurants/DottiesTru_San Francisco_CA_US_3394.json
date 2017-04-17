@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7817050429594,
+        "longitude": -122.409839630127
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "dotties-true-blue-cafe-san-francisco",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TNPVifX6XGdEVpv_O9_1cA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "28 6th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94103"
+    },
+    "name": "Dottie's True Blue Cafe",
+    "phone": "+14158852767",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TNPVifX6XGdEVpv_O9_1cA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YauRfNcJrsAD-O3aYAvlVg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MM9TwhVkv1jAfqIOSr_pmA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 3423,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dotties-true-blue-cafe-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3394"
+}

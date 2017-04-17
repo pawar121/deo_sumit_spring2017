@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7606395,
+        "longitude": -95.3664561
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "brooks-family-bbq-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5wR98Lq9BrhapnM3Nep0bQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "600 Louisiana St",
+        "address2": "Jones Plaza",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Brook's Family BBQ",
+    "phone": "+17135210021",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5wR98Lq9BrhapnM3Nep0bQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5Th2bqFv9MOO8ao6S_5xbg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/F1MX5a6biPzKEgjzYajPlA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 40,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brooks-family-bbq-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1758"
+}

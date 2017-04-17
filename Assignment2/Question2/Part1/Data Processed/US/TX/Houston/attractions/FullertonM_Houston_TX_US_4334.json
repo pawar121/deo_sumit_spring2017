@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        },
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.5590660764776,
+        "longitude": -95.1188959479947
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "fullerton-memorial-park-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3cV1Bw7M4Q74tYKvwOvzcA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1212 Ramada",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77062"
+    },
+    "name": "Fullerton Memorial Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3cV1Bw7M4Q74tYKvwOvzcA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DO6QG9aZ9Wy0dDuXi2He6g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ek-q5_ROsB0BkH7k1A_XUA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fullerton-memorial-park-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4334"
+}

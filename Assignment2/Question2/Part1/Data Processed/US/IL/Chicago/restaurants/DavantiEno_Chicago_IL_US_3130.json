@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.86911,
+        "longitude": -87.66147
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "davanti-enoteca-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a3NOSHaTdvGpbv8E6CtumQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1359 W Taylor St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60607"
+    },
+    "name": "Davanti Enoteca",
+    "phone": "+13122265550",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hYeLgsfSeaaNVKrLcc7V_g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/47UO3fA2ZrcELJK-nUmfAQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tOr_TxnqjVhVVrcGS9Yexg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1041,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/davanti-enoteca-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3130"
+}

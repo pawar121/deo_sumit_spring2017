@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7701308711855,
+        "longitude": -95.4038063259051
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "ninja-ramen-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bM1ts4YfzIg5962_jHZQRA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4219 Washington Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77007"
+    },
+    "name": "Ninja Ramen",
+    "phone": "+12818885873",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bM1ts4YfzIg5962_jHZQRA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/12thCpIlT_NxAJ9nBXMgrg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gBSgJgpADPUo60qhJC-1Hw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 294,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ninja-ramen-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8095"
+}

@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9751282,
+        "longitude": -77.0096207
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "eden-park-guest-house-takoma-park",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Zh0GIjildZc1tSDerVIUyw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7063 Carroll Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Takoma Park",
+        "country": "US",
+        "state": "MD",
+        "zip_code": "20912"
+    },
+    "name": "Eden Park Guest House",
+    "phone": "+13012708210",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Zh0GIjildZc1tSDerVIUyw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/eden-park-guest-house-takoma-park?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3572"
+}

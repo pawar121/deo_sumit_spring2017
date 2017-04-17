@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        },
+        {
+            "alias": "fitness",
+            "title": "Fitness & Instruction"
+        },
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8783493,
+        "longitude": 2.36584
+    },
+    "id": "parcours-sportif-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xUzpcopdOnXkBzwj3pmicg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Square Eugene Varlin",
+        "address2": "159 Quai de Valmy",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "Parcours Sportif",
+    "phone": "+33123456789",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xUzpcopdOnXkBzwj3pmicg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/b4JVO9F0GfXVYhI0mAeUfg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JitznZ9lyHFPInrjTpzOBA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/parcours-sportif-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8639"
+}

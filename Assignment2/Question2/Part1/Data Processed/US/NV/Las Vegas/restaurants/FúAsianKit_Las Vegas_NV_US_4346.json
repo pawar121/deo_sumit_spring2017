@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "cantonese",
+            "title": "Cantonese"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1089324951172,
+        "longitude": -115.153831481934
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "fú-asian-kitchen-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VbdqUvDKHD4tE2ssL8kEAg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Hard Rock Hotel & Casino",
+        "address2": "4455 Paradise Rd",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89169"
+    },
+    "name": "Fú Asian Kitchen",
+    "phone": "+17025228188",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VbdqUvDKHD4tE2ssL8kEAg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DEVNBsSzB0rggdE92zDAHg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/28iADKT8nFt5fEZk2fccAw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 117,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/f%C3%BA-asian-kitchen-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4346"
+}

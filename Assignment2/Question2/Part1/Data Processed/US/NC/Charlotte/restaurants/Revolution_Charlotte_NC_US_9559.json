@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.24727,
+        "longitude": -80.80443
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "revolution-ale-house-charlotte",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l7tuWZ12-pqgyCdb5T0mQw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3228 N Davidson St",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28205"
+    },
+    "name": "Revolution Ale House",
+    "phone": "+17043334440",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/l7tuWZ12-pqgyCdb5T0mQw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zWFvwWAc42FU6NTbxyRkZA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/f7AVmv5gqtpRJp2_MVKFSQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 213,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/revolution-ale-house-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9559"
+}

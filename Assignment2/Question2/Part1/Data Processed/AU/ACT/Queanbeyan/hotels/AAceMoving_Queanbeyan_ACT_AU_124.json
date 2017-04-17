@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "selfstorage",
+            "title": "Self Storage"
+        },
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3395996,
+        "longitude": 149.2483063
+    },
+    "id": "a-ace-moving-and-storage-in-canberra-queanbeyan",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "37 Endurance Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Queanbeyan",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2620"
+    },
+    "name": "A. Ace Moving & Storage In Canberra",
+    "phone": "+61262975333",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/a-ace-moving-and-storage-in-canberra-queanbeyan?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "124"
+}

@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.119661101674,
+        "longitude": -118.29609811306
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "greek-theatre-los-angeles",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uAVPYsLZToWnPdBEye0qAw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2700 N Vermont Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90027"
+    },
+    "name": "Greek Theatre",
+    "phone": "+18445247335",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uAVPYsLZToWnPdBEye0qAw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/k3u4avGN1XbSTXOmAPDQkg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8fZcb_1idomz0_5rPZMiFw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 803,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/greek-theatre-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4674"
+}

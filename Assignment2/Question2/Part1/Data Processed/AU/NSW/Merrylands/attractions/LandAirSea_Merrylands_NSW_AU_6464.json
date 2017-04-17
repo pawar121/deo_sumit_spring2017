@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "airport_shuttles",
+            "title": "Airport Shuttles"
+        },
+        {
+            "alias": "bustours",
+            "title": "Bus Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.828259,
+        "longitude": 150.982702
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "land-air-sea-travel-merrylands",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MbVZb08zx7ijvGZDw3eUfQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "9 Lena Pl",
+        "address2": null,
+        "address3": "",
+        "city": "Merrylands",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2160"
+    },
+    "name": "Land Air Sea Travel",
+    "phone": "+61296875134",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MbVZb08zx7ijvGZDw3eUfQ/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/land-air-sea-travel-merrylands?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6464"
+}

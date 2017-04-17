@@ -1,0 +1,77 @@
+{
+    "categories": [
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        },
+        {
+            "alias": "halal",
+            "title": "Halal"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.865268015449,
+        "longitude": 151.207049043586
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "malay-village-wynyard-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/je8nWPXTO-lUM8OH4PaFxw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop T18",
+        "address2": "273 George St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Malay Village Wynyard",
+    "phone": "+61292512678",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/je8nWPXTO-lUM8OH4PaFxw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/malay-village-wynyard-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7123"
+}

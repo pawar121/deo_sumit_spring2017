@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8775806,
+        "longitude": 151.2054668
+    },
+    "id": "seoul-ria-sydney-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hd08saqNb5Ajn4ehc1FjXQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2/605 George St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Seoul-Ria",
+    "phone": "+61292690222",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hd08saqNb5Ajn4ehc1FjXQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZFl-Bz5H4RQoQDf8_Wpl9Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TgvhFEIOIFR-F4KJ_vbWvQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/seoul-ria-sydney-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10214"
+}

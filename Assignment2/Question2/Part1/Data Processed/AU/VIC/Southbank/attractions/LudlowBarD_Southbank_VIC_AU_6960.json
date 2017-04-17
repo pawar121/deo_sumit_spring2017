@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.820355,
+        "longitude": 144.963719
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "ludlow-bar-and-dining-room-southbank-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eSWLhBS1xYJM2gOCCfy99Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "By The Yarra, Building 3",
+        "address2": "6 Riverside Quay",
+        "address3": null,
+        "city": "Southbank",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3006"
+    },
+    "name": "Ludlow Bar & Dining Room",
+    "phone": "+61396991676",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eSWLhBS1xYJM2gOCCfy99Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0f2KFB9PabF8qhy62uHB_A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9ciBDMvTEAOVfeOW8TLmCg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 25,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ludlow-bar-and-dining-room-southbank-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6960"
+}

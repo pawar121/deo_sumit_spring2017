@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8645496,
+        "longitude": -4.2612747
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "lucky-7-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5c8-FczqMVCGcAdrxWMU5Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "166 Bath Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G2 4TB"
+    },
+    "name": "Lucky 7",
+    "phone": "+441413316227",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5c8-FczqMVCGcAdrxWMU5Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5BYcoKIm7Ac-nU42JsyzUg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uAyhnnp9J-_PIZHV1ZW_-g/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.5,
+    "review_count": 33,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lucky-7-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6947"
+}

@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 43.080845,
+        "longitude": -70.7606638
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "isles-of-shoals-steamship-company-portsmouth",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rhQ82Czox1zMc2y4-VGjFA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "315 Market St",
+        "address2": "",
+        "address3": "",
+        "city": "Portsmouth",
+        "country": "US",
+        "state": "NH",
+        "zip_code": "03801"
+    },
+    "name": "Isles of Shoals Steamship Company",
+    "phone": "+16034315500",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rhQ82Czox1zMc2y4-VGjFA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/b2cH7heiYDhsGEuWlhR1ng/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/nLnOg5pMoheVHnJYHPEiiw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/isles-of-shoals-steamship-company-portsmouth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5703"
+}

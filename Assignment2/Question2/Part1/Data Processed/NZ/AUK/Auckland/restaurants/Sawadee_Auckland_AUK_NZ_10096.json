@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8589577,
+        "longitude": 174.7511065
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "sawadee-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0Nrjf6Eg4v25ifV9KrXKTw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "42a Ponsonby Road",
+        "address2": "Ponsonby",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1011"
+    },
+    "name": "Sawadee",
+    "phone": "+6493760320",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0Nrjf6Eg4v25ifV9KrXKTw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tAqaXgorpH2-8rGnDvKrqw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Nt-npp15zbdYdzYV3yciRw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sawadee-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10096"
+}

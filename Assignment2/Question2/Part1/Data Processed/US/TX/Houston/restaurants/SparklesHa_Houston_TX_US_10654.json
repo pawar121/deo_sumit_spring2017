@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7453,
+        "longitude": -95.35602
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "sparkles-hamburger-spot-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dIiL3H9U4izeCukMGBWGAA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1515 Dowling St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77003"
+    },
+    "name": "Sparkle's Hamburger Spot",
+    "phone": "+17132258044",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dIiL3H9U4izeCukMGBWGAA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xCsGjTFjgISgUl2la4R1Fw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/c_ZSwhEcD4MEybpiG5eDGA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 193,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sparkles-hamburger-spot-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10654"
+}

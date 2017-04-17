@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8718126222257,
+        "longitude": 151.202546591549
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "hunter-and-barrel-sydney",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5gO_qSvhFc5IkThhPoF2rA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Tenancy 303",
+        "address2": "Cockle Bay Wharf",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Hunter & Barrel",
+    "phone": "+61292649888",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5gO_qSvhFc5IkThhPoF2rA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ho-yyy1xfKyEHoov-q9Uig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cfDmfQBeeQeQXOQSc-71CQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hunter-and-barrel-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5451"
+}

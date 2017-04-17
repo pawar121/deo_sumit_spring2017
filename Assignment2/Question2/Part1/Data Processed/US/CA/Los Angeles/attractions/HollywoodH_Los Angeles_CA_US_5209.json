@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "metrostations",
+            "title": "Metro Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.1016626590898,
+        "longitude": -118.3393407787
+    },
+    "id": "hollywood-highland-red-line-station-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cqkXkePeHoo3zi2nfqeOuQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6801 Hollywood Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90028"
+    },
+    "name": "Hollywood / Highland Red Line Station",
+    "phone": "+18003666883",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cqkXkePeHoo3zi2nfqeOuQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cCLe3GMaWmk9-hUOhGVn2A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1h8pejpUTopZgBkZotq7Kw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 57,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hollywood-highland-red-line-station-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5209"
+}

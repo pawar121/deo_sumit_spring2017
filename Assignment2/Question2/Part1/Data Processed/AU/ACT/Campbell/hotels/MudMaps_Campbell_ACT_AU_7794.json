@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "hotelstravel",
+            "title": "Hotels & Travel"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.28263,
+        "longitude": 149.14916
+    },
+    "id": "mudmaps-campbell",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OAwmo0KsMGENOXGmRa6B5w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Campbell",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "MudMaps",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OAwmo0KsMGENOXGmRa6B5w/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/mudmaps-campbell?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7794"
+}

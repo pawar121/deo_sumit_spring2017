@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3518873,
+        "longitude": -71.1245246
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "holly-crab-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PtzJVNNcdXSyNi57_NRWYQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1098 Commonwealth Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02215"
+    },
+    "name": "Holly Crab",
+    "phone": "+16174875957",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PtzJVNNcdXSyNi57_NRWYQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1yK8jwO242609a7y6UQXCQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wx-COi-PI9aZNwxFkfvC1g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 173,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/holly-crab-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5200"
+}

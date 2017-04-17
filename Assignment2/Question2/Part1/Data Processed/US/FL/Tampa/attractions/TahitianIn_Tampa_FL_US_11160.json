@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.93883,
+        "longitude": -82.50614
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "tahitian-inn-tampa",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-w9VGGeGyNTNF6Z56YyNaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "601 S Dale Mabry Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33609"
+    },
+    "name": "Tahitian Inn",
+    "phone": "+18138776721",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-w9VGGeGyNTNF6Z56YyNaQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8SsYhDMDv8YM815Kkc9zeQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YK585q3W23a5twbtpt2vJg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 76,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tahitian-inn-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11160"
+}

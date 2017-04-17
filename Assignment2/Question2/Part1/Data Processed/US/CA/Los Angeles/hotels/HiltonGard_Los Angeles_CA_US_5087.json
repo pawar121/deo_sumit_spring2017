@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.106812,
+        "longitude": -118.337916
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "hilton-garden-inn-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WLwAjDgz5LFNEM-_0qVykw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2005 N Highland Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90068"
+    },
+    "name": "Hilton Garden Inn",
+    "phone": "+13238768600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WLwAjDgz5LFNEM-_0qVykw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0ltRZgcrcruVj0-EZLTXaA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2FhszynhUp9N8rl2MuDxHQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 106,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hilton-garden-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5087"
+}

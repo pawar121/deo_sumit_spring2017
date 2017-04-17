@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.610321,
+        "longitude": -83.3431778
+    },
+    "id": "santia-banquet-center-keego-harbor",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9lLtNmaLCkN6_NmYyQ_VEQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1999 Cass Lake Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Keego Harbor",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48320"
+    },
+    "name": "Santia Banquet Center",
+    "phone": "+12486820420",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9lLtNmaLCkN6_NmYyQ_VEQ/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/santia-banquet-center-keego-harbor?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10049"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.68491,
+        "longitude": -73.99451
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "cobble-hill-cinemas-brooklyn",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3J9QUc7eTivT5MWb__dDoA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "265 Court St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11231"
+    },
+    "name": "Cobble Hill Cinemas",
+    "phone": "+17185969113",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3J9QUc7eTivT5MWb__dDoA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3DqeIBmPuewEuiV0xAMohQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/V4qopBvyyC5KDGiMeG5qHQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 253,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cobble-hill-cinemas-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2683"
+}

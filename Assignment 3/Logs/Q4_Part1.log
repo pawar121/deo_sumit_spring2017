@@ -1,0 +1,7 @@
+2017-04-04 16:14:35,966 - root - INFO - Application started....
+2017-04-04 16:14:35,967 - root - INFO - Reading data from movies_awards.csv
+2017-04-04 16:14:36,307 - root - INFO - Filtering the data frame for which awards is N/A
+2017-04-04 16:14:36,324 - root - INFO - Total number of movies for which award information is available is 1818
+2017-04-04 16:14:36,485 - root - INFO - Writing summary metrix to Q4_Part1.csv
+2017-04-04 16:14:36,531 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q4_Part1.csv
+2017-04-04 16:14:36,552 - root - INFO - Application finished....

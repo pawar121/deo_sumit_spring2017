@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        },
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.758419,
+        "longitude": 145.0855255
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "banksia-park-bulleen",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IuiH4ZXSFmhgbZ3eEgKyNQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Templestowe Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Bulleen",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3105"
+    },
+    "name": "Banksia Park",
+    "phone": "+61131963",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IuiH4ZXSFmhgbZ3eEgKyNQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/banksia-park-bulleen?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "946"
+}

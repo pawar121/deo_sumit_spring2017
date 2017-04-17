@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.85194,
+        "longitude": -87.61152
+    },
+    "id": "chicago-auto-show-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vj2QiyiutEd3mtLf64vB0g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2301 S Lake Shore Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60610"
+    },
+    "name": "Chicago Auto Show",
+    "phone": "+16304952282",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vj2QiyiutEd3mtLf64vB0g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cbRE1byZloqByd9KQdOBnQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SL6GgXH_fOHVFfqsSUAlPA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 69,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/chicago-auto-show-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2368"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        },
+        {
+            "alias": "sports_clubs",
+            "title": "Sports Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4830024714937,
+        "longitude": -2.20149649549487
+    },
+    "id": "manchester-city-football-club-etihad-stadium-manchester",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ISD3L5JQT559OpOj5sFhpQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Ashton New Road",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "ABE",
+        "zip_code": "M11 3FF"
+    },
+    "name": "Manchester City Football Club - Etihad Stadium",
+    "phone": "+441614441894",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ISD3L5JQT559OpOj5sFhpQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zrse4_QGa7SPMbBHy9hr5Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fF62ekANLUx9euUCpVMO0A/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 53,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/manchester-city-football-club-etihad-stadium-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7152"
+}

@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "singaporean",
+            "title": "Singaporean"
+        },
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4716606,
+        "longitude": 153.0256195
+    },
+    "id": "satay-club-noodle-house-brisbane",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2UeKnex27gbmnb745NW0XQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "66 Charlotte St",
+        "address2": null,
+        "address3": null,
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Satay Club Noodle House",
+    "phone": "+61732298855",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2UeKnex27gbmnb745NW0XQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DWzTJrmCiK9znCQl4SKm0w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/D5x32mhpolwNntQTD-Jpfg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/satay-club-noodle-house-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10075"
+}

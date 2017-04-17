@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9544607957308,
+        "longitude": 115.858233980834
+    },
+    "id": "rolld-perth-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/opxwyYYirFWeWaL45gxnew/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Enex 100",
+        "address2": "861- 863 Hay St",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Roll'd",
+    "phone": "+61894818529",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/opxwyYYirFWeWaL45gxnew/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lqcmVMt0M4OjTNnps7mpVA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CLNLU-BA9qmRUgxGjKazHQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rolld-perth-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9716"
+}

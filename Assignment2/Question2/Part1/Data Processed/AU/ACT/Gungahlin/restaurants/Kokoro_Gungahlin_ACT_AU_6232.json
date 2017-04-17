@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.1850562296654,
+        "longitude": 149.135291129351
+    },
+    "id": "kokoro-gungahlin",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "40 Hibberson St",
+        "address2": "",
+        "address3": "",
+        "city": "Gungahlin",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2912"
+    },
+    "name": "Kokoro",
+    "phone": "+61262417450",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kokoro-gungahlin?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6232"
+}

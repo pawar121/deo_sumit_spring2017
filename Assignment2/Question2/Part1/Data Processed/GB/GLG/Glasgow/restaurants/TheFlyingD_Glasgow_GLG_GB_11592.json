@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8653784935707,
+        "longitude": -4.25502419471741
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "the-flying-duck-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JSKuUi3h-mc1nc8E8SGhRw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "142 Renfield Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G2 3AU"
+    },
+    "name": "The Flying Duck",
+    "phone": "+441415641450",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JSKuUi3h-mc1nc8E8SGhRw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3c8C60EoBEe8aYMu1H1Xhg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tBY_lX5qzrCS7UKbuM5tDA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 36,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-flying-duck-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11592"
+}

@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "dog_parks",
+            "title": "Dog Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.689928639909,
+        "longitude": -122.4026016891
+    },
+    "id": "golden-gardens-park-off-leash-area-seattle-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V0knwJ809_fqv6nHOjmKiA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8498 Seaview Place NW",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98127"
+    },
+    "name": "Golden Gardens Park - Off Leash Area",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/V0knwJ809_fqv6nHOjmKiA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QZcTaYw3WOO2Bkf_XSVIEg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7YIe4TpWDPc_M12Clyd0Ew/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 53,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/golden-gardens-park-off-leash-area-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4533"
+}

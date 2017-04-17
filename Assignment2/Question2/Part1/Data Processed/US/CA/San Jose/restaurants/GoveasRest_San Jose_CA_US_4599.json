@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.324528,
+        "longitude": -121.819223
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "goveas-restaurant-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1jYpI8R8-smA2LkNCSvMUQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1996 Tully Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95122"
+    },
+    "name": "Govea's Restaurant",
+    "phone": "+14082700973",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1jYpI8R8-smA2LkNCSvMUQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z5Mkov19XSZpIi4kCu3uKw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LoXZLq2y-EHUK7u_AjdbdA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 268,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/goveas-restaurant-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4599"
+}

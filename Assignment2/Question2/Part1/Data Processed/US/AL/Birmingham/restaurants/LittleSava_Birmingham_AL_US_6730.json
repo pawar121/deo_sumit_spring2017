@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5147251,
+        "longitude": -86.773658
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "little-savannah-restaurant-and-bar-birmingham",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fb7yi4Tn2VMOn47Q9iIXuQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3811 Clairmont Ave S",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35222"
+    },
+    "name": "Little Savannah Restaurant And Bar",
+    "phone": "+12055911119",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fb7yi4Tn2VMOn47Q9iIXuQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bbtr65LvitUPAUylBfTJcA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6R9wG6yFlaPipB4XAHVfvA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 53,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/little-savannah-restaurant-and-bar-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6730"
+}

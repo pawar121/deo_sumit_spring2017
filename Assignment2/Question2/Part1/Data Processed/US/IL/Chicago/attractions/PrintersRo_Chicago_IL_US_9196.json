@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8723,
+        "longitude": -87.62912
+    },
+    "id": "printers-row-lit-fest-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3d0n0XAWfQFn4sFk3dRZxQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Dearborn St & Polk St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60686"
+    },
+    "name": "Printers Row Lit Fest",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3d0n0XAWfQFn4sFk3dRZxQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RmYajkR8rRoqao2leoN0EQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/u-Vsa2lwlVNAUtiPFfAQ6g/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 34,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/printers-row-lit-fest-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9196"
+}

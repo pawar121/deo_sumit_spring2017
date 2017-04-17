@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "czech",
+            "title": "Czech"
+        },
+        {
+            "alias": "german",
+            "title": "German"
+        },
+        {
+            "alias": "hungarian",
+            "title": "Hungarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.752362,
+        "longitude": -122.419099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "paprika-san-francisco",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p1mo4pKxoqRFxZ74JsnHXQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3324 24th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "Paprika",
+    "phone": "+14153751477",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/p1mo4pKxoqRFxZ74JsnHXQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/soFGx3c2VHD1MD8ZJ6a9aw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Kb_XWfl3U7-LiXuAJZd0xg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 256,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/paprika-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8616"
+}

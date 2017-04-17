@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "arcades",
+            "title": "Arcades"
+        },
+        {
+            "alias": "leisure_centers",
+            "title": "Leisure Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7113697,
+        "longitude": -73.8916826
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "funtopia-middle-village",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3A7md1wP-XTXIvWh5dU5gw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Metro Mall",
+        "address2": "6626 Metropolitan Ave",
+        "address3": "",
+        "city": "Middle Village",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11379"
+    },
+    "name": "Funtopia",
+    "phone": "+17183814300",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3A7md1wP-XTXIvWh5dU5gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/19hkFLYnMG4UYhtaxFJ7kA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rHmkMCUE1A_F1m7BFrc67Q/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 59,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/funtopia-middle-village?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4340"
+}

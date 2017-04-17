@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8147316,
+        "longitude": 144.955246
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "regency-chinese-cuisine-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1tgMVsChbOmXA4qO19--gg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "232 King St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Regency Chinese Cuisine",
+    "phone": "+61396003620",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1tgMVsChbOmXA4qO19--gg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/knVwHSVjTyd3oO-2FidqXA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/regency-chinese-cuisine-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9482"
+}

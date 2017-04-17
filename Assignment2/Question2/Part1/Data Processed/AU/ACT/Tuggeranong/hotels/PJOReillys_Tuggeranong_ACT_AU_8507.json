@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.417593685965,
+        "longitude": 149.068336486816
+    },
+    "id": "p-j-o-reillys-tuggeranong",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HczMq4C_jjJGdVWWcf_Rnw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Homeworld Ctr",
+        "address2": null,
+        "address3": null,
+        "city": "Tuggeranong",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2900"
+    },
+    "name": "P.J. O'Reilly's",
+    "phone": "+61262939666",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HczMq4C_jjJGdVWWcf_Rnw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/p-j-o-reillys-tuggeranong?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8507"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8930269,
+        "longitude": 174.7822253
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "knights-inn-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HGnkNJbPZEZbQK6gtr1zxw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "234 Green Lane Road West, Epsom",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1051"
+    },
+    "name": "Knights Inn",
+    "phone": "+6496308899",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HGnkNJbPZEZbQK6gtr1zxw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8IibtCU5ty8nw5cA5B0OmA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KlDqGbC4-OPcgbhSkdSgMg/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/knights-inn-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6211"
+}

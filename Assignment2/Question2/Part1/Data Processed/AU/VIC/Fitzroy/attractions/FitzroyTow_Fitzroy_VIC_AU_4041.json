@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.7986565,
+        "longitude": 144.9805545
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "fitzroy-town-hall-hotel-fitzroy",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R1uj9waAIgmZ58GY3LzCYg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "166 Johnston St",
+        "address2": null,
+        "address3": null,
+        "city": "Fitzroy",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3065"
+    },
+    "name": "Fitzroy Town Hall Hotel",
+    "phone": "+61394165055",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/R1uj9waAIgmZ58GY3LzCYg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/w3DkuF0sVoBTbjAbDHVxmA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FcBBirN6yeLELD9KSLFiiQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fitzroy-town-hall-hotel-fitzroy?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4041"
+}

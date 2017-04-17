@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4677486,
+        "longitude": 153.0296631
+    },
+    "id": "aquila-caffe-bar-brisbane",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VvwpltOPlYrkAA8q4Koe7A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "82 Eagle St",
+        "address2": null,
+        "address3": null,
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Aquila Caffe Bar",
+    "phone": "+61732212228",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VvwpltOPlYrkAA8q4Koe7A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dJccR3x1MHMNvSLEOONgNg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6k--9Zb59S6U64VLSRpJdQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/aquila-caffe-bar-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "578"
+}

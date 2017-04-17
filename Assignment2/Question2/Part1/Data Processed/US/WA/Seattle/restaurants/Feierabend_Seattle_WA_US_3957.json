@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "german",
+            "title": "German"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6225189844835,
+        "longitude": -122.330288567194
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "feierabend-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cpSxrp4eGLQWj76mv5IkiQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "422 Yale Ave N",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98109"
+    },
+    "name": "Feierabend",
+    "phone": "+12063402528",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cpSxrp4eGLQWj76mv5IkiQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FeMmFAGcNWsxbx4vnGggng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2Xb7cZTUrreM-F9_mG-ySw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 418,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/feierabend-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3957"
+}

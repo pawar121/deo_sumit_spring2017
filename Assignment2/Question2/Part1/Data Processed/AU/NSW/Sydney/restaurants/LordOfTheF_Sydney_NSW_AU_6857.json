@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "friterie",
+            "title": "Friterie"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8761612480905,
+        "longitude": 151.206379990502
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "lord-of-the-fries-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_TcUn0GI3znB3kHA-9U6Lw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "537 George St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Lord Of The Fries",
+    "phone": "+611300667552",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_TcUn0GI3znB3kHA-9U6Lw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/swV2iXFKWSX-Fdp5h2P1Dg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cDO-6RAcxHh3T_rgvNHXYg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 24,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lord-of-the-fries-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6857"
+}

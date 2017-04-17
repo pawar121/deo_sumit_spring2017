@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.10114,
+        "longitude": -118.34572
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "2359",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "la-brea-hollywood-motel-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/n9tqF5fs1ocJO0rjQh1Tnw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7110 Hollywood Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90046"
+    },
+    "name": "Hollywood-La Brea Motel",
+    "phone": "+13238768000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/n9tqF5fs1ocJO0rjQh1Tnw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/H7LbEG3GvAuZqzc5DTmjuA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.0,
+    "review_count": 23,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/la-brea-hollywood-motel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6310"
+}

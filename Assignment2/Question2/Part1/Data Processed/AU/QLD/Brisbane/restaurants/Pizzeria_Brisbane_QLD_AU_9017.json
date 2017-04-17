@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4654808,
+        "longitude": 153.013504
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "pizzeria-1889-brisbane",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1E3Z6IuZOIWP0ucBu_2lSw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "The Barracks",
+        "address2": "61 Petrie Terrace",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Pizzeria 1889",
+    "phone": "+61733683200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1E3Z6IuZOIWP0ucBu_2lSw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4qJijPOEBHnY0lUCBdP-cA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LInDicprRy6WXAx5jbyXaQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pizzeria-1889-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9017"
+}

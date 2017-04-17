@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.75706,
+        "longitude": -95.3698
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "discover-houston-tours-houston-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bXv4ay2bILzHdKjnbzIzvw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8181 Fannin St",
+        "address2": "Ste No 2218",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77054"
+    },
+    "name": "Discover Houston Tours",
+    "phone": "+17132229255",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bXv4ay2bILzHdKjnbzIzvw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9IRiDKdlJagd7-GaaiIHTA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NDmBtywPHd8_nhr87ANSKA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/discover-houston-tours-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3303"
+}

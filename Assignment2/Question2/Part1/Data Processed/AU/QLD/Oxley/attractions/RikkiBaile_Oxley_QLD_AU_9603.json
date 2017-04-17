@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.5615406,
+        "longitude": 152.9673767
+    },
+    "id": "rikki-bailey-park-oxley",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qSgaKjEy75YAr68U6JKpfA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Avalon St",
+        "address2": "",
+        "address3": "",
+        "city": "Oxley",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4075"
+    },
+    "name": "Rikki Bailey Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qSgaKjEy75YAr68U6JKpfA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rikki-bailey-park-oxley?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9603"
+}

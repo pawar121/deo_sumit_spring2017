@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3645515,
+        "longitude": 149.0944824
+    },
+    "id": "flight-centre-mawson-mawson",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 2A, Southlands Shopping Centre 8-12 Mawson Drv",
+        "address2": null,
+        "address3": null,
+        "city": "Mawson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2607"
+    },
+    "name": "Flight Centre Mawson",
+    "phone": "+1300755332",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/flight-centre-mawson-mawson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4097"
+}

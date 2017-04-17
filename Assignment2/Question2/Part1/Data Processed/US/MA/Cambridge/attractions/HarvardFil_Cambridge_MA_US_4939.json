@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3739114,
+        "longitude": -71.1144998
+    },
+    "id": "harvard-film-archive-cambridge",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JnbiL1f3L3xDXPi9Cy2irA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "24 Quincy St",
+        "address2": null,
+        "address3": "",
+        "city": "Cambridge",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02238"
+    },
+    "name": "Harvard Film Archive",
+    "phone": "+16174954700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JnbiL1f3L3xDXPi9Cy2irA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TtQzXCwdPFrjhcZ0_c0PdA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/iLdAY9P3WVhFKdnt9LLkYQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 30,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/harvard-film-archive-cambridge?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4939"
+}

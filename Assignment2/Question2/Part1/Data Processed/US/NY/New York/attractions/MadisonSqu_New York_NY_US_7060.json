@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7422133587202,
+        "longitude": -73.9879736510651
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "madison-square-park-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fmCb1WvCedEIQv2GuzoiKA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Eleven Madison Ave",
+        "address2": "15th Fl",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10010"
+    },
+    "name": "Madison Square Park",
+    "phone": "+12125207600",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fmCb1WvCedEIQv2GuzoiKA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uRk7rYHY0FqlEz3oz7bnsg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/c6wBJNOrrXJ4TET85b3z_Q/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 335,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/madison-square-park-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7060"
+}

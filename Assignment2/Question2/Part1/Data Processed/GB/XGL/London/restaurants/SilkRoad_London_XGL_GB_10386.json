@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4739712,
+        "longitude": -0.0896081
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1400"
+                }
+            ]
+        }
+    ],
+    "id": "silk-road-london-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fIGQ5gC5JuR_oGr_muqg_Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "49 Camberwell Church Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE5 8TR"
+    },
+    "name": "Silk Road",
+    "phone": "+442077034832",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fIGQ5gC5JuR_oGr_muqg_Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/pUXusTIbeDRInvi6fkNjmA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W6FKZbKNlX_H5Uhph6H5lA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 37,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/silk-road-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10386"
+}

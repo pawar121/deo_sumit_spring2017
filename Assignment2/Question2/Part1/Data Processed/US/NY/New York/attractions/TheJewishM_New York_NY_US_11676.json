@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7854,
+        "longitude": -73.95719
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1745",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1745",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1745",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1745",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1745",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "the-jewish-museum-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CecSGMeci9S9dOCjkJ5ywQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1109 5th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10128"
+    },
+    "name": "The Jewish Museum",
+    "phone": "+12124233200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CecSGMeci9S9dOCjkJ5ywQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Nwd6ZA_VmzrjtfqDdD6i6g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oKyXkYxRQVks5cXcZj9urw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 82,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-jewish-museum-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11676"
+}

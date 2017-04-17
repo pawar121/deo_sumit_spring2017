@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.4961035,
+        "longitude": -112.1000449
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "my-mothers-restaurant-phoenix",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n2knyr1511knqsIVmVerEA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4130 N 19th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85015"
+    },
+    "name": "My Mother's Restaurant",
+    "phone": "+16022797225",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/n2knyr1511knqsIVmVerEA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GsSMNL9b115INegmoBhywg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mTQJ-4YA7pUVsl-SpsiIWw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 140,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/my-mothers-restaurant-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7854"
+}

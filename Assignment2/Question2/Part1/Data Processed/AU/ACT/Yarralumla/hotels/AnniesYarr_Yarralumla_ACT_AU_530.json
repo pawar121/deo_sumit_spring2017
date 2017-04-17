@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3082199,
+        "longitude": 149.0993652
+    },
+    "id": "annies-yarralumla-yarralumla",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "27 Mueller St",
+        "address2": null,
+        "address3": null,
+        "city": "Yarralumla",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2600"
+    },
+    "name": "Annies @ Yarralumla",
+    "phone": "+61261619681",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/annies-yarralumla-yarralumla?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "530"
+}

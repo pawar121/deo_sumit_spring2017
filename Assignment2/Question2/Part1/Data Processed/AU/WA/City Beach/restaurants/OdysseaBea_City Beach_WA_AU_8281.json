@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        },
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9382698170496,
+        "longitude": 115.756126977503
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "odyssea-beach-cafe-city-beach",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NzpShgyOu-XCYV69AwEf1g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "187 Challenger Pde",
+        "address2": "",
+        "address3": "",
+        "city": "City Beach",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6015"
+    },
+    "name": "Odyssea Beach Cafe",
+    "phone": "+61893857979",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NzpShgyOu-XCYV69AwEf1g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4tjfdCedC1ZgMjRlDyNWpg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CKSWFdX70Oui0-thblUeyQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 38,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/odyssea-beach-cafe-city-beach?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8281"
+}

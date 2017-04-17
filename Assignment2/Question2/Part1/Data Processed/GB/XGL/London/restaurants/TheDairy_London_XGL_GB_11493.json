@@ -1,0 +1,110 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "british",
+            "title": "British"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4618724,
+        "longitude": -0.1395915
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "the-dairy-london-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ADxDJAYuIAqVqoDaej2CBw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 The Pavement",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW4 0HY"
+    },
+    "name": "The Dairy",
+    "phone": "+442076224165",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ADxDJAYuIAqVqoDaej2CBw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/g8A0f2WL4gAX93Et-r10pw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QSiXq4Il1EWrCign3gJ_Jw/o.jpg"
+    ],
+    "price": "££££",
+    "rating": 4.5,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-dairy-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11493"
+}

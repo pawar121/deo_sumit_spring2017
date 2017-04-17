@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.9853132668985,
+        "longitude": -95.4994285569679
+    },
+    "id": "north-oaks-dollar-cinema-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/62LxUMoKUGLESSQ6zrlNew/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4623 Fm 1960 Rd W",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77069"
+    },
+    "name": "North Oaks Dollar Cinema",
+    "phone": "+18324360008",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/62LxUMoKUGLESSQ6zrlNew/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/weZZ9Mz2Ai_JNldHCRw4IQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_Erotf5D6L6sAYQtxvAvmQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/north-oaks-dollar-cinema-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8177"
+}

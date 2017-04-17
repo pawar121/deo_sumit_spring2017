@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "alias": "polish",
+            "title": "Polish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3488617,
+        "longitude": -83.0411606
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "peoples-pierogi-collective-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ddO83T0abh9fEQKVkDXeVw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Eastern Market",
+        "address2": "2934 Russell St",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48207"
+    },
+    "name": "People's Pierogi Collective",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ddO83T0abh9fEQKVkDXeVw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5fXu4nab2vlpIPBF-bpkEA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/67FoyFuHZja48kJXzs4DfQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/peoples-pierogi-collective-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8779"
+}

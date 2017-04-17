@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.96497,
+        "longitude": -122.0258
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "segway-santa-cruz-tours-santa-cruz",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G6wiSn4X3TZ6_qPgM76UmA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "302 Pacific Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Santa Cruz",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95060"
+    },
+    "name": "Segway Santa Cruz Tours",
+    "phone": "+18314660206",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/G6wiSn4X3TZ6_qPgM76UmA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TsKrobnIHRbtMwhkv4jsaQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_wKqRScqv7cNvtKHxtvfQQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 46,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/segway-santa-cruz-tours-santa-cruz?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10199"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "eventplanning",
+            "title": "Party & Event Planning"
+        },
+        {
+            "alias": "arcades",
+            "title": "Arcades"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8223991,
+        "longitude": -87.6663208
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "razzmatazz-chicago-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NTNsWUqvH9xz2kwMmYSHsQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3900 S Ashland Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60609"
+    },
+    "name": "Razzmatazz Chicago",
+    "phone": "+17733762900",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NTNsWUqvH9xz2kwMmYSHsQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dM8sZg9NjuNpOH_OykEpVA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/PhW7yTHnCtY1Pak3yxCy1w/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/razzmatazz-chicago-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9413"
+}

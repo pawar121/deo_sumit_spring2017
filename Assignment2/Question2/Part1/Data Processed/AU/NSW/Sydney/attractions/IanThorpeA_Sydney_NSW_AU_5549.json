@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8773540350927,
+        "longitude": 151.198892755798
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "ian-thorpe-aquatic-centre-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IkIGS25u-sjTIf0JwaoqrA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "458 Harris St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2007"
+    },
+    "name": "Ian Thorpe Aquatic Centre",
+    "phone": "+61295187220",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IkIGS25u-sjTIf0JwaoqrA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/s3_Kt3D9zTXZXldldVSerA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ck-7rmpSuS4bpWX8rCtSWg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ian-thorpe-aquatic-centre-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5549"
+}

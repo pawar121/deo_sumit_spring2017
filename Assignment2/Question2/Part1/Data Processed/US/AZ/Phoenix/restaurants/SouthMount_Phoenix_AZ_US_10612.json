@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.39477,
+        "longitude": -112.07394
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "south-mountain-cafe-phoenix-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nS1Qh2-0gcjIgzzVYX55og/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5630 S Central Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85040"
+    },
+    "name": "South Mountain Cafe",
+    "phone": "+16025957366",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nS1Qh2-0gcjIgzzVYX55og/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cls1e0y3u5bizyZogQ4hxw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RAW65m-4s1iOfVugLdlZkg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 32,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/south-mountain-cafe-phoenix-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10612"
+}

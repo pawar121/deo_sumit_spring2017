@@ -1,0 +1,130 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7026153030093,
+        "longitude": -73.9934159993549
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "1515",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "julianas-pizza-brooklyn-5",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F91yzENQ2E7Z-4xSDKUdXA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "19 Old Fulton St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11201"
+    },
+    "name": "Juliana's Pizza",
+    "phone": "+17185966700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/F91yzENQ2E7Z-4xSDKUdXA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lmxOaieqguG2zJfBCw6aiw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/GHW3ux0HWpa5uTObFH55_A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 1157,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/julianas-pizza-brooklyn-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5967"
+}

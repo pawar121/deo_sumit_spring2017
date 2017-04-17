@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81631,
+        "longitude": 144.96034
+    },
+    "id": "diksteins-corner-bar-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Bet66m099Fd016zn9PQcYA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "433 Little Collins St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Dikstein's Corner Bar",
+    "phone": "+6196420943",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Bet66m099Fd016zn9PQcYA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nS4yDofn5U4SzcGKf99JtA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HGeLFKuF0G29s-7d8P8QTg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/diksteins-corner-bar-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3276"
+}

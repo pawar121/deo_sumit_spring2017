@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "boxing",
+            "title": "Boxing"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6132237,
+        "longitude": -122.320841
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "seattle-boxing-gym-seattle-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/b9kWUg0r-1y_tU0l6xrEBg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1432 Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Seattle Boxing Gym",
+    "phone": "+12066583114",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/b9kWUg0r-1y_tU0l6xrEBg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/p93oBYlm6fgP1m-NpKliTQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kOdYUne1k9lGYIvfj_phcw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/seattle-boxing-gym-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10174"
+}

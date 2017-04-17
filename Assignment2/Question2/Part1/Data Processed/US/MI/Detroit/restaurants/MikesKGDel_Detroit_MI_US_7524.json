@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.39277,
+        "longitude": -82.98372
+    },
+    "id": "mikes-k-and-g-deli-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mayFy217vXtavgxENehW1g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5625 Conner St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48213"
+    },
+    "name": "Mike's K & G Deli",
+    "phone": "+13135791683",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mayFy217vXtavgxENehW1g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xFqezHEzD8PR4C0ySZWtHA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mikes-k-and-g-deli-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7524"
+}

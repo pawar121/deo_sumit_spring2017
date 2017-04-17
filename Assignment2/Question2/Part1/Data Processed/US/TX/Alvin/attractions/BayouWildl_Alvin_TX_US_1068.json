@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        },
+        {
+            "alias": "zoos",
+            "title": "Zoos"
+        },
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.43128,
+        "longitude": -95.1704
+    },
+    "id": "bayou-wildlife-park-alvin",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cw7tVVabGVFXHuAepWRyvA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5050 FM 517 Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Alvin",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77511"
+    },
+    "name": "Bayou Wildlife Park",
+    "phone": "+12813376376",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Cw7tVVabGVFXHuAepWRyvA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1UsZ4v2Ja5eylcyxxVCfzA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Rikej_uC0289uuMrT__ojg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 42,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bayou-wildlife-park-alvin?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1068"
+}

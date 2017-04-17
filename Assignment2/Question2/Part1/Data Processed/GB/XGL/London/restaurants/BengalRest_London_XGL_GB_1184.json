@@ -1,0 +1,132 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "fooddeliveryservices",
+            "title": "Food Delivery Services"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5183902,
+        "longitude": -0.1888059
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "bengal-restaurant-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0ALKAdMYYeYxk16HBlf9cQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "62a Porchester Road",
+        "address2": "Bayswater",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 6ET"
+    },
+    "name": "Bengal Restaurant",
+    "phone": "+442072295567",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hpBVXGJ_s5Hr_vX_qyViSQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bcagihxpa7LfX4Koh6WYIg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kan6784UygNNkEyEfk4VUA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 39,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bengal-restaurant-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1184"
+}

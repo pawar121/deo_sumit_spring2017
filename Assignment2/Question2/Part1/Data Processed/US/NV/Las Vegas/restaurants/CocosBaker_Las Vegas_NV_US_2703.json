@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1006651,
+        "longitude": -115.1659525
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "cocos-bakery-restaurant-las-vegas-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rPfZ51xf9csNsM9UXhhIPQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "169 E Tropicana Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    "name": "Coco's Bakery Restaurant",
+    "phone": "+17027363936",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rPfZ51xf9csNsM9UXhhIPQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ARzigFYZ47S2NLeyfeDe7g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OV4lW9tkTRiYdHZ4uAHFFw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 239,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cocos-bakery-restaurant-las-vegas-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2703"
+}

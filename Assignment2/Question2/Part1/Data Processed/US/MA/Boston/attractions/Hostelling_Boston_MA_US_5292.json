@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3510746,
+        "longitude": -71.0632479
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "hostelling-international-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jSB5XpVZPrdUWoadOswVAg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "19 Stuart St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Hostelling International",
+    "phone": "+16175369455",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jSB5XpVZPrdUWoadOswVAg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ITowjZZMHVj97YdAU7YBEA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LfZUbmTrAWvPrbqlT39GlQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 96,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hostelling-international-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5292"
+}

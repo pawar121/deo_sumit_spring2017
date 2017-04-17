@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8740429,
+        "longitude": 151.2068396
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "chat-thai-sydney-6",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rNlM7EBGZnQ9jMDnLHDknw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 5, Lower Ground - Food Avenue, The Galeries",
+        "address2": "500 George St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Chat Thai",
+    "phone": "+61292835789",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rNlM7EBGZnQ9jMDnLHDknw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Qn9NoOd8tB8MutCCvISabg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qFuaEH9Kn3_txnRd8i0arg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 22,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chat-thai-sydney-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2305"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.7893143,
+        "longitude": 144.9901428
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "some-velvet-morning-clifton-hill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/klKenMLmm7OLDVL-Dt9Xtw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "123 Queens Pde",
+        "address2": "",
+        "address3": "",
+        "city": "Clifton Hill",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3068"
+    },
+    "name": "Some Velvet Morning",
+    "phone": "+61394865192",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/klKenMLmm7OLDVL-Dt9Xtw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/T7QpH395iBIUWBzD42kCTw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dTdLIn1MLYHaB9xxU3PvPg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/some-velvet-morning-clifton-hill?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10560"
+}

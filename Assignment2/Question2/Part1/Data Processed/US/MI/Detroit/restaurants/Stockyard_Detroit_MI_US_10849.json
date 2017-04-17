@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.34535,
+        "longitude": -83.043022
+    },
+    "id": "stockyard-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/txPBirU1L7Jjwv9pZsGTtg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": ""
+    },
+    "name": "Stockyard",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/txPBirU1L7Jjwv9pZsGTtg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W1__8qJ2POOcNXdD27WhMw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LI7hV77wO2NM1_belAvEsA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/stockyard-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10849"
+}

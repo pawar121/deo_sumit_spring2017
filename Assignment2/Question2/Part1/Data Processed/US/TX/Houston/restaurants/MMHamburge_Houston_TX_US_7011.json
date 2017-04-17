@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7412209784106,
+        "longitude": -95.3042293236263
+    },
+    "id": "m-and-m-hamburger-and-ice-cream-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yaYqBWDeXgR66YBUbop3ag/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "210 Wayside Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77011"
+    },
+    "name": "M&M Hamburger and Ice Cream",
+    "phone": "+17139217403",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yaYqBWDeXgR66YBUbop3ag/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Jb4nyh-n22Z7Xge2NYZJlw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qoJ-zQ-WiTaUmEmo98-HIQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/m-and-m-hamburger-and-ice-cream-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7011"
+}

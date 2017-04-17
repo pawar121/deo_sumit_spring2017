@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3682504,
+        "longitude": -71.2372326
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "jocos-bar-and-kitchen-waltham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DkYxzVyEV00AeehBWhIrww/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "450 Moody St",
+        "address2": "",
+        "address3": "",
+        "city": "Waltham",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02453"
+    },
+    "name": "Joco's Bar & Kitchen",
+    "phone": "+17818941300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DkYxzVyEV00AeehBWhIrww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Raq6RHi6fpKWcYRWOikvjw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0BC6XjRXYntz8b2jUFrvng/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 76,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jocos-bar-and-kitchen-waltham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5897"
+}

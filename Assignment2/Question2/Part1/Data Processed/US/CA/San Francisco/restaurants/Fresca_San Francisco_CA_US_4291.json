@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.78931,
+        "longitude": -122.43361
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "fresca-san-francisco-4",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YUw53eO2x64jM1gBfJAZMA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2114 Fillmore St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94115"
+    },
+    "name": "Fresca",
+    "phone": "+14154472768",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gJoR3zNqEreeDy_CfNX3PA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZdIg9EExkd7FmD3JzVYI6g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZbhMgE-2ngghdDFKNPdIGg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1753,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fresca-san-francisco-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4291"
+}

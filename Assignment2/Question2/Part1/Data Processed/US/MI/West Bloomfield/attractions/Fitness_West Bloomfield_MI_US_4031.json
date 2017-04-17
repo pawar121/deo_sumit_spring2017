@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.5759776,
+        "longitude": -83.3620716
+    },
+    "id": "fitness-19-west-bloomfield",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4299 Orchard Lake Rd West",
+        "address2": null,
+        "address3": null,
+        "city": "West Bloomfield",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48323"
+    },
+    "name": "Fitness 19",
+    "phone": "+12489321919",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fitness-19-west-bloomfield?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4031"
+}

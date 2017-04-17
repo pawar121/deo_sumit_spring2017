@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "chicken_wings",
+            "title": "Chicken Wings"
+        },
+        {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7588161,
+        "longitude": -73.9926049
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "chirping-chicken-new-york-12",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VjNJu2GhwCYuKBUUyi7Dtg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "587 9th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10036"
+    },
+    "name": "Chirping Chicken",
+    "phone": "+12122447334",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VjNJu2GhwCYuKBUUyi7Dtg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Wcw4Aw3dwFa5_vN5EzDSyg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xUApVih1CWbQqB6j2uJSXA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 69,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chirping-chicken-new-york-12?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2450"
+}

@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "carousels",
+            "title": "Carousels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.704847,
+        "longitude": -73.99243
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "janes-carousel-brooklyn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z2FixtfDLc0gubtS_POjZA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Brooklyn Bridge Park",
+        "address2": "45 Dock St",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11201"
+    },
+    "name": "Jane's Carousel",
+    "phone": "+17182222502",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Z2FixtfDLc0gubtS_POjZA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hkopNkSVA3MbajSqSD9Xfg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IKHycQf4PRjnktKyTlhn-w/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 102,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/janes-carousel-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5811"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "juicebars",
+            "title": "Juice Bars & Smoothies"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.83462,
+        "longitude": -95.36071
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "jaime-chinese-restaurant-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5nz34VAmbKGLiU4m3_-nmw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8020 Irvington Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77022"
+    },
+    "name": "Jaime Chinese Restaurant",
+    "phone": "+17137428581",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5nz34VAmbKGLiU4m3_-nmw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MAW4O3Rukuo-i5xsJT9GlQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/E2mfleRwKu2xVM6IDXNU4A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 22,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jaime-chinese-restaurant-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5787"
+}

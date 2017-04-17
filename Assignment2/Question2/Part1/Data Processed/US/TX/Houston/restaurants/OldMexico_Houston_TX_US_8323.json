@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.87921,
+        "longitude": -95.33642
+    },
+    "id": "old-mexico-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HnFyUyU5gXWbhT-hUyzcIA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3306 Hopper Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77093"
+    },
+    "name": "Old Mexico",
+    "phone": "+12814423519",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HnFyUyU5gXWbhT-hUyzcIA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qG6j73o5amOAOiN_wThgBA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/AqYtT2Pfhf7iEfRCphQ3-Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 48,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/old-mexico-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8323"
+}

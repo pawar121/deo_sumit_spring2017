@@ -1,0 +1,99 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8968566462265,
+        "longitude": -76.9930783002338
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 2,
+                    "end": "0700",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "east-side-yoga-washington-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QNfE5qivtqg8cktOwoAOWQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "518 10th St NE",
+        "address2": "2nd Fl",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20002"
+    },
+    "name": "East Side Yoga",
+    "phone": "+12026009860",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QNfE5qivtqg8cktOwoAOWQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/k-pm2uKBuGDJdhg4LW5NWA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dwnFIz-424THe3ScvFpTqA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/east-side-yoga-washington-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3525"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "turkish",
+            "title": "Turkish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9017829779873,
+        "longitude": -77.0162170745369
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "ottoman-taverna-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q9Tyc1MbowaNwN6qUAB26Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "425 I St NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Ottoman Taverna",
+    "phone": "+12028470395",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/q9Tyc1MbowaNwN6qUAB26Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fsp1iXe08wjMx4hPEhozCg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2wUCSym0mXXm_-n36FujgQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 109,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ottoman-taverna-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8470"
+}

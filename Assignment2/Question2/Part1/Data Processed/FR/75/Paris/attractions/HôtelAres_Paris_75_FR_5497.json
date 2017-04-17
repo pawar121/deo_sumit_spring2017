@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8504,
+        "longitude": 2.29818
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "hôtel-ares-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tkUuDZCrOfB9kfmNPF8pFA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 rue du Général de Larminat",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75015"
+    },
+    "name": "Hôtel Ares",
+    "phone": "+33147347404",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tkUuDZCrOfB9kfmNPF8pFA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7Vu-SqczEGsYwdutRd-EoA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7YiW5zcI-wGhlFNP1PP54w/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 29,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-ares-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5497"
+}

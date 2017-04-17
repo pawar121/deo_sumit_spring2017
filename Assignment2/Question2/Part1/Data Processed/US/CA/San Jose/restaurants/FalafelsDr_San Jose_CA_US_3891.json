@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "falafel",
+            "title": "Falafel"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.32365,
+        "longitude": -121.93503
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "falafels-drive-in-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uT_6e-JwYdmm91fMeqEvAw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2301 Stevens Creek Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95128"
+    },
+    "name": "Falafel's Drive-In",
+    "phone": "+14082947886",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uT_6e-JwYdmm91fMeqEvAw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uxBFWbkw8HNqxipbgY655Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/poCPtU5djcYsz781c8bszw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 3757,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/falafels-drive-in-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3891"
+}

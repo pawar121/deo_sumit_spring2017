@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8772888,
+        "longitude": 2.35431
+    },
+    "id": "hotel-mademoiselle-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D2dc0XALjMsEzjKZZIPX3g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 rue des Petits Hôtels",
+        "address2": null,
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "Hotel Mademoiselle",
+    "phone": "+33142463300",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/D2dc0XALjMsEzjKZZIPX3g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vxFFm3GH4ycO4_IWcIWnZw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MgXkMWsICix7eqXhqf5BYw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.5,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-mademoiselle-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5363"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.76437,
+        "longitude": -95.3600693
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "spaghetti-warehouse-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/303IHI056ylYJrXV4D0n9Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "901 Commerce St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Spaghetti Warehouse",
+    "phone": "+17132299715",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/303IHI056ylYJrXV4D0n9Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/I_bjwCTLQkDnR_Y9XclWPg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/g1bZoP1BcFlahCTPAgCNWQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 286,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spaghetti-warehouse-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10651"
+}

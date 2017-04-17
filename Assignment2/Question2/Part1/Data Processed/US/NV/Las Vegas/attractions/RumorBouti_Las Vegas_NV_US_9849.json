@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1073914,
+        "longitude": -115.1541214
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "rumor-boutique-resort-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HaLp5csMmWIsLnx5yMXwsg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "455 E Harmon Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89169"
+    },
+    "name": "Rumor Boutique Resort",
+    "phone": "+18779978667",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HaLp5csMmWIsLnx5yMXwsg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/t6H8nPKVfumEI-e9YoQqgQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CYlLCrxe7GQRJbnq2qKwZg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 556,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rumor-boutique-resort-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9849"
+}

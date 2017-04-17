@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2776794,
+        "longitude": 149.1248016
+    },
+    "id": "spicy-ginger-cafe-city",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "25 Childers St",
+        "address2": null,
+        "address3": null,
+        "city": "City",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Spicy Ginger Cafe",
+    "phone": "+61261621705",
+    "photos": [],
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spicy-ginger-cafe-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10673"
+}

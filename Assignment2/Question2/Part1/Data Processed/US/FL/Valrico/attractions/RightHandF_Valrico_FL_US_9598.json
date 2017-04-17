@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "videofilmproductions",
+            "title": "Video/Film Production"
+        },
+        {
+            "alias": "videographers",
+            "title": "Videographers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.93888,
+        "longitude": -82.25277
+    },
+    "id": "right-hand-films-valrico",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RTHA95oqTEfWZAbfk6g71g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "Valrico",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33594"
+    },
+    "name": "Right Hand Films",
+    "phone": "+18134930296",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RTHA95oqTEfWZAbfk6g71g/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/right-hand-films-valrico?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9598"
+}

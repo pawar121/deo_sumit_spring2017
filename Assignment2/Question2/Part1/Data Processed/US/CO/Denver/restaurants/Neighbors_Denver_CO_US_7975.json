@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7495804,
+        "longitude": -104.91716
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "neighbors-denver",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8vmbD71QaeZn-pLMexhSxg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2202 Kearney St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80207"
+    },
+    "name": "Neighbors",
+    "phone": "+13033331149",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8vmbD71QaeZn-pLMexhSxg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8LWfwp0_wj3nrYOrkNBEbw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ewsrAemoqbaVWQT5rtM2_A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 60,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/neighbors-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7975"
+}

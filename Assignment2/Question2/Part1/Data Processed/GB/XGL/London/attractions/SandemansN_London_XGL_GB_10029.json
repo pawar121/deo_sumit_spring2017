@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5122737,
+        "longitude": -0.1234492
+    },
+    "id": "sandemans-new-london-tours-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/30rHmf5VZGBvSFYqoI7k6A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Covent Garden Piazza",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2E 8HA"
+    },
+    "name": "Sandemans New London Tours",
+    "phone": "+493051050030",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/30rHmf5VZGBvSFYqoI7k6A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XnVSaP817pPJuRwN818ARA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5G2kdqm-rZhEQ8vXxXkl7Q/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 28,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sandemans-new-london-tours-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10029"
+}

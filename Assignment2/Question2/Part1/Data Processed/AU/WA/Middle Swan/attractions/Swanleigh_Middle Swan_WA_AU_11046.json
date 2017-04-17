@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.8613091,
+        "longitude": 116.0094986
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "swanleigh-middle-swan",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d315LneGcME2NhcIM_l-Xw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "58 Yule Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Middle Swan",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6056"
+    },
+    "name": "Swanleigh",
+    "phone": "+61893745600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/d315LneGcME2NhcIM_l-Xw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vK2bjiMS__GKvwOkD7BeZw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/U-m_b6yRafzwsq5OYbzhJg/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/swanleigh-middle-swan?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11046"
+}

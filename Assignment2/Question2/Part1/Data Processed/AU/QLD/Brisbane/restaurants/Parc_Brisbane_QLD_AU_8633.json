@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4640579,
+        "longitude": 153.0182495
+    },
+    "id": "parc-brisbane",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Parkland Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Parc",
+    "phone": "+61732216221",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/parc-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8633"
+}

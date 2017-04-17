@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.1903305,
+        "longitude": 149.0836945
+    },
+    "id": "the-abbey-nicholls",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "26 O'hanlon Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Nicholls",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2913"
+    },
+    "name": "The Abbey",
+    "phone": "+61262302905",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/the-abbey-nicholls?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11424"
+}

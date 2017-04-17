@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pakistani",
+            "title": "Pakistani"
+        },
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3516502,
+        "longitude": -83.0672989
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "mayas-indo-pak-cuisine-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mHEJ8jjZdOsHgpxNlFkOng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4445 2nd Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48201"
+    },
+    "name": "Maya's Indo-Pak Cuisine",
+    "phone": "+13132626204",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mHEJ8jjZdOsHgpxNlFkOng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s_6y07HP_qR4_TFmg5pREQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mk7lNyX1aZHyADXNj2-pGg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 32,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mayas-indo-pak-cuisine-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7333"
+}

@@ -1,0 +1,28 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": 51.4979815,
+        "longitude": -0.0980759
+    },
+    "id": "british-association-of-leisure-parks-piers-and-attractions-london",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Balppa House",
+        "address2": "57-61 Newington Causeway",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 6BD"
+    },
+    "name": "British Association Of Leisure Parks Piers & Attractions",
+    "phone": "+442074034455",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/british-association-of-leisure-parks-piers-and-attractions-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1719"
+}

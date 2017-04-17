@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "rvrental",
+            "title": "RV Rental"
+        },
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8473746,
+        "longitude": 174.7733518
+    },
+    "id": "backpacker-campervan-rentals-auckland",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "79 Beach rd",
+        "address2": "Auckland Central",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Backpacker Campervan Rentals",
+    "phone": "+64800002888",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/backpacker-campervan-rentals-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "867"
+}

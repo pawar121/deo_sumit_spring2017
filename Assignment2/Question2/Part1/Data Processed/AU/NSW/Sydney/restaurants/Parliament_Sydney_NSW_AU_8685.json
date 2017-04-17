@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.9052379,
+        "longitude": 151.1808489
+    },
+    "id": "parliament-on-king-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m9WD8OsI3vrU6jC29xsxCw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "632 King St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2043"
+    },
+    "name": "Parliament On King",
+    "phone": "+61414235325",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/m9WD8OsI3vrU6jC29xsxCw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KIZJswW9fa8mImO1vWIFQg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3TDKLwtIhv2GWaIZcbgrvg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/parliament-on-king-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8685"
+}

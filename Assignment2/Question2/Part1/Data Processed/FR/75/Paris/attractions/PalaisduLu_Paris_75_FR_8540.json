@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8491898,
+        "longitude": 2.3364501
+    },
+    "id": "palais-du-luxembourg-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bI7OJpHCg9iURe82Eo8ASg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "15 rue de Vaugirard",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Palais du Luxembourg",
+    "phone": "+33144541930",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bI7OJpHCg9iURe82Eo8ASg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lyVVepHoonyMm1YhR3C3oA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PKPgamLxYB5ZrXdfjB8rUg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 85,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/palais-du-luxembourg-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8540"
+}

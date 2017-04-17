@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7811394,
+        "longitude": -122.4026566
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1530"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1530"
+                }
+            ]
+        }
+    ],
+    "id": "jamber-san-francisco",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_HW2BAzOY5vheJOsIXJbAw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "858 Folsom St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94107"
+    },
+    "name": "Jamber",
+    "phone": "+14152739192",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_HW2BAzOY5vheJOsIXJbAw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9GwzBVIfc5P-UuiLq1GAlg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ykVhSDB1mnRy9q0c-xeJqg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 528,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jamber-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5799"
+}

@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8153839,
+        "longitude": 144.9710846
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "papa-goose-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3gMTh0dw62I0oK9tUal78g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "91 Flinders Ln",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Papa Goose",
+    "phone": "+61396632800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3gMTh0dw62I0oK9tUal78g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lvylzn53Bc7eXDq8TN51WQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qB6HoHk_HyKl1S0kzJlUBw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 20,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/papa-goose-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8583"
+}

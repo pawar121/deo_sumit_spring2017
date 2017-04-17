@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.62033,
+        "longitude": -122.3597
+    },
+    "id": "homewood-suites-by-hilton-seattle-downtown-seattle-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AMFwWP0tM9PORr3nKsTqbQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "206 Western Ave W",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98119"
+    },
+    "name": "Homewood Suites by Hilton Seattle Downtown",
+    "phone": "+12062819393",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AMFwWP0tM9PORr3nKsTqbQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QLhHdcjRFORGuhAX_FgJjA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o6gBQoGDEpudPB60hRcJHg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 89,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/homewood-suites-by-hilton-seattle-downtown-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5243"
+}

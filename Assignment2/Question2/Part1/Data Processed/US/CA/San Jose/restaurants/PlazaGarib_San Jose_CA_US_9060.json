@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.34695,
+        "longitude": -121.86703
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "plaza-garibaldi-restaurant-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/psH-KtPMbTjLQ4tgXE0IYw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1170 E Santa Clara St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95116"
+    },
+    "name": "Plaza Garibaldi Restaurant",
+    "phone": "+14082980121",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/psH-KtPMbTjLQ4tgXE0IYw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BZapxodwgvvmQBDNlKvu5Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/8lgeEqSAD6y-ToL9ECs-FQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 296,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/plaza-garibaldi-restaurant-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9060"
+}

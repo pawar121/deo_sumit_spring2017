@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.820611802263,
+        "longitude": -95.4995452628816
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "las-locas-fajitas-cafe-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_OEjfpg--stmnyxGhI4NvQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2915 Bingle Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77055"
+    },
+    "name": "Las Locas Fajitas Cafe",
+    "phone": "+17134648580",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_OEjfpg--stmnyxGhI4NvQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/02OaR9nSlCkw9DNOwS129w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iQP2JM0Xt-TPM2qRK3ts8A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 46,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/las-locas-fajitas-cafe-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6501"
+}

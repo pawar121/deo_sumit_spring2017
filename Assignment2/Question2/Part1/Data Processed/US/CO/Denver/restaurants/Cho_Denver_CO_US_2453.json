@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7158012,
+        "longitude": -104.9872971
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "cho77-denver",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9MWbgky41QxPkHR-254ljg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "42 S Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80209"
+    },
+    "name": "Cho77",
+    "phone": "+17206388179",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9MWbgky41QxPkHR-254ljg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OjD37AN8oRvk57kIsq_0Bg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mYwhBFizXmcEoRgk33lfEg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 138,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cho77-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2453"
+}

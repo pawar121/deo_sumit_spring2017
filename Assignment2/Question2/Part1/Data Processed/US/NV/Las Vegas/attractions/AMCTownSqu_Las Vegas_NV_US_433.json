@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0681852443758,
+        "longitude": -115.178519279857
+    },
+    "id": "amc-town-square-18-las-vegas-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hzP-r6U6oZ1AKg_DpByrqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6587 Las Vegas Blvd S",
+        "address2": null,
+        "address3": null,
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    "name": "AMC Town Square 18",
+    "phone": "+17023627283",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hzP-r6U6oZ1AKg_DpByrqA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/y5_0hbLtv7MLzbQKsiJD9A/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 484,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amc-town-square-18-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "433"
+}

@@ -1,0 +1,70 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.877555,
+        "longitude": 151.221935
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "buffalo-dining-club-darlinghurst",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IZZfKHGaYw3CS_Lg-nGgbQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "116 Surrey St",
+        "address2": "",
+        "address3": "",
+        "city": "Darlinghurst",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2010"
+    },
+    "name": "Buffalo Dining Club",
+    "phone": "+61293324052",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IZZfKHGaYw3CS_Lg-nGgbQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/331nH34Y3HdLfBAXAMKESw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4aggiETwgmjhvOLnmQO8Ig/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 41,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/buffalo-dining-club-darlinghurst?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1809"
+}

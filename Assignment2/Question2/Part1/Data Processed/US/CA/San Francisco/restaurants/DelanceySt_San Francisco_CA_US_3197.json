@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7843569724103,
+        "longitude": -122.388436943292
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "delancey-street-restaurant-san-francisco",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r9zcmBVyjVNk8XbiVs6w4Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "600 The Embarcadero",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94107"
+    },
+    "name": "Delancey Street Restaurant",
+    "phone": "+14155125179",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/r9zcmBVyjVNk8XbiVs6w4Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ea6JMS1v4-JgxCEfPUkyOw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LKaLdoD12wf9R8cSGeSaXg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1299,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/delancey-street-restaurant-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3197"
+}

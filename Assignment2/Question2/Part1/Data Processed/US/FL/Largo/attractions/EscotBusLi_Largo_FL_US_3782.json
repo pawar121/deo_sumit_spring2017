@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "buses",
+            "title": "Buses"
+        },
+        {
+            "alias": "bustours",
+            "title": "Bus Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9005138,
+        "longitude": -82.7339908
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "escot-bus-lines-largo",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CDgXxghRkVuHzb3n0rV0-w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6890 142nd Avenue N",
+        "address2": null,
+        "address3": null,
+        "city": "Largo",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33771"
+    },
+    "name": "Escot Bus Lines",
+    "phone": "+17275452088",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CDgXxghRkVuHzb3n0rV0-w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/nQwEXcOX174aYD8mfSwgMA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/es4wisLXT06hMyEn0WRuEA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/escot-bus-lines-largo?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3782"
+}

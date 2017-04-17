@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        },
+        {
+            "alias": "gardens",
+            "title": "Botanical Gardens"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.378365,
+        "longitude": -71.11603671
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "harvard-museum-of-natural-history-cambridge",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wo_mpNlxzdkP8n0YGexIUQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "26 Oxford St",
+        "address2": null,
+        "address3": "",
+        "city": "Cambridge",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02138"
+    },
+    "name": "Harvard Museum of Natural History",
+    "phone": "+16174953045",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wo_mpNlxzdkP8n0YGexIUQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/c1VgGg6DxOQcgPu_lCwzkA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zeLA6flhkV9fqosVY1ycvw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 168,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/harvard-museum-of-natural-history-cambridge?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4941"
+}

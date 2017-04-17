@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.921427,
+        "longitude": -87.656728
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "range-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ftccSUA-FxwRn5BWRUQ4Nw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1119 W Webster",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60614"
+    },
+    "name": "Range",
+    "phone": "+17735495747",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ftccSUA-FxwRn5BWRUQ4Nw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_tQpEuPZMfaIICY5dSqVNA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xjiGJvlTJKPyK-JKEia3Fw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 182,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/range-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9401"
+}

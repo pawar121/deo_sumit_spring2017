@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.8085213,
+        "longitude": -104.9881897
+    },
+    "id": "sweet-mamas-bbq-denver",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WRbAbrGshIoTuyd-pdlTvQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6185 Broadway St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80216"
+    },
+    "name": "Sweet Mama's BBQ",
+    "phone": "+17203274048",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WRbAbrGshIoTuyd-pdlTvQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SxL0gk-bOdocwKX85FQKgQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xFl10tuaGr5usxKSZxO6AA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sweet-mamas-bbq-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11059"
+}

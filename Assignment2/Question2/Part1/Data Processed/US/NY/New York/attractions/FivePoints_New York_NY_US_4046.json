@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "martialarts",
+            "title": "Martial Arts"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7194736925179,
+        "longitude": -73.9997300296661
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "five-points-academy-new-york-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8Z_8aAm_r5zJcarraCX_pQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "148 Lafayette St",
+        "address2": "Ground Fl",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10013"
+    },
+    "name": "Five Points Academy",
+    "phone": "+12122264474",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8Z_8aAm_r5zJcarraCX_pQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1IEko5CFSGEoDLPrf39UbQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VN8GWN-BozZuKAaFDM7WUg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 42,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/five-points-academy-new-york-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4046"
+}

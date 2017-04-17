@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "weightlosscenters",
+            "title": "Weight Loss Centers"
+        },
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.7665401,
+        "longitude": -82.6382951
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "4u-fitness-st-pete-st-petersburg",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DDhE0BEzLSK1dszaKVOEGQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "430 4th St S",
+        "address2": null,
+        "address3": "",
+        "city": "St. Petersburg",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33701"
+    },
+    "name": "4U Fitness St Pete",
+    "phone": "+18004215850",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DDhE0BEzLSK1dszaKVOEGQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mK8p4HjewNfKysFWq-SOKQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eGL7XPv3dzwycj7PZoY_Iw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/4u-fitness-st-pete-st-petersburg?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "79"
+}

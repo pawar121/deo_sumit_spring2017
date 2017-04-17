@@ -1,0 +1,108 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3415837,
+        "longitude": -71.0693674
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "la-mottas-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EWMC05M0o-dm4vQJ7NCPYg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1357 Washington St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "La Motta's",
+    "phone": "+16173385300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EWMC05M0o-dm4vQJ7NCPYg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5aj3dACkE6qyr2UH6hmfpg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/E0iJG_Qdj0eDjjf3k4t9xA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 90,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-mottas-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6370"
+}

@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.7791405,
+        "longitude": -1.85076
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "national-media-museum-queensbury",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r0-kXoSIiwcu6plD4ybwFw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Queensbury",
+        "country": "GB",
+        "state": "XWY",
+        "zip_code": "BD1 1NQ"
+    },
+    "name": "National Media Museum",
+    "phone": "+448707010200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r0-kXoSIiwcu6plD4ybwFw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SSsoKFdBjHSrlW936tdMog/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/V7S7FktI0MpwpDZBBxGQVw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/national-media-museum-queensbury?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7941"
+}

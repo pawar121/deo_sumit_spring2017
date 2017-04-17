@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "indonesian",
+            "title": "Indonesian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.844096,
+        "longitude": 144.976589
+    },
+    "id": "kedai-satay-melbourne-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "29/33-34 Queens Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3004"
+    },
+    "name": "Kedai Satay",
+    "phone": "+61398667177",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kedai-satay-melbourne-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6066"
+}

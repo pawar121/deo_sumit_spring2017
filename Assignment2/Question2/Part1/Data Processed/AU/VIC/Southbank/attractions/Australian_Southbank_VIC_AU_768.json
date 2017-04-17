@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8268852,
+        "longitude": 144.9664764
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "australian-centre-for-contemporary-art-southbank-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Bd3iwQxarnef1Xo5GwUWcw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "111 Sturt St",
+        "address2": null,
+        "address3": null,
+        "city": "Southbank",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3006"
+    },
+    "name": "Australian Centre For Contemporary Art",
+    "phone": "+61396979999",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Bd3iwQxarnef1Xo5GwUWcw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ei2_Z9lNnJ-fNu4IcKl-4w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wuO2SlzmcVKP8_koNELM2A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/australian-centre-for-contemporary-art-southbank-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "768"
+}

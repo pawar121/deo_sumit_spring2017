@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.251709,
+        "longitude": 149.1354675
+    },
+    "id": "four-rivers-sichuan-chinese-restaurant-dickson",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 Challis St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Four Rivers Sichuan Chinese Restaurant",
+    "phone": "+61261620666",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/four-rivers-sichuan-chinese-restaurant-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4218"
+}

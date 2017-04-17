@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.5581469,
+        "longitude": -83.1476207
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "powerhouse-gym-troy-troy-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c_ztcUipERnoEYLNdFcH9A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2585 Livernois Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Troy",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48083"
+    },
+    "name": "Powerhouse Gym Troy",
+    "phone": "+12486022837",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/c_ztcUipERnoEYLNdFcH9A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NDbkGg0d7mDaZBD4DuhjBQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 21,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/powerhouse-gym-troy-troy-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9163"
+}

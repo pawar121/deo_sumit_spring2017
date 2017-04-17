@@ -1,0 +1,108 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7441431,
+        "longitude": -104.9947764
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "stout-street-social-denver-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_GWp_wx0Jo-vJ5fgAd6kUA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1400 Stout St",
+        "address2": null,
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80202"
+    },
+    "name": "Stout Street Social",
+    "phone": "+17202149100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_GWp_wx0Jo-vJ5fgAd6kUA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TZEMnUEv5FJn8uZwBQeCUw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YtliiOhSZwJwk4yrjLZ3tg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 409,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/stout-street-social-denver-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10868"
+}

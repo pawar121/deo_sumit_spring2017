@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2505302,
+        "longitude": 149.1363983
+    },
+    "id": "kennys-best-noodle-house-dickson",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/osa80n0mSsMwrg_R0-tP4A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "19 Woolley St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Kenny's Best Noodle House",
+    "phone": "+61262489899",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/osa80n0mSsMwrg_R0-tP4A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/c30xMf0N_K6cTNZ0RliAOQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MgfCmQCCsI6QI0_ZpSIONA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kennys-best-noodle-house-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6084"
+}

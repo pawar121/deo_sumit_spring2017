@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4607243317082,
+        "longitude": -83.13677510318
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "boston-tea-room-ferndale-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D1BH2k7cw70e71fjDTWJ_Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "224 W 9 Mile Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Ferndale",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48220"
+    },
+    "name": "Boston Tea Room",
+    "phone": "+12485481415",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/D1BH2k7cw70e71fjDTWJ_Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_UpOhzBjkNOAbOd-m7GCRA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/pJJDm8MHifSmfLD66fdktA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 28,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-tea-room-ferndale-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1615"
+}

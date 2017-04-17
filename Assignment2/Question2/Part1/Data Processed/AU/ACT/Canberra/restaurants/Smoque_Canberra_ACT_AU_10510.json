@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2797203,
+        "longitude": 149.1307068
+    },
+    "id": "smoque-canberra",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DBvMoo2q6i7lZAX76LZB5Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2, 131 London Circuit",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2600"
+    },
+    "name": "Smoque",
+    "phone": "+61261623350",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DBvMoo2q6i7lZAX76LZB5Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pDCIpV6j6DV7OAF8T_oMFQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jcbaxa56lvsGwox68JCdmw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/smoque-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10510"
+}

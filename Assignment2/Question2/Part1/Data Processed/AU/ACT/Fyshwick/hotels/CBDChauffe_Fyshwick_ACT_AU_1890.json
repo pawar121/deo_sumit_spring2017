@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.33232,
+        "longitude": 149.1673
+    },
+    "id": "c-b-d-chauffeured-transport-fyshwick",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JHG1uqBfXs0bS_5mn7WL_Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "Fyshwick",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2609"
+    },
+    "name": "C-B-D Chauffeured Transport",
+    "phone": "+61262979899",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JHG1uqBfXs0bS_5mn7WL_Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/j0od8RvMoPOeb70l2mSnMA/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/c-b-d-chauffeured-transport-fyshwick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1890"
+}

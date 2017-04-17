@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.73824,
+        "longitude": -95.3984399
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "bistro-menil-houston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MqbZoRWYoJiuZlf7rDedRA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1513 W Alabama St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Bistro Menil",
+    "phone": "+17139043537",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MqbZoRWYoJiuZlf7rDedRA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CN_ghGp65aHbnBGDMhfKCg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z_xYMeocgsKYJCqJzXogvw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 167,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bistro-menil-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1348"
+}

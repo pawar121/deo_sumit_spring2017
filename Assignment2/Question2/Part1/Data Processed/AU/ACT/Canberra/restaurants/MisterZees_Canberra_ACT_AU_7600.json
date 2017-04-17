@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.27870095031,
+        "longitude": 149.132844879554
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "mister-zees-canberra",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TgjOf-yu1mr6VkY_HzZ6-w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "122 Bunda St",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Mister Zee's",
+    "phone": "+61261520306",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TgjOf-yu1mr6VkY_HzZ6-w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Cpf7tUiuWdUZMhh0lgkmSg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mister-zees-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7600"
+}

@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "alias": "carousels",
+            "title": "Carousels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3606048004992,
+        "longitude": -71.0528142994864
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "greenway-carousel-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BJvyCzR5kntM1vfox4hG8Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02112"
+    },
+    "name": "Greenway Carousel",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BJvyCzR5kntM1vfox4hG8Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/41i6Uxmtb1-4fLj_6wxLtQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iZrlQ7lE94-yePJU5u8pEg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/greenway-carousel-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4703"
+}

@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "publicservicesgovt",
+            "title": "Public Services & Government"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9759778,
+        "longitude": -87.6680117
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "andersonville-chamber-of-commerce-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9zTPcZLVCUgrKl7IZenftA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5153 N Clark St",
+        "address2": "Ste 204",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60640"
+    },
+    "name": "Andersonville Chamber of Commerce",
+    "phone": "+17737282995",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9zTPcZLVCUgrKl7IZenftA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uHv23OBjXawUUK7Jyqm28g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tzT7NGmhTcsjoAn54le9vA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/andersonville-chamber-of-commerce-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "488"
+}

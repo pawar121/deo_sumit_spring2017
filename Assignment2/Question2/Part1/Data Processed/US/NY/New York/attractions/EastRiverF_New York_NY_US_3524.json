@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7440589029235,
+        "longitude": -73.970823887212
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "east-river-ferry-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rjd2-S3mjE062oCJ-xZBbw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "E 35th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "East River Ferry",
+    "phone": "+18005333779",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rjd2-S3mjE062oCJ-xZBbw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/--XFHWtvyDRes1KJ8qyoyA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ogkg37lYWO0jWelCtXzTcw/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 85,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/east-river-ferry-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3524"
+}

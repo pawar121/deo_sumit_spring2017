@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotelstravel",
+            "title": "Hotels & Travel"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8861809,
+        "longitude": -4.28369
+    },
+    "id": "maryhill-walking-trail-glasgow",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rNEm4t9mYIMFkg07RSMWxQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": "Maryhill",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G20 8NH"
+    },
+    "name": "Maryhill Walking Trail",
+    "phone": "+448458601878",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rNEm4t9mYIMFkg07RSMWxQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/igI-r6rTKwKIqSpr8o2fHQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gCNpUmohbVJGkIrI0_ToGQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/maryhill-walking-trail-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7264"
+}

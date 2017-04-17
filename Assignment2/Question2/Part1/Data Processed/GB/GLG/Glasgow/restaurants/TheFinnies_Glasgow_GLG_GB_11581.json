@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.864654382377,
+        "longitude": -4.2842772987793
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "the-finnieston-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GeARpiHFsCudmSsc6GNQUA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1125 Argyle Street",
+        "address2": "Finnieston",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G3 8ND"
+    },
+    "name": "The Finnieston",
+    "phone": "+441412222884",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GeARpiHFsCudmSsc6GNQUA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zpJqD9FCBaBzjABjmo7dbA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3OYAjjvSIqRBi4t1ySk6hg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 37,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-finnieston-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11581"
+}

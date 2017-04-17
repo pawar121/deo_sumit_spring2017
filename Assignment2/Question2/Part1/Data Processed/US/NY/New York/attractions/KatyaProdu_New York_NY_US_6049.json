@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "makeupartists",
+            "title": "Makeup Artists"
+        },
+        {
+            "alias": "photographers",
+            "title": "Photographers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.749058,
+        "longitude": -73.983394
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "katya-productions-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/STqy6DvFFo1DqZtWnV2SNQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 E 35th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "Katya Productions",
+    "phone": "+16465263629",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/STqy6DvFFo1DqZtWnV2SNQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QjPpuhYjylrPKja7CVT9YA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CJcU7e2yA4Q10L3mOqHtcQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/katya-productions-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6049"
+}

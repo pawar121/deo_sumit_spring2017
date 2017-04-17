@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9024108024879,
+        "longitude": -77.0171392790004
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "a-baked-joint-washington-9",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yX6ari3CN8gnO8YGjQS-Mg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "440 K St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "A Baked Joint",
+    "phone": "+12024086985",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yX6ari3CN8gnO8YGjQS-Mg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rBx8ZA-FqPa4i9LIHlaFnw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/t1xZ0-WoZ3mApBE-QPZBwA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 511,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/a-baked-joint-washington-9?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "126"
+}

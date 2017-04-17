@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.87883,
+        "longitude": 151.2046814
+    },
+    "id": "ching-yip-pty-ltd-sydney",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NFCCOXNSQ5jFw5bsoscLAA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "413 Sussex St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Ching Yip Pty Ltd",
+    "phone": "+61292811591",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NFCCOXNSQ5jFw5bsoscLAA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/65C4gZjLxZtCCBC9FcofpQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s4T6rLYNopXRaexKEELbqg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ching-yip-pty-ltd-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2445"
+}

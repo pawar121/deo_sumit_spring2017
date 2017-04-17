@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "gymnastics",
+            "title": "Gymnastics"
+        },
+        {
+            "alias": "dancestudio",
+            "title": "Dance Studios"
+        },
+        {
+            "alias": "summer_camps",
+            "title": "Summer Camps"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2651181249737,
+        "longitude": -121.929942400525
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "california-sports-center-cambrianna-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/boQznYa0276DrPtAVe8CFQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1975 Cambrianna Dr",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95124"
+    },
+    "name": "California Sports Center - Cambrianna",
+    "phone": "+14083771005",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/boQznYa0276DrPtAVe8CFQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BCrFbB0O22RGxS7WjFt8KQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ukcEbTNNU5_iw2Fd-s-aHQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/california-sports-center-cambrianna-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2035"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3515228901568,
+        "longitude": -83.0637845178604
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "go-sy-thai-detroit-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5wG47daD-mSFFmEvSFH1lg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4240 Cass Ave",
+        "address2": "Ste 103",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48201"
+    },
+    "name": "Go! Sy Thai",
+    "phone": "+13136381467",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5wG47daD-mSFFmEvSFH1lg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FwHy_ZmG30CiX2f29j-uYw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/S6BvsZ9kmyLc4ErrBEP5NQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 192,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/go-sy-thai-detroit-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4510"
+}

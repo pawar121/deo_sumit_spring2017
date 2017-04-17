@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "lebanese",
+            "title": "Lebanese"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "greek",
+            "title": "Greek"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7221985,
+        "longitude": -104.9737473
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-byblos-mediterranean-grill-denver",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k3o5ccFikXik12DVV-sqyg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "400 Corona St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80218"
+    },
+    "name": "Cafe Byblos Mediterranean Grill",
+    "phone": "+13037777553",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/k3o5ccFikXik12DVV-sqyg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RDd9eVolEXuUVQCGvu1v4Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BEBTipM3QBy8ax7VUCl5FA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 269,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-byblos-mediterranean-grill-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1930"
+}

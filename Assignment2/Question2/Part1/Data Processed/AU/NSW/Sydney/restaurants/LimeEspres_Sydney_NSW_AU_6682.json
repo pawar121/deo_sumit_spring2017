@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8707657,
+        "longitude": 151.2051544
+    },
+    "id": "lime-espresso-sandwich-bar-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Arqvrpraj9vkUn4hME_d_w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "26 Market St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Lime Espresso Sandwich Bar",
+    "phone": "+61292997929",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Arqvrpraj9vkUn4hME_d_w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sjmtoMfZOm9bZ4uQpFzP_A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7iaelfWCMicbnToTzZO0ow/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lime-espresso-sandwich-bar-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6682"
+}

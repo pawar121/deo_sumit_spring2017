@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8538231,
+        "longitude": -4.2786616
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "glasgows-grand-ole-opry-glasgow",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2HalLlfRAFR48FJXL0L1zQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2-4 Govan Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G51 1HS"
+    },
+    "name": "Glasgow's Grand Ole Opry",
+    "phone": "+441414295396",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2HalLlfRAFR48FJXL0L1zQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/gK8Zt-llQO1G4fZTWE8DIw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KgO-FNk4YGbmfdiUUtJfjQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/glasgows-grand-ole-opry-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4485"
+}

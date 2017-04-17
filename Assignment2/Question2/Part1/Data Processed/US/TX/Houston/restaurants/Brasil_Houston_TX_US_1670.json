@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74255,
+        "longitude": -95.40225
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "brasil-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ahoKREokkete2aFXZW1jgQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2604 Dunlavy St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Brasil",
+    "phone": "+17135281993",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ahoKREokkete2aFXZW1jgQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/90WareLByICPOjyJbzRTsQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gbt6mFAug7EzkIAoBRdOWg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 868,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brasil-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1670"
+}

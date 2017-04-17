@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "hauntedhouses",
+            "title": "Haunted Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7191852,
+        "longitude": -73.9859925
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "nightmare-new-york-haunted-house-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4GZi9Q4qFktnKdbfeT0kdw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "107 Suffolk St",
+        "address2": "Ground Fl",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10002"
+    },
+    "name": "Nightmare New York Haunted House",
+    "phone": "+13475779999",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4GZi9Q4qFktnKdbfeT0kdw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t2F-VSXGAot74vzALYHfHg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/gnRVm5csU0mwTYXeao15zQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 103,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nightmare-new-york-haunted-house-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8084"
+}

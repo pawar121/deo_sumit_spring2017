@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6555519104004,
+        "longitude": -122.381042480469
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "chinooks-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bQhMNU6J2136qQfYFenMNg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Fishermen's Ter",
+        "address2": "1900 W Nickerson St",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98119"
+    },
+    "name": "Chinook's",
+    "phone": "+12062834665",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bQhMNU6J2136qQfYFenMNg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LbuBN_aP9GW_Y0lT1et5Yg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uDjo3IGQDaw-eojexhcIjA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 497,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chinooks-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2447"
+}

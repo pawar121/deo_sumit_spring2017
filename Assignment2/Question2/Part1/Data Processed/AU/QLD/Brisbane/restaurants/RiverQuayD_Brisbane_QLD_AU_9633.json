@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.46381,
+        "longitude": 153.0178833
+    },
+    "id": "river-quay-dining-precinct-brisbane",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L7O1P7RuD2DgqSbKp4TH6Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "South Bank Parkland",
+        "address2": "",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4101"
+    },
+    "name": "River Quay Dining Precinct",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/L7O1P7RuD2DgqSbKp4TH6Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5Uqg_eHExZnrPOkf6aOEDw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rfKpBji4i4NiQLRmoWoG-A/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/river-quay-dining-precinct-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9633"
+}

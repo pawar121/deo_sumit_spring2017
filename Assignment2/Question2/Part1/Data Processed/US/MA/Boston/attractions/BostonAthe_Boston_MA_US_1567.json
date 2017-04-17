@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35844,
+        "longitude": -71.068554
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "boston-athenaeum-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wU8_HbScgJOwW_uEfPXcFg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "10 1/2 Beacon St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02108"
+    },
+    "name": "Boston Athenaeum",
+    "phone": "+16172270270",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wU8_HbScgJOwW_uEfPXcFg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zrrF85z6Apqf7iV4TJz3_w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/27mWBGJEiu0y_FRrk4uHDw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 40,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-athenaeum-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1567"
+}

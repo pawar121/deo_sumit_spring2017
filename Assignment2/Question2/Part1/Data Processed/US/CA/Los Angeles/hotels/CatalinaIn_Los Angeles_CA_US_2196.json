@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.05728,
+        "longitude": -118.29503
+    },
+    "id": "catalina-8-inn-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cyJAxU1ywTJzGqlAn_qq3Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "812 S Catalina St",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90005"
+    },
+    "name": "Catalina 8 Inn",
+    "phone": "+12137398681",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cyJAxU1ywTJzGqlAn_qq3Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/aJf1NfRZjnBfPLUqNgWKMg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wt2Wd8GIAklVwlKSbhPhow/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 6,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/catalina-8-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2196"
+}

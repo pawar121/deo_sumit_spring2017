@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.50974,
+        "longitude": -112.07849
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "southern-rail-phoenix-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vvGl8SEg1LHBSygfjmVLBQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "300 W Camelback Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85013"
+    },
+    "name": "Southern Rail",
+    "phone": "+16022000085",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vvGl8SEg1LHBSygfjmVLBQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SFwO5MP-24W1T9lXXV-tBQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Su8lzZ6MziguCNfN5g6e1g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 371,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/southern-rail-phoenix-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10631"
+}

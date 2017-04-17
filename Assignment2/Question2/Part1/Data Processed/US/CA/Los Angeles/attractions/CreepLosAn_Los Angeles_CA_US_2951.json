@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "hauntedhouses",
+            "title": "Haunted Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.105052,
+        "longitude": -118.2390461
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "creep-los-angeles-los-angeles-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vmH-1omc7it9sTr2EEjabg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2316 N San Fernando Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90065"
+    },
+    "name": "Creep Los Angeles",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vmH-1omc7it9sTr2EEjabg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/p21nL4WV_QzotHLUHBugXA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5YhJ8L4Jrvi0asJTq4bWDA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 76,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/creep-los-angeles-los-angeles-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2951"
+}

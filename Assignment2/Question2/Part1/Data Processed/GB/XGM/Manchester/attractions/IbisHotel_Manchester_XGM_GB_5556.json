@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4773213,
+        "longitude": -2.2407945
+    },
+    "id": "ibis-hotel-manchester",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AyN7Ajy8Sof9IRl04xDq5w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "96 Portland Street",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M1 4GX"
+    },
+    "name": "Ibis Hotel",
+    "phone": "+441612340600",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/AyN7Ajy8Sof9IRl04xDq5w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7xu-X2pL8aSAXpXhSNMqRQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fNMVV_ZX7CJSDWQGdOM8Nw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ibis-hotel-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5556"
+}

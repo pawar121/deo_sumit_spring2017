@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7480049,
+        "longitude": -74.0025024
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "rocket-pig-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5HHcM-oqvenpKyK4WURoYw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "463 W 24th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10001"
+    },
+    "name": "Rocket Pig",
+    "phone": "+12126455660",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5HHcM-oqvenpKyK4WURoYw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5Gy0kvyAbLKmsTSPFRR2Dg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Keqhsjy-K85JU5OhhVaARg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 135,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rocket-pig-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9683"
+}

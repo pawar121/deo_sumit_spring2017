@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7500950909527,
+        "longitude": -95.5538399890065
+    },
+    "id": "mary-ann-francklow-park-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a-VV1KM9PcJZe6ldkp3Rrg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10121 Longmont Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77042"
+    },
+    "name": "Mary Ann Francklow Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/a-VV1KM9PcJZe6ldkp3Rrg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9rfsIHcV0FWIBT9wrXCSvw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gEghheZiWGJOLeJV6BWImg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mary-ann-francklow-park-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7259"
+}

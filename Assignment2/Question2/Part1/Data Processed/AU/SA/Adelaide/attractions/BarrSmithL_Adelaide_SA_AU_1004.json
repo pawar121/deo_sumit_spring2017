@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9193847007899,
+        "longitude": 138.604212999344
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "barr-smith-library-adelaide",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3RwXhUJ0NbGhbeGppIAYIw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "University of Adelaide",
+        "address2": "North Tce",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Barr Smith Library",
+    "phone": "+61883035759",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3RwXhUJ0NbGhbeGppIAYIw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/x_XrbucPrlmSB1p3FFAQbA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xQw6Jk8YJ38YT3s5FAgiQA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/barr-smith-library-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1004"
+}

@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "korean",
+            "title": "Korean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8870999,
+        "longitude": -77.00303
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "lets-mix-bibija-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CWkfVQpfTby1bQx78jslIw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "209 Pennsylvania Ave SE",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20003"
+    },
+    "name": "Let's Mix! BiBiJa!",
+    "phone": "+12025443049",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CWkfVQpfTby1bQx78jslIw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hdLjiNd9It-S7EqVOronNg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/M5AZTjzLFj5wCTD5umzcPg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 64,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lets-mix-bibija-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6640"
+}

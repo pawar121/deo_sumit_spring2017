@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "photographers",
+            "title": "Photographers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.92055,
+        "longitude": -87.70011
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "anna-sodziak-photographer-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CXe8C22UuPbSjBTjo735xQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60647"
+    },
+    "name": "Anna Sodziak Photographer",
+    "phone": "+17739313587",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CXe8C22UuPbSjBTjo735xQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5HibScAHGDNv8CAXRNfJ7A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nLoKnh2pA1Oo3uJCQBVZyw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/anna-sodziak-photographer-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "527"
+}

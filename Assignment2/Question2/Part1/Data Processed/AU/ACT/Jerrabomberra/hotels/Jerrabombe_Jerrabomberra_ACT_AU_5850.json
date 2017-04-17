@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "beer_and_wine",
+            "title": "Beer, Wine & Spirits"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.38134,
+        "longitude": 149.2004242
+    },
+    "id": "jerrabomberra-hotel-and-bottle-shop-jerrabomberra",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7V4NfAA1ar7aPJbdIv6r7A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 Limestone Drv",
+        "address2": null,
+        "address3": null,
+        "city": "Jerrabomberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2619"
+    },
+    "name": "Jerrabomberra Hotel & Bottle Shop",
+    "phone": "+61262998911",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7V4NfAA1ar7aPJbdIv6r7A/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/jerrabomberra-hotel-and-bottle-shop-jerrabomberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5850"
+}

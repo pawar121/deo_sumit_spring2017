@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3488087,
+        "longitude": 149.089914
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "snag-stand-canberra",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s6EQcRRtoV_AZbU-_tsJUw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Westfield Woden",
+        "address2": "Keltie St",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2606"
+    },
+    "name": "Snag Stand",
+    "phone": "+61262828237",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/s6EQcRRtoV_AZbU-_tsJUw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pZx5tsw5V5fM_acvZPcjog/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xiQD8c4qgml9yGg4ngU9Tg/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/snag-stand-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10511"
+}

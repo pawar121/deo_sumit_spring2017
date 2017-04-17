@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8687131,
+        "longitude": 174.7758306
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "and-sushi-auckland-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4xkUmJ3qW2Y69iEjl3aa8Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 Teed St",
+        "address2": "Newmarket",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1023"
+    },
+    "name": "& Sushi",
+    "phone": "+6495234223",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4xkUmJ3qW2Y69iEjl3aa8Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/AtVNynieo_39f6IX3a117Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mAXNWml4ugGSHOSPdMKyFw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/and-sushi-auckland-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "482"
+}

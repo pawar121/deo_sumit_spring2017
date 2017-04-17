@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        },
+        {
+            "alias": "reflexology",
+            "title": "Reflexology"
+        },
+        {
+            "alias": "massage_therapy",
+            "title": "Massage Therapy"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.28001,
+        "longitude": -83.74896
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "rub-ann-arbor-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0NlsFJUAZfIIGN9xevqJQw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "214 S Main St",
+        "address2": "Ste 201",
+        "address3": "",
+        "city": "Ann Arbor",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48104"
+    },
+    "name": "Rub",
+    "phone": "+17342137600",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0NlsFJUAZfIIGN9xevqJQw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/637tx51uEjeoz4fkxy-CnQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iFJwHuZk7i5S8RcF7sweHA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 32,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rub-ann-arbor-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9831"
+}

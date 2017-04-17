@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "skatingrinks",
+            "title": "Skating Rinks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5110837229416,
+        "longitude": -0.117159541534771
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "somerset-house-trust-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/anQERdnXGpIprukxyBOIaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "South Building",
+        "address2": "Somerset House Strand",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2R 1LA"
+    },
+    "name": "Somerset House Trust",
+    "phone": "+442078454600",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/anQERdnXGpIprukxyBOIaQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NUFkuKp-YNUb0wAV599zOQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wzGq4VsqFlTRmDVfafLBfw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 49,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/somerset-house-trust-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10561"
+}

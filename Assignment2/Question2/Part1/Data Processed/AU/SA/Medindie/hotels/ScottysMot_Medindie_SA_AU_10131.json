@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.89393,
+        "longitude": 138.60359
+    },
+    "id": "scottys-motel-medindie-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Nottage Tce",
+        "address2": null,
+        "address3": null,
+        "city": "Medindie",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5081"
+    },
+    "name": "Scotty's Motel",
+    "phone": "+61882691555",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/scottys-motel-medindie-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10131"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        },
+        {
+            "alias": "falafel",
+            "title": "Falafel"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.30999,
+        "longitude": -121.91413
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "the-flying-falafel-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hW9pPC-4tPJMBS80FVCjYw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "919 Meridian Ave.",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95126"
+    },
+    "name": "The Flying Falafel",
+    "phone": "+14087804303",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hW9pPC-4tPJMBS80FVCjYw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/SBSZhKtzniDT0OUD4PTe8g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/waNsTDXP9a4HuCvu6ruV1Q/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 149,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-flying-falafel-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11594"
+}

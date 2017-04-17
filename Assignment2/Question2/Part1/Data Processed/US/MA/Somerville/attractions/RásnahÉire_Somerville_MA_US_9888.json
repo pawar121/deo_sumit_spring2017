@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "races",
+            "title": "Races & Competitions"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3967477493445,
+        "longitude": -71.1224378291355
+    },
+    "id": "rás-na-héireann-usa-5k-somerville",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xmBtHWOlfA29s_Ks5sxutA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Davis Square",
+        "address2": "",
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02144"
+    },
+    "name": "Rás na hÉireann USA 5K",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xmBtHWOlfA29s_Ks5sxutA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/r%C3%A1s-na-h%C3%A9ireann-usa-5k-somerville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9888"
+}

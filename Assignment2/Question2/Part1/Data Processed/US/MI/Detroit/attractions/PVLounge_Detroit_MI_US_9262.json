@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3356209,
+        "longitude": -83.0459213
+    },
+    "id": "pv-lounge-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yMwiyi2GxTcuN6kWmPn8IQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1435 Randolph",
+        "address2": "Paradise Valley",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "PV Lounge",
+    "phone": "+13139624180",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yMwiyi2GxTcuN6kWmPn8IQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5pysvGaVQ3TwuemXk5tdqw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/O5k2M1ShCcUbFMzhmvkgvg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 2.5,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pv-lounge-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9262"
+}

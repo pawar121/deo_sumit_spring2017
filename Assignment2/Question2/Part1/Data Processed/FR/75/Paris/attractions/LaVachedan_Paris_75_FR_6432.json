@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "wineries",
+            "title": "Wineries"
+        },
+        {
+            "alias": "cheese",
+            "title": "Cheese Shops"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8696287,
+        "longitude": 2.36711
+    },
+    "id": "la-vache-dans-les-vignes-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kNINtBgslAu_QAjfhnvyxQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "46 Quai de Jemmapes",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "La Vache dans les Vignes",
+    "phone": "+33177108836",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kNINtBgslAu_QAjfhnvyxQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kJkHFa1vtro0CJ9tGAiPtw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eR0O_qMZAveqKTuD3JD03g/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 5.0,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/la-vache-dans-les-vignes-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6432"
+}

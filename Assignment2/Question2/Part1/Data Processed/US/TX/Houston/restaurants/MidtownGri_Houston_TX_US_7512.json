@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.721737,
+        "longitude": -95.3676784
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "midtown-grill-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sfldyXnlFhFNvkvjJWRUdA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4704 Ennis St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77004"
+    },
+    "name": "Midtown Grill",
+    "phone": "+18324209491",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sfldyXnlFhFNvkvjJWRUdA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/A0EjOURrvywIy6oGtDVoZw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uOyTXcN7FpYu0M32LJZVag/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/midtown-grill-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7512"
+}

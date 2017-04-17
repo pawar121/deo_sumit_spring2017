@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "sportsteams",
+            "title": "Professional Sports Teams"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8949623,
+        "longitude": 151.2048492
+    },
+    "id": "south-sydney-rabbitohs-redfern",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Level 4, 265 Chalmers Street",
+        "address2": "",
+        "address3": "",
+        "city": "Redfern",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2016"
+    },
+    "name": "South Sydney Rabbitohs",
+    "phone": "+61283069900",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/south-sydney-rabbitohs-redfern?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10619"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "food_court",
+            "title": "Food Court"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.76214,
+        "longitude": -105.00633
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "avanti-food-and-beverage-denver",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g4Ndhq6liTElWXfmN8057g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3200 Pecos St",
+        "address2": null,
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80211"
+    },
+    "name": "Avanti Food & Beverage",
+    "phone": "+17202694778",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/g4Ndhq6liTElWXfmN8057g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/T0Gbrs_7ICqHADqt1cRjYA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4twxV6S9wKwPq1_hHkkyuA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 406,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/avanti-food-and-beverage-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "794"
+}

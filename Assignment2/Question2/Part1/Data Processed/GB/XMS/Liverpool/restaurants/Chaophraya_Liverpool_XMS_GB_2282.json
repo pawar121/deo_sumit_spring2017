@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4051380097865,
+        "longitude": -2.98578143119812
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "chaophraya-liverpool-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BDaj3Qoc6mV9K-3DNSjWdw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5-6 Kenyons Steps",
+        "address2": "Liverpool ONE",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 3DF"
+    },
+    "name": "Chaophraya",
+    "phone": "+441517076323",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BDaj3Qoc6mV9K-3DNSjWdw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WyPZ4q1qJEK_EZU5rG5ubQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TQRR86oUySVXVw3nabmHsg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 26,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chaophraya-liverpool-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2282"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.520066,
+        "longitude": -83.027533
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "quality-inn-and-suites-warren-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HgIgJsVJfDvLTdYLrMMvlA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "30900 Van Dyke Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Warren",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48093"
+    },
+    "name": "Quality Inn & Suites",
+    "phone": "+15865740550",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HgIgJsVJfDvLTdYLrMMvlA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LRWWRSDGAkpQ1xsqkiN3SA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/P9qAHkvSSgh9WdmTfkGI9A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/quality-inn-and-suites-warren-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9285"
+}

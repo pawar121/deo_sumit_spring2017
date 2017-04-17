@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "fishing",
+            "title": "Fishing"
+        },
+        {
+            "alias": "outdoorgear",
+            "title": "Outdoor Gear"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.2704582,
+        "longitude": -71.0329285
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "quincy-bait-and-tackle-quincy-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fkdRsEQBzNUAHhP1Pioa1A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "184 W Squantum St",
+        "address2": "",
+        "address3": "",
+        "city": "Quincy",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02171"
+    },
+    "name": "Quincy Bait & Tackle",
+    "phone": "+16177666888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fkdRsEQBzNUAHhP1Pioa1A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Jq5VK9Vp66uKBBkUcOzitQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4ICLwXpmRe7xbxR-7cSHrw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/quincy-bait-and-tackle-quincy-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9328"
+}

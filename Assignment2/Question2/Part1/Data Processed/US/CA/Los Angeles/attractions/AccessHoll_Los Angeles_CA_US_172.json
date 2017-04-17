@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.1018427,
+        "longitude": -118.3326329
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "access-hollywood-tours-los-angeles-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gS0xfBYLndiLsdJyBQQBOg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6541 Hollywood Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90028"
+    },
+    "name": "Access Hollywood Tours",
+    "phone": "+13234727938",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LjxbX8m6b5QEuR9YoLLmSg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CsUFRvS4PbnPRPeHzXCJjQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GPhRvVBCazFsaXFLPD49EA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 90,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/access-hollywood-tours-los-angeles-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "172"
+}

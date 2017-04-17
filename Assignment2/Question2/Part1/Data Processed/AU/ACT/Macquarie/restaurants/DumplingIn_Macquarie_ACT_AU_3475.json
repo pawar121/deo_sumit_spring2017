@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2522507,
+        "longitude": 149.0737152
+    },
+    "id": "dumpling-inn-restaurant-macquarie",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/72tpfXvE0vyriqTBu3AyEw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Lawry Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Macquarie",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2614"
+    },
+    "name": "Dumpling Inn Restaurant",
+    "phone": "+61262532268",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/72tpfXvE0vyriqTBu3AyEw/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dumpling-inn-restaurant-macquarie?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3475"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8895187,
+        "longitude": 147.3235626
+    },
+    "id": "hotel-soho-hobart",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Rb8GSSM_yVhIeXviB60wBw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "124 Davey St",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Hotel Soho",
+    "phone": "+61362249494",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Rb8GSSM_yVhIeXviB60wBw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/cK699Xl9JuNW89Z2vLA9tQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UwLztF8SrAsg9D1rNn-eAA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hotel-soho-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5374"
+}

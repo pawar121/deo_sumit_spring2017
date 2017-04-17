@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9046425,
+        "longitude": -77.0323605
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "residence-inn-washington-dc-downtown-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LfBIfeZDU5_bSRN4bymtAQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1199 Vermont Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20005"
+    },
+    "name": "Residence Inn Washington, DC Downtown",
+    "phone": "+12028981100",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LfBIfeZDU5_bSRN4bymtAQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SqpEPCvBZ1A4dIE-0OXX6g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_LM5EXWxsRfYyOhBjauN0w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 66,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/residence-inn-washington-dc-downtown-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9535"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7352905,
+        "longitude": -95.5454102
+    },
+    "id": "courtyard-houston-westchase-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fv0JCZd63sQRGUJt0y8xNg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "9975 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77042"
+    },
+    "name": "Courtyard Houston Westchase",
+    "phone": "+18004740148",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Fv0JCZd63sQRGUJt0y8xNg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LNq21QtZfGFW_cRjBs2BbA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jjKtDcuFhQLofCLPvgeT5A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/courtyard-houston-westchase-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2902"
+}

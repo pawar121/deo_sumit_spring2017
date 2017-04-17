@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.55154,
+        "longitude": -122.31955
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "the-georgetown-ballroom-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o9wUtOb8FS9tn_GCoU1hBQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5623 Airport Way S",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98108"
+    },
+    "name": "The Georgetown Ballroom",
+    "phone": "+12067634999",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/o9wUtOb8FS9tn_GCoU1hBQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DBZROu4AqYk0aYNsUaI_pA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Mj4ZUHYuJIEmAkFyrrAG4A/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 53,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-georgetown-ballroom-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11630"
+}

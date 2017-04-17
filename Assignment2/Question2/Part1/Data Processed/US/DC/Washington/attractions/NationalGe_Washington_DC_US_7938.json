@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9051403613161,
+        "longitude": -77.03810995
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "national-geographic-museum-washington-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HVpQ6u0uFRYmJ1jJiEierw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1145 17th Street Northwest",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20036"
+    },
+    "name": "National Geographic Museum",
+    "phone": "+12028577700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HVpQ6u0uFRYmJ1jJiEierw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RHUnz4iB2l0zMc9Gyqen9g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PaIogGjvL4Rxj4hYtFG6VQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 177,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/national-geographic-museum-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7938"
+}

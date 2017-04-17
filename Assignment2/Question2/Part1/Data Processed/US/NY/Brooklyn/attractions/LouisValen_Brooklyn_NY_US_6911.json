@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.67812,
+        "longitude": -74.01693
+    },
+    "id": "louis-valentino-jr-park-and-pier-brooklyn",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BnsM5EEOYIwtXr90zDohiQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Coffey St & Ferris St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11231"
+    },
+    "name": "Louis Valentino Jr Park & Pier",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BnsM5EEOYIwtXr90zDohiQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/67LE50Ccuv-2PFuLj85I0w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s1UEa467VGlDPrwASsF9RQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/louis-valentino-jr-park-and-pier-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6911"
+}

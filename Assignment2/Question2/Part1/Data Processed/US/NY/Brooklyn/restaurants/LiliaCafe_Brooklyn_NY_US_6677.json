@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.71757,
+        "longitude": -73.95236
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "lilia-cafe-brooklyn",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XuOu7FUL5RlRlXMN2NM8zA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "567 Union Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11211"
+    },
+    "name": "Lilia Cafe",
+    "phone": "+17185763095",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XuOu7FUL5RlRlXMN2NM8zA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lNFEYJf_r_Gqp3TP7PFBqg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/v3h4ao1INtBiI3sFN2FBxg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 182,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lilia-cafe-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6677"
+}

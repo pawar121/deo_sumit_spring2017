@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8652985394064,
+        "longitude": -4.28391695667123
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "mother-india-glasgow-5",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/33bh2llE5nxRAO0RKQnMJw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "28 Westminster Terrace",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G3 7RU"
+    },
+    "name": "Mother India",
+    "phone": "+441412211663",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/33bh2llE5nxRAO0RKQnMJw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gpvweREYPyxiRsCuWw1JhA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XcuHnqXXo96POfPUGY3Amw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 46,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mother-india-glasgow-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7726"
+}

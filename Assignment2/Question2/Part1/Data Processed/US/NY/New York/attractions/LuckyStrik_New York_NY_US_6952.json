@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "bowling",
+            "title": "Bowling"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.761821,
+        "longitude": -74.000843
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "lucky-strike-new-york-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uw8vjVeuSPJ5vE_dD6CTRw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "River Place",
+        "address2": "624-660 W 42nd St",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10036"
+    },
+    "name": "Lucky Strike",
+    "phone": "+16468290170",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uw8vjVeuSPJ5vE_dD6CTRw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zx3rIJsYYjT8aJ3mm1HcDw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9ntxAwk0jcAwVig6ToA-xw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 296,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lucky-strike-new-york-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6952"
+}

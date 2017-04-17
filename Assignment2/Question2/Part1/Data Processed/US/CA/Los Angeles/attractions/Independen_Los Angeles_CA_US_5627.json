@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.136558,
+        "longitude": -118.294197
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "independent-shakespeare-co-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jGW5QZ-isenJSjHOqQ_KdA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Griffith Park",
+        "address2": "4730 Crystal Springs Dr",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90027"
+    },
+    "name": "Independent Shakespeare Co",
+    "phone": "+18187106306",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jGW5QZ-isenJSjHOqQ_KdA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tLIDO-6pbxMUU0nK1xAfdA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lIVhevr213QaKQ6qCvkDAg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 128,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/independent-shakespeare-co-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5627"
+}

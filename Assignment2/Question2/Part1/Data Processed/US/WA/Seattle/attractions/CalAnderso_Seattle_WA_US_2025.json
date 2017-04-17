@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        },
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.617947324051,
+        "longitude": -122.31909753016
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                }
+            ]
+        }
+    ],
+    "id": "cal-anderson-park-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ejeUB7Kwj9JDxed5YJ_g0Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1635 11th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Cal Anderson Park",
+    "phone": "+12066844075",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ejeUB7Kwj9JDxed5YJ_g0Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FrR91Yw7mazdrK98JWlRPQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ttg1EozCrZTvVdfInJyzIg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 146,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cal-anderson-park-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2025"
+}

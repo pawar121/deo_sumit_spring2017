@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.897429779935,
+        "longitude": 115.97343767811
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "rose-and-crown-hotel-guildford",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fBcNjv5MYsddko2a8nVM2w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "105 Swan St",
+        "address2": null,
+        "address3": null,
+        "city": "Guildford",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6055"
+    },
+    "name": "Rose & Crown Hotel",
+    "phone": "+61893478100",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fBcNjv5MYsddko2a8nVM2w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QelxUwXoTdENrpjQnPy2uA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gnmNL9YWjtxUuND5zfFnzA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rose-and-crown-hotel-guildford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9751"
+}

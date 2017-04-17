@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": null,
+        "longitude": null
+    },
+    "id": "crock-spot-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RrJGPkk98nk0av_A_Wx0dA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": ""
+    },
+    "name": "Crock Spot",
+    "phone": "+17206757720",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RrJGPkk98nk0av_A_Wx0dA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_h2sIHKPZKy5qRh4R78fzQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MxiLkp3VFkAbg0Iy3EkjKA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 47,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crock-spot-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2968"
+}

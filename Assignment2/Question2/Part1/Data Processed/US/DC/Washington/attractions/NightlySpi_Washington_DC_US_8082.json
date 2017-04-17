@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8955396,
+        "longitude": -77.0332116
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "2030"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "2030"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "2030"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "2030"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "2030"
+                }
+            ]
+        }
+    ],
+    "id": "nightly-spirits-washington-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Drt7GHiL2x5PWBD_EhjSFQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1475 Pennsylvania Ave NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20004"
+    },
+    "name": "Nightly Spirits",
+    "phone": "+18446788687",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Drt7GHiL2x5PWBD_EhjSFQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BVR256B-1FwP5ThbBzpKKg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dolFdcjpYfFqKsm0jo84fA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 37,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nightly-spirits-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8082"
+}

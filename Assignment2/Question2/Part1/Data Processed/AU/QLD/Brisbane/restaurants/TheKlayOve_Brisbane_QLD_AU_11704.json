@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4561070830085,
+        "longitude": 153.049664243522
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "the-klay-oven-brisbane",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OJTGfwZKHFaHPhdD7Gsc6A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 5",
+        "address2": "110 Macquarie St",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4005"
+    },
+    "name": "The Klay Oven",
+    "phone": "+61731910922",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OJTGfwZKHFaHPhdD7Gsc6A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ymgE4nDz88Yb3xtU8hv0LA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/51jeZU_bnVmERMqAFlI1Uw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-klay-oven-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11704"
+}

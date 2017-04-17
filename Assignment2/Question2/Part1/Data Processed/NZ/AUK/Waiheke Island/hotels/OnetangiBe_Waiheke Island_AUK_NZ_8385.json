@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.7886581,
+        "longitude": 175.0814056
+    },
+    "id": "onetangi-beach-apartments-waiheke-island",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5 Fourth Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Waiheke Island",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1081"
+    },
+    "name": "Onetangi Beach Apartments",
+    "phone": "+6493725056",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/onetangi-beach-apartments-waiheke-island?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8385"
+}

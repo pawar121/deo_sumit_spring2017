@@ -1,0 +1,120 @@
+{
+    "categories": [
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        },
+        {
+            "alias": "sports_clubs",
+            "title": "Sports Clubs"
+        },
+        {
+            "alias": "skatingrinks",
+            "title": "Skating Rinks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.880642165726,
+        "longitude": 2.377723759629
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0830",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0830",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0830",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0830",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "espace-sportif-pailleron-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-xGA1neRyEadCNPFV5Hqqw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "32 rue Edouard Pailleron",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75019"
+    },
+    "name": "Espace Sportif Pailleron",
+    "phone": "+33140402770",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-xGA1neRyEadCNPFV5Hqqw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1tfXFmiDx037Aq6DYrN6fA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0DaoBDoyfMF4LCsGJjPuMQ/o.jpg"
+    ],
+    "price": "€",
+    "rating": 4.0,
+    "review_count": 37,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/espace-sportif-pailleron-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3784"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.1016051,
+        "longitude": -118.3075179
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "the-dixie-hollywood-hotel-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eJzMCbnqTCk1wAzlALCF-A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5410 Hollywood Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90027"
+    },
+    "name": "The Dixie Hollywood Hotel",
+    "phone": "+13234637171",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eJzMCbnqTCk1wAzlALCF-A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/b9H9BT5vA8-cWdY1sfqlrQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cmHJ8KXtS4h5Ix6A2KfmBw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 109,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/the-dixie-hollywood-hotel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11519"
+}

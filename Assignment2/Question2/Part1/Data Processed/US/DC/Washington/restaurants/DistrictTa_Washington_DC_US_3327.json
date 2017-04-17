@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.906107,
+        "longitude": -77.044461
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "district-taco-washington-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4sX3J62achtsHkZxaD9CAg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1919 M St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20036"
+    },
+    "name": "District Taco",
+    "phone": "+12028889898",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4sX3J62achtsHkZxaD9CAg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5FVoz0EwJ1DJ0FAzo5RdRg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FlU5Se6AyDmDgakG9oPBxg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 216,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/district-taco-washington-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3327"
+}

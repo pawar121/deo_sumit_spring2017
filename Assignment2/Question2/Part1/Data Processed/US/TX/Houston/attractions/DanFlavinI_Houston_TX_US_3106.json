@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7345521135348,
+        "longitude": -95.3981601396826
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "dan-flavin-installation-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jiv3WzcN3pHtM6mC4PmLiw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1500 Richmond Ave",
+        "address2": "Richmond Hall - Permanent Installation",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Dan Flavin Installation",
+    "phone": "+17135208512",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jiv3WzcN3pHtM6mC4PmLiw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/GBxgx4G-eisv30TpMQU0KQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hxHZfN61nVVZwWTAkeGJRA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dan-flavin-installation-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3106"
+}

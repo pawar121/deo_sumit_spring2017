@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8678727,
+        "longitude": 151.2063124
+    },
+    "id": "athenian-greek-restaurant-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7Gwaddpu7gMoqUbbtT4Fgw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11 Barrack St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Athenian Greek Restaurant",
+    "phone": "+61292622624",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7Gwaddpu7gMoqUbbtT4Fgw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/k5Pm7obTNPao93R-RI8nuw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lgjDuDTorCzvnTSdIXNZUw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/athenian-greek-restaurant-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "718"
+}

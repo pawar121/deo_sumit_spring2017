@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5839076345091,
+        "longitude": -0.00840553757325324
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "gods-own-junk-yard-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HMdbUISgIntX_d7pcF7HZg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Unit 12",
+        "address2": "Ravenswood Industrial Estate",
+        "address3": "Shernhall Street",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E17 9HQ"
+    },
+    "name": "Gods Own Junk Yard",
+    "phone": "+442085218066",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HMdbUISgIntX_d7pcF7HZg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qb1j4sSqlk0jW8itXXO3ww/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/a35JEw1iZvzxOvbZ1B6cUQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gods-own-junk-yard-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4518"
+}

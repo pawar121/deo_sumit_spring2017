@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "football",
+            "title": "Soccer"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.82947,
+        "longitude": -4.22602
+    },
+    "id": "rutherglen-glencairn-fc-cambuslang",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Toryglen Road",
+        "address2": "Rutherglen",
+        "address3": "",
+        "city": "Cambuslang",
+        "country": "GB",
+        "state": "SLK",
+        "zip_code": "G73 1"
+    },
+    "name": "Rutherglen Glencairn FC",
+    "phone": "",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rutherglen-glencairn-fc-cambuslang?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9872"
+}

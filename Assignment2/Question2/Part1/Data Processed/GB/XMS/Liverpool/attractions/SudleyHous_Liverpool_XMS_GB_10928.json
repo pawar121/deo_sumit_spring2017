@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        },
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3736694317206,
+        "longitude": -2.92136415465621
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "sudley-house-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VEEhDkEqinDe1s0ZSYOWcQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Mossley Hill Road",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L18 8BX"
+    },
+    "name": "Sudley House",
+    "phone": "+441517243245",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VEEhDkEqinDe1s0ZSYOWcQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2PcgRpcP50t52MlGXMKQZg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AQk_5mzbEkDiItHSSMgRuA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sudley-house-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10928"
+}

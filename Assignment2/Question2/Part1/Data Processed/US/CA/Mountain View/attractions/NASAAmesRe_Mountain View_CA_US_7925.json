@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "visitorcenters",
+            "title": "Visitor Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.4088406301574,
+        "longitude": -122.064414024353
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "nasa-ames-research-and-visitor-center-mountain-view",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lT-rfBUESrBTzPPwHiaKlg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Moffett Field",
+        "address2": "Hwy 101",
+        "address3": "",
+        "city": "Mountain View",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94035"
+    },
+    "name": "NASA Ames Research & Visitor Center",
+    "phone": "+16506045000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lT-rfBUESrBTzPPwHiaKlg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zICl7jCUn40DcmZekmZpPQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HZfKCRAtcr3tWmSTsdXrmA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nasa-ames-research-and-visitor-center-mountain-view?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7925"
+}

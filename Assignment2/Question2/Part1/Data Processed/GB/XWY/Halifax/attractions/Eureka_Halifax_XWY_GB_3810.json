@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.71826,
+        "longitude": -1.85617
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "eureka-halifax",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Aib5hLQf4YYYcx3UDOXscQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Discovery Road",
+        "address2": "",
+        "address3": "",
+        "city": "Halifax",
+        "country": "GB",
+        "state": "XWY",
+        "zip_code": "HX1 2NE"
+    },
+    "name": "Eureka",
+    "phone": "+441422330069",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Aib5hLQf4YYYcx3UDOXscQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lBqyACPNwmjexz7vBKbfCQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/08XW6A4tmkBopNTBtQ9uUA/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/eureka-halifax?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3810"
+}

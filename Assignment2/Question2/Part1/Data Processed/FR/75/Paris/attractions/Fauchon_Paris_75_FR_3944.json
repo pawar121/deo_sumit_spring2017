@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "cakeshop",
+            "title": "Patisserie/Cake Shop"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.869656,
+        "longitude": 2.325019
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 1,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 4,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 5,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "fauchon-paris-8",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GcmZSZ8uujj1IIJHzagV_g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "24-26 place de la Madeleine",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "Fauchon",
+    "phone": "+33170393800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GcmZSZ8uujj1IIJHzagV_g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZoE-NlixN5F_s0aHn1OIEA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4eH-0vx9p1OxQFE7wtGXUQ/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 107,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fauchon-paris-8?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3944"
+}

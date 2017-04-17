@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7074943075363,
+        "longitude": -73.8401308334635
+    },
+    "id": "forest-park-woodhaven",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WyfEvYT8swRXezDnNBChng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Myrtle Avenue & Woodhaven Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Woodhaven",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11385"
+    },
+    "name": "Forest Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/WyfEvYT8swRXezDnNBChng/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pIcSvC8eevaY6HJVEylZMw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fweu6iq8L9A6WwBjJwv2lg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 62,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/forest-park-woodhaven?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4180"
+}

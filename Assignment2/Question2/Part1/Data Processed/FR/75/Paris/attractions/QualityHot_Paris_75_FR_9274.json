@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8755912,
+        "longitude": 2.3188541
+    },
+    "id": "quality-hotel-malesherbes-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4L5W2D7-1xa_oVYujtxBkA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "11 place St Augustin",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "Quality Hotel Malesherbes",
+    "phone": "+33142932766",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4L5W2D7-1xa_oVYujtxBkA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tOufS2Fybk9d5Fq15fQs0w/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/quality-hotel-malesherbes-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9274"
+}

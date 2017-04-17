@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8115997,
+        "longitude": 144.9616547
+    },
+    "id": "g2-korean-bbq-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yXBjz4j_a5WGgCQKQ4oaug/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "301 Elizabeth St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "G2 Korean BBQ",
+    "phone": "+61396423424",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yXBjz4j_a5WGgCQKQ4oaug/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WMWPdVSv1_yHr5_b0La4Og/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KNoZeHtPO3f-p0qHengGgw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/g2-korean-bbq-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4349"
+}

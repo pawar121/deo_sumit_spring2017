@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0567920049773,
+        "longitude": -115.280016838279
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "fish-n-bowl-las-vegas-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q_IgXGpLozq9s4JkgeKF3Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7225 S Durango Dr",
+        "address2": "Ste 105",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89113"
+    },
+    "name": "Fish N Bowl",
+    "phone": "+17027393474",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Q_IgXGpLozq9s4JkgeKF3Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/SEIpJcUMVxzQewsn3QJTCw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-aDenUDuA47oGF9r3kuSng/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 173,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fish-n-bowl-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4020"
+}

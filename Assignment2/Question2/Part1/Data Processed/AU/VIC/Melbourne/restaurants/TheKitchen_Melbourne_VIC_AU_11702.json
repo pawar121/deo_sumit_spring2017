@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "turkish",
+            "title": "Turkish"
+        },
+        {
+            "alias": "importedfood",
+            "title": "Imported Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8146433860461,
+        "longitude": 144.96374967447
+    },
+    "id": "the-kitchen-royale-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r5v_R450rY5PDAJUn_lE2Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 45",
+        "address2": "Royal Arcade, 335 Bourke St",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "The Kitchen Royale",
+    "phone": "+61401627304",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r5v_R450rY5PDAJUn_lE2Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RKOzYaWnMaO8Emb4D9h3wQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dXACYP2dE8GTM229PKbkSQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-kitchen-royale-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11702"
+}

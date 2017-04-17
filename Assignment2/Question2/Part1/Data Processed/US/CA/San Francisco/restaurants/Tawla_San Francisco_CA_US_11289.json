@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.76961,
+        "longitude": -122.42263
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "tawla-san-francisco-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IKF1T1ygQzDjnJPELcn9pA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "206 Valencia Street",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94103"
+    },
+    "name": "Tawla",
+    "phone": "+14158142704",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IKF1T1ygQzDjnJPELcn9pA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fsYNUzIrszG_4X1hH_Jn_w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/x2DUBhOehK2D28BH9yBbTw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 162,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tawla-san-francisco-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11289"
+}

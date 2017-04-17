@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.056445,
+        "longitude": -118.3954585
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "beverly-hills-marriott-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1P8qxUaiQK4HykgbgzBYSA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1150 S Beverly Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90035"
+    },
+    "name": "Beverly Hills Marriott",
+    "phone": "+13105536561",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1P8qxUaiQK4HykgbgzBYSA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TqPx7FbflV33jayef5AxsQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3KMMbhSQpIDNzNJFjO3eKg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 37,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/beverly-hills-marriott-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1244"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4817665011266,
+        "longitude": 153.025807142258
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "queensland-maritime-museum-south-brisbane",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/virMX14SeADvZfn2HznYDQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "412 Stanley St",
+        "address2": "",
+        "address3": "",
+        "city": "South Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4101"
+    },
+    "name": "Queensland Maritime Museum",
+    "phone": "+61738445361",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/virMX14SeADvZfn2HznYDQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BtrwHmfBDjC4nphQzzKJPw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yDWacpwRk47Y3BGjecNE5A/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/queensland-maritime-museum-south-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9320"
+}

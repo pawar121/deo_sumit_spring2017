@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85849,
+        "longitude": 2.3465
+    },
+    "id": "louvre-rivoli-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/me125m7CaGnywIBo5X2J5g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Rue Jean Lantier",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75001"
+    },
+    "name": "Louvre Rivoli",
+    "phone": "+33142334538",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/me125m7CaGnywIBo5X2J5g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/L-ALec2eRajpJy_OOvs0HA/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/louvre-rivoli-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6917"
+}

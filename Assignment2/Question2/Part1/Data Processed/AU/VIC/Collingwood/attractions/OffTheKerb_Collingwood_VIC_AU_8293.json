@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.7990608,
+        "longitude": 144.9870758
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "off-the-kerb-gallery-and-studios-collingwood",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Llhal3-dmugYv3ZGhw6nGg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "66B Johnston St",
+        "address2": "",
+        "address3": "",
+        "city": "Collingwood",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3066"
+    },
+    "name": "Off The Kerb Gallery & Studios",
+    "phone": "+61390770174",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Llhal3-dmugYv3ZGhw6nGg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GilJ2uxBcyYxZZ2tt-Az4w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/off-the-kerb-gallery-and-studios-collingwood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8293"
+}

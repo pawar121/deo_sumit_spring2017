@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.89857,
+        "longitude": -77.0217751
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "regal-cinemas-gallery-place-14-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rE3uHgC7OE3nyNjJ7P6lSQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "701 7th St NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Regal Cinemas Gallery Place 14",
+    "phone": "+18444627342",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rE3uHgC7OE3nyNjJ7P6lSQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lOtrlFblsBfcTKiIJB35KA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bUGAWvfK2h_OH8IUG7Nyqw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 255,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/regal-cinemas-gallery-place-14-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9476"
+}

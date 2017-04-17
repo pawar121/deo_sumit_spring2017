@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.5927099,
+        "longitude": -122.33369
+    },
+    "id": "silver-cloud-hotel-seattle-stadium-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5xMa4ZycAPIIeafeI3Fc5Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1046 1st Avenue South",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98134"
+    },
+    "name": "Silver Cloud Hotel - Seattle Stadium",
+    "phone": "+12062049800",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5xMa4ZycAPIIeafeI3Fc5Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/07_HaxJiI-YjpNkKQkRdzg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OUi-GxGEyoCCcckmsKEdGw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 165,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/silver-cloud-hotel-seattle-stadium-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10396"
+}

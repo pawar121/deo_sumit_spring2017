@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "kids_activities",
+            "title": "Kids Activities"
+        },
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.7133705,
+        "longitude": 174.7497898
+    },
+    "id": "browns-bay-playground-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Tx40WptGIA-evToNNy04oQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Manly Esplanade",
+        "address2": "Browns Bay",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "0630"
+    },
+    "name": "Browns Bay playground",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Tx40WptGIA-evToNNy04oQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/g4p5pqJ3JjL0OduxK90hMQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wUID1P4EIOHybf-m-yOCjg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/browns-bay-playground-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1766"
+}

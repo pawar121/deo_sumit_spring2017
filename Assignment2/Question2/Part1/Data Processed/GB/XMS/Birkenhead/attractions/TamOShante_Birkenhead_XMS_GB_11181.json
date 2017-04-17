@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "kids_activities",
+            "title": "Kids Activities"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3946894,
+        "longitude": -3.0646463
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "tam-o-shanter-urban-farm-birkenhead",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bqF42OGSMSeuh8V0MQL0HQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "25 Boundary Road",
+        "address2": "Bidston",
+        "address3": "",
+        "city": "Birkenhead",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "CH43 7PD"
+    },
+    "name": "Tam O'Shanter Urban Farm",
+    "phone": "+441516539332",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bqF42OGSMSeuh8V0MQL0HQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sO7R5coCIiU-aVQ6AkGnxQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xYXfYu3hJse-ZW9U09JmCQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tam-o-shanter-urban-farm-birkenhead?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11181"
+}

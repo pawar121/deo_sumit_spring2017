@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.10825,
+        "longitude": -118.27129
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "tenants-of-the-trees-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wi3tyyXO9isYttSPKdqU1g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2808 Hyperion Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90027"
+    },
+    "name": "Tenants of The Trees",
+    "phone": "+13232848631",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Lg4X6q6qHbNCiIjuMiwUFQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wi3tyyXO9isYttSPKdqU1g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IOJzB4S1WaaroJaFll3O-g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 107,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tenants-of-the-trees-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11330"
+}

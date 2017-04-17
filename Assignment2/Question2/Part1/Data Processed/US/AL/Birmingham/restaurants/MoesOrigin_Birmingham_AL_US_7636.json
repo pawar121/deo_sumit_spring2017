@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.511165705186,
+        "longitude": -86.786305910171
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "moes-original-bar-b-que-birmingham-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o0KiBRxVBWk4raq6dCfrZw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "731 29th St S",
+        "address2": null,
+        "address3": null,
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35233"
+    },
+    "name": "Moe's Original Bar B Que",
+    "phone": "+12052525888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o0KiBRxVBWk4raq6dCfrZw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RQX3IWgj-gw9jC_x5OMtPQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W0roQyOhZkKpspr8J2pRMw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 60,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/moes-original-bar-b-que-birmingham-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7636"
+}

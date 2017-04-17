@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.663511,
+        "longitude": -122.38022
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "barnacle-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d60HZLZ_xxKfsYzfmDcvyw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4743 Ballard Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98107"
+    },
+    "name": "Barnacle",
+    "phone": "+12067063379",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/d60HZLZ_xxKfsYzfmDcvyw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/D0dQ-FXFnWpSXAMJseRH2g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7GRoq2XG7QMFrC5_5OO4qg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 82,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/barnacle-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "999"
+}

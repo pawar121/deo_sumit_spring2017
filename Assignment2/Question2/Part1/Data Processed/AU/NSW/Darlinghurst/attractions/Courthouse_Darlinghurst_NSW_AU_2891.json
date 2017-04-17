@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8805885,
+        "longitude": 151.216568
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "courthouse-hotel-darlinghurst",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h9KRmFnt7y1zVasPEguung/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "189 Oxford St",
+        "address2": null,
+        "address3": null,
+        "city": "Darlinghurst",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2010"
+    },
+    "name": "Courthouse Hotel",
+    "phone": "+61293604831",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/h9KRmFnt7y1zVasPEguung/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cWzwP01Y5lvT-Iic0qK0vg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/courthouse-hotel-darlinghurst?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2891"
+}

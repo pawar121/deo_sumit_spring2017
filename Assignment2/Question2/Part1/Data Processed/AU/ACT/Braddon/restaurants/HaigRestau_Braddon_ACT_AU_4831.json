@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2706498123583,
+        "longitude": 149.130947595503
+    },
+    "id": "haig-restaurant-braddon",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Girrahween St",
+        "address2": null,
+        "address3": null,
+        "city": "Braddon",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "Haig Restaurant",
+    "phone": "+61262438333",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/haig-restaurant-braddon?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4831"
+}

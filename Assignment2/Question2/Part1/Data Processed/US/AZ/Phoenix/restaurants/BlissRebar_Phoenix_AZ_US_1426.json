@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.457863,
+        "longitude": -112.068359
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "bliss-rebar-phoenix",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tlm8qYEeB3gN-0ZBB043vw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "901 N 4th St",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85004"
+    },
+    "name": "Bliss Rebar",
+    "phone": "+16027951792",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tlm8qYEeB3gN-0ZBB043vw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KxKEfh0OYXwzuM9fPv1UTQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oCgI0vdzLr_2sbBXvwB4lQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 461,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bliss-rebar-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1426"
+}

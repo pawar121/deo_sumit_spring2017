@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3274193,
+        "longitude": 149.1852264
+    },
+    "id": "neway-transport-act-fyshwick",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "175 Gladstone St",
+        "address2": null,
+        "address3": null,
+        "city": "Fyshwick",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2609"
+    },
+    "name": "Neway Transport ACT",
+    "phone": "+61262805921",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/neway-transport-act-fyshwick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8046"
+}

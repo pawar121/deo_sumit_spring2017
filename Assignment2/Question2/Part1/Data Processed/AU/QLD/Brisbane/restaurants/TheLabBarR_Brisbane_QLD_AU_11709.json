@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4730759,
+        "longitude": 153.0241699
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "the-lab-bar-restaurant-brisbane",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wb3McriCvRaybe6eGF2QcQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "130 William St",
+        "address2": "",
+        "address3": null,
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "The Lab Bar Restaurant",
+    "phone": "+61733068647",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wb3McriCvRaybe6eGF2QcQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/F9CuwYnfm1nu-UAl4lR_2g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1fmHya7X7l7YvtdTwJdqnA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-lab-bar-restaurant-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11709"
+}

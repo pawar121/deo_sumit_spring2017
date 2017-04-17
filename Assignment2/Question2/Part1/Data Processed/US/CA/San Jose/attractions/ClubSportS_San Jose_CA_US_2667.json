@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2658713,
+        "longitude": -121.7934873
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "clubsport-san-jose-san-jose-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dChsxWKMVmrrR4FL7XgxVw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "800 Embedded Way",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95138"
+    },
+    "name": "ClubSport - San Jose",
+    "phone": "+14085133125",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dChsxWKMVmrrR4FL7XgxVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vEeD2nwzK9TNnCml4bEZOQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Zn1wLs1pJPcfHoKk3T1Phw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 103,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/clubsport-san-jose-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2667"
+}

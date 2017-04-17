@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8764441403425,
+        "longitude": 2.26345677368024
+    },
+    "id": "frank-gehry-fondation-louis-vuitton-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dL13TA0uD0TkwcgUgSV0qw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8 ave du Mahatma Gandhi",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75116"
+    },
+    "name": "Frank Gehry - Fondation Louis Vuitton",
+    "phone": "+33140699600",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dL13TA0uD0TkwcgUgSV0qw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8TGxzIWVBWCa3YP0wXSJJg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/X57J5YWF1qFMsJyxWADryw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 56,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/frank-gehry-fondation-louis-vuitton-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4252"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3948654164131,
+        "longitude": -121.936896108091
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "kerries-kafe-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R0v8lvA_Ql8mtM1D48bsiA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3052 Orchard Dr",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95134"
+    },
+    "name": "Kerrie's Kafe",
+    "phone": "+14084563454",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R0v8lvA_Ql8mtM1D48bsiA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_rIf6nVuF6QYsYTSpq_2LA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TouhEs8S0aF2ydlVPTXTcg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 152,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kerries-kafe-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6096"
+}

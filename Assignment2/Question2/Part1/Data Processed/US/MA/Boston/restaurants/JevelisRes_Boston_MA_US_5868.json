@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3794701,
+        "longitude": -71.0273923
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "jevelis-restaurant-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/584EqFCE3snAEJzig2d5Bw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "387 Chelsea St",
+        "address2": null,
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02128"
+    },
+    "name": "Jeveli's Restaurant",
+    "phone": "+16175679539",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/584EqFCE3snAEJzig2d5Bw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/S7I3H1JHZng1UDv3kDxe8Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dAvMcpYpHBI4SvaG_g7UtA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 135,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jevelis-restaurant-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5868"
+}

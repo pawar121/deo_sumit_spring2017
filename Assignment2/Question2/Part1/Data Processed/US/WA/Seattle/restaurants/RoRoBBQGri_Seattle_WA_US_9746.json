@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6510903,
+        "longitude": -122.3422045
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "roro-bbq-and-grill-seattle-6",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8dfT6RBGY4aFcHISwCQI1A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3620 Stone Way N",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98103"
+    },
+    "name": "RoRo BBQ & Grill",
+    "phone": "+12069541100",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/8dfT6RBGY4aFcHISwCQI1A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/M3D38lsL0x92LUV5aBDIWA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o_xoEvdyglM9DuPbc6rSjA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 475,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/roro-bbq-and-grill-seattle-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9746"
+}

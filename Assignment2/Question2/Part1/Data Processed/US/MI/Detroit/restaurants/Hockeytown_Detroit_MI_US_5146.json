@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "sportsbars",
+            "title": "Sports Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3389499,
+        "longitude": -83.05261
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "hockeytown-cafe-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hpN7Ugvk3yQozdO65WYFHA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2301 Woodward Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48201"
+    },
+    "name": "Hockeytown Cafe",
+    "phone": "+13139659500",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hpN7Ugvk3yQozdO65WYFHA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/u4Tr145nTd-HuUlRPZ3RYA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6WpK7yqwmhtFsz8IBNQEgw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 131,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hockeytown-cafe-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5146"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bakeries",
+            "title": "Bakeries"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3154182,
+        "longitude": -71.061142
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "borinquen-bakery-and-cafe-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xd51Q7kRHtJDund7IUzOPw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "112 Stoughton St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02125"
+    },
+    "name": "Borinquen Bakery & Cafe",
+    "phone": "+16172822500",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Xd51Q7kRHtJDund7IUzOPw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FhC2tAa7AtKBN0Bw1dM9Yw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zWzAusQZcOQngEy-Ao6hXA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/borinquen-bakery-and-cafe-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1565"
+}

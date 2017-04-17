@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "airlines",
+            "title": "Airlines"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.73427,
+        "longitude": -95.43559
+    },
+    "id": "southwest-airlines-houston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aaK3p1jByYqVi_HvTIIcwg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3555 Timmons Ln",
+        "address2": "Ste 325",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77027"
+    },
+    "name": "Southwest Airlines",
+    "phone": "+17136228632",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/aaK3p1jByYqVi_HvTIIcwg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/AAUOtbvXh-3GE8vlmrS1rQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KjW14B71IOpLY8MnAh8QbQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 35,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/southwest-airlines-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10639"
+}

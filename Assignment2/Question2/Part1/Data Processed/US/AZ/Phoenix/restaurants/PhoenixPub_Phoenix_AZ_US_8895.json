@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.455842837338,
+        "longitude": -112.073525509787
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "phoenix-public-market-cafe-phoenix-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wWEFOhb13DjJwadlWJtqtw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "14 E Pierce St",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85004"
+    },
+    "name": "Phoenix Public Market Cafe",
+    "phone": "+16022532700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wWEFOhb13DjJwadlWJtqtw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/41Tm9FkWxidwvHp2O7H8cQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Te3v9Am_NSEBQffdSwyhDw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 687,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/phoenix-public-market-cafe-phoenix-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8895"
+}

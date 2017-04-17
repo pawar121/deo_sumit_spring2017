@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 54.6521910219932,
+        "longitude": -5.79686556011438
+    },
+    "id": "cultra-manor-holywood",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "153 Bangor Road",
+        "address2": "Cultra",
+        "address3": "",
+        "city": "Holywood",
+        "country": "GB",
+        "state": "NDN",
+        "zip_code": "BT18 0EY"
+    },
+    "name": "Cultra Manor",
+    "phone": "+448456080000",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cultra-manor-holywood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3042"
+}

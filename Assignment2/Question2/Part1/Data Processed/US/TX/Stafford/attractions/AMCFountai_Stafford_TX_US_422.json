@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6407986,
+        "longitude": -95.5853294
+    },
+    "id": "amc-fountains-18-stafford",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1Mp2HjTjXvgK9PBz5qviDw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11225 Fountain Lake Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Stafford",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77477"
+    },
+    "name": "AMC Fountains 18",
+    "phone": "+12812400761",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1Mp2HjTjXvgK9PBz5qviDw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/I9MeS1ioQMoHNEl7-ajjlA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pO304wVO4U2kEjA3suKcMA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 90,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amc-fountains-18-stafford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "422"
+}

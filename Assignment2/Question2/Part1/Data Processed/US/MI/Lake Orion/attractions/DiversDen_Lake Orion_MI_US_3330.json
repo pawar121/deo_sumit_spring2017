@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "swimminglessons",
+            "title": "Swimming Lessons/Schools"
+        },
+        {
+            "alias": "diving",
+            "title": "Diving"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.7746725,
+        "longitude": -83.2392297
+    },
+    "id": "divers-den-lake-orion",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OBnLtEKP81J_Ion-ikF53A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "604 S Lapeer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Lake Orion",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48362"
+    },
+    "name": "Diver's Den",
+    "phone": "+12486939801",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OBnLtEKP81J_Ion-ikF53A/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/divers-den-lake-orion?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3330"
+}

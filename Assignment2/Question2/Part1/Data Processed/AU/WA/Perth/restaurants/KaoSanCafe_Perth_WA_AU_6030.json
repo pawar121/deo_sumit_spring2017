@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.952297909077,
+        "longitude": 115.853436041604
+    },
+    "id": "kao-san-cafe-perth",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qMxyFsUwbJRmls4WtSePXA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "876 Hay St",
+        "address2": "",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Kao San Cafe",
+    "phone": "+61893226641",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qMxyFsUwbJRmls4WtSePXA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xk51iNA2s9v_3yiCBjKAEw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kao-san-cafe-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6030"
+}

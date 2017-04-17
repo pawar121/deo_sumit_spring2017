@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9075,
+        "longitude": -77.0397
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "kimpton-topaz-hotel-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k4gi82nf56klYzocLfauog/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1733 N St NW",
+        "address2": "NW",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20036"
+    },
+    "name": "Kimpton Topaz Hotel",
+    "phone": "+12023933000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/k4gi82nf56klYzocLfauog/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/c-S3brtM-y5VUK6UfWOrzA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gPm4_X6u2zH67n-HOF4C5A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 166,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kimpton-topaz-hotel-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6136"
+}

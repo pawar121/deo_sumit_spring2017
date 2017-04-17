@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.68286,
+        "longitude": -122.35507
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "martinos-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R_5BwEPi3dPN8-uD06uL4g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7410 Greenwood Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98103"
+    },
+    "name": "Martino's",
+    "phone": "+12063974689",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R_5BwEPi3dPN8-uD06uL4g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/69Y9q2O5uX-ewSNeyVufqg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wW4YHLN46weOLIi-M4l1SQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 131,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/martinos-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7256"
+}

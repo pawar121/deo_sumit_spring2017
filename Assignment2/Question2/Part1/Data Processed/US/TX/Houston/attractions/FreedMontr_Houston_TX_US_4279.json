@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7355457410815,
+        "longitude": -95.3915079693032
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "freed-montrose-neighborhood-library-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pJ0_nJapl6TR4dpARouacg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4100 Montrose",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Freed-Montrose Neighborhood Library",
+    "phone": "+18323931800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pJ0_nJapl6TR4dpARouacg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/1P2CP1PFxN1olz9VHGG_vQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/V73m5gDB7fwk_WebNQXvqw/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/freed-montrose-neighborhood-library-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4279"
+}

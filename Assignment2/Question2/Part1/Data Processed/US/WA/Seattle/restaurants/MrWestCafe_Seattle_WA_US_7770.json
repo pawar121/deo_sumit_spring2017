@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.61418,
+        "longitude": -122.33485
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "mr-west-cafe-bar-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jlUPswHspYwEVVnKktoGug/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "720 Olive Way",
+        "address2": "Ste 103",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Mr. West Cafe Bar",
+    "phone": "+12069009378",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jlUPswHspYwEVVnKktoGug/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oBHe9eFe5FoohVAI7UZtXQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OJYJl_9l-aEGmrk9iIzUfQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 74,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mr-west-cafe-bar-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7770"
+}

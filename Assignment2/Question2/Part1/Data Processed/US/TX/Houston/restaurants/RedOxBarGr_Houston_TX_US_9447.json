@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7933308,
+        "longitude": -95.3592863
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "red-ox-bar-and-grill-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ydg_xlJ1KtOTr6aQOswiVg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "811 Collingsworth St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77009"
+    },
+    "name": "Red Ox Bar & Grill",
+    "phone": "+17132273369",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ydg_xlJ1KtOTr6aQOswiVg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1ccLfy_1lrVNqd2xu2NN0A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1_yjoAP1doiSSCd9xZTGQg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 47,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/red-ox-bar-and-grill-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9447"
+}

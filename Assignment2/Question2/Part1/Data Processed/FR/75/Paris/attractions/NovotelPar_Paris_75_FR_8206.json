@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8607,
+        "longitude": 2.34637
+    },
+    "id": "novotel-paris-les-halles-paris-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/92FJ-OA1l3CmUKcnXklPHg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8 place Marguerite de Navarre",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75001"
+    },
+    "name": "Novotel Paris les Halles",
+    "phone": "+33142213131",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/92FJ-OA1l3CmUKcnXklPHg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Fa7ZP0VxuHRRgnhKIDFBqA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/206EJ8yNIUqweclvEmPpiw/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 3.5,
+    "review_count": 25,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/novotel-paris-les-halles-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8206"
+}

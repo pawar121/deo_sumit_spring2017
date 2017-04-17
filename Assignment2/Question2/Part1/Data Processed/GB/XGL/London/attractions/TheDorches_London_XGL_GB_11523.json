@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.507302,
+        "longitude": -0.152594
+    },
+    "id": "the-dorchester-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F8ftTWNKOT_vPmJVI9C_Qg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "53 Park Lane",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1K 1QA"
+    },
+    "name": "The Dorchester",
+    "phone": "+442076298888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/F8ftTWNKOT_vPmJVI9C_Qg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zXpt4OIIxAYrYxyTOxstqw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2EvAWbjaNi3cBKsXCds1jg/o.jpg"
+    ],
+    "price": "££££",
+    "rating": 4.5,
+    "review_count": 96,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-dorchester-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11523"
+}

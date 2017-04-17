@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "eventplanning",
+            "title": "Party & Event Planning"
+        },
+        {
+            "alias": "scavengerhunts",
+            "title": "Scavenger Hunts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.5839446,
+        "longitude": -74.0942515
+    },
+    "id": "kiddie-wonderland-party-center-staten-island",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d2m_jq-gCRmcNoQm7tFUHg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "298 Naughton Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Staten Island",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10305"
+    },
+    "name": "Kiddie Wonderland Party Center",
+    "phone": "+17187010439",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/d2m_jq-gCRmcNoQm7tFUHg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Cncwt22Xpw_0EqW9VXiI2Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FxxaQFqWCv1-yUpSyvn4-g/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kiddie-wonderland-party-center-staten-island?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6105"
+}

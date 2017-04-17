@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.657292,
+        "longitude": -95.285583
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 1,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 2,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 3,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 4,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 5,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 6,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0400"
+                }
+            ]
+        }
+    ],
+    "id": "alamo-rent-a-car-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AIUweZHvnbJXx1I6EW9tLw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7600 Airport Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77061"
+    },
+    "name": "Alamo Rent A Car",
+    "phone": "+18552378179",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/AIUweZHvnbJXx1I6EW9tLw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EtCLQjx_rhp-Lh8g02lYqg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TAi2zXYttqVKuk4FHDcnmQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 65,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/alamo-rent-a-car-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "315"
+}

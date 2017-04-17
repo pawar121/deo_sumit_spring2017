@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3612175,
+        "longitude": -83.1207428
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "steves-soul-food-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-ogpWG2Nl8whRROdtgiF1Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8443 Grand River Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48204"
+    },
+    "name": "Steve's Soul Food",
+    "phone": "+13138943464",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-ogpWG2Nl8whRROdtgiF1Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RFq68KBbICK8OGdO8-sUvA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2U-ypPcYrLuEFtMkeKXEpg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/steves-soul-food-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10836"
+}

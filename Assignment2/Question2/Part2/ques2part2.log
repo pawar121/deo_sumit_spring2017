@@ -1,0 +1,65 @@
+2017-02-27 03:11:09,847 - root - INFO - Application started....
+2017-02-27 03:11:09,848 - root - INFO - Reading JSON files from data folder.
+2017-02-27 03:11:09,850 - root - INFO - 0 number of JSON files found in data folder
+2017-02-27 03:11:17,511 - root - INFO - Application started....
+2017-02-27 03:11:17,511 - root - INFO - Application started....
+2017-02-27 03:11:17,513 - root - INFO - Reading JSON files from data folder.
+2017-02-27 03:11:17,513 - root - INFO - Reading JSON files from data folder.
+2017-02-27 03:11:17,602 - root - INFO - 11728 number of JSON files found in data folder
+2017-02-27 03:11:17,602 - root - INFO - 11728 number of JSON files found in data folder
+2017-02-27 03:13:05,496 - root - INFO - Iterating through all the JSON files.
+2017-02-27 03:13:05,496 - root - INFO - Iterating through all the JSON files.
+2017-02-27 03:14:09,162 - root - INFO - 6372 number of restaurents JSON files found.
+2017-02-27 03:14:09,162 - root - INFO - 6372 number of restaurents JSON files found.
+2017-02-27 03:17:25,226 - root - INFO - Iterating through all the JSON files.
+2017-02-27 03:17:25,226 - root - INFO - Iterating through all the JSON files.
+2017-02-27 03:17:26,964 - root - INFO - 6372 number of restaurants JSON files found.
+2017-02-27 03:17:26,964 - root - INFO - 6372 number of restaurants JSON files found.
+2017-02-27 03:20:32,878 - root - INFO - Iterating through 6372 JSONs to locate the timings information.
+2017-02-27 03:20:32,878 - root - INFO - Iterating through 6372 JSONs to locate the timings information.
+2017-02-27 03:20:32,888 - root - INFO - Out of 6372 restaurants JSONs 5652restaurants have timings information, and for 720 restaurants we dont have timings information
+2017-02-27 03:20:32,888 - root - INFO - Out of 6372 restaurants JSONs 5652restaurants have timings information, and for 720 restaurants we dont have timings information
+2017-02-27 03:21:07,322 - root - INFO - Iterating through 6372 JSONs to locate the timings information.
+2017-02-27 03:21:07,322 - root - INFO - Iterating through 6372 JSONs to locate the timings information.
+2017-02-27 03:21:07,330 - root - INFO - Out of 6372 restaurants, for 5652 restaurants we have timings information, and for 720 restaurants we dont have timings information
+2017-02-27 03:21:07,330 - root - INFO - Out of 6372 restaurants, for 5652 restaurants we have timings information, and for 720 restaurants we dont have timings information
+2017-02-27 03:23:57,533 - root - INFO - Creating a result set for restaurants with timings information.
+2017-02-27 03:23:57,533 - root - INFO - Creating a result set for restaurants with timings information.
+2017-02-27 03:23:57,626 - root - INFO - Adding details of restaurants without timings information to the result set.
+2017-02-27 03:23:57,626 - root - INFO - Adding details of restaurants without timings information to the result set.
+2017-02-27 03:27:00,686 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:27:00,686 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:27:00,842 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:27:00,842 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:27:49,300 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:27:49,300 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:27:49,460 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:27:49,460 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:28:01,463 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:28:01,463 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:28:01,625 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:28:01,625 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:30:59,038 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:30:59,038 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:31:49,927 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:31:49,927 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:31:50,089 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:31:50,089 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:35:44,219 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:35:44,219 - root - INFO - Storing the result set in a CSV file
+2017-02-27 03:35:44,378 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:35:44,378 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\Assignment 2\Question2resultSet.csv
+2017-02-27 03:35:44,378 - root - INFO - Application finished....
+2017-02-27 03:35:44,378 - root - INFO - Application finished....
+2017-02-27 11:16:52,154 - root - INFO - Application started....
+2017-02-27 11:16:52,193 - root - INFO - Reading JSON files from data folder.
+2017-02-27 11:16:52,283 - root - INFO - 11728 number of JSON files found in data folder
+2017-02-27 11:16:52,328 - root - INFO - Iterating through all the JSON files.
+2017-02-27 11:17:39,781 - root - INFO - 6372 number of restaurants JSON files found.
+2017-02-27 11:17:39,793 - root - INFO - Iterating through 6372 JSONs to locate the timings information.
+2017-02-27 11:17:39,805 - root - INFO - Out of 6372 restaurants, for 5652 restaurants we have timings information, and for 720 restaurants we dont have timings information
+2017-02-27 11:17:40,070 - root - INFO - Creating a result set for restaurants with timings information.
+2017-02-27 11:17:40,170 - root - INFO - Adding details of restaurants without timings information to the result set.
+2017-02-27 11:17:40,539 - root - INFO - Storing the result set in a CSV file
+2017-02-27 11:17:40,788 - root - INFO - Resultset.csv generated can be found on : D:\NEU\Spring2017\Python\deo_sumit_spring2017\Assignment2\Question2\Part2resultSet.csv
+2017-02-27 11:17:40,804 - root - INFO - Application finished....

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8762589,
+        "longitude": 151.2080383
+    },
+    "id": "diethnes-greek-restaurant-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nDH2cOIT7xfTkAtXNN4wMA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "336 Pitt St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Diethnes Greek Restaurant",
+    "phone": "+61292678956",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/nDH2cOIT7xfTkAtXNN4wMA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zka51qYwyqWwEaLEeeWA1w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4X6fwYcXAhShPhGHUKD_3Q/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/diethnes-greek-restaurant-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3270"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.00864,
+        "longitude": -118.4980851
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "pacific-park-santa-monica-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FUb-d4HcKGx22H6LluQVtw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "380 Santa Monica Pier",
+        "address2": "",
+        "address3": "",
+        "city": "Santa Monica",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90401"
+    },
+    "name": "Pacific Park",
+    "phone": "+13102608744",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FUb-d4HcKGx22H6LluQVtw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lbjwmW7sMR6DCBbgqJ107A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fBnmnvGe3EWUf57_QQlvTA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 188,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pacific-park-santa-monica-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8513"
+}

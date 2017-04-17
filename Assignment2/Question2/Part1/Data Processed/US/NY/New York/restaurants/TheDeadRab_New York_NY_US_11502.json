@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "irish",
+            "title": "Irish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.70329,
+        "longitude": -74.01102
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "the-dead-rabbit-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sMgLscPWORntrFI7p8bK7w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "30 Water St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10004"
+    },
+    "name": "The Dead Rabbit",
+    "phone": "+16464227906",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sMgLscPWORntrFI7p8bK7w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QGG7-0zlx4T9L4rQBNcr2g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Xn431qgUDs9yB3I3EYDmqQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 879,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-dead-rabbit-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11502"
+}

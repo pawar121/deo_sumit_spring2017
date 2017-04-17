@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.8111312,
+        "longitude": -73.9638738
+    },
+    "id": "riverside-park-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V5jA5-4B0XBYye3lnwHRgA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "475 Riverside Dr",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10115"
+    },
+    "name": "Riverside Park",
+    "phone": "+12128703070",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/V5jA5-4B0XBYye3lnwHRgA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/EjPvuNaF87gYnfRgo6pvVQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0NQGVXH-ApD3o9QBnwugfw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 126,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/riverside-park-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9643"
+}

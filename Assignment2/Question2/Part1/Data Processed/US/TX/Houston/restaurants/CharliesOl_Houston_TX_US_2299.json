@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7557907,
+        "longitude": -95.3639069
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "charlies-old-fashioned-bbq-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x-kGoObLS900HgM6JCwcwg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1001 Fannin St",
+        "address2": "Ste 270",
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Charlie's Old Fashioned BBQ",
+    "phone": "+17137500562",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/x-kGoObLS900HgM6JCwcwg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bSg4r4t4B-4XLx6J-Zomrg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/693xODml-8eRJpwBi4i1YA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/charlies-old-fashioned-bbq-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2299"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.44305,
+        "longitude": -83.43577
+    },
+    "id": "sheraton-detroit-novi-hotel-novi-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eahGKWRNv3JRZw1Krocerg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "21111 Haggerty Road",
+        "address2": "",
+        "address3": "",
+        "city": "Novi",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48375"
+    },
+    "name": "Sheraton Detroit Novi Hotel",
+    "phone": "+12483494000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eahGKWRNv3JRZw1Krocerg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kgcrwn0Sf3k8Ro63CYi6xg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yh_Nt06jQXHN6ZnAKkQC9A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 37,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sheraton-detroit-novi-hotel-novi-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10305"
+}

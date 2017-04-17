@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "airport_shuttles",
+            "title": "Airport Shuttles"
+        },
+        {
+            "alias": "buses",
+            "title": "Buses"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8852289176315,
+        "longitude": 147.323019383556
+    },
+    "id": "redline-coaches-hobart",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5eXAktqNqcMUcmcw1VTIKA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "230 Liverpool St",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Redline Coaches",
+    "phone": "+611300367000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5eXAktqNqcMUcmcw1VTIKA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cCVgDzK0csRJgkG_sQZ0mg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fnHkjHzgK2_u6h4MBG69QA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/redline-coaches-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9460"
+}

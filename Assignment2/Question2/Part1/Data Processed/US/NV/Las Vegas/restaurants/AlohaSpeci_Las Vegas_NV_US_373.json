@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "hawaiian",
+            "title": "Hawaiian"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.17306,
+        "longitude": -115.14476
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "aloha-specialties-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/piOM7rJOpa6xRtUScHzFIw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 E Ogden Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "Aloha Specialties",
+    "phone": "+17023820338",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/piOM7rJOpa6xRtUScHzFIw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/g7n8jzPtrLP__F0c03qFHg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/661KXg_1YucPvdhQwV0V-Q/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 531,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/aloha-specialties-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "373"
+}

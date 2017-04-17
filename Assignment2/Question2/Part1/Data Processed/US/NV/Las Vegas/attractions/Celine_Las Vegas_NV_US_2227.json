@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.116165,
+        "longitude": -115.175068
+    },
+    "id": "celine-las-vegas-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yJ1CBYWr-U6P4p0FaibRIw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Caesars Palace",
+        "address2": "3570 Las Vegas Blvd S",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Celine",
+    "phone": "+17028661400",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yJ1CBYWr-U6P4p0FaibRIw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-2TxNTe-Fr1rkaDd3d1axg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/keTL-eWRhvVwWrT-DLWhjw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 168,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/celine-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2227"
+}

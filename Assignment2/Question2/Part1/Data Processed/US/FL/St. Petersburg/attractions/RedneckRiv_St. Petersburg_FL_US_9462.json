@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.875621299964,
+        "longitude": -82.594
+    },
+    "id": "redneck-riviera-st-petersburg",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hCnGIvCn4xmLL3VQsRgpUw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Gandy Blvd N",
+        "address2": "",
+        "address3": "",
+        "city": "St. Petersburg",
+        "country": "US",
+        "state": "FL",
+        "zip_code": ""
+    },
+    "name": "Redneck Riviera",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hCnGIvCn4xmLL3VQsRgpUw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oM3sg3Puqj2KmZOQ514Bwg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0PCEgm1c5sIih5abRdFX3w/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/redneck-riviera-st-petersburg?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9462"
+}

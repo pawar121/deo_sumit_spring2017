@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.871242,
+        "longitude": 2.328145
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "hôtel-maison-athénée-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/73GdcdyR8HYOjy2rq4iUwg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "19 rue de Caumartin",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75009"
+    },
+    "name": "Hôtel Maison Athénée",
+    "phone": "+33140179929",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/73GdcdyR8HYOjy2rq4iUwg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Ll3-_-pmnryuUoTz9ljR1A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Qr2kv8_oCrnildnI2jx4UQ/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.5,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-maison-ath%C3%A9n%C3%A9e-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5526"
+}

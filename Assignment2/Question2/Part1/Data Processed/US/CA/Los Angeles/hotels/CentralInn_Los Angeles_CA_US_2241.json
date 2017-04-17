@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.0094109,
+        "longitude": -118.2561111
+    },
+    "id": "central-inn-motel-los-angeles",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4074 S Central Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90011"
+    },
+    "name": "Central Inn Motel",
+    "phone": "+13232334200",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/central-inn-motel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2241"
+}

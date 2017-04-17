@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "amateursportsteams",
+            "title": "Amateur Sports Teams"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33793,
+        "longitude": -121.8924
+    },
+    "id": "amgen-tour-of-california-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g_9E-4wIo5EtLiYX8qsAIQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95109"
+    },
+    "name": "AMGEN Tour of California",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/g_9E-4wIo5EtLiYX8qsAIQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t1bBCmMnzjNpfSUIVYp63w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/T2rpPT1iEXcwFdIPEUChtw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amgen-tour-of-california-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "459"
+}

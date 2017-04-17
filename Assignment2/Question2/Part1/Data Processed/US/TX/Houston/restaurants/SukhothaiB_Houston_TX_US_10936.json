@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.737314,
+        "longitude": -95.47993
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "sukhothai-bistro-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kTcepWnxyTwOGTIhHKVHZg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5757 Westheimer Rd",
+        "address2": "Ste 114",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77057"
+    },
+    "name": "Sukhothai Bistro",
+    "phone": "+17137800888",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kTcepWnxyTwOGTIhHKVHZg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/H14wx4NGlb6hw2f-st_AuA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TWhAS-4_C8IiR7p8SFkSYg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 118,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sukhothai-bistro-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10936"
+}

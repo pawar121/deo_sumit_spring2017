@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3509865,
+        "longitude": -71.0560989
+    },
+    "id": "greyhound-bus-lines-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Tg91b4XXfn_XyHb0LL89OQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "700 Atlantic Avenue",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02110"
+    },
+    "name": "Greyhound Bus Lines",
+    "phone": "+16175261801",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Tg91b4XXfn_XyHb0LL89OQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FSRCEwX2JXW9XJvxyjQp4w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5EeDXidPO1gHsv8TMub5rg/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 116,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/greyhound-bus-lines-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4711"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.429424,
+        "longitude": -112.073929
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "comedor-guadalajara-phoenix",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SmiplMlUGn_UXz-GG0TJCA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1830 S Central Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85004"
+    },
+    "name": "Comedor Guadalajara",
+    "phone": "+16022538299",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/SmiplMlUGn_UXz-GG0TJCA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HpF1GZPVraEO1HD1hYcdPA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/xqDvSZaPIbwMJe573Pe8Dw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 340,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/comedor-guadalajara-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2737"
+}

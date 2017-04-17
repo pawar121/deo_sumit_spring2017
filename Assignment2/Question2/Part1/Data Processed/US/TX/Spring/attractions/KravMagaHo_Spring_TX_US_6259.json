@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "martialarts",
+            "title": "Martial Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 30.0437325,
+        "longitude": -95.4316042
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "krav-maga-houston-spring-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QQALFTHXARSAviOaSVDrKA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "19075 Interstate 45",
+        "address2": "",
+        "address3": "",
+        "city": "Spring",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77388"
+    },
+    "name": "Krav Maga Houston",
+    "phone": "+18323705688",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QQALFTHXARSAviOaSVDrKA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PoQhe6IjfwfTOCQvLZjTbg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/p_irOHe0u2Da3zRNvyDPUQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/krav-maga-houston-spring-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6259"
+}

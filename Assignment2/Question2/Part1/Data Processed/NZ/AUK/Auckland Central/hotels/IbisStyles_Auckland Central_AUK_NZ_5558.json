@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8472417,
+        "longitude": 174.7648403
+    },
+    "id": "ibis-styles-auckland-auckland-central",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MDLD2By0_tULGVF6AnVLBw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "20 Wyndham St",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland Central",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Ibis Styles Auckland",
+    "phone": "+6493089140",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MDLD2By0_tULGVF6AnVLBw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UqWlMhGg5AdwHoa3m9ZSZQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sm3sVwb9QUVomT6gy7tyHQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/ibis-styles-auckland-auckland-central?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5558"
+}

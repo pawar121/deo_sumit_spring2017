@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8366951226329,
+        "longitude": -4.2719726462007
+    },
+    "id": "bungo-in-the-back-lanes-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lVsfo0iiwz6fCrBwS4iwjw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Strathbungo Back Lanes",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": ""
+    },
+    "name": "Bungo in The Back Lanes",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lVsfo0iiwz6fCrBwS4iwjw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1XXWd9xHCHqbSdouYNPeQA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TfzHATkQ6fdc8PWx1Rnw3Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bungo-in-the-back-lanes-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1829"
+}

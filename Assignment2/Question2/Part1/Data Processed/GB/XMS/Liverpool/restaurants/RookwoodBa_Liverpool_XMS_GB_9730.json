@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.401844,
+        "longitude": -2.9772217
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "rookwood-bar-and-cue-liverpool-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n45d0c458YiziR6PULqWJg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "14 Back Colquitt Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 4DE"
+    },
+    "name": "Rookwood Bar and 'Cue",
+    "phone": "+441517090999",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/n45d0c458YiziR6PULqWJg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/D9TiTeLAJ7YS_ZZkOT43Mg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Aa5uQM13HrabJICqIGyKwQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rookwood-bar-and-cue-liverpool-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9730"
+}

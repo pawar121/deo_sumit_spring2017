@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "foodstands",
+            "title": "Food Stands"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3243666398872,
+        "longitude": -121.809378862381
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "churros-el-guero-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zjxCwuEzKbbR6AuDrL6_Xw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2217 Quimby Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95122"
+    },
+    "name": "Churros El Guero",
+    "phone": "+14086037362",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zjxCwuEzKbbR6AuDrL6_Xw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jK_bUr2qqMEDc2kukxi4RQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kD_6_ba1UYM7aIwjZGaRDQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 50,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/churros-el-guero-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2501"
+}

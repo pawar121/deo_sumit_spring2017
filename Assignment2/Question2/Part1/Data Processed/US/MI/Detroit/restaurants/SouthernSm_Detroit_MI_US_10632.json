@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4168,
+        "longitude": -83.18688
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "southern-smokehouse-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-DtBecRstlMfklo9OY9d9w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "14340 W Mcnichols Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48235"
+    },
+    "name": "Southern Smokehouse",
+    "phone": "+13133974050",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-DtBecRstlMfklo9OY9d9w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/9yGrJ5U3fMZprwz2oNBSZA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tYy3surrDQX8rKgruC9H2g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/southern-smokehouse-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10632"
+}

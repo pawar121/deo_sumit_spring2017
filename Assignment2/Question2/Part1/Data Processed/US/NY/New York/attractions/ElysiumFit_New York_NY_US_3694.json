@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "nutritionists",
+            "title": "Nutritionists"
+        },
+        {
+            "alias": "physicaltherapy",
+            "title": "Physical Therapy"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.777915,
+        "longitude": -73.979239
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "elysium-fitness-new-york-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2bzTJs-xGvsyOwrd3o_zsw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "117 W 72nd St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10023"
+    },
+    "name": "Elysium Fitness",
+    "phone": "+12127211010",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2bzTJs-xGvsyOwrd3o_zsw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hrWEFRpNDhyR55YzdwbxQA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OJQeR8JquBfw9bcsepUeLg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/elysium-fitness-new-york-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3694"
+}

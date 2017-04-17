@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5161303,
+        "longitude": -0.1338234
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "easygym-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MWelt5SHC0tVUoFESvbkMA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "The Plaza",
+        "address2": "120 Oxford Street",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1N 9DP"
+    },
+    "name": "easyGym",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MWelt5SHC0tVUoFESvbkMA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-sn2cZhGbe4x6b1c9smAYA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9rr4lRHNRgSL33iJwPNeRw/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/easygym-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3537"
+}

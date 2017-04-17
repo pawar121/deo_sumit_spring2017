@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.895355,
+        "longitude": -87.654615
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "intuit-the-center-for-intuitive-and-outsider-art-chicago",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oNYiRSoGtwFfLXjlSbfZ6w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "756 N Milwaukee Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60642"
+    },
+    "name": "Intuit: The Center For Intuitive & Outsider Art",
+    "phone": "+13122439088",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oNYiRSoGtwFfLXjlSbfZ6w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1eC3IPDDMRSzeJGYlU792A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YszZVpZ6_6TUJpuAoJFUBQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 40,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/intuit-the-center-for-intuitive-and-outsider-art-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5677"
+}

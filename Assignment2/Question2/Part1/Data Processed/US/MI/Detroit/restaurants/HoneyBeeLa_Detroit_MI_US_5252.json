@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "grocery",
+            "title": "Grocery"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.32564,
+        "longitude": -83.07651
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "honey-bee-la-colmena-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lwlR4g1jA9znaA5KbUnlPA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2443 Bagley St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48216"
+    },
+    "name": "Honey Bee La Colmena",
+    "phone": "+13132370295",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lwlR4g1jA9znaA5KbUnlPA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eV_VAstVhAj0URrT5c2z3A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/V1jZ19NXf36PixS54Z-06g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 169,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/honey-bee-la-colmena-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5252"
+}

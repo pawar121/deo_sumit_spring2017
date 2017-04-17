@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7564716,
+        "longitude": -73.9883226
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "citysights-ny-new-york-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_Iblb5upKhuo191rg0lHlw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "234 W 42nd St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10036"
+    },
+    "name": "CitySights NY",
+    "phone": "+12128122700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_Iblb5upKhuo191rg0lHlw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5Wm6gtHNvZc5Ow8U2F48Bw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/eeC-MVYk1SASv-5HuN_h5A/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 170,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/citysights-ny-new-york-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2607"
+}

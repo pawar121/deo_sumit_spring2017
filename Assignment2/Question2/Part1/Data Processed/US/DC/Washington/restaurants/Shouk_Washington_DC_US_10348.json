@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9026210833771,
+        "longitude": -77.0212566107512
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "shouk-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7LV34UvbHWRyGzfEh70PAw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "655 K St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Shouk",
+    "phone": "+12026521464",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7LV34UvbHWRyGzfEh70PAw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/okInNTyQ6Hsxav18HrK7hw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/w1Dv6l3E5jMxMNYBhz7IyA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 167,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/shouk-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10348"
+}

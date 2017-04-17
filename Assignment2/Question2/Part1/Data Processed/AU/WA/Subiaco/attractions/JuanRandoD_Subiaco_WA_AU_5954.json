@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "dancestudio",
+            "title": "Dance Studios"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9476509,
+        "longitude": 115.8257904
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "juan-rando-dance-academy-subiaco-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UZzso3ZhiCcor3whX_yQUw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "296 Churchill Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Subiaco",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6008"
+    },
+    "name": "Juan Rando Dance Academy",
+    "phone": "+61893823235",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UZzso3ZhiCcor3whX_yQUw/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/juan-rando-dance-academy-subiaco-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5954"
+}

@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "lebanese",
+            "title": "Lebanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7142112919745,
+        "longitude": -95.3813828419795
+    },
+    "id": "kabab-king-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dGD_offjwB6RK5dBxxDT4g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6019 Almeda Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77004"
+    },
+    "name": "Kabab King",
+    "phone": "+12817403357",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dGD_offjwB6RK5dBxxDT4g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IDtbTXPXJfifk5GUT7XFbA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dA37v_MTeBJxCDaSuauBpg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 32,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kabab-king-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5996"
+}

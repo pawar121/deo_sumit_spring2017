@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8767994103165,
+        "longitude": -4.29225802338162
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "old-saltys-glasgow-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N31T4KHl-rxy38_nMg2vRw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "337 Byres Road",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G12 8UQ"
+    },
+    "name": "Old Salty's",
+    "phone": "+441413343334",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/N31T4KHl-rxy38_nMg2vRw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lZIpB0vP7_pngt4oV6CBhQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/G7hLifFTycD70-CdOFxWKg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 29,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/old-saltys-glasgow-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8327"
+}

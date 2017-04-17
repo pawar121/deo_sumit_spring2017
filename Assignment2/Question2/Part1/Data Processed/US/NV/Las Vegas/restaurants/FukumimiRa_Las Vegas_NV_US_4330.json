@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "ramen",
+            "title": "Ramen"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.100464402599,
+        "longitude": -115.117415620994
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "fukumimi-ramen-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bYUQ80gEsb7Tjij__QvxyQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4860 S Eastern Ave",
+        "address2": "Ste 2",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    "name": "Fukumimi Ramen",
+    "phone": "+17026312933",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bYUQ80gEsb7Tjij__QvxyQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zPlX5CTxYM9GhoZgOLvrLQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KENUJNkBOD-RkaIy4xKt_w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 558,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fukumimi-ramen-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4330"
+}

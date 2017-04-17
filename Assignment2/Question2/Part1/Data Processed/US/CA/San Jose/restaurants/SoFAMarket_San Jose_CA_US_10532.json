@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "food_court",
+            "title": "Food Court"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33017,
+        "longitude": -121.88654
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "sofa-market-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fTCBgYejHltbAWErbInwng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "387 S First St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "SoFA Market",
+    "phone": "+14086425270",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fTCBgYejHltbAWErbInwng/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/U-okMayJNUFO3EauC_wG8g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/g4pmIRI_wq8eA70S4Fry_Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 31,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sofa-market-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10532"
+}

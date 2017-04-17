@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "campgrounds",
+            "title": "Campgrounds"
+        },
+        {
+            "alias": "leisure_centers",
+            "title": "Leisure Centers"
+        },
+        {
+            "alias": "sports_clubs",
+            "title": "Sports Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.859439,
+        "longitude": 2.655347
+    },
+    "id": "base-de-loisirs-ucpa-torcy",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Route de Lagny",
+        "address2": null,
+        "address3": null,
+        "city": "Torcy",
+        "country": "FR",
+        "state": "77",
+        "zip_code": "77400"
+    },
+    "name": "Base de loisirs UCPA",
+    "phone": "+33164805875",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/base-de-loisirs-ucpa-torcy?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1020"
+}

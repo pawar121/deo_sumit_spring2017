@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4069405,
+        "longitude": -2.9795699
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "liverpool-empire-theatre-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nt_eFh-I4O0hzUCqHulfvQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Lime Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 1JE"
+    },
+    "name": "Liverpool Empire Theatre",
+    "phone": "+448448713017",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nt_eFh-I4O0hzUCqHulfvQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4UP1I5Ctx8Y7eRkOpZED7g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Qd_88VF1on69QKi1Ym21UQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/liverpool-empire-theatre-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6749"
+}

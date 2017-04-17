@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "cheesesteaks",
+            "title": "Cheesesteaks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.73711,
+        "longitude": -104.97975
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "denver-teds-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wu7RIYrU0cy59X5LX7kTyg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1308 Pearl St",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80203"
+    },
+    "name": "Denver Ted's",
+    "phone": "+13038309089",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Wu7RIYrU0cy59X5LX7kTyg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/l0iF9qfrMICyU4t-nQ9GNA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/INprfO3Ese_u58IcCMNXsA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 223,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/denver-teds-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3225"
+}

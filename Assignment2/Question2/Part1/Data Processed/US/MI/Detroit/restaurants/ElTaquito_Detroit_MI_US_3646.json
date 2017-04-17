@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "foodstands",
+            "title": "Food Stands"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3157799,
+        "longitude": -83.10685
+    },
+    "id": "el-taquito-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zxSmYVKmDRffFtQ3QX_trw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "W Vernor and Military",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48209"
+    },
+    "name": "El Taquito",
+    "phone": "+13135162915",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zxSmYVKmDRffFtQ3QX_trw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wQOb31oQrOKCoV2PKCuK5Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TUAW6C5moYfmlBK5FcUEEA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-taquito-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3646"
+}

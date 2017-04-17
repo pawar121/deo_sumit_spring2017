@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2786293,
+        "longitude": 149.1330261
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "gus-cafe-canberra-city",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/85kARDK15QoLA-G_H4lxOw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 8",
+        "address2": "Garema Arcade Bunda St",
+        "address3": null,
+        "city": "Canberra City",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Gus' Cafe",
+    "phone": "+61262488118",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/85kARDK15QoLA-G_H4lxOw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/e8tPgWGEfV1PGHVLQMIwDg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OOa0RPPa4th5YYoBNVg6OQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gus-cafe-canberra-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4780"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "raw_food",
+            "title": "Live/Raw Food"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6052719,
+        "longitude": -122.3396992
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "elliotts-oyster-house-seattle-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Am6AabmBhkHHqrGRSg2clQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1201 Alaskan Way",
+        "address2": "Pier 56",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Elliott's Oyster House",
+    "phone": "+12066234340",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Am6AabmBhkHHqrGRSg2clQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MQazlhw8WiSTZsTZPccdHg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1Kxgv3QumbHgxJheuFDpyg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 2125,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elliotts-oyster-house-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3680"
+}

@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "campgrounds",
+            "title": "Campgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3514593560854,
+        "longitude": -122.160774730146
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "hidden-villa-los-altos-hills",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nacwoVCgNt87ZAlnRSykhg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "26870 Moody Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Altos Hills",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94022"
+    },
+    "name": "Hidden Villa",
+    "phone": "+16509498641",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nacwoVCgNt87ZAlnRSykhg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wbzjU_DY6ni-IkDJaR12Qg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/flsRP6CO-KxJ_v8-amZTnQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 107,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hidden-villa-los-altos-hills?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5047"
+}

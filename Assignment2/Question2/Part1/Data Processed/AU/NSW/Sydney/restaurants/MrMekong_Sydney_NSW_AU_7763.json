@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8638955,
+        "longitude": 151.2038416
+    },
+    "id": "mr-mekong-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xyQAld1OXCCBf7KICJ6w4A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 307, Level 3",
+        "address2": "201 Kent St, Maritime Trade Towers",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Mr Mekong",
+    "phone": "+61289647607",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xyQAld1OXCCBf7KICJ6w4A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mr-mekong-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7763"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5252062,
+        "longitude": -0.3100063
+    },
+    "id": "caesar-hotel-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ikIAP2kKUzOUwgdRqeMvew/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "26-33 Queens Gardens",
+        "address2": "Hyde Park",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 3BD"
+    },
+    "name": "Caesar Hotel",
+    "phone": "+442072620022",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ikIAP2kKUzOUwgdRqeMvew/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Zxm3vZKS-jm05rNce0r6VQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YXJb_qUaScjRCJEzW0MhOA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/caesar-hotel-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1908"
+}

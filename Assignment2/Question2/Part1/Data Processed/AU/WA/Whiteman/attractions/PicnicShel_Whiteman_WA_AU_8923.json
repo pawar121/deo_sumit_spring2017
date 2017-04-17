@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.8370495,
+        "longitude": 115.9578018
+    },
+    "id": "picnic-shelters-whiteman",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Whiteman Park",
+        "address2": "",
+        "address3": "",
+        "city": "Whiteman",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6068"
+    },
+    "name": "Picnic Shelters",
+    "phone": "+61892096000",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/picnic-shelters-whiteman?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8923"
+}

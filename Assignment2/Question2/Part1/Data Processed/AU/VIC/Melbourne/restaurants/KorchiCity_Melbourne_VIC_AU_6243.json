@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.814463,
+        "longitude": 144.959754
+    },
+    "id": "korchi-city-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KWQRE6lU-7Sd8O98Et0pxg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "441 Little Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Korchi City",
+    "phone": "+61390410775",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KWQRE6lU-7Sd8O98Et0pxg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZyOKsUjRhYNHO9C18kb3RA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/korchi-city-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6243"
+}

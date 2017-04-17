@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8972054,
+        "longitude": -77.0244675
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "district-of-pi-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Saw7J99K8foy6B6Lyuwi1w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "910 F St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20004"
+    },
+    "name": "District of Pi",
+    "phone": "+12023935484",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Saw7J99K8foy6B6Lyuwi1w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/63fFsXv1t4pCaXy7XmO6PA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DExFih5fi-4KNp_39pN0HA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1064,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/district-of-pi-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3322"
+}

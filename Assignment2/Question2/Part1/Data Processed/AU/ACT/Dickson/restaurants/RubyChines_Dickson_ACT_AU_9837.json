@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2502556,
+        "longitude": 149.1368256
+    },
+    "id": "ruby-chinese-restaurant-dickson",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iu_qeeXBfgVrGYXxd_j21w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18 Woolley St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Ruby Chinese Restaurant",
+    "phone": "+61262498849",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iu_qeeXBfgVrGYXxd_j21w/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ruby-chinese-restaurant-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9837"
+}

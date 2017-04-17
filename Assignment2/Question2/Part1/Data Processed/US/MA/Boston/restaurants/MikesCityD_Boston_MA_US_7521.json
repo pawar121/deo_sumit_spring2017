@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "diners",
+            "title": "Diners"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3369865,
+        "longitude": -71.0760727
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "mikes-city-diner-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jaQYClwKVh6c2SSKAkaxqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1714 Washington St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "Mike's City Diner",
+    "phone": "+16172679393",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jaQYClwKVh6c2SSKAkaxqA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2NZLeWGwiJEg_-4Zg9XHNg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Q4aYlwqGxrm2552PamwYKg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 447,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mikes-city-diner-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7521"
+}

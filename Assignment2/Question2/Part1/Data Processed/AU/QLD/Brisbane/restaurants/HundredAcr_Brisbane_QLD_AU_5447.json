@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "modern_european",
+            "title": "Modern European"
+        },
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.5029935227993,
+        "longitude": 152.992616630103
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "hundred-acre-bar-brisbane",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I5RGJdKDB_BbgxGGii0-Aw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "St Lucia Golf Links",
+        "address2": "Carawa St",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4067"
+    },
+    "name": "Hundred Acre Bar",
+    "phone": "+61738703433",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/I5RGJdKDB_BbgxGGii0-Aw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OSFc27qFMn-vzlEJKJ5gPA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NJNqlsrX1uT4nMR37i8U6w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hundred-acre-bar-brisbane?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5447"
+}

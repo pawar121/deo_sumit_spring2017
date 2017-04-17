@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8456841,
+        "longitude": 144.9794006
+    },
+    "id": "roscos-chevron-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g2C2jeHHiSLwgc3cudYYnA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "519 St Kilda Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3004"
+    },
+    "name": "Rosco's @ Chevron",
+    "phone": "+61395252679",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/g2C2jeHHiSLwgc3cudYYnA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/67rHs3pDxnea_fY2QYbU5w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/H8YewAnkm7Sbr8DZ05pj4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/roscos-chevron-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9750"
+}

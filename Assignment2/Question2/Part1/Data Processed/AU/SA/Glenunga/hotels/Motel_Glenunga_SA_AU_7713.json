@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9508781,
+        "longitude": 138.6346436
+    },
+    "id": "motel-277-glenunga",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "132 Conyngham St",
+        "address2": null,
+        "address3": null,
+        "city": "Glenunga",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5064"
+    },
+    "name": "Motel 277",
+    "phone": "+61883799911",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/motel-277-glenunga?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7713"
+}

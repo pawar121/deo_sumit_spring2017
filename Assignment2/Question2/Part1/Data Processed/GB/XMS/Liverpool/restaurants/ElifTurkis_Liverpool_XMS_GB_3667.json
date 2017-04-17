@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "turkish",
+            "title": "Turkish"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3801003,
+        "longitude": -2.9471695
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1630"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "elif-turkish-bbq-restaurant-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zjNdLQ71psdWjzd68KYCQA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6 Lark Lane",
+        "address2": "Liverpool",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L17 8US"
+    },
+    "name": "Elif Turkish BBQ Restaurant",
+    "phone": "+441517287362",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zjNdLQ71psdWjzd68KYCQA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dFlJQeeBFyrbb7hv7dGPVg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mbBa_6Bh2NEr3n8JwTLJ6w/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elif-turkish-bbq-restaurant-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3667"
+}

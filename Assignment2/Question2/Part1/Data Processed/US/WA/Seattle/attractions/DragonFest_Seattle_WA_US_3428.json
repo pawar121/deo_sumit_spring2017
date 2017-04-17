@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.5986075483808,
+        "longitude": -122.321752470846
+    },
+    "id": "dragon-fest-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RM2yYSNhcGePfrggBuojyg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Chinatown-International District",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98104"
+    },
+    "name": "Dragon Fest",
+    "phone": "+12063821197",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RM2yYSNhcGePfrggBuojyg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fORwznQ7NkZmS55zIMfvew/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DVoUo0C6gx5NwX-H6QCPJQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dragon-fest-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3428"
+}

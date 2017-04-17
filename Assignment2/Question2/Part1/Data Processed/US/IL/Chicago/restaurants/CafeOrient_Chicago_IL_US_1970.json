@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "chicken_wings",
+            "title": "Chicken Wings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9696154,
+        "longitude": -87.7083237
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1630"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-orient-33-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r5CV7mI6P8KpJfgQr5F7oQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4829 N Kedzie Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60625"
+    },
+    "name": "Cafe Orient 33",
+    "phone": "+17735096538",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r5CV7mI6P8KpJfgQr5F7oQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/sVFm9s1d3tsNOz7KDG7IUQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/A95IjWFyrRdVICP_T2uYyA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 159,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-orient-33-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1970"
+}

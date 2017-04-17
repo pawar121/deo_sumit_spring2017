@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "fitness",
+            "title": "Fitness & Instruction"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.892231,
+        "longitude": 151.2477722
+    },
+    "id": "fitness-first-bondi-the-edge-bondi-junction",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MZJK9aB-8-YQoHuL1Zj_IA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "110 Spring St",
+        "address2": null,
+        "address3": null,
+        "city": "Bondi Junction",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2022"
+    },
+    "name": "Fitness First Bondi The Edge",
+    "phone": "+611300557799",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MZJK9aB-8-YQoHuL1Zj_IA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/36jl00P_G7fYQiBou8uZog/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0uJVU3ea2VvpMj5yEnas1A/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fitness-first-bondi-the-edge-bondi-junction?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4036"
+}

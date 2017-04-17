@@ -1,0 +1,114 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "hawaiian",
+            "title": "Hawaiian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.2192233223454,
+        "longitude": -115.242703787697
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "plumeria-thai-cafe-las-vegas-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZwHLMvT0tB-kP0vlsKKGTA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6710 W Cheyenne Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89108"
+    },
+    "name": "Plumeria Thai Cafe",
+    "phone": "+17025866667",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZwHLMvT0tB-kP0vlsKKGTA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tCMo76Ogi3p9j0nDY9dJCw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OJrvY3VERrVcuh33A8uv5A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 176,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/plumeria-thai-cafe-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9071"
+}

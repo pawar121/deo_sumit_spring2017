@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        },
+        {
+            "alias": "icecream",
+            "title": "Ice Cream & Frozen Yogurt"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.90884,
+        "longitude": -76.9977546
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "the-dc-scoop-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AEkBlSFT4u6MTLZB3fCEdQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1309 5th St",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20002"
+    },
+    "name": "The DC Scoop",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AEkBlSFT4u6MTLZB3fCEdQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PUfieI2_IWrVyBbg89RAkA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uKEYntxzw2wJuTKS8-n9cw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-dc-scoop-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11501"
+}

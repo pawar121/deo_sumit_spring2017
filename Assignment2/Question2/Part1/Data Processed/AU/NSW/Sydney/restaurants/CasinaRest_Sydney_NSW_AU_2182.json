@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.875936594628,
+        "longitude": 151.205681231201
+    },
+    "id": "casina-restaurante-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jG_k7xirnEm6sDxinc16Cw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 3",
+        "address2": "86 Liverpool St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Casina Restaurante",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jG_k7xirnEm6sDxinc16Cw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eSu-BS4ZU6z6VkI39plQ2g/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/casina-restaurante-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2182"
+}

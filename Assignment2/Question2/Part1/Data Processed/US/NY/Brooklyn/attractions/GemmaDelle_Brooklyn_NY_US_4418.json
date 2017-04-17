@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.6681669,
+        "longitude": -73.9800645
+    },
+    "id": "gemma-deller-brooklyn-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MadXQZtycOZU3l7Vy8zpvQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11215"
+    },
+    "name": "Gemma Deller",
+    "phone": "+13477092121",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MadXQZtycOZU3l7Vy8zpvQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IJaP3nFt1dva0vNPMg6B4g/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 19,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gemma-deller-brooklyn-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4418"
+}

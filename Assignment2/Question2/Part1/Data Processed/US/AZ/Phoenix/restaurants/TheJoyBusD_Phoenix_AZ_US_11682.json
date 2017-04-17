@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "nonprofit",
+            "title": "Community Service/Non-Profit"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5817549,
+        "longitude": -112.0084514
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "the-joy-bus-diner-phoenix",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YdnjTYss03vt25H-PrU2eg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3375 E Shea Blvd",
+        "address2": "C1",
+        "address3": null,
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85028"
+    },
+    "name": "The Joy Bus Diner",
+    "phone": "+16025955884",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YdnjTYss03vt25H-PrU2eg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IX-tk1iaiOkQIrraONWisw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Xon_FjXAL8CIWsgk4rg3HQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 38,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-joy-bus-diner-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11682"
+}

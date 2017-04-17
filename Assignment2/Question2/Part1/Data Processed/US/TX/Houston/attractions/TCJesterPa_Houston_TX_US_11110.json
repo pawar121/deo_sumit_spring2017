@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "dog_parks",
+            "title": "Dog Parks"
+        },
+        {
+            "alias": "discgolf",
+            "title": "Disc Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.8276553,
+        "longitude": -95.4548454
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "t-c-jester-park-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XyYr1wworcshJDQlKAzB2A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4201 W T C Jester Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77018"
+    },
+    "name": "T C  Jester Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XyYr1wworcshJDQlKAzB2A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TkBF-Gu-8DFF6PNzkohxMQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/j5j4RQqDOOmIk3_qJ_C5NA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 48,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/t-c-jester-park-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11110"
+}

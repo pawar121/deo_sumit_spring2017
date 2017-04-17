@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8421628990167,
+        "longitude": 2.30745031796073
+    },
+    "id": "nouvel-hotel-eiffel-paris",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JNbXyy40ZfsrNWuiQ7uFUQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5 rue des volontaires",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75015"
+    },
+    "name": "Nouvel Hotel Eiffel",
+    "phone": "+33147347789",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JNbXyy40ZfsrNWuiQ7uFUQ/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nouvel-hotel-eiffel-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8204"
+}

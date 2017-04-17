@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "jewelry",
+            "title": "Jewelry"
+        },
+        {
+            "alias": "stationery",
+            "title": "Cards & Stationery"
+        },
+        {
+            "alias": "giftshops",
+            "title": "Gift Shops"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8725739,
+        "longitude": -4.3024273
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "owen-bisset-gift-boutique-glasgow",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/usO62eFGPscpTHtmu7psbw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "65 Hyndland Street",
+        "address2": null,
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G11 5PS"
+    },
+    "name": "Owen Bisset Gift Boutique",
+    "phone": "+441413570268",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/usO62eFGPscpTHtmu7psbw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ITX5f0IZfXhAOCLDwa_AIw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8h2oQLRtgVFiGzMsZk6-0w/o.jpg"
+    ],
+    "price": "££",
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/owen-bisset-gift-boutique-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8488"
+}

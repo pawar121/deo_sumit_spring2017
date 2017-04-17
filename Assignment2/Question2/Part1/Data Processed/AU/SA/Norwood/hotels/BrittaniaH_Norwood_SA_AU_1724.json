@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "pubfood",
+            "title": "Pub Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9277205146305,
+        "longitude": 138.623836104927
+    },
+    "id": "brittania-hotel-norwood",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6Rhr1RWnaElgx73qG_d1UQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Kensington Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Norwood",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5067"
+    },
+    "name": "Brittania Hotel",
+    "phone": "+61883310411",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/6Rhr1RWnaElgx73qG_d1UQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HRY4ebugZz-GiKP2EGY-Kg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/nnrm4GJ2Pgykdz5ngar2lw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 4,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/brittania-hotel-norwood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1724"
+}

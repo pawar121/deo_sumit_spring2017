@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3213081,
+        "longitude": 149.1656952
+    },
+    "id": "border-express-fyshwick",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Wetlands Complex Dairy Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Fyshwick",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2609"
+    },
+    "name": "Border Express",
+    "phone": "+61261233100",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/border-express-fyshwick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1560"
+}

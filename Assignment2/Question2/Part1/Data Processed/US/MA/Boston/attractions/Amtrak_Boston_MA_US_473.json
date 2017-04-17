@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        },
+        {
+            "alias": "trains",
+            "title": "Trains"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3525215,
+        "longitude": -71.0553093
+    },
+    "id": "amtrak-boston-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ci4q-vS1Y0seYgItAXww1g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2 S Station",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02110"
+    },
+    "name": "Amtrak",
+    "phone": "+16173457460",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ci4q-vS1Y0seYgItAXww1g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0pQcWS2cNz7fieqKHN7f8g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pygLQV9oFzC2NfXKnoMENQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 117,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amtrak-boston-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "473"
+}

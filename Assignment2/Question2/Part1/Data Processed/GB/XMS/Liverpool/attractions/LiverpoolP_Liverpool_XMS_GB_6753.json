@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "comedyclubs",
+            "title": "Comedy Clubs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4011993,
+        "longitude": -2.9706099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "liverpool-philharmonic-hall-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5kCK13iRa3yLA4KO7SQYbg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Hope Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 9BP"
+    },
+    "name": "Liverpool Philharmonic Hall",
+    "phone": "+441517093789",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5kCK13iRa3yLA4KO7SQYbg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IfBabRVxwQRwJAR7CqE4wA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/m1qLe4wI3pwSdWaskMkPvQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/liverpool-philharmonic-hall-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6753"
+}

@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.5267982,
+        "longitude": -121.9506912
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "starstruck-theatre-fremont-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m-PijCM9XJg5ZUNpTlyK5g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "42307 Osgood Rd",
+        "address2": "Unit L",
+        "address3": "",
+        "city": "Fremont",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94539"
+    },
+    "name": "StarStruck Theatre",
+    "phone": "+15106591319",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/m-PijCM9XJg5ZUNpTlyK5g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VMA0NcoHteyCyjGk0LE3XA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dhfy70AJ3_FE9lRWJWXmUw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/starstruck-theatre-fremont-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10792"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "rock_climbing",
+            "title": "Rock Climbing"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.96942,
+        "longitude": -95.53349
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "stone-moves-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UFpRkTM8SDb4LuyXQDLjJg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6970 Fm 1960 W",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77069"
+    },
+    "name": "Stone Moves",
+    "phone": "+12813970830",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UFpRkTM8SDb4LuyXQDLjJg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8qGwlAV2gx0JW4jgP7Yr0w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZYiTi9T_I1zBvF9R9XNrJQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/stone-moves-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10857"
+}

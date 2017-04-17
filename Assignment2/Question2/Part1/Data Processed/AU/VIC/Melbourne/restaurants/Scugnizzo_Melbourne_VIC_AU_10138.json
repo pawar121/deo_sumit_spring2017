@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8157282,
+        "longitude": 144.9575112
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "scugnizzo-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BpqYMyA6OY28AEigHSNAhA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "558 Lt Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Scugnizzo",
+    "phone": "+61396705622",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BpqYMyA6OY28AEigHSNAhA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/k25OKgNUYMWIycNMQOAi1g/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/scugnizzo-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10138"
+}

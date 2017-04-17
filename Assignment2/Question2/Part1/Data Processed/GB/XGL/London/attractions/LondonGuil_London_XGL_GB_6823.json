@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5157814,
+        "longitude": -0.0949
+    },
+    "id": "london-guildhall-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B5PNorQRhjt6rSOWzUugGg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Guildhall",
+        "address2": "Gresham Street",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC2V 7HH"
+    },
+    "name": "London Guildhall",
+    "phone": "+442073323820",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/B5PNorQRhjt6rSOWzUugGg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TfsT7BnWqSDSiR-6wA0jnA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rOVfAWw6TD0tW8qttO8pyQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/london-guildhall-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6823"
+}

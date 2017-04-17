@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "argentine",
+            "title": "Argentine"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4058838,
+        "longitude": -2.9922609
+    },
+    "id": "meet-argentinian-restaurant-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XjbENseNb7uPnPSJBP7lnA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "50 Brunswick St",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L2 0PL"
+    },
+    "name": "Meet Argentinian Restaurant",
+    "phone": "+448718114824",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XjbENseNb7uPnPSJBP7lnA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/idL5Lr1pb19EnaSjCQYQLQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UniQaWepE34QqQSxnNXcFA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/meet-argentinian-restaurant-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7390"
+}

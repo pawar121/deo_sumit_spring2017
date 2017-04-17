@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7310782469639,
+        "longitude": -73.9825163036585
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "taverna-kyclades-new-york-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/54xPHUjIkqqa_gjRkSAnBw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "228 1st Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10009"
+    },
+    "name": "Taverna Kyclades",
+    "phone": "+12124320011",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/54xPHUjIkqqa_gjRkSAnBw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9RNous63gB5hQmW92fYdPA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2ktKlify98KKvsXd9wfG8g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 554,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/taverna-kyclades-new-york-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11286"
+}

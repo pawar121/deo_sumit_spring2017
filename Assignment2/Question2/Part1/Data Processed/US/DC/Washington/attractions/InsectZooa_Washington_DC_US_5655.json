@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "zoos",
+            "title": "Zoos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.891844373039,
+        "longitude": -77.0258802552777
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "insect-zoo-at-national-museum-of-natural-history-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7ek0aRDAfZuCBXCE1E9aqQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10th St and Constitution Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20560"
+    },
+    "name": "Insect Zoo at National Museum of Natural History",
+    "phone": "+12023571729",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7ek0aRDAfZuCBXCE1E9aqQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gMHFCopzxHcfVFS7lUjjQw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/EqPZMXaLMQ0n681yiUSBag/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/insect-zoo-at-national-museum-of-natural-history-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5655"
+}

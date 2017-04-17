@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.859720001652,
+        "longitude": -4.2536306248975
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "bread-butter-glasgow",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u4cD5WptlBWbcly5hzvHcg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "74 Buchanan Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G1 3AJ"
+    },
+    "name": "Bread + Butter",
+    "phone": "+441412214383",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/u4cD5WptlBWbcly5hzvHcg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4WRGqKdSsRQoNFx-3W46Cg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_57y8UPnJ7OB8NFvVxyveQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.5,
+    "review_count": 24,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bread-butter-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1682"
+}

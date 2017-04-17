@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "escapegames",
+            "title": "Escape Games"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4896515,
+        "longitude": -0.1001946
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "escape-plan-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NwKgTM-Xn5_BM7uvkOk6Sw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "13A Iliffe Yard",
+        "address2": null,
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE17 3QA"
+    },
+    "name": "Escape Plan",
+    "phone": "+442070187390",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NwKgTM-Xn5_BM7uvkOk6Sw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_4Q41Fs9I-wqLo1NVg2jHA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lQ7iF_dUzuJpyuyaMptQZw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/escape-plan-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3770"
+}

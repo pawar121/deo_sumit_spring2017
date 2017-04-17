@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "postoffices",
+            "title": "Post Offices"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.497509,
+        "longitude": -2.5227132
+    },
+    "id": "railway-road-post-office-leigh-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "40 railway road",
+        "address2": "leigh",
+        "address3": "",
+        "city": "Leigh",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "WN7 4AT"
+    },
+    "name": "railway road post office",
+    "phone": "",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/railway-road-post-office-leigh-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9364"
+}

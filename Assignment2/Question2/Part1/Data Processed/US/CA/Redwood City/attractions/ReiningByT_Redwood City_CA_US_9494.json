@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "horsebackriding",
+            "title": "Horseback Riding"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.407959,
+        "longitude": -122.2453003
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "reining-by-the-bay-redwood-city",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9mMNzo7tDu4ngpUBbg6dmw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3674 Sand Hill Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Redwood City",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94062"
+    },
+    "name": "Reining By The Bay",
+    "phone": "+16026773774",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9mMNzo7tDu4ngpUBbg6dmw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/KIh1PTzU4J1sGzCufgYLVw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YZt81OokyTBuxxCzpTQiow/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/reining-by-the-bay-redwood-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9494"
+}

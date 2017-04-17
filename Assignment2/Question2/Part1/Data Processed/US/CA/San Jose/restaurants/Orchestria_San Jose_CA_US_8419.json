@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3289986,
+        "longitude": -121.8844604
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2045",
+                    "is_overnight": false,
+                    "start": "1745"
+                },
+                {
+                    "day": 5,
+                    "end": "2045",
+                    "is_overnight": false,
+                    "start": "1745"
+                },
+                {
+                    "day": 6,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1630"
+                }
+            ]
+        }
+    ],
+    "id": "orchestria-palm-court-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SjMxJ27KCDtxBkcVEMS-HA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "27 E William St",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Orchestria Palm Court",
+    "phone": "+14082885606",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SjMxJ27KCDtxBkcVEMS-HA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/clgPhHG2OJB3CvTWIJfbiQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/F51GEj6IINXzwPBsn6OWfQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 98,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/orchestria-palm-court-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8419"
+}

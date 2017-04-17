@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5217745,
+        "longitude": -0.160981
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "la-fitness-london-21",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_ou4tRjXhIHKPLv6pZtjiw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Balcombe Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "NW1 6NA"
+    },
+    "name": "LA Fitness",
+    "phone": "+442077235757",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_ou4tRjXhIHKPLv6pZtjiw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VzDN6NzsdK_aZfB1pM1ooQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LuyqAwr_E4Snrqh1Dgm_Ig/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.0,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/la-fitness-london-21?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6342"
+}

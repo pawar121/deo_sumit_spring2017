@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "apartments",
+            "title": "Apartments"
+        },
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2372354,
+        "longitude": -121.7713612
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "monterey-grove-apartments-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hxazhTUdbUtOziACOL2AaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6100 Monterey Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95138"
+    },
+    "name": "Monterey Grove Apartments",
+    "phone": "+14087289514",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hxazhTUdbUtOziACOL2AaQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/aV5rrgve2OWGQPoetHdi3A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o5VsqeavFW-30ziXL0073w/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 70,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/monterey-grove-apartments-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7675"
+}

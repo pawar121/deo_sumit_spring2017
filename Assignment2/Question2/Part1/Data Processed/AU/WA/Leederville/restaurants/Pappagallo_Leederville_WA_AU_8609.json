@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.93221,
+        "longitude": 115.8416
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "pappagallo-pizzeria-cafe-leederville",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8TIMti23CSJP5XN7iAMhMQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "250 Oxford St",
+        "address2": "",
+        "address3": "",
+        "city": "Leederville",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6007"
+    },
+    "name": "Pappagallo Pizzeria Cafe",
+    "phone": "+61894440889",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8TIMti23CSJP5XN7iAMhMQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/c8cdlT-KRaf6kPjE5rJhAw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wJnyGeeJU36viljAkAATpA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pappagallo-pizzeria-cafe-leederville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8609"
+}

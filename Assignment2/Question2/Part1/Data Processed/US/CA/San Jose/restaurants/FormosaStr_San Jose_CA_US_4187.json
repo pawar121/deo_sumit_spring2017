@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "taiwanese",
+            "title": "Taiwanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3456227,
+        "longitude": -121.8847222
+    },
+    "id": "formosa-streets-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kZqDkMV8yWIgjNRvXCy32Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Formosa Streets",
+    "phone": "+14083894249",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kZqDkMV8yWIgjNRvXCy32Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/exKsoYbfZMTo1OK0WwB2fQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z3m8od3eXocyqxIKgDM-aw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 45,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/formosa-streets-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4187"
+}

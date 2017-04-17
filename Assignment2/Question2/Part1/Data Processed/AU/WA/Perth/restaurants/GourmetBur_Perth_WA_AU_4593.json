@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9509277,
+        "longitude": 115.853241
+    },
+    "id": "gourmet-burger-shack-perth",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xbcLKbIBdoyKK2IWojEstw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "418 Murray St",
+        "address2": null,
+        "address3": null,
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Gourmet Burger Shack",
+    "phone": "+61893225329",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xbcLKbIBdoyKK2IWojEstw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gqCH3yeNnUPrFmRxqn46RQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MXCGqWurr3pWYNoCtVakVQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gourmet-burger-shack-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4593"
+}

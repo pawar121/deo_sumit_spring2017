@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.34646,
+        "longitude": -71.09947
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "mei-mei-street-kitchen-boston-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MbEEx7IFp-vgwMSeeAyMsQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02215"
+    },
+    "name": "Mei Mei Street Kitchen",
+    "phone": "+18572504959",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MbEEx7IFp-vgwMSeeAyMsQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ndcC-p1CwAoVh-bQ_W6k_w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zM1pR2L674XN_p_2Fl6u8g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 174,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mei-mei-street-kitchen-boston-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7398"
+}

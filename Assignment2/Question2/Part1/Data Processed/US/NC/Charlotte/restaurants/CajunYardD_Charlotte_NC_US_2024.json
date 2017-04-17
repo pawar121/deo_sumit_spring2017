@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.0971237982375,
+        "longitude": -80.7805609703064
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "cajun-yard-dog-arboretum-charlotte",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z_2JoEeRKZA07gCyqyy3hQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8036 Providence Rd",
+        "address2": "Ste 900",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28277"
+    },
+    "name": "Cajun Yard Dog, Arboretum",
+    "phone": "+17047521750",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z_2JoEeRKZA07gCyqyy3hQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/M9NY2t-OQy_b9vmujNuq2w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fG-oDue8_mJlaVwQ3G2t9A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 197,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cajun-yard-dog-arboretum-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2024"
+}

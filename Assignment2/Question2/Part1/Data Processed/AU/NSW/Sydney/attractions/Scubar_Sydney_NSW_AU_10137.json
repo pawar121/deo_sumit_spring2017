@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.88122,
+        "longitude": 151.20556
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "scubar-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jm3BEqbn-sBXrXQiTQgGyw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4 Rawson Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Scubar",
+    "phone": "+61292124244",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jm3BEqbn-sBXrXQiTQgGyw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8O4a3GGfjN0Kd8nKyloAcQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.5,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/scubar-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10137"
+}

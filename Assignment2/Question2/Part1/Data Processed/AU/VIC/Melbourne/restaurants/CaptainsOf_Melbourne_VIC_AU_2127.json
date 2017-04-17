@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "barbers",
+            "title": "Barbers"
+        },
+        {
+            "alias": "shoes",
+            "title": "Shoe Stores"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8139202815874,
+        "longitude": 144.962604045868
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "captains-of-industry-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nu96J9kkwJKAK_td60MAtg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Level 1",
+        "address2": "2 Somerset Pl",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Captains Of Industry",
+    "phone": "+61396704405",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Nu96J9kkwJKAK_td60MAtg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/f-zNvicbmk9EItrOshPhPQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HLJPGVekC6laJOI6gKNuUQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 20,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/captains-of-industry-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2127"
+}

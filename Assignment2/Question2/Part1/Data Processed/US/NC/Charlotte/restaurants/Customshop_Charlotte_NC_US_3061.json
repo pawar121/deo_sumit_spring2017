@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.21393,
+        "longitude": -80.82623
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "customshop-handcrafted-food-charlotte",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AeXzN09dc3mqIbKjTQ0OdA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1601 Elizabeth Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28204"
+    },
+    "name": "Customshop Handcrafted Food",
+    "phone": "+17043333396",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/AeXzN09dc3mqIbKjTQ0OdA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wn4qo5aQtxX4m07EjQDXUw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/d26nKHbImUfFOjt5Xy54Yw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 159,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/customshop-handcrafted-food-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3061"
+}

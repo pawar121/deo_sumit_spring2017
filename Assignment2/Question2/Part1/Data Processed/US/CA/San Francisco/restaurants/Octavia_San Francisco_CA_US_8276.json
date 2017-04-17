@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.78796,
+        "longitude": -122.4272
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "octavia-san-francisco",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gaqcXs9sx_Yhr8i5y8k8sg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1701 Octavia St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94109"
+    },
+    "name": "Octavia",
+    "phone": "+14154087507",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gaqcXs9sx_Yhr8i5y8k8sg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CJYEBXcgrWkoWpL2kvb78g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OAO9WAVnIJDX4SF0gAbvPg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 259,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/octavia-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8276"
+}

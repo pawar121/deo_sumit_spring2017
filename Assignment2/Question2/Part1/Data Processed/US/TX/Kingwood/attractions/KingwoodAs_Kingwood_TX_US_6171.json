@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "alias": "arts",
+            "title": "Arts & Entertainment"
+        }
+    ],
+    "coordinates": {
+        "latitude": 30.0689163798012,
+        "longitude": -95.2235684314418
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "kingwood-asylum-kingwood",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_QiJvHLY14vwbPlK_CAbgA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1963 North Park Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Kingwood",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77339"
+    },
+    "name": "Kingwood Asylum",
+    "phone": "+18326408367",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_QiJvHLY14vwbPlK_CAbgA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_emIDh7BhxIFoGT5FT43ng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dpaRtYhiaeSo6f37Ee5qcQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kingwood-asylum-kingwood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6171"
+}

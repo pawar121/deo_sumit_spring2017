@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "taxis",
+            "title": "Taxis"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2216606,
+        "longitude": 149.0714417
+    },
+    "id": "capital-taxi-service-mckellar",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "75 Dumas St",
+        "address2": null,
+        "address3": null,
+        "city": "Mckellar",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2617"
+    },
+    "name": "Capital Taxi Service",
+    "phone": "+61249426594",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/capital-taxi-service-mckellar?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2108"
+}

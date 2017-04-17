@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5267381,
+        "longitude": -0.0831706
+    },
+    "id": "holiday-inn-express-london-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xYHWImwnr84LxDmQCUR6jA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "275 Old Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC1V 9LN"
+    },
+    "name": "Holiday Inn Express",
+    "phone": "+442073004300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xYHWImwnr84LxDmQCUR6jA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jQ4DcCHZIwSc_bcMh1jYiw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R-93Pbblpnff3RUYNDU_QQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/holiday-inn-express-london-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5175"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.4923735,
+        "longitude": -86.7037161
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "tazikis-mediterranean-cafe-birmingham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JhC6eYJCP3FIJFXs1RT5EQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4520 Overton Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35210"
+    },
+    "name": "Taziki's Mediterranean Cafe",
+    "phone": "+12059561300",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JhC6eYJCP3FIJFXs1RT5EQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mau52A9dwQ-GMIZ_4A0sqQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/e90uCP4uL7lJxsIPy8kS3A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tazikis-mediterranean-cafe-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11300"
+}

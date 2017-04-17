@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6132775,
+        "longitude": -122.3196093
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "moe-bar-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FVwrol5y71GFi21xo8IC6Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1425 10th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Moe Bar",
+    "phone": "+12067099951",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FVwrol5y71GFi21xo8IC6Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jvJLH-PDUi9GOva8WhgwZQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5A4aOCaiUbZjxP7Z1V8_OQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 194,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/moe-bar-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7635"
+}

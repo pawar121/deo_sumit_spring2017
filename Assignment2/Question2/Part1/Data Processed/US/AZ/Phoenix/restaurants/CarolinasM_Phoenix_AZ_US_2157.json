@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.431485,
+        "longitude": -112.0562308
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "carolinas-mexican-food-phoenix",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j0HnNTTv0rQBPdh3jNAXmw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1202 E Mohave St",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85034"
+    },
+    "name": "Carolina's Mexican Food",
+    "phone": "+16022521503",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/j0HnNTTv0rQBPdh3jNAXmw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_HJdu8Z_GzdujBqo6VpREg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/L2HRRKCeyG5zGXb8QeKE3g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 516,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/carolinas-mexican-food-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2157"
+}

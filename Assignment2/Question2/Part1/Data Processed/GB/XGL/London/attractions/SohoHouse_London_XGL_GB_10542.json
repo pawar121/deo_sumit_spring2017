@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.51338198478,
+        "longitude": -0.13044317343838
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "soho-house-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PMoAYlDTwOQB28Dax5u16g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "40 Greek Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1D 4EB"
+    },
+    "name": "Soho House",
+    "phone": "+442077345188",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PMoAYlDTwOQB28Dax5u16g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BTKzelblDzAM3BbwnqU0PQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lW6gwxPp7PqbDmMpP59TLg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 47,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/soho-house-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10542"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "arabian",
+            "title": "Arabian"
+        },
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3943673286071,
+        "longitude": -2.94954951803785
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "middle-eastern-restaurant-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4DIBan18Z-Kx1HJs0CPv1g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "104 Lodge Lane",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L8 0"
+    },
+    "name": "Middle Eastern Restaurant",
+    "phone": "+441517089717",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4DIBan18Z-Kx1HJs0CPv1g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DksyyUUqZJsvEufxklfqsg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tFssTqX01iAgC89wNSC-oA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/middle-eastern-restaurant-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7503"
+}

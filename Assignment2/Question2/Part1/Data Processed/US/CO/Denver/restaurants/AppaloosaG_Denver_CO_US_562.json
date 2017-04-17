@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7444359,
+        "longitude": -104.9909603
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "appaloosa-grill-denver",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C-LGklbPT08SaQenrj2X0w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "535 16th St",
+        "address2": "Ste 110",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80202"
+    },
+    "name": "Appaloosa Grill",
+    "phone": "+17209321700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/C-LGklbPT08SaQenrj2X0w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Si6oLWHymlj2zai3Up2lbQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hIHe9OZ-oY1K25BhDDnmJQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 485,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/appaloosa-grill-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "562"
+}

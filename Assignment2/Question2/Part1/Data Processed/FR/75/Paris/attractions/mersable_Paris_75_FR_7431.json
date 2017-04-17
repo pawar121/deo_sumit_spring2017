@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": null,
+        "longitude": null
+    },
+    "id": "mer-sable-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LXS_nnJ6ya04R1XdTm7UfA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": ""
+    },
+    "name": "mer sable",
+    "phone": "+33142723001",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LXS_nnJ6ya04R1XdTm7UfA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mer-sable-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7431"
+}

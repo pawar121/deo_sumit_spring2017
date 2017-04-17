@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5118104557344,
+        "longitude": -0.0716965164394391
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "grange-tower-bridge-hotel-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QV1zNhn4LPPt1wNyIwVaBQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Prescott Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E1 8GP"
+    },
+    "name": "Grange Tower Bridge Hotel",
+    "phone": "+442079595000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QV1zNhn4LPPt1wNyIwVaBQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AmcaBIA2FDE1qttC2aBbZg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qbGAF3j5AH1UVFZLl2m3Gg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/grange-tower-bridge-hotel-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4649"
+}

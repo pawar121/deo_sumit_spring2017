@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2454109,
+        "longitude": 149.134964
+    },
+    "id": "parkview-bed-and-breakfast-downer",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "526 Northbourne Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Downer",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Parkview Bed & Breakfast",
+    "phone": "+61262480655",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/parkview-bed-and-breakfast-downer?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8683"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8689295,
+        "longitude": -4.2613529
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "chinatown-restaurant-glasgow-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wo890cv_oK6IVuHhTeq8Mg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "42-66 New City Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G4 9JT"
+    },
+    "name": "Chinatown Restaurant Glasgow",
+    "phone": "+441413325867",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wo890cv_oK6IVuHhTeq8Mg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KpwVwheOixNLKRpYVV9gAA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vWd3K3kAOhVYLbXrcPJUDA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chinatown-restaurant-glasgow-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2439"
+}

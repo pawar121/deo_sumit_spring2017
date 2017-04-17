@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.60505,
+        "longitude": -86.64373
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "cajun-steamer-birmingham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JzXe-VY-uSvQHcWGiCfRzA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5071 Pinnacle Sq",
+        "address2": null,
+        "address3": null,
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35235"
+    },
+    "name": "Cajun Steamer",
+    "phone": "+12056556008",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JzXe-VY-uSvQHcWGiCfRzA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aGzKkjVK-oa7q8_RHiqpLA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Uq9KJIJMcBruJnjtY3kSZA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 47,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cajun-steamer-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2023"
+}

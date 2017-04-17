@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8654445903,
+        "longitude": -77.0391317634
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "gravelly-point-park-arlington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b7iGqqi5Px9FQBwA4kcHMA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "George Washington Pkwy",
+        "address2": null,
+        "address3": "",
+        "city": "Arlington",
+        "country": "US",
+        "state": "VA",
+        "zip_code": "22202"
+    },
+    "name": "Gravelly Point Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/b7iGqqi5Px9FQBwA4kcHMA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/k7sNxqMsrKzyEkEzAEAhuw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BJuSI0RjsIAz2IWD2hLoBQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 167,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gravelly-point-park-arlington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4658"
+}

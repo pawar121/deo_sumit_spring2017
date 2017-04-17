@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8931814103866,
+        "longitude": -87.6257629325409
+    },
+    "id": "the-james-chicago-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UDrO_HGPQF0GY8Gs2gz-Pg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "55 E Ontario St",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60611"
+    },
+    "name": "The James Chicago",
+    "phone": "+13123371000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UDrO_HGPQF0GY8Gs2gz-Pg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/otkhs8JfXptBBiMala5xVA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Fvurs85GgkBv1NDNxaE7-w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 365,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-james-chicago-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11671"
+}

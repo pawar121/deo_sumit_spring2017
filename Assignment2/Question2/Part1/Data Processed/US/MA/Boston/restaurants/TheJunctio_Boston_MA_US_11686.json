@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3351,
+        "longitude": -71.04594
+    },
+    "id": "the-junction-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BHBcXb4XcINiJdYzv_z5lQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "110 Dorchester St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02127"
+    },
+    "name": "The Junction",
+    "phone": "+16172686429",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BHBcXb4XcINiJdYzv_z5lQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-y3cHKAXjoGGVISosT_2pw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/h5_-812DZau7iitMLWA4WA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 72,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-junction-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11686"
+}

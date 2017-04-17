@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "dancestudio",
+            "title": "Dance Studios"
+        },
+        {
+            "alias": "pilates",
+            "title": "Pilates"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5243451,
+        "longitude": -0.0790811
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "frame-london-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/98dmFttvPbuevbVFWKxD_Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "29 New Inn Yard",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC2A 3EY"
+    },
+    "name": "Frame",
+    "phone": "+442070331855",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/98dmFttvPbuevbVFWKxD_Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IljY9osO-vHs2ZRW2JWqsQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/aR5P-0Cvbw7bEkK3QF7w9A/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 34,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/frame-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4240"
+}

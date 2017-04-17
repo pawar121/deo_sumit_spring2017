@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7137087074613,
+        "longitude": -104.987795223866
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "denver-biscuit-co-denver-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U44S-Z-b5TktCkfjaK3y3w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "141 S Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80209"
+    },
+    "name": "Denver Biscuit Co.",
+    "phone": "+13033777900",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/U44S-Z-b5TktCkfjaK3y3w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/L4zoDjXHZPMZh7cIPgXM5Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Hl2g84pimZbekOWlwv5Fiw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 309,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/denver-biscuit-co-denver-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3223"
+}

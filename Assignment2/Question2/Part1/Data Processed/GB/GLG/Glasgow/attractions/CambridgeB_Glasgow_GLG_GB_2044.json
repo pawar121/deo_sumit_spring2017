@@ -1,0 +1,28 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": 55.8651251,
+        "longitude": -4.2600614
+    },
+    "id": "cambridge-bar-glasgow",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "18 Cambridge Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G3 6"
+    },
+    "name": "Cambridge Bar",
+    "phone": "+441413536555",
+    "photos": [],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cambridge-bar-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2044"
+}

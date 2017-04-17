@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.95176,
+        "longitude": 115.85254
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-vinyl-perth",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/85l1TRsIF3Lk87tug6Dz6g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "914 Hay St",
+        "address2": null,
+        "address3": null,
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Cafe Vinyl",
+    "phone": "+61892264200",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/85l1TRsIF3Lk87tug6Dz6g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mqYqsDFeVEUZ0VbnZk3Cfg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dXFl8-rQG6O2sa5lify5rQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-vinyl-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1992"
+}

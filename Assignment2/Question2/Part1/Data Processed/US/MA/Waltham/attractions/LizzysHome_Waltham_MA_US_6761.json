@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "icecream",
+            "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3698295,
+        "longitude": -71.2373206
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "lizzys-homemade-ice-cream-waltham",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SookkigSPazHsxJyb1rNbA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "367 Moody St",
+        "address2": null,
+        "address3": "",
+        "city": "Waltham",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02453"
+    },
+    "name": "Lizzy's Homemade Ice Cream",
+    "phone": "+17818936677",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SookkigSPazHsxJyb1rNbA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/stsWEhxomA1XqO3WBAeZSQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zRvXkh846FD-h3Cv8Nbmuw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 176,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lizzys-homemade-ice-cream-waltham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6761"
+}

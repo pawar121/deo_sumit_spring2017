@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cambodian",
+            "title": "Cambodian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.35977,
+        "longitude": -121.89132
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "chez-sovan-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P6LL_x8drtT1MzL-VxGuPA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "923 Oakland Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Chez Sovan",
+    "phone": "+14082877619",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/P6LL_x8drtT1MzL-VxGuPA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xnzfrRz4oLHTQJfU6KMcjg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OMDjIv37XugcSus0mWc75Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 448,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chez-sovan-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2364"
+}

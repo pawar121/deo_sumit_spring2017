@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "golf",
+            "title": "Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.73409,
+        "longitude": -95.30285
+    },
+    "id": "gus-wortham-golf-course-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WrEdVMT5vd-huzyo9Y61Lg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7000 Capitol St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77011"
+    },
+    "name": "Gus Wortham Golf Course",
+    "phone": "+17139211885",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WrEdVMT5vd-huzyo9Y61Lg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vRJ1HO8b4G3b8p0q8GV7vg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5FQCIZOYrh0PDZO6cxOKTQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gus-wortham-golf-course-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4781"
+}

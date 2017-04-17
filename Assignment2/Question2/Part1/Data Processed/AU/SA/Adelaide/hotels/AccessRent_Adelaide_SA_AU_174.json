@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9232101,
+        "longitude": 138.6083221
+    },
+    "id": "access-rent-a-car-adelaide",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pPjN2MfgYL_pHREHCVNt9w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "60 Frome St",
+        "address2": null,
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Access Rent-A-Car",
+    "phone": "+61883593200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pPjN2MfgYL_pHREHCVNt9w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3mVL7nqoYR5zkkOGkzsyog/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4jwV8vQuBAal605QDOMHcA/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/access-rent-a-car-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "174"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7950401,
+        "longitude": -95.360672
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "gorditas-aguascalientes-houston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8pEqBkwqxWLas4SKg0ecSA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3810 Irvington Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77009"
+    },
+    "name": "Gorditas Aguascalientes",
+    "phone": "+17136977888",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8pEqBkwqxWLas4SKg0ecSA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YY2lWRknThBBHhT0PbWB9w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CUjh9hDY4zmYZVVz7fXNVQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 61,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gorditas-aguascalientes-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4579"
+}

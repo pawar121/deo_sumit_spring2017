@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3195496,
+        "longitude": 149.1369934
+    },
+    "id": "ox-eatery-bar-and-deli-east-hotel-griffith",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/06P7fI3HrmtcZxp94EBFrg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "69 Canberra Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Griffith",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Ox Eatery, Bar & Deli @ East Hotel",
+    "phone": "+61261780041",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/06P7fI3HrmtcZxp94EBFrg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ox-eatery-bar-and-deli-east-hotel-griffith?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8492"
+}

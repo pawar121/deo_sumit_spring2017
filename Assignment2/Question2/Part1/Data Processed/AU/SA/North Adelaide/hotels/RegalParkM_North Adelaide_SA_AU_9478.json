@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9032593,
+        "longitude": 138.5910492
+    },
+    "id": "regal-park-motor-inn-north-adelaide",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s6o4wJSh-kDrk8rhgRDtQA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "44 Barton Tce East East",
+        "address2": null,
+        "address3": null,
+        "city": "North Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5006"
+    },
+    "name": "Regal Park Motor Inn",
+    "phone": "+61882673222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/s6o4wJSh-kDrk8rhgRDtQA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vFPClYic-e8WfaV-CsFYrQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/txmGdMrk7DJNsshvHhYVEQ/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/regal-park-motor-inn-north-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9478"
+}

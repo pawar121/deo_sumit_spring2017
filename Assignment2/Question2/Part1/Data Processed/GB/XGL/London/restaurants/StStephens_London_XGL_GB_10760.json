@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5011023479342,
+        "longitude": -0.125518888411698
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "st-stephens-tavern-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/As_MSlDeRV9EPN3Tm0yuSA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Bridge Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW1A 2JR"
+    },
+    "name": "St Stephen's Tavern",
+    "phone": "+442079252286",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/As_MSlDeRV9EPN3Tm0yuSA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cQnut7l6cXKQ5Y0z56fjLA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xid6KFy_ai9h2C5Aefa0Qg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 60,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/st-stephens-tavern-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10760"
+}

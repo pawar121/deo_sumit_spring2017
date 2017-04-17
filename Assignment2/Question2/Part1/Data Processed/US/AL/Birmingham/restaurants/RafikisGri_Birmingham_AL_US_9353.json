@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "african",
+            "title": "African"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.47187,
+        "longitude": -86.82074
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "rafikis-grill-birmingham",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6WjzLjEXfICFCHSeH-WEvA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "367 Valley Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35209"
+    },
+    "name": "Rafiki's Grill",
+    "phone": "+12059420700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6WjzLjEXfICFCHSeH-WEvA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Jaeme4WVZiXCl030Udlm6A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5pCXnqfb0G6p_xsrudZ5Wg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 51,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rafikis-grill-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9353"
+}

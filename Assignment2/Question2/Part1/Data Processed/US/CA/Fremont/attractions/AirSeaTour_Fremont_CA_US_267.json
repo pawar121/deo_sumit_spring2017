@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        },
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.4923149,
+        "longitude": -121.9307875
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "air-and-sea-tours-inc-fremont",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WxlZ7MMBgjciq_OonRPUpQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "46283 Warm Springs Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Fremont",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94539"
+    },
+    "name": "Air & Sea Tours Inc",
+    "phone": "+15102266662",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WxlZ7MMBgjciq_OonRPUpQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JraIU_gXaB_qieHcez7jmQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VmV3dduy8cA7Pn0fOLqk9A/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/air-and-sea-tours-inc-fremont?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "267"
+}

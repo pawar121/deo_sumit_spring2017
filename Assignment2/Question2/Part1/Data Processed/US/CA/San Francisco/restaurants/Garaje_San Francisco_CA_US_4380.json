@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.781752952057,
+        "longitude": -122.396121970462
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "garaje-san-francisco",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_nN_DhLXkfwEkwPNxne9hw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "475 3rd St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94107"
+    },
+    "name": "Garaje",
+    "phone": "+14156440838",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_nN_DhLXkfwEkwPNxne9hw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gPWC1obWbykcaucc24d-xw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mpyJcdnWgXbBJC-Gr1XA8w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 1073,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/garaje-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4380"
+}

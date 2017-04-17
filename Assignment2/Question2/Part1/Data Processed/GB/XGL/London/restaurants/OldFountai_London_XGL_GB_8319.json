@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5270346,
+        "longitude": -0.089203
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "old-fountain-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LL7b_ceYWK4HPZCuaRlBsQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Baldwin Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC1V 9NU"
+    },
+    "name": "Old Fountain",
+    "phone": "+442072532970",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LL7b_ceYWK4HPZCuaRlBsQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4VbmEECUtmq5Gj-PYp8O9w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/3O3YScBubhtBKOVpze4uDQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 35,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/old-fountain-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8319"
+}

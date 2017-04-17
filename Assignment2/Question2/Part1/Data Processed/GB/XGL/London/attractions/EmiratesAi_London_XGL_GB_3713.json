@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.499783261712,
+        "longitude": 0.00820117802565079
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "emirates-air-line-london-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zr263Ingw7uiwnivbFGU1Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Greenwich Peninsula",
+        "address2": "Unit 1 Emirates Cable Car Terminal",
+        "address3": "Edmund Halley Way",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE10 0FR"
+    },
+    "name": "Emirates Air Line",
+    "phone": "+44443432221234",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zr263Ingw7uiwnivbFGU1Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fJLyVsKdVCSscR3B6vQs4Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1w1Fr8GKFFYrlI8NaiiEFw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/emirates-air-line-london-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3713"
+}

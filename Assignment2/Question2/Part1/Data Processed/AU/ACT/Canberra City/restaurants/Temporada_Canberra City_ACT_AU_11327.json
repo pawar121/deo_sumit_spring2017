@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2758772764875,
+        "longitude": 149.128176470274
+    },
+    "id": "temporada-canberra-city",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s1O0oVjwbqkueVE4TrnSYQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Moore St",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra City",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Temporada",
+    "phone": "+61262496683",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s1O0oVjwbqkueVE4TrnSYQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wTL6wY8_tvVrH0Pfk4AQsQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gDBB5Cn6gtNHyYLhxMgHDQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/temporada-canberra-city?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11327"
+}

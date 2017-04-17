@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5264003,
+        "longitude": -0.0998288
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "kennedys-of-goswell-road-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/n9FDfeNkFZzTBRYQlIQi4g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "184-186 Goswell Road",
+        "address2": "The City",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC1V 7DT"
+    },
+    "name": "Kennedy's Of Goswell Road",
+    "phone": "+442072510057",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/n9FDfeNkFZzTBRYQlIQi4g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/09IaVWOkeeZ6Epu9cWX3Xw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fyvXUUaqMJ2xwb5jNKaP_A/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 24,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kennedys-of-goswell-road-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6080"
+}

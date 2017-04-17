@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8170944102506,
+        "longitude": 144.963701118729
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "robot-melbourne",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k7Wg1-IQXUDRI5pgFpTvCg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 Bligh Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Robot",
+    "phone": "+61396203646",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/k7Wg1-IQXUDRI5pgFpTvCg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DTTIzf6r9yef9KFeO74FuA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OCI7dUPJQtMUUyL8mF2_PA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 14,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/robot-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9665"
+}

@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8497352,
+        "longitude": -4.2731268
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "scotland-street-school-museums-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4DYX2z5OKs9gKuwVwmF-kw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "225 Scotland Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G5 8QB"
+    },
+    "name": "Scotland Street School Museums",
+    "phone": "+441412870513",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4DYX2z5OKs9gKuwVwmF-kw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VGxsBmOF8wBvtUn1T_ttuw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Atrkw2C1iObdNnQVLUDdww/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/scotland-street-school-museums-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10123"
+}

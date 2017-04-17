@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "beergardens",
+            "title": "Beer Gardens"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1688018067162,
+        "longitude": -115.139880088836
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "le-thai-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZzFcqxklGCNa5NCK-L7Apw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "523 Fremont St",
+        "address2": null,
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "Le Thai",
+    "phone": "+17027780888",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZzFcqxklGCNa5NCK-L7Apw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/k7x_mehqSQ4gSFD6T8D6eQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rzHpaKVkLTiWGl-uLNX2xw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1105,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/le-thai-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6583"
+}

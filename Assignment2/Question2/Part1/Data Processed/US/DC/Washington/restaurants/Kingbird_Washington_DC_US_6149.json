@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.89933,
+        "longitude": -77.05582
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0630"
+                }
+            ]
+        }
+    ],
+    "id": "kingbird-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uCEphPC4SZGdRlgdbn9kog/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2650 Virginia Ave NW",
+        "address2": "",
+        "address3": "Watergate Hotel",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20037"
+    },
+    "name": "Kingbird",
+    "phone": "+12028384471",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uCEphPC4SZGdRlgdbn9kog/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7q5lQJ_mI53NcRZhRNwBEg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yK93ft4Y5zujEGgcPBdlzQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kingbird-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6149"
+}

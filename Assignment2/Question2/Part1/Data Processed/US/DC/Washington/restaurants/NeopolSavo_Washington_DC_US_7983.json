@@ -1,0 +1,78 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.908389,
+        "longitude": -76.9971718839226
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "neopol-savory-smokery-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2JnITMtXwbtKUvIXCAMnag/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1309 5th St NE",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20002"
+    },
+    "name": "Neopol Savory Smokery",
+    "phone": "+12025431864",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2JnITMtXwbtKUvIXCAMnag/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/8EtPpmbuKzRqGUFsZEcuLA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kLLZUJU3DU4Jk1loYyFIUQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 128,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/neopol-savory-smokery-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7983"
+}

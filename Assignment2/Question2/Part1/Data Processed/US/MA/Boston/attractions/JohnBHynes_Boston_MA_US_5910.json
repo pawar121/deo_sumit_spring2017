@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3480988,
+        "longitude": -71.0842438
+    },
+    "id": "john-b-hynes-veterans-memorial-convention-center-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rQxH9on0_4XLi5AIshp8SQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "900 Boylston St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02115"
+    },
+    "name": "John B. Hynes Veterans Memorial Convention Center",
+    "phone": "+16179542000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rQxH9on0_4XLi5AIshp8SQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NH_haVQEUX_6KoYw8GWeog/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pxCCWlDN7xCE3Jr80darFw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 32,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/john-b-hynes-veterans-memorial-convention-center-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5910"
+}

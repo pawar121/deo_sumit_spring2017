@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5167303887313,
+        "longitude": -0.130108040716306
+    },
+    "id": "dominion-theatre-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iO7FsTi2vp9zdZy8pluNQg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "268-269 Tottenham Court Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1T 7AQ"
+    },
+    "name": "Dominion Theatre",
+    "phone": "+448448471775",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iO7FsTi2vp9zdZy8pluNQg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZD5uw4PtIbedsVjHtd9e3A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XPXZib1hqJwSAxfSXzItLg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.5,
+    "review_count": 19,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dominion-theatre-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3363"
+}

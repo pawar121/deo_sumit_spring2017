@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8686485,
+        "longitude": 151.2119598
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "hole-in-the-wall-sandwich-factory-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pWZK3HkVgynpwwf_O7CRLw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "229 Macquarie St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Hole In The Wall: Sandwich Factory",
+    "phone": "+61292221755",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pWZK3HkVgynpwwf_O7CRLw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wdWdGtsfrLoyqF87kl0ygg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/P-1px054XQIMstf1i-gdHQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hole-in-the-wall-sandwich-factory-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5162"
+}

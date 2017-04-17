@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "social_clubs",
+            "title": "Social Clubs"
+        },
+        {
+            "alias": "eventplanning",
+            "title": "Party & Event Planning"
+        },
+        {
+            "alias": "scavengerhunts",
+            "title": "Scavenger Hunts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.92171,
+        "longitude": -87.65554
+    },
+    "id": "lincoln-park-young-professionals-chicago-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vU-90tQJbSqW5XmovpYrhw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60614"
+    },
+    "name": "Lincoln Park Young Professionals",
+    "phone": "+13126425097",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vU-90tQJbSqW5XmovpYrhw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OSsu8BbW0o1U1onp5pwW6Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dvrQPcdoJlZiTnh1LvXszw/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lincoln-park-young-professionals-chicago-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6692"
+}

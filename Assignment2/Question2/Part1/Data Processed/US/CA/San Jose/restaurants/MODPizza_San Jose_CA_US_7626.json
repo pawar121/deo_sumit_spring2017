@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3506208773345,
+        "longitude": -121.922138594091
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "mod-pizza-san-jose-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fFKg5JACfe8NidrJhCWzWg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "530 Newhall Dr",
+        "address2": null,
+        "address3": null,
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95110"
+    },
+    "name": "MOD Pizza",
+    "phone": "+14084181123",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fFKg5JACfe8NidrJhCWzWg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ic6zh3PDtyxkT9bp3UPWKA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OHRU3ErQVMjOEE2bhmd2vA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 296,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mod-pizza-san-jose-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7626"
+}

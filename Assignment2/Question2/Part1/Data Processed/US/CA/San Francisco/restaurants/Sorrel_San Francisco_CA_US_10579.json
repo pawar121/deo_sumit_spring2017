@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.75779,
+        "longitude": -122.4209
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "2030"
+                }
+            ]
+        }
+    ],
+    "id": "sorrel-san-francisco-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Egg8txcSsrz-Rlq1h3kYCw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "945 Valencia St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94107"
+    },
+    "name": "Sorrel",
+    "phone": "+13039312870",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Egg8txcSsrz-Rlq1h3kYCw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KFwuqHsjRA0yZFF6mUpjzw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/HJrrqy_PUKBodE--6XAcPQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 5.0,
+    "review_count": 29,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sorrel-san-francisco-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10579"
+}

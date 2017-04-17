@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.89972,
+        "longitude": -87.67442
+    },
+    "id": "shit-fountain-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lRhDntEDONypDuLi66rMww/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1001 N Wolcott Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60622"
+    },
+    "name": "Shit Fountain",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lRhDntEDONypDuLi66rMww/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tMM94n-JRYXZOhpkRkZ4Cw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NNp2Nqkkste21MIlz0zMyg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 30,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/shit-fountain-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10333"
+}

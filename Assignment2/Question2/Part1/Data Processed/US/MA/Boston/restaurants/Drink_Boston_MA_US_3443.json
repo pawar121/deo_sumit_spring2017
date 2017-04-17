@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35067,
+        "longitude": -71.04846
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "drink-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j32zPQjRn2AsdGGMoyv04A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "348 Congress St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02228"
+    },
+    "name": "Drink",
+    "phone": "+16176951806",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/j32zPQjRn2AsdGGMoyv04A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o7mOHAtxK3EwZeZdoeD4HQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_BFw0O0Dsj5rRVm2B0RDqg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 1295,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/drink-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3443"
+}

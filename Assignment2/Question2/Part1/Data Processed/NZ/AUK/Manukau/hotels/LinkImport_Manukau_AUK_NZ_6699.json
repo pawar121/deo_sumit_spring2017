@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9889297,
+        "longitude": 174.8762817
+    },
+    "id": "link-2-imports-nz-manukau",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Link 2 Imports NZ Ltd",
+        "address2": null,
+        "address3": null,
+        "city": "Manukau",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "2140"
+    },
+    "name": "Link 2 Imports NZ",
+    "phone": "+6495771929",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/link-2-imports-nz-manukau?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6699"
+}

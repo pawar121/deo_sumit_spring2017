@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.329338,
+        "longitude": -121.859497
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "crawdaddy-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rqgjv5qdLPpKLYAQjxIRBA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "779 Story Rd",
+        "address2": "Ste 10",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95122"
+    },
+    "name": "Crawdaddy",
+    "phone": "+14082862729",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rqgjv5qdLPpKLYAQjxIRBA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8bfKcdWgj_Eup8tF20K54A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6zeRjSlvjgodej2HMicPrw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1606,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crawdaddy-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2943"
+}

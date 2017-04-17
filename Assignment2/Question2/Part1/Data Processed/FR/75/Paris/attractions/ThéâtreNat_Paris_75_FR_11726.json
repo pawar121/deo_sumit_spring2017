@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86455,
+        "longitude": 2.39765
+    },
+    "id": "théâtre-national-de-la-colline-paris-5",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CTUyot87RK_JnAj3LYulQQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Rue Malte Brun",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75020"
+    },
+    "name": "Théâtre National de la Colline",
+    "phone": "+33144625200",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CTUyot87RK_JnAj3LYulQQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FM-amAz7SPY3VXIdm55rUw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/th%C3%A9%C3%A2tre-national-de-la-colline-paris-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11726"
+}

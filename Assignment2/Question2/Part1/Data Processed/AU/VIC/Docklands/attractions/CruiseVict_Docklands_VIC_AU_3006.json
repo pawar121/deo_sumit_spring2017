@@ -1,0 +1,53 @@
+{
+    "categories": [
+        {
+            "alias": "boatcharters",
+            "title": "Boat Charters"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8187218,
+        "longitude": 144.943924
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "cruise-victoria-pty-ltd-docklands",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Dock 6, Victoria Harbour",
+        "address2": null,
+        "address3": null,
+        "city": "Docklands",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3008"
+    },
+    "name": "Cruise Victoria Pty Ltd",
+    "phone": "+61418128802",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cruise-victoria-pty-ltd-docklands?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3006"
+}

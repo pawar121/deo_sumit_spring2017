@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86276,
+        "longitude": 2.36759
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "hôtel-beaumarchais-paris-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X3cVLCGnhniCttO_8nqT0w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Rue Oberkampf",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75011"
+    },
+    "name": "Hôtel Beaumarchais",
+    "phone": "+33143382348",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/X3cVLCGnhniCttO_8nqT0w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/G2if7JogXtPloMyxmBkTLw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/V5pzSWx8gTUuaTbp9zq3vg/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-beaumarchais-paris-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5499"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8137243965304,
+        "longitude": 144.961298349579
+    },
+    "id": "bon-a-manger-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kdJOxO4E0xmsddet8QvIkw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "387 Little Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Bon a Manger",
+    "phone": "+61396400652",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kdJOxO4E0xmsddet8QvIkw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Hs87-ef8T6xm-2nSi9jXjA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-kZVy9tYD55LdHNicGlusA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bon-a-manger-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1528"
+}

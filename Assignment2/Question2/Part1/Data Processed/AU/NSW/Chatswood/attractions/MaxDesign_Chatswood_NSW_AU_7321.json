@@ -1,0 +1,30 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -33.7973785,
+        "longitude": 151.1631165
+    },
+    "id": "max-design-chatswood",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VfTi_5J4VxEKY-cp61N52g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "19 Hawthorne Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Chatswood",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2067"
+    },
+    "name": "Max Design",
+    "phone": "+61294102521",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VfTi_5J4VxEKY-cp61N52g/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/max-design-chatswood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7321"
+}

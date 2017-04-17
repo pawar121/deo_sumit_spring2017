@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.22816,
+        "longitude": 149.08977
+    },
+    "id": "mtns-to-coast-motorcycle-tours-and-rentals-australia-kaleen",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "Kaleen",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2617"
+    },
+    "name": "Mtns To Coast Motorcycle Tours & Rentals Australia",
+    "phone": "",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/mtns-to-coast-motorcycle-tours-and-rentals-australia-kaleen?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7789"
+}

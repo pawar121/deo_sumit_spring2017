@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.3785493093332,
+        "longitude": -112.066697809262
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "hong-kong-kitchen-3-phoenix",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oICa8pogaBlUNDHAlmyVsA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "510 E Baseline Rd",
+        "address2": "D3",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85042"
+    },
+    "name": "Hong Kong Kitchen 3",
+    "phone": "+16022685868",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oICa8pogaBlUNDHAlmyVsA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/r9P0xyyP0jCIDQTnaHVPPw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/flm6bWilz-d8iFhsD0E_ug/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 53,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hong-kong-kitchen-3-phoenix?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5263"
+}

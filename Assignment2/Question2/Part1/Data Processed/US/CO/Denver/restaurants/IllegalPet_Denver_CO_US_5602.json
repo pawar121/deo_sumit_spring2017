@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.7118378,
+        "longitude": -104.987442
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0230",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0230",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0230",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "illegal-petes-denver-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5zgqLfovInnHFt_T9gCQJA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "270 S Broadway",
+        "address2": null,
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80209"
+    },
+    "name": "Illegal Pete's",
+    "phone": "+17202875233",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5zgqLfovInnHFt_T9gCQJA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VB-Lt-0L2_V9gWKyYmZmkw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0_ekudFVIP436z09xQejDA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 192,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/illegal-petes-denver-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5602"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "specialtyschools",
+            "title": "Specialty Schools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.1003065,
+        "longitude": -118.291788
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "improv-la-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/utqTqlbGizcFCltUP-2wzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1607 N Vermont Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90038"
+    },
+    "name": "Improv LA",
+    "phone": "+13234724065",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/utqTqlbGizcFCltUP-2wzQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ted5IYAjF_cw0as0_VyyyQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IBln6yXHFQYGSWln3xK64g/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 106,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/improv-la-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5616"
+}

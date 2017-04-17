@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "recreation",
+            "title": "Recreation Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4146411267425,
+        "longitude": -83.0634239693115
+    },
+    "id": "ride-it-sculpture-park-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UA2JY6F8PhVz9MX0xzmtDg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48212"
+    },
+    "name": "Ride It Sculpture Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/UA2JY6F8PhVz9MX0xzmtDg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xuzBM5zDbT15bGToY-6sCw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/svMOY_QbZpIVdCjl2j-ntA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ride-it-sculpture-park-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9595"
+}

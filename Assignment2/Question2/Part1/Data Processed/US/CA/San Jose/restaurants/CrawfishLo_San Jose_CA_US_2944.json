@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2940545,
+        "longitude": -121.8335123
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "crawfish-lovers-san-jose-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/piYWCIXgv4U2XISzXpDOVg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3126 Senter Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95111"
+    },
+    "name": "Crawfish Lovers",
+    "phone": "+14086668492",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/piYWCIXgv4U2XISzXpDOVg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7pVi1w93rXo42W8OlgpeqQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wjD-oVU3WHCObDAGEn50Ig/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 123,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crawfish-lovers-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2944"
+}

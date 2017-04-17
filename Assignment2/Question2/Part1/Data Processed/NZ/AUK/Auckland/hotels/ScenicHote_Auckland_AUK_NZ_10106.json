@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8534305,
+        "longitude": 174.7637112
+    },
+    "id": "scenic-hotel-auckland-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nOqojvfAny3-_Gv8z8X8xA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "380 Queen St",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Scenic Hotel",
+    "phone": "+6493741741",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nOqojvfAny3-_Gv8z8X8xA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/scenic-hotel-auckland-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10106"
+}

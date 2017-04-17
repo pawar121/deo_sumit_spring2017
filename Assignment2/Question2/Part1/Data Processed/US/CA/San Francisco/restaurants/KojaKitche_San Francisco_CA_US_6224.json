@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7828615,
+        "longitude": -122.4631065
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "koja-kitchen-san-francisco-7",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VXWBx_QVZKL-uqUIe2H95g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "343 Clement St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94118"
+    },
+    "name": "Koja Kitchen",
+    "phone": "+14154635085",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VXWBx_QVZKL-uqUIe2H95g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/X9Z-FBPafmGxaUx6ZS0wTg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/F7MrGCWiJSeQHQJLR9hsvA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 300,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/koja-kitchen-san-francisco-7?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6224"
+}

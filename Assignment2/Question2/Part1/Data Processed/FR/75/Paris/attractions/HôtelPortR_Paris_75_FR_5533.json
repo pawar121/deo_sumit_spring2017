@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.83693,
+        "longitude": 2.35027
+    },
+    "id": "hôtel-port-royal-paris-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lnl8xGklzQ4HyY0DSV3ldQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8 Boulevard Port Royal",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75005"
+    },
+    "name": "Hôtel Port Royal",
+    "phone": "+33143317006",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lnl8xGklzQ4HyY0DSV3ldQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CAfl26-oIfvV5IbanKS-LA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4sLN5xvZ7P3HcweEv2Q18A/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-port-royal-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5533"
+}

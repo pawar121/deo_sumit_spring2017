@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3504219,
+        "longitude": -71.0673895
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "revere-hotel-boston-common-boston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xsONcrZZDcPRwt0dqgbyfQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "200 Stuart St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Revere Hotel Boston Common",
+    "phone": "+16174821800",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xsONcrZZDcPRwt0dqgbyfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hMBEGrXlcSQ-GIbq4uWE6Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4xzgiiLxfz-unnH0FeZz-A/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 257,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/revere-hotel-boston-common-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9556"
+}

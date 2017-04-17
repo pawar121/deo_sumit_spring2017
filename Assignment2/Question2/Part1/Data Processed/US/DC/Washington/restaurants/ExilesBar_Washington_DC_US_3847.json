@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9168748758064,
+        "longitude": -77.0372530395906
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "exiles-bar-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AMwXIF72Hc9DcS01T98xtA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1610 U St NW",
+        "address2": "",
+        "address3": null,
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20009"
+    },
+    "name": "Exiles Bar",
+    "phone": "+12022322171",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/AMwXIF72Hc9DcS01T98xtA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ex9URgD5gcToN_tYYjPhnQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ifIlZ4X3lBy-gMsUfkrgZA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 30,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/exiles-bar-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3847"
+}

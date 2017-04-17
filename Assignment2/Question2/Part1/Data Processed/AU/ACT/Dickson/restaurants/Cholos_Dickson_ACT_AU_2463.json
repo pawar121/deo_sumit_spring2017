@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.251709,
+        "longitude": 149.1354675
+    },
+    "id": "cholos-dickson",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7Ni-oXnlvYoFWnBonRSKFA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 68",
+        "address2": "12 Challis St",
+        "address3": "",
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Cholo's",
+    "phone": "+61262488648",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7Ni-oXnlvYoFWnBonRSKFA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cholos-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2463"
+}

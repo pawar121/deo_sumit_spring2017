@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.897127,
+        "longitude": -87.6373475
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "kurt-rawlins-fitness-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bGUjkt-BlwVQ8R7VOWyENQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "820 N Orleans",
+        "address2": "Ste 100",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60610"
+    },
+    "name": "Kurt Rawlins Fitness",
+    "phone": "+13098303489",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bGUjkt-BlwVQ8R7VOWyENQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FCDt-5ZJg_5UUWSJf6aFyg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Osx0tUKs_EPb6h4NrPAyUg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kurt-rawlins-fitness-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6278"
+}

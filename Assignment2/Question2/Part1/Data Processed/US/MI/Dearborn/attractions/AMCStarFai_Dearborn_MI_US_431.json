@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.30975,
+        "longitude": -83.22264
+    },
+    "id": "amc-star-fairlane-21-dearborn",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ukrqOz8yHs4GJmDJPD3vGw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "18900 Michigan Avenue",
+        "address2": "",
+        "address3": "",
+        "city": "Dearborn",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48126"
+    },
+    "name": "AMC Star Fairlane 21",
+    "phone": "+13139820015",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ukrqOz8yHs4GJmDJPD3vGw/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 55,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amc-star-fairlane-21-dearborn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "431"
+}

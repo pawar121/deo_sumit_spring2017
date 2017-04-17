@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.862007,
+        "longitude": 144.974127
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "prince-of-wales-bandroom-st-kilda-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0TPLbeNUgosySuT_PuQVuA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "29 Fitzroy St",
+        "address2": null,
+        "address3": null,
+        "city": "St Kilda",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3182"
+    },
+    "name": "Prince Of Wales Bandroom",
+    "phone": "+61395361168",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0TPLbeNUgosySuT_PuQVuA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Jo44U7Gz4pYqSPjp1nV0yA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z0r_vFstpF4Hgxvd1r_X3A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/prince-of-wales-bandroom-st-kilda-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9189"
+}

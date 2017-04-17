@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.76932,
+        "longitude": -105.04153
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "revelry-kitchen-denver",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f97yR6YDzY212F7ESBvMvA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4140 W 38th Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80212"
+    },
+    "name": "Revelry Kitchen",
+    "phone": "+13034553132",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/f97yR6YDzY212F7ESBvMvA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qbfwjyTGJ6X_cc40WgJ1AA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/StVbdH0vAUbRwnOc8LtVGQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 113,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/revelry-kitchen-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9552"
+}

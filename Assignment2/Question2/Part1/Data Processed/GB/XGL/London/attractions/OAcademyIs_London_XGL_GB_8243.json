@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5349177,
+        "longitude": -0.105903
+    },
+    "id": "o2-academy-islington-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9oKQagV1sgbe99RfmvVJgA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "16 Parkfield St",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "N1 0PS"
+    },
+    "name": "O2 Academy Islington",
+    "phone": "+44442072884400",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9oKQagV1sgbe99RfmvVJgA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-umN7xLWsFy-5CgWkJ4eHQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0E2-gKwdTIwiY4v-0GyVJg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 33,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/o2-academy-islington-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8243"
+}

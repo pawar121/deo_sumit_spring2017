@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5058546659985,
+        "longitude": -112.074009924076
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "fàme-caffe-phoenix-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qe3IszslCVowtGK3O8oljA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4700 N Central Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85012"
+    },
+    "name": "Fàme Caffe",
+    "phone": "+16023144660",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/qe3IszslCVowtGK3O8oljA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MLZwKBFgSI0ZPBI3exyduA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/L-xgxS3TKCVDVmsRwAIiaQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 216,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/f%C3%A0me-caffe-phoenix-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4344"
+}

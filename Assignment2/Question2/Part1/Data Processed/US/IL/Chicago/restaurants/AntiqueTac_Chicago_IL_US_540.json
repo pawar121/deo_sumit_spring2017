@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8309553725385,
+        "longitude": -87.6510953530669
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "antique-taco-chicago-7",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/of_nJicABcxbmKwjRocwmQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1000 W 35th St",
+        "address2": "",
+        "address3": null,
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60609"
+    },
+    "name": "Antique Taco",
+    "phone": "+17738239410",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/of_nJicABcxbmKwjRocwmQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/A0mGN3c7ow5LiUciou59fQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/z8OukT6YMW-YfT-hqH0SyQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 65,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/antique-taco-chicago-7?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "540"
+}

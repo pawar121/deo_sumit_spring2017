@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 30.008126,
+        "longitude": -95.269135
+    },
+    "id": "amc-deerbrook-24-humble",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/28KlJkV-dHWZDRuhxZo-2A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "20131 Highway 59 North",
+        "address2": "",
+        "address3": "",
+        "city": "Humble",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77338"
+    },
+    "name": "AMC Deerbrook 24",
+    "phone": "+12815408736",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/28KlJkV-dHWZDRuhxZo-2A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/v2U7J2MvBZOAeVRR_6n20w/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 67,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/amc-deerbrook-24-humble?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "418"
+}

@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2448997,
+        "longitude": 149.1244965
+    },
+    "id": "morshead-home-aged-care-accommodation-lyneham",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "26 Archibald St",
+        "address2": null,
+        "address3": null,
+        "city": "Lyneham",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Morshead Home Aged Care Accommodation",
+    "phone": "+61262639500",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/morshead-home-aged-care-accommodation-lyneham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7705"
+}

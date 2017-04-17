@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8685265,
+        "longitude": 144.9811249
+    },
+    "id": "barkly-apartments-st-kilda",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B7zE_aAczh3vMBwr0jj9fQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "180 Barkly St",
+        "address2": null,
+        "address3": null,
+        "city": "St Kilda",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3182"
+    },
+    "name": "Barkly Apartments",
+    "phone": "+61395255000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/B7zE_aAczh3vMBwr0jj9fQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/barkly-apartments-st-kilda?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "991"
+}

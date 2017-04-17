@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "dominican",
+            "title": "Dominican"
+        },
+        {
+            "alias": "puertorican",
+            "title": "Puerto Rican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3107,
+        "longitude": -83.12834
+    },
+    "id": "el-caribeño-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YuKQbCB8rKkgtUhPZge64g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8065 Vernor Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48209"
+    },
+    "name": "El Caribeño",
+    "phone": "+13137286764",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YuKQbCB8rKkgtUhPZge64g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ba9oYU9mhmKo1CDe_txpNw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/fncLjHxdy2elKqm5eVTwMQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-caribe%C3%B1o-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3607"
+}

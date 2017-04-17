@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3220302,
+        "longitude": -83.0911338
+    },
+    "id": "taquería-chilango-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wMICOhqAJe6ySHOadabvZA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3923 W Vernor Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48216"
+    },
+    "name": "Taquería Chilango",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wMICOhqAJe6ySHOadabvZA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/taquer%C3%ADa-chilango-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11234"
+}

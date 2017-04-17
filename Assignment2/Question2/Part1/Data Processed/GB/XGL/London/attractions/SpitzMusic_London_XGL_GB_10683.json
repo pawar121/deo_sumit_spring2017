@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5196798,
+        "longitude": -0.0746254
+    },
+    "id": "spitz-music-venue-london",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "109 Commercial Street",
+        "address2": "Shoreditch",
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E1 6BG"
+    },
+    "name": "Spitz Music Venue",
+    "phone": "+442073929032",
+    "photos": [],
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/spitz-music-venue-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10683"
+}

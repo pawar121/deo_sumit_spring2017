@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4763529,
+        "longitude": -2.2385309
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0230",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "new-union-hotel-manchester",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/48QuBRuArf5dEvJ6KzAIlg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "111 Princess St",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M1 6JB"
+    },
+    "name": "New Union Hotel",
+    "phone": "+441612281492",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/48QuBRuArf5dEvJ6KzAIlg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/v5kNzcMh7nwwcKY1esA40g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/O99L4e0MSYluk5ayPZDYLw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-union-hotel-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8024"
+}

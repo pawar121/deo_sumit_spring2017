@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74525,
+        "longitude": -95.3596
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "kim-son-houston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nJxIOeoDMmEhU8eOnwVtsQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2001 Jefferson St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77003"
+    },
+    "name": "Kim Son",
+    "phone": "+17132222461",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nJxIOeoDMmEhU8eOnwVtsQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/AHo0kkJcWmxhbTd2S96qdg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/6lzD9Nw-Ge1Fg8C7rjWy0A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 267,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kim-son-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6117"
+}

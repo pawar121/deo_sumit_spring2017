@@ -1,0 +1,50 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.48288,
+        "longitude": -2.23152
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "museum-of-the-greater-manchester-police-manchester",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wrhbL43Yw-q_soDWIC6rbA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Newton Street",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M1 1LN"
+    },
+    "name": "Museum Of The Greater Manchester Police",
+    "phone": "+441618563287",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wrhbL43Yw-q_soDWIC6rbA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/n0YvQnkd0OWtIYY-EJd2iQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/museum-of-the-greater-manchester-police-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7831"
+}

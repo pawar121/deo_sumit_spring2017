@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3807625489619,
+        "longitude": -1.4724243219635
+    },
+    "id": "sheffield-city-hall-sheffield-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tuk_jdd-23HenapFRY2dSg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Barkers Pool",
+        "address2": null,
+        "address3": null,
+        "city": "Sheffield",
+        "country": "GB",
+        "state": "SHF",
+        "zip_code": "S1 2HB"
+    },
+    "name": "Sheffield City Hall",
+    "phone": "+4411422337401",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tuk_jdd-23HenapFRY2dSg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KYSYI1uGkIKPRyZhd9ff_A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Sz9COawHFZvxyz8Z2oOgDw/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.5,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sheffield-city-hall-sheffield-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10295"
+}

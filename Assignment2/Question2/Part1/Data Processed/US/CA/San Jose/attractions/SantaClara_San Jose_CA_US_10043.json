@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.4016332,
+        "longitude": -121.9395724
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "santa-clara-valley-transportation-authority-vta-san-jose",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wcNcSVvs8sJe7nuBaLxH1w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3331 N 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95134"
+    },
+    "name": "Santa Clara Valley Transportation Authority - VTA",
+    "phone": "+14083212300",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wcNcSVvs8sJe7nuBaLxH1w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FgSgTsRqzaOQ-ArB25qK-A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lQ6Yp0tCXsYkmV5Djww_qQ/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 135,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/santa-clara-valley-transportation-authority-vta-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10043"
+}

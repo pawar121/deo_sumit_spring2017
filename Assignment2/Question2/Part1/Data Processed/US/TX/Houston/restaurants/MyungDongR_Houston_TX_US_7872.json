@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6934204,
+        "longitude": -95.4953613
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "myung-dong-restaurant-houston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OF95AW4aJXsp6n3lQx7VTw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6415 Bissonnet St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77074"
+    },
+    "name": "Myung Dong Restaurant",
+    "phone": "+17137795530",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OF95AW4aJXsp6n3lQx7VTw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cOAgODUB86I1_GNsd2Ja-g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bIbc97JMWrk7yKXjfL2J8w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 268,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/myung-dong-restaurant-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7872"
+}

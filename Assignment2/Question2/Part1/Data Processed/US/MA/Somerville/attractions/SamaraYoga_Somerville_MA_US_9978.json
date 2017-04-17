@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3955688,
+        "longitude": -71.1218185
+    },
+    "id": "samara-yoga-somerville",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2DQS0tfJ5qIMXd-Sr3jR5Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Davis Sq",
+        "address2": "249 Elm St",
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02144"
+    },
+    "name": "Samara Yoga",
+    "phone": "+16176292299",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2DQS0tfJ5qIMXd-Sr3jR5Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kjRgFMiTusJqYSzvyl2XEw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MNT_oQ8jwD8moQdqh3F_iw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 33,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/samara-yoga-somerville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9978"
+}

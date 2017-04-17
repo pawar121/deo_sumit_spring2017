@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3576282,
+        "longitude": -71.0587772
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "sweetgreen-boston-7",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4LxGV6KKwC2HSiS1U5csyQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "13 School St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02108"
+    },
+    "name": "sweetgreen",
+    "phone": "+18579903191",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4LxGV6KKwC2HSiS1U5csyQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kE8OiiuIynmV3OLrf-iMig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/G6UVy_atKnekJhg-Jilz5A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 43,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sweetgreen-boston-7?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11070"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.507091,
+        "longitude": -0.1418569
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "apsley-house-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eEZb0sA0dYrgy9Eqp3tK2Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "149 Piccadilly",
+        "address2": "Hyde Park Corner",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1J 7NT"
+    },
+    "name": "Apsley House",
+    "phone": "+442074995676",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/eEZb0sA0dYrgy9Eqp3tK2Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TUQWh0HldRW9gmROObOv2A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/G-QwvDiUVtI8AYxSsllamQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/apsley-house-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "568"
+}

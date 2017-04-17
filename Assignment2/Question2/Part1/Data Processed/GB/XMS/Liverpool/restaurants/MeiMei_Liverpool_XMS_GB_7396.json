@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.400579,
+        "longitude": -2.9759524
+    },
+    "id": "mei-mei-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XSC5RyhMWWrQW8U_XJ0YrA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "9-13 Berry St",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 9DF"
+    },
+    "name": "Mei Mei",
+    "phone": "+441517072888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XSC5RyhMWWrQW8U_XJ0YrA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/we1gnUoh32piPMJYH23V9w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/b83NNHvvWQk-DTTzs-3WLA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mei-mei-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7396"
+}

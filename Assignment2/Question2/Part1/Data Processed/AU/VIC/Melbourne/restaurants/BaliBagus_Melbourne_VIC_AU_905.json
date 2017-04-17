@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "halal",
+            "title": "Halal"
+        },
+        {
+            "alias": "indonesian",
+            "title": "Indonesian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8083,
+        "longitude": 144.9599762
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "bali-bagus-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y2n_Rt4LnKyC5_QX0c7K4w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "U707/ 85 Franklin St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Bali Bagus",
+    "phone": "+61396621474",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/y2n_Rt4LnKyC5_QX0c7K4w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/5_N_4R9i9wgKyqugKXbOMQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZeDy3T8aEZYuhFybyV_n-A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bali-bagus-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "905"
+}

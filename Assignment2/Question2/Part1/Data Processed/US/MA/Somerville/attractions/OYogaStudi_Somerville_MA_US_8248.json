@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.39207588572,
+        "longitude": -71.112377861831
+    },
+    "id": "o2-yoga-studio-somerville",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VrNC7YuA4AXeqJg5J8fJ-g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "288 Highland Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02143"
+    },
+    "name": "O2 Yoga Studio",
+    "phone": "+16174910002",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VrNC7YuA4AXeqJg5J8fJ-g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lP9uxcsIpL7xSQ0Pjbr1yQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_4TrsTzUo1oC2YQDOrB0NQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 93,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/o2-yoga-studio-somerville?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8248"
+}

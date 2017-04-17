@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0921816385408,
+        "longitude": -115.176134825684
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "daylight-beach-club-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wf_kKcMPB9z7gf5cIyBW3A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3950 Las Vegas Blvd S",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    "name": "DAYLIGHT Beach Club",
+    "phone": "+17026324700",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_kpGx92ASVAvs44zyqSllw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5ZQ2y4YeFPLXO5zTAQue7A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7YmHyuftT9sVJKPnKA0FqQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 210,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/daylight-beach-club-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3159"
+}

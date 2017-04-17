@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "golf",
+            "title": "Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.37684,
+        "longitude": -121.8918
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "san-jose-municipal-golf-course-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FVaiPy9ROYF2cUXCS4E53A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1560 Oakland Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95131"
+    },
+    "name": "San Jose Municipal Golf Course",
+    "phone": "+14084414653",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FVaiPy9ROYF2cUXCS4E53A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CDaxRQFYxdlb_VOctv4Hxg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Fdb2VrWAQNf5iHj6baKtRQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 163,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/san-jose-municipal-golf-course-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10011"
+}

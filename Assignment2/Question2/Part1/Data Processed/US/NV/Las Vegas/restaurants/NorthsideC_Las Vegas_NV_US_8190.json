@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1416146,
+        "longitude": -115.1584207
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 1,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 2,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 3,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 4,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 5,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                },
+                {
+                    "day": 6,
+                    "end": "0359",
+                    "is_overnight": true,
+                    "start": "0400"
+                }
+            ]
+        }
+    ],
+    "id": "northside-café-and-chinese-kitchen-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RaDKuwGi9PYvGzkKgsR6bw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "SLS Las Vegas",
+        "address2": "2535 S. Las Vegas Blvd",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Northside Café and Chinese Kitchen",
+    "phone": "+17027617613",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RaDKuwGi9PYvGzkKgsR6bw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tvMJ12rEQ05raw3s1bKjhQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UZgGyJgG_67rXKzC9d-N_Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 420,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/northside-caf%C3%A9-and-chinese-kitchen-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8190"
+}

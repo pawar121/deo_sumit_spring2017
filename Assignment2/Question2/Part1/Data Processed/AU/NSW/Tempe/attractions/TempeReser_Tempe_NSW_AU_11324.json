@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.92045,
+        "longitude": 151.1608
+    },
+    "id": "tempe-reserve-tempe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1_zI4CL7x9Y8_jIV5Htrqg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Tempe",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": ""
+    },
+    "name": "Tempe Reserve",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1_zI4CL7x9Y8_jIV5Htrqg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/nNtTNs5lSxy96P_ZWMVZ3A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OrAbZVBpSjv7qg0_zWqSrQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tempe-reserve-tempe?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11324"
+}

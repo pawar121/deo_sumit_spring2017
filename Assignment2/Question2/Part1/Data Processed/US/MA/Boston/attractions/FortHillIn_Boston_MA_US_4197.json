@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "guesthouses",
+            "title": "Guest Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3293899,
+        "longitude": -71.0947599
+    },
+    "id": "fort-hill-inn-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KbKbyDjJE5zQRcO0hQelig/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Centre Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02119"
+    },
+    "name": "Fort Hill Inn",
+    "phone": "+16173125925",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KbKbyDjJE5zQRcO0hQelig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/E5FMhYG7dspx2Cl-xkjuKA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LMfFvKjbz3WaBLrnuGq4og/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fort-hill-inn-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4197"
+}

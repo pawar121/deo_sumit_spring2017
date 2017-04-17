@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "casinos",
+            "title": "Casinos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1124193294885,
+        "longitude": -115.171060474836
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "paris-las-vegas-hotel-and-casino-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rY2jHlSecB6z_Km9Ic_26A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Paris Las Vegas Hotel Casino",
+        "address2": "3655 Las Vegas Boulevard South",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Paris Las Vegas Hotel & Casino",
+    "phone": "+18777962096",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rY2jHlSecB6z_Km9Ic_26A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ge8WTAFTAd8D9hmaL0F2hA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/YuQkDmQ2tLqCZwfO99c09w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 1821,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/paris-las-vegas-hotel-and-casino-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8643"
+}

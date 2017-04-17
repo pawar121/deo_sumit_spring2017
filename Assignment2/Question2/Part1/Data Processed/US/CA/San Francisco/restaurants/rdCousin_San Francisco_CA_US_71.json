@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.739031375583,
+        "longitude": -122.413579758197
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "3rd-cousin-san-francisco-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t6H-McWbDz35vVQvwiI7Vw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "919 Cortland Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94110"
+    },
+    "name": "3rd Cousin",
+    "phone": "+14158143709",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t6H-McWbDz35vVQvwiI7Vw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JzrK2l1RtXl5t9fpQqDJHA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vxmXDjM4hxbLu63AHkHeDA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 74,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/3rd-cousin-san-francisco-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "71"
+}

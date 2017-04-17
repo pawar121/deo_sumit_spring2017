@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81285,
+        "longitude": 144.97134
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "boney-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/n1FuWr-iHNk1N7l4YF674g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "68 Little Collins St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Boney",
+    "phone": "+61396638268",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n1FuWr-iHNk1N7l4YF674g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/t2fsbKoeURTZfcHPSjH61w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dSutckMNjgdJ8VgU_e3AfA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/boney-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1543"
+}

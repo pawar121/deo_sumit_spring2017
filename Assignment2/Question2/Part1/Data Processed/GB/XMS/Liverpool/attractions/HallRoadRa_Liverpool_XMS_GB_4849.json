@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4991798,
+        "longitude": -3.04491
+    },
+    "id": "hall-road-railway-station-liverpool",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Hall Road E",
+        "address2": "Crosby",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L23 8TU"
+    },
+    "name": "Hall Road Railway Station",
+    "phone": "",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hall-road-railway-station-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4849"
+}

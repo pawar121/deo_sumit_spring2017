@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3306007,
+        "longitude": -121.8859863
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-stritch-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Tgx_XEs_Yd5yy8LCHRB76A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "374 S 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "Cafe Stritch",
+    "phone": "+14082806161",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Tgx_XEs_Yd5yy8LCHRB76A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3Gc7J-iMFliqyhnyjpnEBA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4yfYcHE_0pCWdUNUJ4Pf7w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 385,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-stritch-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1982"
+}

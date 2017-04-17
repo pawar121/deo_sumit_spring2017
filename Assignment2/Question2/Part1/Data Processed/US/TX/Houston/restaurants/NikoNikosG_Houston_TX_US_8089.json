@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74651,
+        "longitude": -95.39218
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "niko-nikos-greek-and-american-cafe-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rH0CQ0CRKaAzegSJy1Tu7A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2520 Montrose Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Niko Niko's Greek & American Cafe",
+    "phone": "+17135284976",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rH0CQ0CRKaAzegSJy1Tu7A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/T1o182OJaAaxvve3Bsq8wQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/B5OfPDvTmzoJv1J7pqdDpQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1712,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/niko-nikos-greek-and-american-cafe-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8089"
+}

@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.804665,
+        "longitude": -73.952315
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "mintons-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5bINt58jnGBAEJ59BIAvKg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "206 W 118th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10026"
+    },
+    "name": "Minton's",
+    "phone": "+12122432222",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5bINt58jnGBAEJ59BIAvKg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9j7gmkO7JwZwcKlc_x_L8Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XhQpHw-4OuXARFd_-svQHw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 110,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mintons-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7566"
+}

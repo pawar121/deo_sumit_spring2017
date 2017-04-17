@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "specialtyschools",
+            "title": "Specialty Schools"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        },
+        {
+            "alias": "photographystores",
+            "title": "Photography Stores & Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.0984809314358,
+        "longitude": -118.331171728836
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "los-angeles-center-of-photography-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eIoXw4ca6ZGAr49etmtpjg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1515 Wilcox Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90028"
+    },
+    "name": "Los Angeles Center of Photography",
+    "phone": "+13234640909",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/eIoXw4ca6ZGAr49etmtpjg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KMk8jAy9exRiQhE1JDCIcA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2czX47flpzHSR5QQmYROLw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/los-angeles-center-of-photography-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6868"
+}

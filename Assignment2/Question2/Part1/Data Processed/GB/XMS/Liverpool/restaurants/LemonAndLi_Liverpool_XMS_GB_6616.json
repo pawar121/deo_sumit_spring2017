@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4076844288939,
+        "longitude": -2.98917704838109
+    },
+    "id": "lemon-and-lime-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/53QcR2DRwQ6lokOpDoGKTw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "29 Dale Street",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L2 2HD"
+    },
+    "name": "Lemon And Lime",
+    "phone": "+441512275577",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/53QcR2DRwQ6lokOpDoGKTw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aWebIRwTjrQ-hvE061Dtbg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lemon-and-lime-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6616"
+}

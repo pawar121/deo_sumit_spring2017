@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.84811,
+        "longitude": 2.34261
+    },
+    "id": "hôtel-cluny-sorbonne-paris-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6SqJu_Eubi9hxIgBU_nYnQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "8 Rue Victor Cousin",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75005"
+    },
+    "name": "Hôtel Cluny Sorbonne",
+    "phone": "+33143546666",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6SqJu_Eubi9hxIgBU_nYnQ/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-cluny-sorbonne-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5505"
+}

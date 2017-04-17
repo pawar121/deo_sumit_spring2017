@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.97423,
+        "longitude": -118.32907
+    },
+    "id": "el-paso-inn-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EPHDdTxuxV07JOvcJAiyZw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3220 W Florence Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90043"
+    },
+    "name": "El Paso Inn",
+    "phone": "+13237514527",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/EPHDdTxuxV07JOvcJAiyZw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-JKyg_G8NQ7SM0NBNKJtig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R539Cjz4KDfbHsIg6o7TAA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/el-paso-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3630"
+}

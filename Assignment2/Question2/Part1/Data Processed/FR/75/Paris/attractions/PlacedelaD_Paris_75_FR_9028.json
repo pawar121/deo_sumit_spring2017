@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "publicplazas",
+            "title": "Public Plazas"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8908587275382,
+        "longitude": 2.2410780140259
+    },
+    "id": "place-de-la-défense-paris-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KAGaad9HdRlzEIz3Ei-rTg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "92400"
+    },
+    "name": "Place de la Défense",
+    "phone": "+33144425467",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KAGaad9HdRlzEIz3Ei-rTg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/place-de-la-d%C3%A9fense-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9028"
+}

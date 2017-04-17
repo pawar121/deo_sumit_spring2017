@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3523779,
+        "longitude": -71.0452809
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "gather-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SvyrFT0-VBdf5qu0WpLcgA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "75 Northern Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Gather",
+    "phone": "+16179827220",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SvyrFT0-VBdf5qu0WpLcgA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JTbfXapLyZAp1Pz9s5dobg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1VT2XL7ig2ypjlzOpksbHA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 236,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gather-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4405"
+}

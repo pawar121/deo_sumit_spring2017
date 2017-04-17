@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2738609,
+        "longitude": -121.9330902
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "gyros-burgers-and-more-san-jose-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cI837jaVGbI-X6afbKRYlQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2638 Union Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95124"
+    },
+    "name": "Gyros, Burgers & More",
+    "phone": "+14086267214",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cI837jaVGbI-X6afbKRYlQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RKgbvSdaaRVm5VVxpaUxEQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JKqRj_COlytTzxZszHyD4g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 261,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gyros-burgers-and-more-san-jose-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4808"
+}

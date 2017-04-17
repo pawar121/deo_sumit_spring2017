@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        },
+        {
+            "alias": "dog_parks",
+            "title": "Dog Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 28.0653120203461,
+        "longitude": -82.8306264170315
+    },
+    "id": "honeymoon-island-state-park-dunedin",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KuMWuj5ZPrjgXfpJPvZG_g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Causeway Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Dunedin",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "34698"
+    },
+    "name": "Honeymoon Island State Park",
+    "phone": "+17274695942",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KuMWuj5ZPrjgXfpJPvZG_g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/GmTYndqAyi1BIqiLVw9c0Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/XuX54K5WBuwgp5R0wFHrcA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 150,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/honeymoon-island-state-park-dunedin?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5257"
+}

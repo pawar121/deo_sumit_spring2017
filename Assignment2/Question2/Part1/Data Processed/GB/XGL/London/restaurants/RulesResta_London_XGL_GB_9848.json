@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5108207,
+        "longitude": -0.1232501
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "rules-restaurant-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MqPO7w1T2KD4XdUaamWeng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "35 Maiden Lane",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2E 7LB"
+    },
+    "name": "Rules Restaurant",
+    "phone": "+442078365314",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MqPO7w1T2KD4XdUaamWeng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/E5pMWYpYMd-8ZK3OdmjQ7Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/OhL_iwBhOn01YmMiStbXqg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 157,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rules-restaurant-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9848"
+}

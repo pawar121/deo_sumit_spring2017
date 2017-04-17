@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "photographers",
+            "title": "Photographers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.67216,
+        "longitude": -122.36992
+    },
+    "id": "calima-portraits-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1d98Rhcpbm57U-JzRz91aw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "927 NW 60th St",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98107"
+    },
+    "name": "CALIMA Portraits",
+    "phone": "+12069923792",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1d98Rhcpbm57U-JzRz91aw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_Vxcr3P_1JnWyNJJyYOO3w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Z45hh6fxpl7kylp2CPzWBw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/calima-portraits-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2038"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9008815,
+        "longitude": -77.0386969
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "capital-segway-washington-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F_Ah-L20T7NIMKMLsPy-rQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "818 Connecticut Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20006"
+    },
+    "name": "Capital Segway",
+    "phone": "+12026821980",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/F_Ah-L20T7NIMKMLsPy-rQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4yn6arU4OWlUs3Di0ulr-A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0lni8Jta2llwd62pvfNlpA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 88,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/capital-segway-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2106"
+}

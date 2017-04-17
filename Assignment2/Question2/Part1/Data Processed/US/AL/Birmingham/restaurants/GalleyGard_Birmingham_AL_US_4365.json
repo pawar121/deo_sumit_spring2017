@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5011634325317,
+        "longitude": -86.7903776214264
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "galley-and-garden-birmingham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GeiuHPnEM_TliWLf7RBD1Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2220 Highland Ave S",
+        "address2": null,
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35205"
+    },
+    "name": "Galley & Garden",
+    "phone": "+12059395551",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GeiuHPnEM_TliWLf7RBD1Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PbOddzx5A7j6Q4zwWxe21A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tmy5yOmj3HwM1dCd8INK9Q/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 61,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/galley-and-garden-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4365"
+}

@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3999941279893,
+        "longitude": -121.975193023682
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "great-americas-halloween-haunt-santa-clara",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/epdCeCyJW-d7g9yzfW0pLQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Great America Pkwy",
+        "address2": "",
+        "address3": "",
+        "city": "Santa Clara",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95052"
+    },
+    "name": "Great America's Halloween Haunt",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/epdCeCyJW-d7g9yzfW0pLQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hsuU7td5jHnzpJ317RNEIA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OeGOs_BfHg-LcLgfcYfRwQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 281,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/great-americas-halloween-haunt-santa-clara?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4663"
+}

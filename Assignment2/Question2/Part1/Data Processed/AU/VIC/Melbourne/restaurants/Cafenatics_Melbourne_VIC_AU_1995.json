@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8179042,
+        "longitude": 144.957648
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1430",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "cafenatics-melbourne-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vyNMC1xAi3qjBD5wjfCu2g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 4, Church Lane",
+        "address2": "500 Collins St",
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Cafenatics",
+    "phone": "+6196294440",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vyNMC1xAi3qjBD5wjfCu2g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rGnAo-Ol679wNU67EqWdTw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VkPovS7QtZALCkKsCNe96w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafenatics-melbourne-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1995"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.1743872,
+        "longitude": -80.839671
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "nolen-kitchen-charlotte",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6QwTUpacTNGbsr55YtmY7A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2839 Selwyn Ave",
+        "address2": "Ste X",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28209"
+    },
+    "name": "Nolen Kitchen",
+    "phone": "+17043721424",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6QwTUpacTNGbsr55YtmY7A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/W_MGYBNDF_mFmN6cV4cUzA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/PDxq7VnVG0mCThRHHSN-6A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 159,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nolen-kitchen-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8121"
+}

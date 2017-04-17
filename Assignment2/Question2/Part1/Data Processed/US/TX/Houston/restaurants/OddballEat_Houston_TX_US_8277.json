@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "falafel",
+            "title": "Falafel"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7348970785877,
+        "longitude": -95.4241527054874
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1330",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1200",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "oddball-eats-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1vvD9wS9rvcuI2Ndhdf-Tw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Urban Harvest Eastside Farmers Market",
+        "address2": "3000 Richmond Ave",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77098"
+    },
+    "name": "Oddball Eats",
+    "phone": "+12812050911",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/1vvD9wS9rvcuI2Ndhdf-Tw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wdx5e44Fy0ItpW79ISMsJw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gUTbAngtIE6bxtDfQw312A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 18,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/oddball-eats-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8277"
+}

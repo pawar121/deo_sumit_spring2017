@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.950868,
+        "longitude": -82.462354
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "john-f-germany-public-library-tampa",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hlXUFf2-rgWhEKG7mMKE0w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "900 North Ashley Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "John F. Germany Public Library",
+    "phone": "+18132733652",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hlXUFf2-rgWhEKG7mMKE0w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qZEmM4ZAUFaeni0qul-Y9w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oUgn0JoypEdhKZ-DqAXoLg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/john-f-germany-public-library-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5912"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "szechuan",
+            "title": "Szechuan"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.6268313760172,
+        "longitude": -112.100299648479
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "chino-bandido-phoenix-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ycIj9b24nDvOld7LV_y1UQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15414 N 19th Ave",
+        "address2": "Ste K",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85023"
+    },
+    "name": "Chino Bandido",
+    "phone": "+16023753639",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ycIj9b24nDvOld7LV_y1UQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9FRyn-DzAm9-BuwL5py65A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3IhD3Zeic2j0DnkvF7j9zw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 1180,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chino-bandido-phoenix-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2446"
+}

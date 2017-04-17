@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8691039746182,
+        "longitude": 151.204508360196
+    },
+    "id": "caffe-amici-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o3JtTCQ_wKpmOb3MqQqwOA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "355 Kent St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Caffe Amici",
+    "phone": "+61292790953",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o3JtTCQ_wKpmOb3MqQqwOA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3qz0PleXRwbtca8O3DDjeA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/E4SWjvRbqJh2Gim9J-i1iw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/caffe-amici-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2000"
+}

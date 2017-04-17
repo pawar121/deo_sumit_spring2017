@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.2286689,
+        "longitude": -80.84241
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "dandelion-market-charlotte",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/t5Kwgi7WiMsDjoIelJjGXw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "118 W 5th St",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28202"
+    },
+    "name": "Dandelion Market",
+    "phone": "+17043337989",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/t5Kwgi7WiMsDjoIelJjGXw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iu7yZXp7LdKU_b5PvhRaiQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/whuna86AFsw_9CnVOG-fvg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 448,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dandelion-market-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3112"
+}

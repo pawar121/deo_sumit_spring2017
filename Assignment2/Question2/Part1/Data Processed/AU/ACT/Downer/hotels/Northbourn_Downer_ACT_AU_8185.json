@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2458115,
+        "longitude": 149.134903
+    },
+    "id": "northbourne-lodge-downer",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cr0RTfnRwE_tP2-TiJYrsg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "522 Northbourne Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Downer",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Northbourne Lodge",
+    "phone": "+61262572599",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cr0RTfnRwE_tP2-TiJYrsg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/eqUw8T1p0AylCrawehzcEw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kbpKWSlK14fHOvBsManXvg/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/northbourne-lodge-downer?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8185"
+}

@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "caribbean",
+            "title": "Caribbean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.729156,
+        "longitude": -104.996678
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "jamaican-grill-denver",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QLbQIlsexWz9i83qkP22pQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "709 W 8th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80204"
+    },
+    "name": "Jamaican Grill",
+    "phone": "+13036230013",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QLbQIlsexWz9i83qkP22pQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o9JdjkpMviJfQazYry6aIA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Ci2-Tqg56A8fri6e4Efd8Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 104,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jamaican-grill-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5798"
+}

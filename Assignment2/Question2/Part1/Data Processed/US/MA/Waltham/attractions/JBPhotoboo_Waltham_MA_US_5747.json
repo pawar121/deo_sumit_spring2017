@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "photoboothrentals",
+            "title": "Photo Booth Rentals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.39476,
+        "longitude": -71.21668
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "j-and-b-photobooth-waltham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CFeNlYaEfoKDGExR8r0y1w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "Waltham",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02452"
+    },
+    "name": "J & B Photobooth",
+    "phone": "+17812692102",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CFeNlYaEfoKDGExR8r0y1w/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/j-and-b-photobooth-waltham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5747"
+}

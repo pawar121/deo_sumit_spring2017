@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "dancestudio",
+            "title": "Dance Studios"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7500201969196,
+        "longitude": -73.9949257328186
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "dance-manhattan-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mjQUeVslKqtGAUNAaUHmfQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "412 8th Ave",
+        "address2": "4th Fl",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10001"
+    },
+    "name": "Dance Manhattan",
+    "phone": "+12128070802",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mjQUeVslKqtGAUNAaUHmfQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/g3sEetZBzkaDOENuudP__w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-8atMu6ODF4a_9CLlTxZJQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 69,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dance-manhattan-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3108"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8564815,
+        "longitude": -4.2468041
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "avant-garde-glasgow-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VYkGjDUclncwl1_PzulSMA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "34-44 King Street",
+        "address2": "Merchant City",
+        "address3": null,
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G1 5QT"
+    },
+    "name": "Avant Garde",
+    "phone": "+441415527123",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VYkGjDUclncwl1_PzulSMA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/eMLdwoX-EOGY6a54Q6PTEg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0blAV18S5h5qQ1e5k6rb7g/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/avant-garde-glasgow-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "791"
+}

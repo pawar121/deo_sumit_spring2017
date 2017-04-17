@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        },
+        {
+            "alias": "nonprofit",
+            "title": "Community Service/Non-Profit"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.15226,
+        "longitude": -115.2317
+    },
+    "id": "halloveen-at-the-magical-forest-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T1GbHSuTIFssNF_ML5GnUw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Opportunity Village",
+        "address2": "6300 W Oakey Blvd",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89146"
+    },
+    "name": "HallOVeen at The Magical Forest",
+    "phone": "+17022593700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/T1GbHSuTIFssNF_ML5GnUw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/j8gsqDIQf4iij4YnRF21hg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OlrWalFiv1GHmnqjq87scA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/halloveen-at-the-magical-forest-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4850"
+}

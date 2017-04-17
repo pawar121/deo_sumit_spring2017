@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "partyequipmentrentals",
+            "title": "Party Equipment Rentals"
+        },
+        {
+            "alias": "petadoption",
+            "title": "Pet Adoption"
+        },
+        {
+            "alias": "attractionfarms",
+            "title": "Attraction Farms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.01797,
+        "longitude": -77.20884
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "squeals-on-wheels-petting-zoo-and-pony-rides-potomac-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t1cuxZY0n20L-5AJm4yBvQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Potomac",
+        "country": "US",
+        "state": "MD",
+        "zip_code": "20854"
+    },
+    "name": "Squeals On Wheels Petting Zoo & Pony Rides",
+    "phone": "+13017650270",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t1cuxZY0n20L-5AJm4yBvQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KOyJFOTXGetyzzC2EHcIRw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LnKM86KSIwuSuIiJwBEnBQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 28,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/squeals-on-wheels-petting-zoo-and-pony-rides-potomac-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10717"
+}

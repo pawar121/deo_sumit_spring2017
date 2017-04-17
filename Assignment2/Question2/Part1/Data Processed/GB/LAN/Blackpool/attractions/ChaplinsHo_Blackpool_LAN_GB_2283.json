@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.8146132,
+        "longitude": -3.0532799
+    },
+    "id": "chaplins-hotel-blackpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xHRnrW6VRpuSVhArvOeVgg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Albert Road",
+        "address2": "",
+        "address3": "",
+        "city": "Blackpool",
+        "country": "GB",
+        "state": "LAN",
+        "zip_code": "FY1 4TA"
+    },
+    "name": "Chaplins Hotel",
+    "phone": "+441253294440",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/xHRnrW6VRpuSVhArvOeVgg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/j65NDAZXi9E2zXmvbu9QWw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Rzf99TPC7y1CO0wyHo7g-w/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/chaplins-hotel-blackpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2283"
+}

@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.77563,
+        "longitude": -95.3767
+    },
+    "id": "stark-naked-theatre-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZBCq53vWU97AdzRQ-9GHnQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1824 Spring St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77007"
+    },
+    "name": "Stark Naked Theatre",
+    "phone": "+18322655931",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZBCq53vWU97AdzRQ-9GHnQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/SG35tleUMWYiJuHc1supPQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/u3peaPbE0pws9zi-CCfMdA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/stark-naked-theatre-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10789"
+}

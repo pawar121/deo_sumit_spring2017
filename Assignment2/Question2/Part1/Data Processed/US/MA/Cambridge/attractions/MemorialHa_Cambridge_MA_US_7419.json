@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.375996659073,
+        "longitude": -71.115127405266
+    },
+    "id": "memorial-hall-cambridge",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TmbUxoctfMve68Be1P9pxg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Quincy St",
+        "address2": "",
+        "address3": "",
+        "city": "Cambridge",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02138"
+    },
+    "name": "Memorial Hall",
+    "phone": "+16174964595",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TmbUxoctfMve68Be1P9pxg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4eTbu7buliVwXKT_EYjyFQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eNP0vATHaZq2O9hKIwVNzw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/memorial-hall-cambridge?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7419"
+}

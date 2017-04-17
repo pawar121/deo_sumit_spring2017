@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74429,
+        "longitude": -95.3864399
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "avant-garden-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NHnTRMH2hNHYAryQzQMbQg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "411 Westheimer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Avant Garden",
+    "phone": "+18325191429",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NHnTRMH2hNHYAryQzQMbQg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6o5j4CTrQnUKBJZ8isAc_g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0QbIRvyYYdViaaYC5tc4qQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 103,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/avant-garden-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "792"
+}

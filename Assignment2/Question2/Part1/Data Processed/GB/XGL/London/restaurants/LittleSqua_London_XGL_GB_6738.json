@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5063765,
+        "longitude": -0.1465422
+    },
+    "id": "little-square-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1tvOuQBZjl7VINUZnVfuZA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Shepherd Market",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1J 7PB"
+    },
+    "name": "Little Square",
+    "phone": "+442073552101",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1tvOuQBZjl7VINUZnVfuZA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vnMu0jLT7jit9QAkIrnQ7A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QWs3e6IHr2ts--IpKpDzDg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/little-square-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6738"
+}

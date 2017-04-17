@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8121324,
+        "longitude": 144.960345
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "bowery-to-williamsburg-melbourne-5",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cS-qMcdhnTndRdQouNsfWQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "123 Hardware St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Bowery To Williamsburg",
+    "phone": "+61390770162",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cS-qMcdhnTndRdQouNsfWQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hI3qbnuBNLj06vGnxXkNiw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UWbQm4YKcqjOhl-W59VxaQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bowery-to-williamsburg-melbourne-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1656"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.759624,
+        "longitude": -73.9958265
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "rustic-table-new-york",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XjUWddeOAWXVl-BVdkRZ-w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "504 W 42nd St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10036"
+    },
+    "name": "Rustic Table",
+    "phone": "+12122440744",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XjUWddeOAWXVl-BVdkRZ-w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sc7dt3RtFvPK1neavjOi1Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ND1vh2iFj-ymRA8i_68U-g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 176,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rustic-table-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9865"
+}

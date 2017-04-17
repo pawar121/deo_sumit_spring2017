@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.88965,
+        "longitude": 2.33689
+    },
+    "id": "hôtel-mercure-paris-montmartre-paris-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3F1VAYxtlwLpt8WmPgcLYQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 rue Caulaincourt",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75018"
+    },
+    "name": "Hôtel Mercure Paris Montmartre",
+    "phone": "+33969366130",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3F1VAYxtlwLpt8WmPgcLYQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vY4jmDII7RclswPqpwQSYQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CIyLNobjLqTA4NADAluNiw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-mercure-paris-montmartre-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5529"
+}

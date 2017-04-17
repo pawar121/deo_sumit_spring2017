@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3308446,
+        "longitude": -121.8889351
+    },
+    "id": "city-national-civic-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qKRgCl_gI2RYI5JemG4dtA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "135 San Carlos St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "City National Civic",
+    "phone": "+14087924542",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/qKRgCl_gI2RYI5JemG4dtA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4IR4YFV6q927BoxxpT-myg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r6pYxe4QPBjizDpZ7qvmLQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 104,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/city-national-civic-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2573"
+}

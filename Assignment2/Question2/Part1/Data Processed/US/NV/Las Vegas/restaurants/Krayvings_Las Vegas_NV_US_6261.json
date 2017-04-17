@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        },
+        {
+            "alias": "juicebars",
+            "title": "Juice Bars & Smoothies"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1593238,
+        "longitude": -115.351451
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "krayvings-las-vegas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZQwTWNVzqOB1PPyB8-Yt_Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11770 W Charleston Blvd",
+        "address2": "Ste 150",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89135"
+    },
+    "name": "Krayvings",
+    "phone": "+17029450520",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZQwTWNVzqOB1PPyB8-Yt_Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/amPurYL5uNLs_JsoLAK9NQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ze_2kXS-hvgUJwkE1CrFAQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 312,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/krayvings-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6261"
+}

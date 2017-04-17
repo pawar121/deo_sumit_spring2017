@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "carrental",
+            "title": "Car Rental"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.37139,
+        "longitude": -83.077687
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "enterprise-rent-a-car-detroit-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m3dmekamnAabUunStRJLtw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7600 Second Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48202"
+    },
+    "name": "Enterprise Rent-A-Car",
+    "phone": "+13138710470",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/m3dmekamnAabUunStRJLtw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/62qI6DqyM4WVUQwKgqT_7Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fzS45Y3qzeIvvBAogd_T5w/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/enterprise-rent-a-car-detroit-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3745"
+}

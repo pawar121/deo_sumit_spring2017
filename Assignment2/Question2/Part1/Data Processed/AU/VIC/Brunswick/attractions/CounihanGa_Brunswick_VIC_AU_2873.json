@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.7718391,
+        "longitude": 144.9611053
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "counihan-gallery-in-brunswick-brunswick",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LPQMDdXT7x_1ungF03Pwgw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "233 Sydney Road",
+        "address2": "",
+        "address3": "",
+        "city": "Brunswick",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3056"
+    },
+    "name": "Counihan Gallery in Brunswick",
+    "phone": "+6193898622",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LPQMDdXT7x_1ungF03Pwgw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7YfIxs7V2tdCqLvQx9L0nQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4XQG46cFaBI_ms02fMOKbQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/counihan-gallery-in-brunswick-brunswick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2873"
+}

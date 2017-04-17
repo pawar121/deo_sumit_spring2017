@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.325119,
+        "longitude": 149.0812531
+    },
+    "id": "statesman-hotel-motel-curtin-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/owyKkLT0WxRf1P5S_t25kA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "14 Theodore St Corner Of Strangways St",
+        "address2": null,
+        "address3": null,
+        "city": "Curtin",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2605"
+    },
+    "name": "Statesman Hotel Motel",
+    "phone": "+61262811777",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/owyKkLT0WxRf1P5S_t25kA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GhCIqrcc-0xfEz-LrrJUuQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s6NJqEgMZR0lf866dYOpmQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/statesman-hotel-motel-curtin-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10803"
+}

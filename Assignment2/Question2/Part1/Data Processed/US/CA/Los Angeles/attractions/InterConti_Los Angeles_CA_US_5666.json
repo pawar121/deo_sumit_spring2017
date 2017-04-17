@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.05413,
+        "longitude": -118.41229
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "intercontinental-los-angeles-century-city-los-angeles-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/acAokts0yvap5EOZuzBOhw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2151 Avenue Of Stars",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90067"
+    },
+    "name": "InterContinental Los Angeles Century City",
+    "phone": "+13102846500",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/acAokts0yvap5EOZuzBOhw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NCZlPknL1jxFKGgsjmY-vg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8tyfZY0uR6MdqMxHG3NAig/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 205,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/intercontinental-los-angeles-century-city-los-angeles-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5666"
+}

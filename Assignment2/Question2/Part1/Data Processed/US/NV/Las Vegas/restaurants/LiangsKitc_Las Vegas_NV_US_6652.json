@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "taiwanese",
+            "title": "Taiwanese"
+        },
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1155,
+        "longitude": -115.21775
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "liangs-kitchen-las-vegas-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1vdnjwG0a7LfxhWM3FfQmg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5570 W Flamingo Rd",
+        "address2": "Ste 110",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89103"
+    },
+    "name": "Liang's Kitchen",
+    "phone": "+17028165266",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1vdnjwG0a7LfxhWM3FfQmg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3xaREAzX995wInNDUvKpkg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bAp5aHnkGIiFZQz4CtDu4w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 21,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/liangs-kitchen-las-vegas-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6652"
+}

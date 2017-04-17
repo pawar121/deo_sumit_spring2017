@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6090202,
+        "longitude": -122.3163605
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "byrek-and-baguette-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NAk2htQim7KRuqfTgWWGZw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "732 12th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98122"
+    },
+    "name": "Byrek & Baguette",
+    "phone": "+12065380758",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NAk2htQim7KRuqfTgWWGZw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/v7YhgEqHh-_fp5QYb8tZuA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7EUtqSU1WiayG98hzRJxXQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 73,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/byrek-and-baguette-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1882"
+}

@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.74001,
+        "longitude": -104.99202
+    },
+    "id": "jessies-smokin-nola-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q0q8fit0sCTkoTec6y8BpA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": ""
+    },
+    "name": "Jessie's Smokin' Nola",
+    "phone": "+13038778694",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/q0q8fit0sCTkoTec6y8BpA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/do8KsKEVkcb4G4hE8TgLgw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lCf3gJJ3QzzW51SS5X0K2g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 76,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jessies-smokin-nola-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5856"
+}

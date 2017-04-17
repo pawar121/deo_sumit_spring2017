@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.696864,
+        "longitude": -105.035015
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "hamburghini-denver",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zG690syHW7N6toeaIG2HNg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80219"
+    },
+    "name": "Hamburghini",
+    "phone": "+18187988969",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zG690syHW7N6toeaIG2HNg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rU8uV-9m3eTL57zU0I0gxA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hPsNCuMQKTIswI_yS8M87w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 66,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hamburghini-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4854"
+}

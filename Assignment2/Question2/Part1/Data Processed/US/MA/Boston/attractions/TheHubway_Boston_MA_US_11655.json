@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "bikesharing",
+            "title": "Bike Sharing"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3415400243669,
+        "longitude": -71.0688883066177
+    },
+    "id": "the-hubway-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KpB7QWnFNH1pPAXw-Zxsrw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1350 Washington St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "The Hubway",
+    "phone": "+18559482929",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/KpB7QWnFNH1pPAXw-Zxsrw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VYz_0Itb2nwmyH0Y2Ir6WA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vw4FyLuHqWx0lF4AKFxk6A/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 33,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-hubway-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11655"
+}

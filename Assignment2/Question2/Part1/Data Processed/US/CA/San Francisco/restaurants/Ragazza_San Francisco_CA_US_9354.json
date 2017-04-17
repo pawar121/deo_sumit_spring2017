@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7724113,
+        "longitude": -122.4375992
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "ragazza-san-francisco",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n_C2lXwpT3QL1ekZCu4Riw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "311 Divisadero St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94117"
+    },
+    "name": "Ragazza",
+    "phone": "+14152551133",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/n_C2lXwpT3QL1ekZCu4Riw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/9CHGKSASCBhrsGFEvVz21Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LHkqUmety5zBZAVAoadOvQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 560,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ragazza-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9354"
+}

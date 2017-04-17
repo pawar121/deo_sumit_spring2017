@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.894723,
+        "longitude": -82.687267
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "sleep-inn-clearwater",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fytfzEhbV1DWcAMW5HeITg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3939 Ulmerton Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Clearwater",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33762"
+    },
+    "name": "Sleep Inn",
+    "phone": "+17275735049",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fytfzEhbV1DWcAMW5HeITg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zISc_jwd_iIjPlkQJ2iF3Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LcwoGG95oYbxUdPQe_GSKg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sleep-inn-clearwater?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10460"
+}

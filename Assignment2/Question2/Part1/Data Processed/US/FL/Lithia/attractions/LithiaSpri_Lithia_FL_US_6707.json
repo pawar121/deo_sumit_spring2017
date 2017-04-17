@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.864785,
+        "longitude": -82.2273593
+    },
+    "id": "lithia-springs-park-lithia",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IJNcq5YV8xTLavpnFK56gw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3932 Lithia Springs Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Lithia",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33547"
+    },
+    "name": "Lithia Springs Park",
+    "phone": "+18137445572",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IJNcq5YV8xTLavpnFK56gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8lS2Z0mHgDHJwHDJstzLRw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LzvERRlB0GqhwJ44Bph6eA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lithia-springs-park-lithia?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6707"
+}

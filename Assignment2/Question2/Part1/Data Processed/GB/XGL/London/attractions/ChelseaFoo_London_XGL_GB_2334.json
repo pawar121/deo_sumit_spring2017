@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "sportsteams",
+            "title": "Professional Sports Teams"
+        },
+        {
+            "alias": "football",
+            "title": "Soccer"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4816,
+        "longitude": -0.191094
+    },
+    "id": "chelsea-football-club-london-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eO-O2-cSjIka31rrHeTCtw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Stamford Bridge",
+        "address2": "Fulham Road",
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW6 1HS"
+    },
+    "name": "Chelsea Football Club",
+    "phone": "+442075651400",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eO-O2-cSjIka31rrHeTCtw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zkDrXYWjT796LNcFnUrMLw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nH4Z1KWB_XFkbEw14E-Azw/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 68,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/chelsea-football-club-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2334"
+}

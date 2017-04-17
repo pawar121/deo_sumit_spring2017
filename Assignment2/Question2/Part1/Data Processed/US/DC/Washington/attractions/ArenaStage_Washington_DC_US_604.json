@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8775368174891,
+        "longitude": -77.0205974578857
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "arena-stage-washington-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LD7QKFX9o2rroHB766MOUg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "The Mead Center for American Theater",
+        "address2": "1101 6th St SW",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20024"
+    },
+    "name": "Arena Stage",
+    "phone": "+12024883300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LD7QKFX9o2rroHB766MOUg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zqcQbHzwmBHjvmdVzCQnWw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HULTSt4lsfmtpykHG-3RCw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 102,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/arena-stage-washington-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "604"
+}

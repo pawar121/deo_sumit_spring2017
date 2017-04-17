@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3156607,
+        "longitude": -83.2331767
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "henry-ford-estate-dearborn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LW-NVZElOSbBT9Rm6oRfgw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Fair Lane Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Dearborn",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48128"
+    },
+    "name": "Henry Ford Estate",
+    "phone": "+13133000802",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LW-NVZElOSbBT9Rm6oRfgw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/10rygajm0E2PUgA0gTqHQQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gs1bFyHCW5W8touiexp59w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/henry-ford-estate-dearborn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5018"
+}

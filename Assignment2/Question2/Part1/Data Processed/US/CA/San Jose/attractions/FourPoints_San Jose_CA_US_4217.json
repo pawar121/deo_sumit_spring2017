@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33215,
+        "longitude": -121.88805
+    },
+    "id": "four-points-by-sheraton-san-jose-downtown-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YCCp7oXbhaWBJHEd4V-O3A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "211 S. First Street",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "Four Points by Sheraton San Jose Downtown",
+    "phone": "+14082828800",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YCCp7oXbhaWBJHEd4V-O3A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/4OuRJtv8IFNHe3hDY70zXA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UKgYHwmhMVmwy_lysYOJGA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 240,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/four-points-by-sheraton-san-jose-downtown-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4217"
+}

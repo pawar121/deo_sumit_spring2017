@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.73876,
+        "longitude": -73.9945
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "chelsea-inn-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ipw5GRBeWOBwzyJD7tefqQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "46 West 17th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10011"
+    },
+    "name": "Chelsea Inn",
+    "phone": "+12126458989",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ipw5GRBeWOBwzyJD7tefqQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oyznYnUks5ewlhYoI81YMA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/C488AB3Rag1lK_DvHvTpDg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 27,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/chelsea-inn-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2336"
+}

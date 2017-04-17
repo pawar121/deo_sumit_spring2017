@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "arcades",
+            "title": "Arcades"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "bowling",
+            "title": "Bowling"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.6494846,
+        "longitude": -95.1502609
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "itz-family-food-and-fun-pasadena",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dsmbIVO_jALuHr00Dy7qZg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5950 Fairmont Pkwy",
+        "address2": "",
+        "address3": "",
+        "city": "Pasadena",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77505"
+    },
+    "name": "iT'Z Family Food and Fun",
+    "phone": "+12819982424",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dsmbIVO_jALuHr00Dy7qZg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/J2n9oYV-N8aFTzpXWeK_6Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/21OpvaXZlEHDOxOE70q1FQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 34,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/itz-family-food-and-fun-pasadena?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5723"
+}

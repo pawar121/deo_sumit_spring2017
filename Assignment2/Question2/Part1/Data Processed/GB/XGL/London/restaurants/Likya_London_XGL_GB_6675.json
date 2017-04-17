@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "turkish",
+            "title": "Turkish"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5727806,
+        "longitude": -0.1986722
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "likya-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hlq1eBQ0lT5KFayAE1KYEA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "68-70 Golders Green Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "NW11 8LN"
+    },
+    "name": "Likya",
+    "phone": "+442084557171",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hlq1eBQ0lT5KFayAE1KYEA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2yUPYrl_p6v5ELHJF_FkXw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/As7ylp1jglpVCUDiBnYeaw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 13,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/likya-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6675"
+}

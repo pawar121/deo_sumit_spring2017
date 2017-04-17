@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "food",
+            "title": "Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2784882,
+        "longitude": 149.1322784
+    },
+    "id": "cocorea-korean-restaurant-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "25 Garema Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2600"
+    },
+    "name": "Cocorea Korean Restaurant",
+    "phone": "",
+    "photos": [],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cocorea-korean-restaurant-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2700"
+}

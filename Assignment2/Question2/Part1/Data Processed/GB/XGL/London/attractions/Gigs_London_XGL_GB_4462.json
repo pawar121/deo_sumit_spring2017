@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "alias": "musicvideo",
+            "title": "Music & DVDs"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.50017,
+        "longitude": -0.12715
+    },
+    "id": "gigs2-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bOBTpZUFo0wsl1wsxAtGLA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": null,
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW1P 3JX"
+    },
+    "name": "Gigs2",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bOBTpZUFo0wsl1wsxAtGLA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gigs2-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4462"
+}

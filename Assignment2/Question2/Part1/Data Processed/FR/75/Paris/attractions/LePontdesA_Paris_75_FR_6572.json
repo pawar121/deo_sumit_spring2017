@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85886,
+        "longitude": 2.33781
+    },
+    "id": "le-pont-des-arts-paris-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fHyXElOCODWhtFzWZTa5yg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Pont des Arts",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75001"
+    },
+    "name": "Le Pont des Arts",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fHyXElOCODWhtFzWZTa5yg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/gIc5RJ9PR8a5uwx78GkgJQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/R6rHtwUXa6hw9S279BMsgA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 122,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-pont-des-arts-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6572"
+}

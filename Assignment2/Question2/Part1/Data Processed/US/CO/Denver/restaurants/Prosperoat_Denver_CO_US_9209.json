@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "juicebars",
+            "title": "Juice Bars & Smoothies"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.758061,
+        "longitude": -105.011571
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "prosperoats-denver",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_GCIpmm43-vanmhTHBbhCA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2550 15th St",
+        "address2": null,
+        "address3": null,
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80211"
+    },
+    "name": "Prosperoats",
+    "phone": "+13039958444",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_GCIpmm43-vanmhTHBbhCA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/clJZdatCDIkih1Le8swOww/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/k7smonNNqtTLCP0C-d4GQg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 104,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/prosperoats-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9209"
+}

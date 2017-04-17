@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.19508,
+        "longitude": -80.825792
+    },
+    "id": "lumiere-french-kitchen-charlotte",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HOrMCSgjHQ1GLfzmJGtDaw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1039 Providence Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28207"
+    },
+    "name": "Lumiere French Kitchen",
+    "phone": "+17043723335",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HOrMCSgjHQ1GLfzmJGtDaw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/yMPD0gVsFPWfwrl68DGQdQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/T0cEFVN-gtmV_j_LlF3w7g/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 76,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lumiere-french-kitchen-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6973"
+}

@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.61468,
+        "longitude": -122.33941
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "dimitrious-jazz-alley-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CheYvdU9_bW0c88gvCYSPQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2033 6th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98121"
+    },
+    "name": "Dimitriou's Jazz Alley",
+    "phone": "+12064419729",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CheYvdU9_bW0c88gvCYSPQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/nMIQImGaUFu_RZ68VQuNOg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oWZ4OIWK9fkgrrw0jGXkcg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 271,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dimitrious-jazz-alley-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3280"
+}

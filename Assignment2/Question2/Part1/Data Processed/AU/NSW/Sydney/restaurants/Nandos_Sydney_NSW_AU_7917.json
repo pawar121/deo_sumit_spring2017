@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+        },
+        {
+            "alias": "portuguese",
+            "title": "Portuguese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.86945,
+        "longitude": 151.20488
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "nandos-sydney-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rgdtkhdcKdAs60ruy8mNGw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "332 Kent St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Nando's",
+    "phone": "+61292623384",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rgdtkhdcKdAs60ruy8mNGw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RYnvNYuV2MMllUqXK4zmPg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/moHxAgPXH25bUXX8pjBSVA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nandos-sydney-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7917"
+}

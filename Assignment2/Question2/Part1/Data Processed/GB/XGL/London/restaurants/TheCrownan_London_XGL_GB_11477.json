@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4979662,
+        "longitude": -0.20744
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "the-crown-and-sceptre-london-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SrqVnwmQAzEfpt_RpK9LkQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "34 Holland Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W14 8BA"
+    },
+    "name": "The Crown and Sceptre",
+    "phone": "+442076032007",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SrqVnwmQAzEfpt_RpK9LkQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Uz-_f3zbimcDGGVoH-IB5w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lBVZEH4xhJKlz-Qt93nrDA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-crown-and-sceptre-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11477"
+}

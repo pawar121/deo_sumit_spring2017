@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.766272,
+        "longitude": 174.7385194
+    },
+    "id": "hoyts-wairau-park-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B-Jcpxpefsm7dwGR4JELDw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Link Drive",
+        "address2": "Forrest Hill",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "0627"
+    },
+    "name": "Hoyts Wairau Park",
+    "phone": "+6494436182",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/B-Jcpxpefsm7dwGR4JELDw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Hay2t8ZZea7UZx5pL89f6A/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hoyts-wairau-park-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5426"
+}

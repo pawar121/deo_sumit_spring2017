@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.29036,
+        "longitude": -2.42729
+    },
+    "id": "cuckooland-attractions-knutsford",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Chester Road",
+        "address2": "",
+        "address3": "Tabley",
+        "city": "Knutsford",
+        "country": "GB",
+        "state": "CHE",
+        "zip_code": "WA16 0HL"
+    },
+    "name": "Cuckooland Attractions",
+    "phone": "+441565633039",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/cuckooland-attractions-knutsford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3037"
+}

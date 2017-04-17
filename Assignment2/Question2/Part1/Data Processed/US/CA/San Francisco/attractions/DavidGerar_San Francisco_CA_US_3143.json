@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "magicians",
+            "title": "Magicians"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7749295,
+        "longitude": -122.4194155
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "david-gerard-san-francisco",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vzIjQkJFDKPzJF2H-w0mGw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": ""
+    },
+    "name": "David Gerard",
+    "phone": "+16505167459",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vzIjQkJFDKPzJF2H-w0mGw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tLg0htovNZvTfdNuHaP2BA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Spup0Tn9eLqDCbfw5JiKbQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 84,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/david-gerard-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3143"
+}

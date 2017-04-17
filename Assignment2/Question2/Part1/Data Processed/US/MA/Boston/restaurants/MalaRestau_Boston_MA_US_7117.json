@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "soup",
+            "title": "Soup"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3530145,
+        "longitude": -71.1310181
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "mala-restaurant-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DxkWdB_7j0P7r9dSPJMFQA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "129 Brighton Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02134"
+    },
+    "name": "Mala Restaurant",
+    "phone": "+16172541839",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DxkWdB_7j0P7r9dSPJMFQA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SBkom-bJ-b0qvoK38_AMHA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lqqdzNPRUthi1-aMHr2Vpw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 80,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mala-restaurant-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7117"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        },
+        {
+            "alias": "falafel",
+            "title": "Falafel"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3578462497398,
+        "longitude": -71.0578912496567
+    },
+    "id": "falafel-king-boston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ghJAiyjeUBsHY0K3UWQzIg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "260 Washington St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02108"
+    },
+    "name": "Falafel King",
+    "phone": "+16172276400",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ghJAiyjeUBsHY0K3UWQzIg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/457aIpgKdxwckp9KDEUtIg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RsrfBOf3z9ZP67tET3I0GQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 172,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/falafel-king-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3889"
+}

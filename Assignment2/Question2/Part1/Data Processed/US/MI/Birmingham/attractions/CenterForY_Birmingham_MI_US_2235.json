@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.54308,
+        "longitude": -83.21004
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                }
+            ]
+        }
+    ],
+    "id": "center-for-yoga-birmingham",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mRvoz3AOR279fUuQMWOnVw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "555 S Old Woodward Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48009"
+    },
+    "name": "Center For Yoga",
+    "phone": "+12482589642",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mRvoz3AOR279fUuQMWOnVw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xXSuxtcRntv3nn3xriLFeQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/z1uQqkLOXFQy89s6dpvk-A/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 33,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/center-for-yoga-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2235"
+}

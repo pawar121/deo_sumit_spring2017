@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3442001,
+        "longitude": -71.0979538
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "citizen-public-house-and-oyster-bar-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E5edyo7D_R-ariIuwJ4RzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1310 Boylston St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02215"
+    },
+    "name": "Citizen Public House & Oyster Bar",
+    "phone": "+16174509000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/E5edyo7D_R-ariIuwJ4RzQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WBdho66wvO1Owdk4ZZBe4w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6X2pUkAOBckscFJwmgs2Gg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 498,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/citizen-public-house-and-oyster-bar-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2552"
+}

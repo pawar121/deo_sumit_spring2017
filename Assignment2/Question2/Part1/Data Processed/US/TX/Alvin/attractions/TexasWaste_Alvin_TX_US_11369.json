@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "eventplanning",
+            "title": "Party & Event Planning"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.4141945631608,
+        "longitude": -95.2071269491445
+    },
+    "id": "texas-waste-co-alvin-3",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2800 E Broadway",
+        "address2": "Ste C409",
+        "address3": "",
+        "city": "Alvin",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77511"
+    },
+    "name": "Texas Waste Co",
+    "phone": "+12817244232",
+    "photos": [],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/texas-waste-co-alvin-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11369"
+}

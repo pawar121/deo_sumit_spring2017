@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3358359,
+        "longitude": -83.0501743
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "aloft-detroit-at-the-david-whitney-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2njwnTw6xolrR7-zPg5g_w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "One Park Avenue",
+        "address2": null,
+        "address3": null,
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Aloft Detroit at the David Whitney",
+    "phone": "+13132371700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2njwnTw6xolrR7-zPg5g_w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dvCcxDVxIZL01fUD-Fml0Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uZrjIJ-_jB5LIuh3AWFu0Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 47,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/aloft-detroit-at-the-david-whitney-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "369"
+}

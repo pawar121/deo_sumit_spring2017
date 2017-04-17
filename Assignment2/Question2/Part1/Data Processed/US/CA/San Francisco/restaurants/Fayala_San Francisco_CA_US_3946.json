@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7894273203872,
+        "longitude": -122.394645086265
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "fayala-san-francisco-4",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GBE7VDuX8QiixdGdwlzhWQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "215 Fremont St",
+        "address2": "Ste 2B",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94105"
+    },
+    "name": "Fayala",
+    "phone": "+14157570444",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GBE7VDuX8QiixdGdwlzhWQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NzjkTtDXROGc6W1KuPTXSg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fa3mp9U9mCHUpiJh-Zmwyg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 98,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fayala-san-francisco-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3946"
+}

@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.714699843615,
+        "longitude": -74.0150587611769
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "regal-cinemas-battery-park-11-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZqEH9-6iLCkWHZZyOrORhA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "102 North End Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10281"
+    },
+    "name": "Regal Cinemas Battery Park 11",
+    "phone": "+18444627342",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZqEH9-6iLCkWHZZyOrORhA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/OsY8ufBeQmuBSRPcu5DEhA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BZW5BAMWr6Q1jUdFeAwwaw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 370,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/regal-cinemas-battery-park-11-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9471"
+}

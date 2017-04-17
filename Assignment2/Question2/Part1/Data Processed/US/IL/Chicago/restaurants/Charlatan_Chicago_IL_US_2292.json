@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.89598,
+        "longitude": -87.66056
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "charlatan-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EQv2QCv2aY2Y7Vk1BLEZ8g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1329 W Chicago Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60642"
+    },
+    "name": "Charlatan",
+    "phone": "+13128182073",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/EQv2QCv2aY2Y7Vk1BLEZ8g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Cq762RGB9EBOFJt55yDkeg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uL87xaTtkz8TNpXq6EMPIw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 212,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/charlatan-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2292"
+}

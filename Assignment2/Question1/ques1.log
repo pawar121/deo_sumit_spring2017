@@ -1,0 +1,29 @@
+2017-02-27 00:47:15,039 - root - INFO - Application started....
+2017-02-27 00:47:15,042 - root - INFO - Reading all the text books from Gutenberg package..
+2017-02-27 00:50:58,308 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\austen-emma.txt
+2017-02-27 00:50:58,809 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\austen-persuasion.txt
+2017-02-27 00:50:59,041 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\austen-sense.txt
+2017-02-27 00:50:59,388 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\bible-kjv.txt
+2017-02-27 00:51:01,575 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\blake-poems.txt
+2017-02-27 00:51:01,607 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\bryant-stories.txt
+2017-02-27 00:51:01,739 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\burgess-busterbrown.txt
+2017-02-27 00:51:01,794 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\carroll-alice.txt
+2017-02-27 00:51:01,875 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\chesterton-ball.txt
+2017-02-27 00:51:02,108 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\chesterton-brown.txt
+2017-02-27 00:51:02,293 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\chesterton-thursday.txt
+2017-02-27 00:51:02,455 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\edgeworth-parents.txt
+2017-02-27 00:51:02,932 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\melville-moby_dick.txt
+2017-02-27 00:51:03,592 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\milton-paradise.txt
+2017-02-27 00:51:03,853 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\shakespeare-caesar.txt
+2017-02-27 00:51:03,926 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\shakespeare-hamlet.txt
+2017-02-27 00:51:04,026 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\shakespeare-macbeth.txt
+2017-02-27 00:51:04,110 - root - INFO - Reading words from file : D:\NEU\Spring2017\Python\Assignment 2\Question1/gutenberg\whitman-leaves.txt
+2017-02-27 00:51:04,541 - root - INFO - 2102546 number of words found in the gutenberg package.
+2017-02-27 01:36:26,425 - root - INFO - Creating a dictionary of words and its count.
+2017-02-27 02:16:06,249 - root - INFO - Sorting wordlist dictionary by value.
+2017-02-27 02:28:46,365 - root - INFO - Writing data into the CSV.
+2017-02-27 02:30:39,367 - root - INFO - Sorting the words-counts list
+2017-02-27 02:30:39,384 - root - INFO - Generating words-ranks list
+2017-02-27 02:31:53,552 - root - INFO - Drawing a plot-plot graph.
+2017-02-27 02:32:46,264 - root - INFO - Drawing a plot-plot graph.
+2017-02-27 02:32:47,036 - root - INFO - Application finished....

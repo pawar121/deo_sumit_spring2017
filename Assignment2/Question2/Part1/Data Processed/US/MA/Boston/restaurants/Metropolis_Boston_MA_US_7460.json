@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.343145,
+        "longitude": -71.0728435
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "metropolis-cafe-boston-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nZt3O45HY43mEOD3GbMORg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "584 Tremont St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "Metropolis Cafe",
+    "phone": "+16172472931",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nZt3O45HY43mEOD3GbMORg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wslpvUaFDrqvMXWLX7uXrA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/gj52K3zzlWhCiCu7AJt8kw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 401,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/metropolis-cafe-boston-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7460"
+}

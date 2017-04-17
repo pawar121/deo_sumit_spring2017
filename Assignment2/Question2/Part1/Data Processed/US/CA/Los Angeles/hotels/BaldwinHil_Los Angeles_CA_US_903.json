@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.02667,
+        "longitude": -118.35369
+    },
+    "id": "baldwin-hills-motor-inn-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hYIwi2xHQxlGRgfO830uwA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3020 S La Brea Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90016"
+    },
+    "name": "Baldwin Hills Motor Inn",
+    "phone": "+13237320864",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hYIwi2xHQxlGRgfO830uwA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6AcDq9xb_wcXKiVZcYy-Lw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JKde4EPPPY1waFWhdh1SGQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/baldwin-hills-motor-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "903"
+}

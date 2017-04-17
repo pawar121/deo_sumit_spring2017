@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "belgian",
+            "title": "Belgian"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.73002,
+        "longitude": -74.00015
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0330",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "pommes-frites-new-york-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6UCYist6ceQWCtsoL3D-Dg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "128 Macdougal St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10012"
+    },
+    "name": "Pommes Frites",
+    "phone": "+12126741234",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6UCYist6ceQWCtsoL3D-Dg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4X2mTKfAivdklpXrQN9gdw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xYO4BqBgBdc-6_Hch64OJQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 153,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pommes-frites-new-york-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9110"
+}

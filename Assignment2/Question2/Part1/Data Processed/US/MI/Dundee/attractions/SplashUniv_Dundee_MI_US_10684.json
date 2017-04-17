@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        },
+        {
+            "alias": "resorts",
+            "title": "Resorts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.961883,
+        "longitude": -83.674282
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "splash-universe-dundee-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yxPCReTezbWDbXViXntqiw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "100 Whitetail Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Dundee",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48131"
+    },
+    "name": "Splash Universe",
+    "phone": "+17346060149",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yxPCReTezbWDbXViXntqiw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IHaa2nbZvZSuu0vaQQ1IiA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WtpuLhBJmL7QWTy55y0QWA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 36,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/splash-universe-dundee-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10684"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.61315,
+        "longitude": -122.34277
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "orfeo-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6vkLA_rcDg5bTMqp5rcKaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2107 3rd Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98121"
+    },
+    "name": "Orfeo",
+    "phone": "+12064431972",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6vkLA_rcDg5bTMqp5rcKaQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2OQ2vD6fgHuyK4XHozYo6Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/s2Yg0gCtnDruGrdUhsBmww/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 159,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/orfeo-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8423"
+}

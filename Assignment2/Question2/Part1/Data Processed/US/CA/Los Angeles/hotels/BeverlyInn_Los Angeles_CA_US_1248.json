@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.07639,
+        "longitude": -118.35758
+    },
+    "id": "beverly-inn-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wed15aj_CnSvrgN-B1i5wg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7701 Beverly Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90036"
+    },
+    "name": "Beverly Inn",
+    "phone": "+13239318108",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Wed15aj_CnSvrgN-B1i5wg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sTrIc-tdj4QEnSSsVXrANw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5xB9j-Q4sx_yOBIuYAS59A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.0,
+    "review_count": 37,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/beverly-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1248"
+}

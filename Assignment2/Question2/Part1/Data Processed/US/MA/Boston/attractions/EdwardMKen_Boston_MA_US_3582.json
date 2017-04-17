@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3157408467074,
+        "longitude": -71.0348434005249
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "edward-m-kennedy-institute-for-the-united-states-senate-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J6jZz8zIdmJFpGtC3yohIw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "210 Morrissey Blvd",
+        "address2": null,
+        "address3": null,
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02125"
+    },
+    "name": "Edward M. Kennedy Institute for the United States Senate",
+    "phone": "+16177407000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/J6jZz8zIdmJFpGtC3yohIw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/AvzJKmlCONbpYJQVTM199A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-UpJTPRdooTZKovDb4WbxA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/edward-m-kennedy-institute-for-the-united-states-senate-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3582"
+}

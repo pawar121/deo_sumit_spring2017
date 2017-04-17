@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.90516,
+        "longitude": -95.5224
+    },
+    "id": "pasadena-strawberry-festival-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sDf1_ZhnruNOw8kShM3bNg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7603 Red Blf",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Pasadena Strawberry Festival",
+    "phone": "+12819919500",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/sDf1_ZhnruNOw8kShM3bNg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8NZqh-UTtQjMICAEI0mAwQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/C2mYkUO8xsf_Wc4RSGbO4w/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pasadena-strawberry-festival-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8699"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "irish",
+            "title": "Irish"
+        },
+        {
+            "alias": "irish_pubs",
+            "title": "Irish Pub"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3437165,
+        "longitude": -71.0651999
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "j-j-foleys-cafe-boston-5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Pyvc4LID5xCPGp5EcQxGCA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "117 E Berkeley St",
+        "address2": null,
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02118"
+    },
+    "name": "J.J. Foley's Cafe",
+    "phone": "+16177289101",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Pyvc4LID5xCPGp5EcQxGCA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/AR053dBohA_53oaBF5M69A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CxwCM79084NpEuqI484zRA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 176,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/j-j-foleys-cafe-boston-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5750"
+}

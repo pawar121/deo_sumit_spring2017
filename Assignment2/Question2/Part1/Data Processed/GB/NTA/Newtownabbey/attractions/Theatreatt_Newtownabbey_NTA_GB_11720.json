@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 54.6957016,
+        "longitude": -5.94695
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "theatre-at-the-mill-newtownabbey",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aZ-T0heLn2nCotElMgxRzg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Carnmoney Rd N",
+        "address2": "",
+        "address3": "",
+        "city": "Newtownabbey",
+        "country": "GB",
+        "state": "NTA",
+        "zip_code": "BT36 5QA"
+    },
+    "name": "Theatre at the Mill",
+    "phone": "+442890340202",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/aZ-T0heLn2nCotElMgxRzg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/71BVNQa4NChTmSk5ucRooQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pOLZbNdit4mAA3QoRxmgoA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/theatre-at-the-mill-newtownabbey?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11720"
+}

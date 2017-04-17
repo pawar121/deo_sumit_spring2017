@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.88465,
+        "longitude": -87.65007
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "leña-brava-chicago-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AEnWvGtzt-71j3AYA7-tow/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "900-902 W Randolph St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60607"
+    },
+    "name": "Leña Brava",
+    "phone": "+13127331975",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/AEnWvGtzt-71j3AYA7-tow/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zsktf0XhHAJ8kwQy-0XXqQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/6RKO9e7Ud654MJ0ckWD92w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 125,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/le%C3%B1a-brava-chicago-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6649"
+}

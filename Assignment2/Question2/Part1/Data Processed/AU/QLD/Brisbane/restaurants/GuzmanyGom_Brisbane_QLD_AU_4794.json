@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -27.4691105,
+        "longitude": 153.0304413
+    },
+    "id": "guzman-y-gomez-brisbane-5",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/koa_sKrzMKyq3JlhaIxkxQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 12, Eagle Street Pier",
+        "address2": "45 Eagle Street",
+        "address3": "",
+        "city": "Brisbane",
+        "country": "AU",
+        "state": "QLD",
+        "zip_code": "4000"
+    },
+    "name": "Guzman y Gomez",
+    "phone": "+61731881709",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/koa_sKrzMKyq3JlhaIxkxQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/UhxzkpzOO4ArsdWDS61pBw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/3XDkhyypLho1fpQFALE9-A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/guzman-y-gomez-brisbane-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4794"
+}

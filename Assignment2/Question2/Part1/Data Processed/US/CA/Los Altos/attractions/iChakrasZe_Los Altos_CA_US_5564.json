@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.37807,
+        "longitude": -122.11778
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "ichakras-zen-center-los-altos-11",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vcGFwUpWHYYuxEjOPTmmDw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "398 Main St",
+        "address2": null,
+        "address3": "",
+        "city": "Los Altos",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94022"
+    },
+    "name": "iChakras - Zen Center",
+    "phone": "+16507720439",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vcGFwUpWHYYuxEjOPTmmDw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SPfFos35Vjmd_CVHVRuchA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gh6mMlaRjVi0ncP8LL7iIg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ichakras-zen-center-los-altos-11?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5564"
+}

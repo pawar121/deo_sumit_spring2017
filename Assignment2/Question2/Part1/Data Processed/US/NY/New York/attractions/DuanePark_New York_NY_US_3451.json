@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7249172,
+        "longitude": -73.9925423
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "duane-park-new-york-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/e-wV8sEEq0MpmnHtum4ZOg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "308 Bowery",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10012"
+    },
+    "name": "Duane Park",
+    "phone": "+12127325555",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/e-wV8sEEq0MpmnHtum4ZOg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iSrLweaGOg07-xdvLJjjtw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rGqeepTfMK2kZeHt8TsxgA/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.0,
+    "review_count": 228,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/duane-park-new-york-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3451"
+}

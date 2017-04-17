@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8331655,
+        "longitude": 174.4287153
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "maori-bay-muriwai",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L5Cr3zFXx_IA1FdZpNxhFw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Waitea Road",
+        "address2": "Muriwai",
+        "address3": "",
+        "city": "Muriwai",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "0881"
+    },
+    "name": "Maori Bay",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/L5Cr3zFXx_IA1FdZpNxhFw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tRnNOUs9SdDwn4nJvjUIVw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/BKyRpMxpGwsM4PB-WLcfGQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/maori-bay-muriwai?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7201"
+}

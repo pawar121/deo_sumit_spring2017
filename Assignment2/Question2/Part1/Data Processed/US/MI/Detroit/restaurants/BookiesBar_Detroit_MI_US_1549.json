@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "sportsbars",
+            "title": "Sports Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.33687,
+        "longitude": -83.05552
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "bookies-bar-and-grille-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ugbwJPM15Vx9f9HT5L9rcQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2208 Cass Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48201"
+    },
+    "name": "Bookies Bar & Grille",
+    "phone": "+13139620319",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ugbwJPM15Vx9f9HT5L9rcQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wxdlrIWeovGOya1nZd8z_g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rzrPB2vuiGDQyw6l2A4YHQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 74,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bookies-bar-and-grille-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1549"
+}

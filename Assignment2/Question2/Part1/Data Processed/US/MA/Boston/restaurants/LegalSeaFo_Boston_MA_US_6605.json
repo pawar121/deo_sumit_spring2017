@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3669410889598,
+        "longitude": -71.0156518220901
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "legal-sea-foods-boston-49",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cALrg0n1P2vmsCwiNvKHmg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Logan Airport Terminal C",
+        "address2": "1 Harborside Dr",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02128"
+    },
+    "name": "Legal Sea Foods",
+    "phone": "+16175682800",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cALrg0n1P2vmsCwiNvKHmg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oMo2GcpkqTx0RrPcSccf-Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8kVT2iWWocrs4OF-fXC2mg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 277,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/legal-sea-foods-boston-49?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6605"
+}

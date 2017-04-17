@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.75529,
+        "longitude": -73.99842
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "friedmans-new-york-57",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hvzwC7UxPfD7rl2iz7b8Cg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "450 10th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10018"
+    },
+    "name": "Friedman's",
+    "phone": "+12122681100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hvzwC7UxPfD7rl2iz7b8Cg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HR8FSJr5FZFkmlumw8p3EA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4R_vHdAv43SQlw0eo_Uy9g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 247,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/friedmans-new-york-57?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4306"
+}

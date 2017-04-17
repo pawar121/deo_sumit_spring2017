@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4793739,
+        "longitude": -2.9338117
+    },
+    "id": "hole-in-the-wall-cafe-liverpool",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jlfqMUymEqe4X3_ghJ9rOw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "37 School Lane",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 3DA"
+    },
+    "name": "Hole in The Wall Cafe",
+    "phone": "+441517097733",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jlfqMUymEqe4X3_ghJ9rOw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/krQ5rDyWgZ2DF1oubogaag/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/CuQhC46XKmA3L-ULQzIHCQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hole-in-the-wall-cafe-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5160"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "beergardens",
+            "title": "Beer Gardens"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.8213393,
+        "longitude": -95.4239446
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "petrol-station-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BaSPZe6GXRhxtlcY6fKMqQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "985 Wakefield Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77018"
+    },
+    "name": "Petrol Station",
+    "phone": "+17139572875",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/e-bWSZ-ZIi3Uvqcg6xP55w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/BaSPZe6GXRhxtlcY6fKMqQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wMi-rlw5FDMnkonNVWEecA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 579,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/petrol-station-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8814"
+}

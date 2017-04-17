@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "hauntedhouses",
+            "title": "Haunted Houses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.5980484,
+        "longitude": -73.6494564
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "new-york-haunted-hayride-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/l_heVQBZE6QSgoCrU3YiSQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Randall's 20 Island Park",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10035"
+    },
+    "name": "New York Haunted Hayride",
+    "phone": "+13027515747",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/l_heVQBZE6QSgoCrU3YiSQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/h0OTkmtnirkRUlkiBBun5Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xrdBjrbfxZgw6owZXRvk7w/o.jpg"
+    ],
+    "rating": 2.5,
+    "review_count": 103,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-york-haunted-hayride-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8033"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3431622796524,
+        "longitude": -71.0989929288362
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "gyro-city-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Bjn09FrIhO5b4CpVZnrMPg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "88 Peterborough St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02215"
+    },
+    "name": "Gyro City",
+    "phone": "+16172664976",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Bjn09FrIhO5b4CpVZnrMPg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/awXlreqpD9MQs_bk9RPKDw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/e4oZL5hjkU9hNkkVbnL2Ag/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 210,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gyro-city-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4807"
+}

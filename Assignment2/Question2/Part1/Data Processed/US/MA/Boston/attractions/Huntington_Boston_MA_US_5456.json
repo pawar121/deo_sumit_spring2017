@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.34198,
+        "longitude": -71.08559
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "1930",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "huntington-theatre-company-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VvUhdKUjBMb6mgt3se2s-g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "264 Huntington Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02115"
+    },
+    "name": "Huntington Theatre Company",
+    "phone": "+16172660800",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VvUhdKUjBMb6mgt3se2s-g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oEYidqI3qOm87mmTTET8Zw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/P9Q5UOFpaGCE4MPfAVdd6w/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 58,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/huntington-theatre-company-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5456"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7335654,
+        "longitude": -95.390868
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "pax-americana-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fpniKvk0WZCpSVDXLBcCLQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4319 Montrose Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Pax Americana",
+    "phone": "+17132390228",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fpniKvk0WZCpSVDXLBcCLQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/D7R_KINJnHfWJNuFVgm7_A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/SdM-yeT1KAy2O8jERZOg4w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 277,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pax-americana-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8731"
+}

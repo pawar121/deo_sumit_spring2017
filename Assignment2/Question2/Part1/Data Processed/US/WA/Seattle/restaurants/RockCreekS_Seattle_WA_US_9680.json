@@ -1,0 +1,104 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6594842489603,
+        "longitude": -122.349788737434
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "rockcreek-seafood-and-spirits-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0pxDf0f8U_kQp0Kz9ZsGVQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4300 Fremont Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98103"
+    },
+    "name": "RockCreek Seafood & Spirits",
+    "phone": "+12065577532",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0pxDf0f8U_kQp0Kz9ZsGVQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MAaIwX-26t4nLBe5b5_K3A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EfAk8mr-C2oVE0H7C-P8Vg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 538,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/rockcreek-seafood-and-spirits-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9680"
+}

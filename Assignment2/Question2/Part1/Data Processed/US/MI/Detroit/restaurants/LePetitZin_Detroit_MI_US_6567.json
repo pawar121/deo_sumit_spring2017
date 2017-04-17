@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.325924,
+        "longitude": -83.063008
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "le-petit-zinc-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Zt4UlfbiVTxit-ztJdILeg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1055 Trumbull St",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48216"
+    },
+    "name": "Le Petit Zinc",
+    "phone": "+13139632805",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Zt4UlfbiVTxit-ztJdILeg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wZzX_709G_QSnI0RK4JCBg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/y3ex2YcAzU7mm_64fQU3mg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 217,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/le-petit-zinc-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6567"
+}

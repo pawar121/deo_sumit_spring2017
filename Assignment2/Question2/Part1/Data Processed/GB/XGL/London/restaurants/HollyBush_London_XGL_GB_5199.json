@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5579124,
+        "longitude": -0.1793261
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "holly-bush-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HhGp_SeuDeB-DZJjruxonA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "22 Holly Mount",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "NW3 6SG"
+    },
+    "name": "Holly Bush",
+    "phone": "+442074352892",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HhGp_SeuDeB-DZJjruxonA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3wu3daS48UWKXgkhVmir9g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/0gGmsYc5DSnJhSazQwss5g/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 103,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/holly-bush-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5199"
+}

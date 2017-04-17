@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.884632,
+        "longitude": 2.299712
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "hôtel-ampère-paris-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FDna6MSzmoakMajsLW03RQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "102 avenue de Villiers",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75017"
+    },
+    "name": "Hôtel Ampère",
+    "phone": "+33144291717",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FDna6MSzmoakMajsLW03RQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JEkgj-829VZi9Stsakjo9g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vUdno5wKuIdQM6bdDbj4Vg/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-amp%C3%A8re-paris-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5496"
+}

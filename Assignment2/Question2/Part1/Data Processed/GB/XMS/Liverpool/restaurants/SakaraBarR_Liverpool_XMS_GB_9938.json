@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.3671061,
+        "longitude": -2.9251092
+    },
+    "id": "sakara-bar-and-restaurant-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZY6WMQ4rcWbf75JuWMGZ_A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "372 Aigburth Road",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L17 6AE"
+    },
+    "name": "Sakara Bar & Restaurant",
+    "phone": "+441514272200",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZY6WMQ4rcWbf75JuWMGZ_A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kNKu0DxHv0cbzIjnI5x2tQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sakara-bar-and-restaurant-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9938"
+}

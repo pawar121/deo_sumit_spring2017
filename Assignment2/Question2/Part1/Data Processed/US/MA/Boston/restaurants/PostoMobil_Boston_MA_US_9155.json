@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3587248309845,
+        "longitude": -71.052360240186
+    },
+    "id": "posto-mobile-boston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9a5poh9nPFOhIG1fJJT79Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02144"
+    },
+    "name": "Posto Mobile",
+    "phone": "+16176250600",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9a5poh9nPFOhIG1fJJT79Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/qaPSPHo6lG4O6TYINqQdJQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lhDQ2pOBAu_p21NJzIUtPA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/posto-mobile-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9155"
+}

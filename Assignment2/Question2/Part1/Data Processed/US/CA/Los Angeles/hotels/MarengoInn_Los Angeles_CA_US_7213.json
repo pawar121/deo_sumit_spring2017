@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.05606,
+        "longitude": -118.20698
+    },
+    "id": "marengo-inn-los-angeles",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5SugRV3s6HZ4hFvjpKoAPg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2050 Marengo St",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90033"
+    },
+    "name": "Marengo Inn",
+    "phone": "+13232232080",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5SugRV3s6HZ4hFvjpKoAPg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yyQelBb7s2k6Lsn_-lBVJw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BIsrzcVlVQ5KyVKryQiUyg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 1.0,
+    "review_count": 2,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/marengo-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7213"
+}

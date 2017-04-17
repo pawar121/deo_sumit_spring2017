@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.8684972,
+        "longitude": -95.4129428
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "josies-place-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eEJZsg2TaRgvi1PUM2Y0aA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7413 N Shepherd Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77091"
+    },
+    "name": "Josie's Place",
+    "phone": "+17136957711",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eEJZsg2TaRgvi1PUM2Y0aA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hYp8DRDaRv1bDC2GPlBHNg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XZAe9-GqR9-XLl_2styrxQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 28,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/josies-place-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5941"
+}

@@ -1,0 +1,28 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -42.8869095,
+        "longitude": 147.3351746
+    },
+    "id": "australian-hotels-association-hobart",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "93 Salamanca Pl",
+        "address2": null,
+        "address3": null,
+        "city": "Hobart",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7000"
+    },
+    "name": "Australian Hotels Association",
+    "phone": "+61362247033",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/australian-hotels-association-hobart?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "772"
+}

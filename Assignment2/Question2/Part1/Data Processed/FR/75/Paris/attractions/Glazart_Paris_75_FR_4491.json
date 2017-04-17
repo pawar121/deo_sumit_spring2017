@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.89926,
+        "longitude": 2.38687
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0600",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "glazart-paris-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eK-xodoYsnzu1aRKkiEMeA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7-15 avenue de la Porte de la Villette",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75019"
+    },
+    "name": "Glazart",
+    "phone": "+33140365565",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eK-xodoYsnzu1aRKkiEMeA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wTkvy-2oYCKC8_LgCo-xSw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/67Btlzq9k1LtKtir7oshiA/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 57,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/glazart-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4491"
+}

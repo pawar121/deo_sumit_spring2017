@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85549,
+        "longitude": 2.36193
+    },
+    "id": "hôtel-saint-paul-le-marais-paris-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/piEfXkJhDmy9qQo5FMoDGg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8 Rue Sévigné",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75004"
+    },
+    "name": "Hôtel Saint-Paul Le Marais",
+    "phone": "+33148049727",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/piEfXkJhDmy9qQo5FMoDGg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_6Wy2_2yL1wauiHreCbSBQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/t1igON7VC4jLyaPeEud28Q/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-saint-paul-le-marais-paris-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5540"
+}

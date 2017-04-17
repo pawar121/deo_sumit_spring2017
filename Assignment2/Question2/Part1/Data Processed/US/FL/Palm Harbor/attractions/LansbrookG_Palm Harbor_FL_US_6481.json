@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "golf",
+            "title": "Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 28.1006432,
+        "longitude": -82.6974258
+    },
+    "id": "lansbrook-golf-club-palm-harbor",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6zcBlq1Roq_iUAVbtMPVSQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4605 Village Center Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Palm Harbor",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "34685"
+    },
+    "name": "Lansbrook Golf Club",
+    "phone": "+17277847333",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6zcBlq1Roq_iUAVbtMPVSQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lansbrook-golf-club-palm-harbor?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6481"
+}

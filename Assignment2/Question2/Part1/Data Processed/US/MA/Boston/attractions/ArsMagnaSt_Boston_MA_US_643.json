@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "eventphotography",
+            "title": "Event Photography"
+        },
+        {
+            "alias": "sessionphotography",
+            "title": "Session Photography"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.345686,
+        "longitude": -71.051062
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "ars-magna-studio-boston-6",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UnPT68ozX-ELKnvCftx2jw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Channel Center St",
+        "address2": "#601",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Ars Magna Studio",
+    "phone": "+16179421449",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UnPT68ozX-ELKnvCftx2jw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EObaurvt1kLHNNLZFL133g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nT3GuakIGqBwU7xthohSlw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ars-magna-studio-boston-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "643"
+}

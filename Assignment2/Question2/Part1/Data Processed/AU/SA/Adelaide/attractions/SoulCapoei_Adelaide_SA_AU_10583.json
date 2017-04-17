@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "alias": "martialarts",
+            "title": "Martial Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9242744,
+        "longitude": 138.5977631
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "soul-capoeira-adelaide",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-Hvki86Yuv6g2CbJsej3JA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "38 Currie St",
+        "address2": "",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Soul Capoeira",
+    "phone": "+61403301285",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-Hvki86Yuv6g2CbJsej3JA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/soul-capoeira-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10583"
+}

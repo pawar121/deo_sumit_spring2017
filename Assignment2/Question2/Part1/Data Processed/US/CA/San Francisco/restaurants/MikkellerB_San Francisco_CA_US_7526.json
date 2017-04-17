@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.783976,
+        "longitude": -122.408981
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "mikkeller-bar-san-francisco",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JTFs0SI0QjJrZuCQaiBdrw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "34 Mason St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94102"
+    },
+    "name": "Mikkeller Bar",
+    "phone": "+14159840279",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JTFs0SI0QjJrZuCQaiBdrw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/N6wMyHq6B6r3ypiLqJ5_wA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/UiZ3xXHyYmiElEM55d9nig/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 819,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mikkeller-bar-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7526"
+}

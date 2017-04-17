@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7498703,
+        "longitude": -73.9812622
+    },
+    "id": "morgans-hotel-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o5tZGAvRi-qzX9PqHOjrMA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "237 Madison Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "Morgans Hotel",
+    "phone": "+12126860300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o5tZGAvRi-qzX9PqHOjrMA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/RYDu0GcaN-QK-mf3t-998w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bkoXLAi6JNfSZgaWHhbj4A/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 77,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/morgans-hotel-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7697"
+}

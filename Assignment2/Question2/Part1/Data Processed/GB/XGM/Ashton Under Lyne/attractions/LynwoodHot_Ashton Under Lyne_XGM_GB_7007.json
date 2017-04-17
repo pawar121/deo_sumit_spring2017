@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4850474,
+        "longitude": -2.105023
+    },
+    "id": "lynwood-hotel-ashton-under-lyne",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Richmond Street",
+        "address2": "",
+        "address3": "",
+        "city": "Ashton Under Lyne",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "OL6 7TX"
+    },
+    "name": "Lynwood Hotel",
+    "phone": "+441613305358",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/lynwood-hotel-ashton-under-lyne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7007"
+}

@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1693227,
+        "longitude": -115.1413073
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "life-is-beautiful-festival-las-vegas-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t5qOwR3WzLqvpNCIPl2aYw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "425 Fremont St",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "Life is Beautiful Festival",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/t5qOwR3WzLqvpNCIPl2aYw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tVJ1JIVhLodH763OugpyUA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/k7Isn0_RHwsyIJazzbnr2g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 110,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/life-is-beautiful-festival-las-vegas-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6662"
+}

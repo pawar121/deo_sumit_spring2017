@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "filipino",
+            "title": "Filipino"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.38371,
+        "longitude": -121.8922
+    },
+    "id": "jeepney-guy-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hx_lqLFtVJi2-grDCD4gAw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95131"
+    },
+    "name": "Jeepney Guy",
+    "phone": "+19259982389",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Hx_lqLFtVJi2-grDCD4gAw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hGh0iv3QuH3N575nkPU01Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xVvRz5ld53DRtWBznpiIWw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 39,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jeepney-guy-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5840"
+}

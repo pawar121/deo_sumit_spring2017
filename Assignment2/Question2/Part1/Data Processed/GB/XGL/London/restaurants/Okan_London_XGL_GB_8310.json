@@ -1,0 +1,98 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "alias": "streetvendors",
+            "title": "Street Vendors"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4626642688451,
+        "longitude": -0.111575275863771
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1230"
+                }
+            ]
+        }
+    ],
+    "id": "okan-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m6QJTsJTbwwgzWf-6Ob5HQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Unit 39",
+        "address2": "Brixton Village Market",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW9 8PS"
+    },
+    "name": "Okan",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/m6QJTsJTbwwgzWf-6Ob5HQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/d-9sWa0Ma8lc9ofFWhAOsw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-kl4NVkg9fYP4yMl9XRiig/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 30,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/okan-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8310"
+}

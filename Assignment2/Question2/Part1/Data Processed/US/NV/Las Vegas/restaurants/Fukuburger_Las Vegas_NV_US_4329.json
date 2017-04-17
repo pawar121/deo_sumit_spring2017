@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.175,
+        "longitude": -115.136389
+    },
+    "id": "fukuburger-truck-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jPt9FD8as9KnvkVD8Xq53w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": ""
+    },
+    "name": "Fukuburger Truck",
+    "phone": "+17022170758",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jPt9FD8as9KnvkVD8Xq53w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DpdCluajiQSiPXbW9k2p0w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/1QZSfUrzOifaClya6IRYdA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 354,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fukuburger-truck-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4329"
+}

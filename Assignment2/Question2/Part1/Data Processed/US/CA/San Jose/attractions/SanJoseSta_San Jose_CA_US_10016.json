@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3289321,
+        "longitude": -121.8848
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "san-jose-stage-company-san-jose-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/66lFVzo6r9AYpIYq8vUMyA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "490 S 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "San Jose Stage Company",
+    "phone": "+14082837142",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/66lFVzo6r9AYpIYq8vUMyA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/tmS3eQAAO7jM-IKy9GpGMA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YIU0JUpiBTM-2tAmvItFHQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 57,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/san-jose-stage-company-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10016"
+}

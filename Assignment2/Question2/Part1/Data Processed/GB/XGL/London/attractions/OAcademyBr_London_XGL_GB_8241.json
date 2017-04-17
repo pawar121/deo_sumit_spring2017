@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "musicvideo",
+            "title": "Music & DVDs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4651860270066,
+        "longitude": -0.114903511888904
+    },
+    "id": "o2-academy-brixton-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_9gPElw2oQqlmEDfknqEKg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "211 Stockwell Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW9 9SL"
+    },
+    "name": "O2 Academy Brixton",
+    "phone": "+442077713000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_9gPElw2oQqlmEDfknqEKg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qOOvM3BHDLbVz14BLDAdsg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RhRz7-idokm20zKf2lLd8w/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 58,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/o2-academy-brixton-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8241"
+}

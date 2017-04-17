@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "lakes",
+            "title": "Lakes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.42081,
+        "longitude": -2.34904
+    },
+    "id": "sale-water-park-manchester",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MkymGiux8nqLvJcy7SarAQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "Sale",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M33 2LX"
+    },
+    "name": "Sale Water Park",
+    "phone": "+441619620118",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MkymGiux8nqLvJcy7SarAQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/8csFZ197r_scf7w9FhfV8A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0pSAJPL3Gy6S747D-632uQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sale-water-park-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9955"
+}

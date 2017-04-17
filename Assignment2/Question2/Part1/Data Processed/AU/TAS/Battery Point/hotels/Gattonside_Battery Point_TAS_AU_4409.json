@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": -42.8901566090153,
+        "longitude": 147.329391814871
+    },
+    "id": "gattonside-heritage-accommodation-battery-point",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/27rcSHIV1Z6xsHjAcZ0sBg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "51-53 Sandy Bay Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Battery Point",
+        "country": "AU",
+        "state": "TAS",
+        "zip_code": "7004"
+    },
+    "name": "Gattonside Heritage Accommodation",
+    "phone": "+611800618010",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/27rcSHIV1Z6xsHjAcZ0sBg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RRwiveFKPKIROJ3CLF3aJA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7aDzZtk54CmASk9OEAzVAQ/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/gattonside-heritage-accommodation-battery-point?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4409"
+}

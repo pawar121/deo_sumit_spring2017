@@ -1,0 +1,88 @@
+2017-03-31 10:21:06,379 - root - INFO - Application started....
+2017-03-31 10:21:06,379 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 10:22:38,442 - root - INFO - Deriving month column from the date
+2017-03-31 10:22:42,397 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 10:22:42,497 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 10:22:42,598 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 10:22:42,600 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 10:22:42,603 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 10:22:42,668 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-03-31 10:22:42,674 - root - INFO - Application finished....
+2017-03-31 10:32:51,243 - root - INFO - Application started....
+2017-03-31 10:32:51,243 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 10:34:23,825 - root - INFO - Deriving month column from the date
+2017-03-31 10:34:27,409 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 10:34:27,511 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 10:34:27,592 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 10:34:27,594 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 10:34:27,597 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 10:35:04,312 - root - INFO - Application started....
+2017-03-31 10:35:04,313 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 10:36:35,227 - root - INFO - Deriving month column from the date
+2017-03-31 10:36:38,748 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 10:36:38,851 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 10:36:38,937 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 10:36:38,940 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 10:36:38,944 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 10:36:38,948 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-03-31 10:36:38,957 - root - INFO - Application finished....
+2017-03-31 11:08:13,723 - root - INFO - Application started....
+2017-03-31 11:08:13,725 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 11:09:49,487 - root - INFO - Deriving month column from the date
+2017-03-31 11:09:53,123 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 11:09:53,227 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 11:09:53,312 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 11:09:53,315 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 11:09:53,319 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 11:09:53,321 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-03-31 11:09:53,326 - root - INFO - Application finished....
+2017-03-31 11:10:56,780 - root - INFO - Application started....
+2017-03-31 11:10:56,781 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 11:12:37,152 - root - INFO - Deriving month column from the date
+2017-03-31 11:12:40,772 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 11:12:40,879 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 11:12:40,967 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 11:12:40,971 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 11:12:40,975 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 11:16:13,948 - root - INFO - Application started....
+2017-03-31 11:16:13,975 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 11:17:56,295 - root - INFO - Deriving month column from the date
+2017-03-31 11:18:00,032 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 11:18:00,136 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 11:18:00,221 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 11:18:00,224 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 11:18:00,228 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 11:18:00,230 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-03-31 11:18:00,239 - root - INFO - Application finished....
+2017-03-31 15:44:42,770 - root - INFO - Application started....
+2017-03-31 15:44:42,806 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 15:46:03,934 - root - INFO - Deriving month column from the date
+2017-03-31 15:46:06,975 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 15:46:07,063 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 15:46:07,132 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 15:46:07,134 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 15:46:07,136 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 15:46:07,142 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-03-31 15:46:07,146 - root - INFO - Application finished....
+2017-03-31 18:06:16,989 - root - INFO - Application started....
+2017-03-31 18:06:16,990 - root - INFO - Reading data from vehicle_collisions.csv
+2017-03-31 18:07:36,864 - root - INFO - Filtering months to take 2016 data
+2017-03-31 18:07:36,996 - root - INFO - Deriving month column from the date
+2017-03-31 18:07:38,447 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-03-31 18:07:38,492 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-03-31 18:07:38,526 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-03-31 18:07:38,528 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-03-31 18:07:38,529 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-03-31 18:07:38,534 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-03-31 18:07:38,538 - root - INFO - Application finished....
+2017-04-04 16:05:58,104 - root - INFO - Application started....
+2017-04-04 16:05:58,133 - root - INFO - Reading data from vehicle_collisions.csv
+2017-04-04 16:08:59,245 - root - INFO - Filtering months to take 2016 data
+2017-04-04 16:08:59,541 - root - INFO - Deriving month column from the date
+2017-04-04 16:09:02,724 - root - INFO - Grouping by MONTH and counting the total number of records
+2017-04-04 16:09:02,793 - root - INFO - Grouping by MONTH and counting total number of records for which BOROUGH = MANHATTAN
+2017-04-04 16:09:02,852 - root - INFO - Combining NYC and MANHATTAN Series into summary Metrix data frame
+2017-04-04 16:09:02,854 - root - INFO - Calculating PERCENTAGE from the NYC & MANHATTAN columns
+2017-04-04 16:09:02,856 - root - INFO - Writing summary metrix to Q1_Part1.csv
+2017-04-04 16:09:02,866 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q1_Part1.csv
+2017-04-04 16:09:02,873 - root - INFO - Application finished....

@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.75947,
+        "longitude": -95.36097
+    },
+    "id": "houston-chamber-choir-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BOoWCgJYr2s-UCiXVGSJEA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1117 Texas St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Houston Chamber Choir",
+    "phone": "+17132245566",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BOoWCgJYr2s-UCiXVGSJEA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sz8dmY7zM_fgfPLpMtidhw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VXzypFkr6mc2Qvd2zOlLVQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/houston-chamber-choir-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5398"
+}

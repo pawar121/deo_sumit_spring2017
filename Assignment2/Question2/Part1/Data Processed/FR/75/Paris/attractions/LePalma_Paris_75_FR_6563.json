@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.86504,
+        "longitude": 2.39763
+    },
+    "id": "le-palma-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nt0CE9t9gCuTw1ZOCDuLNA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "77 av Gambetta",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75020"
+    },
+    "name": "Le Palma",
+    "phone": "+33146361365",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nt0CE9t9gCuTw1ZOCDuLNA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/exA7LDufBPOi4FQNGHFV2Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cAbuoKVa5icLpiJDJGkzJA/o.jpg"
+    ],
+    "price": "€",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-palma-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6563"
+}

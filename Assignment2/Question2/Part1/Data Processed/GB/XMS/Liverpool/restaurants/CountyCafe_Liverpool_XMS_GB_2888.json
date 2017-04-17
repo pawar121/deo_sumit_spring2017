@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4383997,
+        "longitude": -2.9711153
+    },
+    "id": "county-cafe-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Bw_sqcRTJLW3ze0-HGvkYA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "50-52 County Road",
+        "address2": "",
+        "address3": "Walton",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L4 3QL"
+    },
+    "name": "County Cafe",
+    "phone": "+441515258897",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Bw_sqcRTJLW3ze0-HGvkYA/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/county-cafe-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2888"
+}

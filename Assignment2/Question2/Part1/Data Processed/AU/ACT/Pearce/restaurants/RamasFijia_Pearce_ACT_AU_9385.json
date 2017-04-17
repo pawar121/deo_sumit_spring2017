@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3627892,
+        "longitude": 149.0818787
+    },
+    "id": "ramas-fijian-restaurant-pearce",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NFUJSiQY0Bv1p8p66OFh-Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "70 Hodgson St",
+        "address2": "",
+        "address3": "",
+        "city": "Pearce",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2607"
+    },
+    "name": "Rama's Fijian Restaurant",
+    "phone": "+61262861964",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NFUJSiQY0Bv1p8p66OFh-Q/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ramas-fijian-restaurant-pearce?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9385"
+}

@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.50982147941,
+        "longitude": -0.14242996501589
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0830"
+                }
+            ]
+        }
+    ],
+    "id": "royal-institution-of-great-britain-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qPXLlB5089_W9fyWwUv1oQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "21 Albemarle Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1S 4BS"
+    },
+    "name": "Royal Institution of Great Britain",
+    "phone": "+442074092992",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qPXLlB5089_W9fyWwUv1oQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-f-bbUPqMPAKTnhvkS3LNg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qTulU0h2TbFkxouieTPUZw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/royal-institution-of-great-britain-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9809"
+}

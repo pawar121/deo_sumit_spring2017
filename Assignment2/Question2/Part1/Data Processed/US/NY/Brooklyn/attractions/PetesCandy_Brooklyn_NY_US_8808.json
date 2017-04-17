@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "divebars",
+            "title": "Dive Bars"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.71811,
+        "longitude": -73.95016
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1530"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1530"
+                }
+            ]
+        }
+    ],
+    "id": "petes-candy-store-brooklyn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9V2sRBytbTTJkD3v1ydOmQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "709 Lorimer St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11211"
+    },
+    "name": "Pete's Candy Store",
+    "phone": "+17183023770",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9V2sRBytbTTJkD3v1ydOmQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/x7b_ar20PguTX7H1zZVgQw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/T7Ld8yGD0hj7D-nGo_AfMQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 229,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/petes-candy-store-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8808"
+}

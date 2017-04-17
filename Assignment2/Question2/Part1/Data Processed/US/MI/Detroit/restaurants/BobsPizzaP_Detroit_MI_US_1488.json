@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.42975,
+        "longitude": -83.24452
+    },
+    "id": "bobs-pizza-palace-detroit-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k7VUCBoO9tnqv-7DKpwEkw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "20510 W 7 Mile Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48219"
+    },
+    "name": "Bob's Pizza Palace",
+    "phone": "+13135382742",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/k7VUCBoO9tnqv-7DKpwEkw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XuwDUMnsdNZtXcGeMzq44g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4WqewK8o3fD2KRtcJJoEiw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 20,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bobs-pizza-palace-detroit-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1488"
+}

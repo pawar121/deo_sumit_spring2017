@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8285332,
+        "longitude": -4.2831407
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "black-dove-glasgow",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7EKyb-DlrcAZiHBv798Qhg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "67 Kilmarnock Road",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G41 3YR"
+    },
+    "name": "Black Dove",
+    "phone": "+441412311021",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7EKyb-DlrcAZiHBv798Qhg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4dnKpWHJX5wMdI5ugfNu4w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/e7Dvq7MhgdUDwPe5fC9hmg/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/black-dove-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1380"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.09849,
+        "longitude": -118.30833
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0730"
+                }
+            ]
+        }
+    ],
+    "id": "hollywood-stars-inn-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vzkFBirg000_XadxXWlAmQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5435 W Sunset Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90027"
+    },
+    "name": "Hollywood Stars Inn",
+    "phone": "+13234620062",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/vzkFBirg000_XadxXWlAmQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/E6NoBSBM1vLNJEun653QuA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/foCnuyHb-PRK0mfgY90m9w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.0,
+    "review_count": 16,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hollywood-stars-inn-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5220"
+}

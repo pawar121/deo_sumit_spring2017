@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.97176,
+        "longitude": 115.89389
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "the-dutch-trading-co-victoria-park-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o0EVOn1Kyh7Nci-7w3XhOg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "243 Albany Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Victoria Park",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6100"
+    },
+    "name": "The Dutch Trading Co",
+    "phone": "+61407087911",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/o0EVOn1Kyh7Nci-7w3XhOg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/pX7jHJIm1Z3BIoza7mcIRA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NeMw1_-d0Pkb2zwpwHF2Ng/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 19,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-dutch-trading-co-victoria-park-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11532"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3643272,
+        "longitude": -71.0536758
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "the-florentine-cafe-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d5aIWAM5wjFPMl-Rf7oquQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "333 Hanover St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02113"
+    },
+    "name": "The Florentine Cafe",
+    "phone": "+16172271777",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/d5aIWAM5wjFPMl-Rf7oquQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/v8ltzSjs3dZxa7ONXB6KsA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1jEMyO3PvFemzTTkfzR8-Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 335,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-florentine-cafe-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11590"
+}

@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "hotpot",
+            "title": "Hot Pot"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.351812533351,
+        "longitude": -71.062679301879
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "q-restaurant-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jkO_YpeQOQAowJLPId0wSQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "660 Washington St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02111"
+    },
+    "name": "Q Restaurant",
+    "phone": "+18573503968",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jkO_YpeQOQAowJLPId0wSQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/C1aVtcd8H1_V7aIXsvRCCg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/YLjLaDqZ2y0VM8hPChEzsg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 610,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/q-restaurant-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9268"
+}

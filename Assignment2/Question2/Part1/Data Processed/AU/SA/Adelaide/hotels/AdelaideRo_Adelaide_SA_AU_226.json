@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9246483,
+        "longitude": 138.6194
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "adelaide-royal-coach-formerly-royal-coach-motor-inn-adelaide-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o_ElQtGzFBygj--A5rpPyg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "24 Dequetteville Tce",
+        "address2": "Kent Town",
+        "address3": null,
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5067"
+    },
+    "name": "Adelaide Royal Coach, Formerly Royal Coach Motor Inn",
+    "phone": "+61883625676",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o_ElQtGzFBygj--A5rpPyg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bji4nnWXhchS7wcMU1Bciw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Jkt2rxcv2xFKRjehD1AQrA/o.jpg"
+    ],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/adelaide-royal-coach-formerly-royal-coach-motor-inn-adelaide-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "226"
+}

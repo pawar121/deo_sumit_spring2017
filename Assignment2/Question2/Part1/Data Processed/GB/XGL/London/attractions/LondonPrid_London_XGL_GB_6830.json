@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "active",
+            "title": "Active Life"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5429802,
+        "longitude": -0.02944
+    },
+    "id": "london-pride-run-10k-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wWdyVNneNRuXP_KfuDQzOQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Cadogan Terrace",
+        "address2": "Victoria Park",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E9 5DU"
+    },
+    "name": "London Pride Run 10K",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wWdyVNneNRuXP_KfuDQzOQ/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/london-pride-run-10k-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6830"
+}

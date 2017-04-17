@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8919551,
+        "longitude": -77.0221678
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "national-gallery-of-art-friday-jazz-in-the-garden-series-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9tl8rkPVo38tt_BNJPc6nw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "700 Constitution Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20004"
+    },
+    "name": "National Gallery of Art - Friday Jazz in the Garden Series",
+    "phone": "+12022893360",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9tl8rkPVo38tt_BNJPc6nw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ni2uYM3NClCx6UgzCIkpVA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/I43V0_PD-gyIpm4pDS3vQA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 71,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/national-gallery-of-art-friday-jazz-in-the-garden-series-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7937"
+}

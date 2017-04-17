@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.479723323951,
+        "longitude": -2.25212071819166
+    },
+    "id": "spinningfields-manchester",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-2g10M4rK2Y6FKpeRMAgjg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Quay Street",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M8 8HE"
+    },
+    "name": "Spinningfields",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-2g10M4rK2Y6FKpeRMAgjg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4RwxiXkiRyzuQI8-5YUkig/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cqyptXL9OsR1HGHzZ6x3tg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 3.5,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/spinningfields-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10678"
+}

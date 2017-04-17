@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "bedbreakfast",
+            "title": "Bed & Breakfast"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5290213,
+        "longitude": -0.1233304
+    },
+    "id": "jesmond-dene-hotel-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v8Qn8DoyJ6ENS_slAoIDRA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "27-27a Argyle Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC1H 8EP"
+    },
+    "name": "Jesmond Dene Hotel",
+    "phone": "+442078374654",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/v8Qn8DoyJ6ENS_slAoIDRA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-NJZUVKZ7vve4KJQ7dJDig/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/r7IfgDMxhAn69Dvnp5axpA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/jesmond-dene-hotel-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5854"
+}

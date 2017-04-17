@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3537102,
+        "longitude": -83.0615692
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "café-78-detroit",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1DUDg-1GpFAgNTGiiwsncA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Museum of Contemporary Art Detroit",
+        "address2": "4454 Woodward Ave",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48201"
+    },
+    "name": "Café 78",
+    "phone": "+13137849636",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1DUDg-1GpFAgNTGiiwsncA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fMVuq38wLapAcI5RTSkjJg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/iAwAVcNGeXLGZ4EV4wAElA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/caf%C3%A9-78-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2011"
+}

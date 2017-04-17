@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3505763940776,
+        "longitude": -71.0488574567263
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "pastoral-artisan-pizza-kitchen-and-bar-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JLbyHv19ZDgf-MJ53YQ6ug/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "345 Congress St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Pastoral - Artisan Pizza, Kitchen & Bar",
+    "phone": "+16173450005",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JLbyHv19ZDgf-MJ53YQ6ug/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/m7sYVGqh6SZwaM2RLaKUWw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oQ0oFlZY4slOpTQZs9MGoQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 292,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pastoral-artisan-pizza-kitchen-and-bar-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8708"
+}

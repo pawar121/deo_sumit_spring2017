@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6074902,
+        "longitude": -122.3370127
+    },
+    "id": "benaroya-hall-seattle",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JYoNcsAsw94AQT6-Shjv9A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "200 University St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Benaroya Hall",
+    "phone": "+12062154700",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JYoNcsAsw94AQT6-Shjv9A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-_I0gDhsE34yl_CBUwEJmQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MFKD45EQLmVStK_6B_usdg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 133,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/benaroya-hall-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1176"
+}

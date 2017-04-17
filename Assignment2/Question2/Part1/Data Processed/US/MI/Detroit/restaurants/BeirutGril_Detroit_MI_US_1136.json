@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "lebanese",
+            "title": "Lebanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3433666,
+        "longitude": -83.204698
+    },
+    "id": "beirut-grill-detroit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vv8mFKwrfCU8jcPIEgWv3g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "16251 W Warren",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48228"
+    },
+    "name": "Beirut Grill",
+    "phone": "+13139457445",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Vv8mFKwrfCU8jcPIEgWv3g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Hap3uvhKlygEhh6RGXISIA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/A6hxv8mPJhm5fXQXcwAMtg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/beirut-grill-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1136"
+}

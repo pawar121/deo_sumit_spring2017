@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6655299,
+        "longitude": -122.38259
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "bramling-cross-seattle-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aQbIilsr3aw4uMZDP3yMKQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5205 Ballard Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98107"
+    },
+    "name": "Bramling Cross",
+    "phone": "+12064208192",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/aQbIilsr3aw4uMZDP3yMKQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZBgxPrMp-nLSVRWJ8eAT4Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2qrwVbB-g60pxoGjo3toqA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 83,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bramling-cross-seattle-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1668"
+}

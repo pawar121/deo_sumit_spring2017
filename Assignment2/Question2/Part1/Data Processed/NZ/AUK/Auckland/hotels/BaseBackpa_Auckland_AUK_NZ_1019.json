@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8497505,
+        "longitude": 174.764801
+    },
+    "id": "base-backpackers-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F552v3bDMltHz7-k3S1HIw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "229 Queen St",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Base Backpackers",
+    "phone": "+6493584877",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/F552v3bDMltHz7-k3S1HIw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/z7Rf3wPtcyiIv67PBRZTFQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Z-9KNwXtn6rNOxcYFI1vXQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/base-backpackers-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1019"
+}

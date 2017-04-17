@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9542047,
+        "longitude": -87.7053746
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "smalls-smoke-shack-and-more-chicago-5",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YY3Edjj3_rAMVuTIEpXF5A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4009 N Albany",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60618"
+    },
+    "name": "Smalls. Smoke Shack & More",
+    "phone": "+13128574221",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YY3Edjj3_rAMVuTIEpXF5A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vhc168CV2_FfSIae9O0uNQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WMHsJFMGCxSU3e-dXcs8zg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 271,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/smalls-smoke-shack-and-more-chicago-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10486"
+}

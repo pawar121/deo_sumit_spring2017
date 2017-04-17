@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33682,
+        "longitude": -121.89265
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "gotta-eatta-pita-san-jose-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VIOMZggfAvEVtMz3CGq9mg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "86 N Market St",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "Gotta Eatta Pita - San Jose",
+    "phone": "+14086848214",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VIOMZggfAvEVtMz3CGq9mg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ei3W8n-LzVEcp1GMCOXsfA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uZPdP1mSA8mrhl4gNE8QHA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 272,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gotta-eatta-pita-san-jose-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4592"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tacos",
+            "title": "Tacos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.74341,
+        "longitude": -104.96919
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "dos-santos-denver-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vua916vwiGJq6mK3LFgGoA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1475 E 17th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80218"
+    },
+    "name": "Dos Santos",
+    "phone": "+13033863509",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vua916vwiGJq6mK3LFgGoA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DgysrWgTi3qZGucoNgeQiQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VdUgo8qvQ4Lqht06LaAfeA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 232,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dos-santos-denver-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3388"
+}

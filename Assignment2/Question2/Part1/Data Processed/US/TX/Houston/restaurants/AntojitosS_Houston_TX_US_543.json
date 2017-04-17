@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "salvadoran",
+            "title": "Salvadoran"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7329502,
+        "longitude": -95.3279495
+    },
+    "id": "antojitos-salvadorenos-houston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XygeeQN9TsiRbPv-4EJ99A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1011 Telephone Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77023"
+    },
+    "name": "Antojitos Salvadorenos",
+    "phone": "+17139246995",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XygeeQN9TsiRbPv-4EJ99A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fJ-g_6mfLaUd28HNYnkXkw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rVw2BEYuYEykOu25AJq1IA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 8,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/antojitos-salvadorenos-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "543"
+}

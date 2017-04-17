@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.005277,
+        "longitude": -121.628526
+    },
+    "id": "gilroy-gardens-family-theme-park-gilroy",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dNqCh-6JaERidUB5IwXrNg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3050 Hecker Pass Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Gilroy",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95020"
+    },
+    "name": "Gilroy Gardens Family Theme Park",
+    "phone": "+14088407100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dNqCh-6JaERidUB5IwXrNg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/IavWJnby1TJtrEFWQiKDTQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VFc9szBIvLLiGjgt-dz0Mg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 614,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/gilroy-gardens-family-theme-park-gilroy?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4463"
+}

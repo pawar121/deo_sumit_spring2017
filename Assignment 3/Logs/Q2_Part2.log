@@ -1,0 +1,134 @@
+2017-03-31 19:49:16,647 - root - INFO - Application started....
+2017-03-31 19:49:16,647 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:49:18,599 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:49:18,688 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:49:18,702 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-03-31 19:49:46,480 - root - INFO - Application started....
+2017-03-31 19:49:46,480 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:49:48,422 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:49:48,514 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:49:48,532 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-03-31 19:49:48,539 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-03-31 19:49:48,545 - root - INFO - Application finished....
+2017-03-31 19:51:27,146 - root - INFO - Application started....
+2017-03-31 19:51:27,146 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:51:29,111 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:51:29,216 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:51:29,240 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-03-31 19:51:29,249 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-03-31 19:51:29,258 - root - INFO - Application finished....
+2017-03-31 19:52:49,113 - root - INFO - Application started....
+2017-03-31 19:52:49,113 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:52:51,042 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:52:51,141 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:52:51,161 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-03-31 19:52:51,165 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-03-31 19:52:51,169 - root - INFO - Application finished....
+2017-03-31 19:53:21,578 - root - INFO - Application started....
+2017-03-31 19:53:21,579 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:53:23,505 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:53:23,593 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:53:23,609 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-03-31 19:53:23,618 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-03-31 19:53:23,625 - root - INFO - Application finished....
+2017-03-31 19:53:44,209 - root - INFO - Application started....
+2017-03-31 19:53:44,209 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:53:46,149 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:53:46,249 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:53:46,261 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-03-31 19:53:46,271 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-03-31 19:53:46,277 - root - INFO - Application finished....
+2017-03-31 19:54:59,517 - root - INFO - Application started....
+2017-03-31 19:54:59,517 - root - INFO - Reading data from employee_compensation.csv
+2017-03-31 19:55:01,753 - root - INFO - Grouping by Organization Group & Department and calculating mean of total compensation
+2017-03-31 19:55:01,860 - root - INFO - Sorting the data frame by Total Compensation
+2017-03-31 19:55:01,888 - root - INFO - Writing summary metrix to Q2_Part1.csv
+2017-03-31 19:55:01,896 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part1.csv
+2017-03-31 19:55:01,906 - root - INFO - Application finished....
+2017-04-04 15:54:38,629 - root - INFO - Application started....
+2017-04-04 15:54:38,658 - root - INFO - Reading data from employee_compensation.csv
+2017-04-04 15:54:41,391 - root - INFO - Filtering the data frame to get Calendar year records only
+2017-04-04 15:54:41,523 - root - INFO - Number of records for which Year Type is Calendar : 168882
+2017-04-04 15:54:41,524 - root - INFO - Sorting the data frame by Employee Identifier & Job Family
+2017-04-04 15:54:41,736 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Salaries
+2017-04-04 15:54:41,819 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Overtime
+2017-04-04 15:54:41,895 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Benefits
+2017-04-04 15:54:41,966 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Compensation
+2017-04-04 15:54:42,040 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 15:54:42,071 - root - INFO - Filtering the records for which Overtime is greater than 5% of Salaries
+2017-04-04 15:54:42,077 - root - INFO - Grouping by Job Family and calculating mean of Total Benefits
+2017-04-04 15:54:42,099 - root - INFO - Grouping by Job Family and calculating mean of Total Compensation
+2017-04-04 15:54:42,104 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 15:54:42,106 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-04-04 15:54:42,175 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-04-04 15:54:42,181 - root - INFO - Application finished....
+2017-04-04 16:00:12,531 - root - INFO - Application started....
+2017-04-04 16:00:12,531 - root - INFO - Reading data from employee_compensation.csv
+2017-04-04 16:00:15,386 - root - INFO - Filtering the data frame to get Calendar year records only
+2017-04-04 16:00:15,522 - root - INFO - Number of records for which Year Type is Calendar : 168882
+2017-04-04 16:00:15,522 - root - INFO - Sorting the data frame by Employee Identifier & Job Family
+2017-04-04 16:00:15,726 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Salaries
+2017-04-04 16:00:15,816 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Overtime
+2017-04-04 16:00:15,890 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Benefits
+2017-04-04 16:00:15,970 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Compensation
+2017-04-04 16:00:16,050 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:00:16,085 - root - INFO - Filtering the records for which Overtime is greater than 5% of Salaries
+2017-04-04 16:00:16,092 - root - INFO - Grouping by Job Family and calculating mean of Total Benefits
+2017-04-04 16:00:16,118 - root - INFO - Grouping by Job Family and calculating mean of Total Compensation
+2017-04-04 16:00:16,122 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:00:16,125 - root - INFO - Sorting the data frame by Percent_Total_Benefit
+2017-04-04 16:00:16,128 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-04-04 16:00:38,003 - root - INFO - Application started....
+2017-04-04 16:00:38,003 - root - INFO - Reading data from employee_compensation.csv
+2017-04-04 16:00:40,773 - root - INFO - Filtering the data frame to get Calendar year records only
+2017-04-04 16:00:40,905 - root - INFO - Number of records for which Year Type is Calendar : 168882
+2017-04-04 16:00:40,905 - root - INFO - Sorting the data frame by Employee Identifier & Job Family
+2017-04-04 16:00:41,102 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Salaries
+2017-04-04 16:00:41,206 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Overtime
+2017-04-04 16:00:41,289 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Benefits
+2017-04-04 16:00:41,363 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Compensation
+2017-04-04 16:00:41,445 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:00:41,479 - root - INFO - Filtering the records for which Overtime is greater than 5% of Salaries
+2017-04-04 16:00:41,487 - root - INFO - Grouping by Job Family and calculating mean of Total Benefits
+2017-04-04 16:00:41,507 - root - INFO - Grouping by Job Family and calculating mean of Total Compensation
+2017-04-04 16:00:41,512 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:00:41,516 - root - INFO - Sorting the data frame by Percent_Total_Benefit
+2017-04-04 16:00:41,518 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-04-04 16:00:41,522 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-04-04 16:00:41,531 - root - INFO - Application finished....
+2017-04-04 16:02:11,233 - root - INFO - Application started....
+2017-04-04 16:02:11,233 - root - INFO - Reading data from employee_compensation.csv
+2017-04-04 16:02:13,986 - root - INFO - Filtering the data frame to get Calendar year records only
+2017-04-04 16:02:14,135 - root - INFO - Number of records for which Year Type is Calendar : 168882
+2017-04-04 16:02:14,135 - root - INFO - Sorting the data frame by Employee Identifier & Job Family
+2017-04-04 16:02:14,342 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Salaries
+2017-04-04 16:02:14,437 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Overtime
+2017-04-04 16:02:14,517 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Benefits
+2017-04-04 16:02:14,592 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Compensation
+2017-04-04 16:02:14,669 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:02:14,703 - root - INFO - Filtering the records for which Overtime is greater than 5% of Salaries
+2017-04-04 16:02:14,712 - root - INFO - Grouping by Job Family and calculating mean of Total Benefits
+2017-04-04 16:02:14,735 - root - INFO - Grouping by Job Family and calculating mean of Total Compensation
+2017-04-04 16:02:14,740 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:02:14,743 - root - INFO - Sorting the data frame by Percent_Total_Benefit
+2017-04-04 16:02:14,746 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-04-04 16:02:14,750 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-04-04 16:02:14,762 - root - INFO - Application finished....
+2017-04-04 16:13:48,928 - root - INFO - Application started....
+2017-04-04 16:13:48,929 - root - INFO - Reading data from employee_compensation.csv
+2017-04-04 16:13:51,731 - root - INFO - Filtering the data frame to get Calendar year records only
+2017-04-04 16:13:51,866 - root - INFO - Number of records for which Year Type is Calendar : 168882
+2017-04-04 16:13:51,866 - root - INFO - Sorting the data frame by Employee Identifier & Job Family
+2017-04-04 16:13:52,069 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Salaries
+2017-04-04 16:13:52,155 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Overtime
+2017-04-04 16:13:52,236 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Benefits
+2017-04-04 16:13:52,313 - root - INFO - Grouping by Employee Identifier & Job Family and calculating mean of Total Compensation
+2017-04-04 16:13:52,392 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:13:52,429 - root - INFO - Filtering the records for which Overtime is greater than 5% of Salaries
+2017-04-04 16:13:52,437 - root - INFO - Grouping by Job Family and calculating mean of Total Benefits
+2017-04-04 16:13:52,460 - root - INFO - Grouping by Job Family and calculating mean of Total Compensation
+2017-04-04 16:13:52,465 - root - INFO - Combining all Series into summary Metrix data frame
+2017-04-04 16:13:52,469 - root - INFO - Sorting the data frame by Percent_Total_Benefit
+2017-04-04 16:13:52,470 - root - INFO - Writing summary metrix to Q2_Part2.csv
+2017-04-04 16:13:52,475 - root - INFO - Summary metrix is available at D:\Masters\Spring2017\Python\Assignment 3\Results\Q2_Part2.csv
+2017-04-04 16:13:52,486 - root - INFO - Application finished....

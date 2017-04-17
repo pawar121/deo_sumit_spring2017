@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2507095,
+        "longitude": 149.1363678
+    },
+    "id": "jimmys-place-dickson",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qzvYPNoua3w_f3YI4Vs8hQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13-15 Woolley St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Jimmy's Place",
+    "phone": "+61262488188",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qzvYPNoua3w_f3YI4Vs8hQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_GOO3aDIRsW9Hy5xgy8Zsg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eYoTffAMTilK8zf3We17RQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/jimmys-place-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5878"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotelstravel",
+            "title": "Hotels & Travel"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8728409,
+        "longitude": 2.31938
+    },
+    "id": "hotel-astor-saint-honoré-paris-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Rxt7bMcJKYAa679BuFTkgw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "11 rue d'astorg",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75008"
+    },
+    "name": "Hotel Astor Saint Honoré",
+    "phone": "+33153050505",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Rxt7bMcJKYAa679BuFTkgw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ypTEVU-EFiBQdGGv3AmV-A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/L1_-4T14Zc7IrWLIOHQpOg/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 3.5,
+    "review_count": 18,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-astor-saint-honor%C3%A9-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5320"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "playgrounds",
+            "title": "Playgrounds"
+        },
+        {
+            "alias": "recreation",
+            "title": "Recreation Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3661364,
+        "longitude": -71.1768805
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "inside-playground-watertown",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UUh4ALSY0hbgL9NDSuz6ig/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "100 Parker St",
+        "address2": "",
+        "address3": "",
+        "city": "Watertown",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02472"
+    },
+    "name": "Inside Playground",
+    "phone": "+16179231772",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UUh4ALSY0hbgL9NDSuz6ig/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dGmxtN6D31lJi3AACcNNqA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/B_OtSUULpH0ao_wTgtAbVg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 68,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/inside-playground-watertown?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5657"
+}

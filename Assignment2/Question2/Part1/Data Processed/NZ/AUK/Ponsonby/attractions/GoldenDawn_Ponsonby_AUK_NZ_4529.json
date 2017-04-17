@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "divebars",
+            "title": "Dive Bars"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        },
+        {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8565035,
+        "longitude": 174.7468307
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1500"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1500"
+                }
+            ]
+        }
+    ],
+    "id": "golden-dawn-ponsonby",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H59-cGhPtQcCy0pvvIDKcQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "134b Ponsonby Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Ponsonby",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1011"
+    },
+    "name": "Golden Dawn",
+    "phone": "+6493769929",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/H59-cGhPtQcCy0pvvIDKcQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eMF4eTHKfn6t12qsw7mKKQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QK-vbAr9rEGOAEMIojS5wQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 26,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/golden-dawn-ponsonby?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4529"
+}

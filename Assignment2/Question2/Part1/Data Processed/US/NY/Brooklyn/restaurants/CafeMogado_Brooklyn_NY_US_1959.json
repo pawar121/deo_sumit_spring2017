@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "moroccan",
+            "title": "Moroccan"
+        },
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.719747,
+        "longitude": -73.959993
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-mogador-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KiBcaarxxiQuvyyszASx8A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "133 Wythe Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11211"
+    },
+    "name": "Cafe Mogador",
+    "phone": "+17184869222",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KiBcaarxxiQuvyyszASx8A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wMyhBCxhqJdVCDWKcydZRg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gZ4nH96EE_z-8J_9CxXmHA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 746,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-mogador-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1959"
+}

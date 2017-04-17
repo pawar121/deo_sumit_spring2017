@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8147873,
+        "longitude": 144.9659948
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "crossways-melbourne",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F2GLd38OFj4FJjPekUGIZA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "123 Swanston St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Crossways",
+    "phone": "+61396502939",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/F2GLd38OFj4FJjPekUGIZA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/m3hfFUcF2ISNawN-Nh4Huw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dQ7wd1vidIVMMJF2HEehpA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crossways-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2987"
+}

@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "climbing",
+            "title": "Climbing"
+        },
+        {
+            "alias": "rock_climbing",
+            "title": "Rock Climbing"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.235219,
+        "longitude": -71.138116
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "rock-spot-climbing-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xtOGaeQIOs2W0Fa0YnUnLg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "67 Sprague St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02136"
+    },
+    "name": "Rock Spot Climbing",
+    "phone": "+16173334433",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xtOGaeQIOs2W0Fa0YnUnLg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/jWivq43dFwQ0m3qLbexmBQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jdpwOrA0HkCknPTjNpgueg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 65,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/rock-spot-climbing-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9678"
+}

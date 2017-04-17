@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5153383,
+        "longitude": -0.1376925
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "golden-union-fish-bar-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W4De0l4DW2T84d7ThyrwjA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "38 Poland Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1F 7LY"
+    },
+    "name": "Golden Union Fish Bar",
+    "phone": "+442074341933",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/W4De0l4DW2T84d7ThyrwjA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XXeh6GMhkwfJp_iAFLu_CQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JiEx9OhcVfh0vATdjYDeAQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 151,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/golden-union-fish-bar-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4549"
+}

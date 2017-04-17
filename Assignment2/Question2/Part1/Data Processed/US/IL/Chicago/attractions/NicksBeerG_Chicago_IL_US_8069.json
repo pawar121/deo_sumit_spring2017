@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "karaoke",
+            "title": "Karaoke"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9089593234358,
+        "longitude": -87.6754971905344
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0500",
+                    "is_overnight": true,
+                    "start": "1300"
+                },
+                {
+                    "day": 6,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "nicks-beer-garden-chicago-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MtwuelwktVxlKcxWlahA3A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1516 N Milwaukee Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60622"
+    },
+    "name": "Nick's Beer Garden",
+    "phone": "+17732521155",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MtwuelwktVxlKcxWlahA3A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TZhMJChHcePryNexJk_XpA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/un_RK_YDrinNEneWrMn65A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 188,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nicks-beer-garden-chicago-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8069"
+}

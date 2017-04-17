@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9034199,
+        "longitude": -77.0216
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "kinship-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WNdfO-YaJB8Enkc3MOrHFw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1015 7th St NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "Kinship",
+    "phone": "+12027377700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WNdfO-YaJB8Enkc3MOrHFw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/evTPbc7l6ijpso_TWlw0kA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kcGL63rk7CZsUVt0pUtpsA/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 4.0,
+    "review_count": 128,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kinship-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6178"
+}

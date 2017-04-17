@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.4041655,
+        "longitude": -122.0261597
+    },
+    "id": "sheraton-sunnyvale-hotel-sunnyvale",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NgqjpIQDVrl_XsGgrJhfaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1100 North Mathilda Avenue",
+        "address2": "",
+        "address3": "",
+        "city": "Sunnyvale",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94089"
+    },
+    "name": "Sheraton Sunnyvale Hotel",
+    "phone": "+14087456000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NgqjpIQDVrl_XsGgrJhfaQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n6XFGnTKpee56nmzOSIuXQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lIKi6TE8Lzm3yv-ud-DrUA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.0,
+    "review_count": 81,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sheraton-sunnyvale-hotel-sunnyvale?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10316"
+}

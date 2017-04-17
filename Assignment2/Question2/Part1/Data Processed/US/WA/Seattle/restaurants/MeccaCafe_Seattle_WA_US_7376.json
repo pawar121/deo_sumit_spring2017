@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "divebars",
+            "title": "Dive Bars"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.62412,
+        "longitude": -122.35637
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "mecca-cafe-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KcdA3k3Y2laSgSYDxgJPZQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "526 Queen Anne Ave N",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98109"
+    },
+    "name": "Mecca Cafe",
+    "phone": "+12062859728",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KcdA3k3Y2laSgSYDxgJPZQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1BQkqlxNAnv1CckeWAoUJw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7rGsuEACXzdCwikhw5xH1g/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 481,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mecca-cafe-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7376"
+}

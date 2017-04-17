@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "travelagents",
+            "title": "Travel Agents"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2035,
+        "longitude": 149.16357
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0300"
+                }
+            ]
+        }
+    ],
+    "id": "act-chauffeurs-harrison",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J5PLtjoQ8OFeScGwI3Ux7w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12/21 thunder Circuit",
+        "address2": null,
+        "address3": "",
+        "city": "Harrison",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2914"
+    },
+    "name": "Act Chauffeurs",
+    "phone": "+61402912441",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/J5PLtjoQ8OFeScGwI3Ux7w/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/act-chauffeurs-harrison?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "190"
+}

@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.387249,
+        "longitude": -2.92483
+    },
+    "id": "greenbank-park-liverpool-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Greenbank Road",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "LIV",
+        "zip_code": "L3 8JR"
+    },
+    "name": "Greenbank Park",
+    "phone": "",
+    "photos": [],
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/greenbank-park-liverpool-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4696"
+}

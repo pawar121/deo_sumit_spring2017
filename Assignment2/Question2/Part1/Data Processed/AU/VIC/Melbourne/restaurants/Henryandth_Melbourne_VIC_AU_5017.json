@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "modern_australian",
+            "title": "Modern Australian"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8178399,
+        "longitude": 144.95761
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "henry-and-the-fox-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/56u4kqDcvPnqUxLAaJ9pPw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "525 Little Collins St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Henry and the Fox",
+    "phone": "+61396143277",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/56u4kqDcvPnqUxLAaJ9pPw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/mgIvSGg_fm-h_T4jHAOPPQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ni3Tk71FYjFH7hM93jfxEw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 19,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/henry-and-the-fox-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5017"
+}

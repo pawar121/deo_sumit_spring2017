@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8171997,
+        "longitude": 144.9598541
+    },
+    "id": "don-bay-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YWIQrnfSiuKoWnm5H_XlvQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "440 Collins St",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Don-Bay",
+    "phone": "+61396703456",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YWIQrnfSiuKoWnm5H_XlvQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NAHLHmmZa3sk91S6FVzE_g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/M02uBPF6aKZD2PNJy57yag/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/don-bay-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3369"
+}

@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "kosher",
+            "title": "Kosher"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1449617255872,
+        "longitude": -115.204817982802
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "osis-kitchen-las-vegas-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xnQI9L47wgRVc7JdOXnIHg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4604 W Sahara Ave",
+        "address2": "Ste 6",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89102"
+    },
+    "name": "Osi's Kitchen",
+    "phone": "+17028262727",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/xnQI9L47wgRVc7JdOXnIHg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZYi7L3uBxTr_pYqmTAIsPw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/4Tt56aqjfR-1o9xLrpF9kg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 81,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/osis-kitchen-las-vegas-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8451"
+}

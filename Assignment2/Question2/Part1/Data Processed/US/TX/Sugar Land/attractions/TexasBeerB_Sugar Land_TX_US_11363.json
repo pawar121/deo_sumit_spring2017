@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "alias": "winetours",
+            "title": "Wine Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.5940762,
+        "longitude": -95.6221848
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0130"
+                },
+                {
+                    "day": 5,
+                    "end": "1615",
+                    "is_overnight": false,
+                    "start": "1045"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0330"
+                }
+            ]
+        }
+    ],
+    "id": "texas-beer-bus-sugar-land",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bZFjMZZn978_N-GNW3rjqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2299 Lonestar Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Sugar Land",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77479"
+    },
+    "name": "Texas Beer Bus",
+    "phone": "+18323734316",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bZFjMZZn978_N-GNW3rjqA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/PDQZi8pbL_wT9phzOOfGJw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hJiwIjJmw37tnF78YqMOhA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/texas-beer-bus-sugar-land?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11363"
+}

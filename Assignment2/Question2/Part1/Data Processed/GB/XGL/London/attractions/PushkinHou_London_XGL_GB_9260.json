@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "culturalcenter",
+            "title": "Cultural Center"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5182664572963,
+        "longitude": -0.122977076849309
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "pushkin-house-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/44L8CswTCp-L5doQf8vPJQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5a Bloomsbury Square",
+        "address2": "Bloomsbury",
+        "address3": null,
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC1A 2TA"
+    },
+    "name": "Pushkin House",
+    "phone": "+442072699770",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/44L8CswTCp-L5doQf8vPJQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XjR5RpkgQEbndUn2jJ3mhA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ElqxdJEN3_Jy5eFLSTLyHw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pushkin-house-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9260"
+}

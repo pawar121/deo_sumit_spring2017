@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.4066505,
+        "longitude": 149.0971375
+    },
+    "id": "monaro-coaches-erindale-centre",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l_QI5QrJxfzNdXvi4LbjtQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "Erindale Centre",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2903"
+    },
+    "name": "Monaro Coaches",
+    "phone": "+61261616300",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/l_QI5QrJxfzNdXvi4LbjtQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gt5_4UzDAUL0ShV7Cvj7wA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zTqy0kQqGEUh-nU_zuWrVA/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/monaro-coaches-erindale-centre?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7655"
+}

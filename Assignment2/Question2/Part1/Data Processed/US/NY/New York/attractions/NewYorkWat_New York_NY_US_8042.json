@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        },
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7046758930775,
+        "longitude": -74.0032442645264
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "new-york-water-taxi-new-york",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_RsJ3-5AU8q016cEWDuduQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11 Bush Terminal Yard",
+        "address2": "Pier 11, Slip A",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10005"
+    },
+    "name": "New York Water Taxi",
+    "phone": "+12127421969",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_RsJ3-5AU8q016cEWDuduQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Smqu3f8u96cpbgHIrbOWSg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cCKH6CsG8lDTgnshJWQ1Fg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 256,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-york-water-taxi-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8042"
+}

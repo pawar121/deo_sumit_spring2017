@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "pianobars",
+            "title": "Piano Bars"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74882,
+        "longitude": -95.37581
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "howl-at-the-moon-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MaF10SioNPNeWj9igU2ZVA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "612 Hadley St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77002"
+    },
+    "name": "Howl at the Moon",
+    "phone": "+17136589700",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MaF10SioNPNeWj9igU2ZVA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/dCQ7DGUtjNzNaHRx6MaWEg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/xEtiBMNt4avFYq801FXn2w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 194,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/howl-at-the-moon-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5421"
+}

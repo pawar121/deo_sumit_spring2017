@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.6929658,
+        "longitude": -73.9729661
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "lulu-and-po-brooklyn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Avn45yDsGreaeaS1jbGKPw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "154 Carlton Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11205"
+    },
+    "name": "Lulu & Po",
+    "phone": "+19174353745",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Avn45yDsGreaeaS1jbGKPw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ccWOGaztl6On4dNVv_p9PA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/e5KO9uA_nU0hIqhcA4D1WA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 146,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lulu-and-po-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6968"
+}

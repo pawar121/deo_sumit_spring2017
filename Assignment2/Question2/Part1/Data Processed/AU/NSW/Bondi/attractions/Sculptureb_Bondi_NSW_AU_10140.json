@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "publicart",
+            "title": "Public Art"
+        },
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8984894347151,
+        "longitude": 151.275215148926
+    },
+    "id": "sculpture-by-the-sea-bondi",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C_01RtgHJxuclsaN0Jm6ew/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Bondi to Tamarama Coastal Walk",
+        "address2": "",
+        "address3": "",
+        "city": "Bondi",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2026"
+    },
+    "name": "Sculpture by the Sea",
+    "phone": "+61283990233",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/C_01RtgHJxuclsaN0Jm6ew/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/mOHR59Y_girl2M3N27rBTw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uZiHxPTRvP2iURDY7ljLOQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sculpture-by-the-sea-bondi?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10140"
+}

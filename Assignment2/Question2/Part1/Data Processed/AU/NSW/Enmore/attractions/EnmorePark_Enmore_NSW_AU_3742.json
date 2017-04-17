@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        },
+        {
+            "alias": "swimmingpools",
+            "title": "Swimming Pools"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8991318,
+        "longitude": 151.1716766
+    },
+    "id": "enmore-park-enmore",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EWm9-Qj2ZFaPYBaogmowmQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Enmore Road",
+        "address2": "",
+        "address3": "",
+        "city": "Enmore",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2042"
+    },
+    "name": "Enmore Park",
+    "phone": "+61295651906",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EWm9-Qj2ZFaPYBaogmowmQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/_TBbfcgyljYZUbYgPIf3AA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/enmore-park-enmore?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3742"
+}

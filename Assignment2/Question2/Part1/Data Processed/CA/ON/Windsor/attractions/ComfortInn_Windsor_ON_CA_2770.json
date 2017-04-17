@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.26568,
+        "longitude": -83.04621
+    },
+    "id": "comfort-inn-windsor-2",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2765 Huron Church Road",
+        "address2": "",
+        "address3": "",
+        "city": "Windsor",
+        "country": "CA",
+        "state": "ON",
+        "zip_code": "N9E 3Y7"
+    },
+    "name": "Comfort Inn",
+    "phone": "+15199721331",
+    "photos": [],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/comfort-inn-windsor-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2770"
+}

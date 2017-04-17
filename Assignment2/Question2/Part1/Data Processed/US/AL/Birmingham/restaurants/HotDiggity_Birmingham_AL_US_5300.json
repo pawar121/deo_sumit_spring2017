@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5224215,
+        "longitude": -86.7731769
+    },
+    "id": "hot-diggity-dogs-birmingham",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mpWgfasS2lNEnXaAQfhTUQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "430 41st St S",
+        "address2": "",
+        "address3": null,
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35222"
+    },
+    "name": "Hot Diggity Dogs",
+    "phone": "+12052022363",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/mpWgfasS2lNEnXaAQfhTUQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zUdSQbHFKmJ-4nRR8hVINw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FemVmQLGOeTp1_jB_STPBA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 28,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hot-diggity-dogs-birmingham?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5300"
+}

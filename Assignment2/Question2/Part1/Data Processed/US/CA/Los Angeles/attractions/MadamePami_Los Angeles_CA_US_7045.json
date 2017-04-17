@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        },
+        {
+            "alias": "hobbyshops",
+            "title": "Hobby Shops"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.1084862,
+        "longitude": -118.195343
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "madame-pamitas-parlour-of-wonders-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p3LXUjFcnZ83qiuFIU-dPg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5503 N Figueroa St",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90042"
+    },
+    "name": "Madame Pamita's Parlour of Wonders",
+    "phone": "+13103100029",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/p3LXUjFcnZ83qiuFIU-dPg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fSYNTyawnIMLUTG028RuMw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dzoo6CYVtmNmYIuhGtxq1A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/madame-pamitas-parlour-of-wonders-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7045"
+}

@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "alias": "danceclubs",
+            "title": "Dance Clubs"
+        },
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9030722069473,
+        "longitude": -77.0336873084307
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "2200"
+                },
+                {
+                    "day": 5,
+                    "end": "0300",
+                    "is_overnight": true,
+                    "start": "2200"
+                }
+            ]
+        }
+    ],
+    "id": "living-room-dc-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B-w8L8i9rReSkhQIS3tBVg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1008 Vermont Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20005"
+    },
+    "name": "Living Room DC",
+    "phone": "+12023478601",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/B-w8L8i9rReSkhQIS3tBVg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/eUvaRAc4y7_-XEpn15OQeg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RLr-_N1kwDmUK6gfrO0Csw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/living-room-dc-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6759"
+}

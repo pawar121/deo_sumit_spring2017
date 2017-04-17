@@ -1,0 +1,138 @@
+{
+    "categories": [
+        {
+            "alias": "czech",
+            "title": "Czech"
+        },
+        {
+            "alias": "german",
+            "title": "German"
+        },
+        {
+            "alias": "austrian",
+            "title": "Austrian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.89064,
+        "longitude": -87.6285
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "bohemian-house-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oY2EJMtSEpP5rvNgI4rZFw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "11 W Illinois St",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60654"
+    },
+    "name": "Bohemian House",
+    "phone": "+13129550439",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oY2EJMtSEpP5rvNgI4rZFw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rBeZwSCuiKJnsJevCbHotA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dY631YMT7uI4hQxoptT4AQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 549,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bohemian-house-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1508"
+}

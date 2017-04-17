@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3512063,
+        "longitude": -71.0440255
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "ocean-prime-boston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5B3T6osZjLBCvhZ3zz9PAQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "140 Seaport Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Ocean Prime",
+    "phone": "+16176701345",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5B3T6osZjLBCvhZ3zz9PAQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5_fM2br4SsoX-J0VJjwiMw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/qSRFgLYVdza4UQXe30culg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 123,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ocean-prime-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8273"
+}

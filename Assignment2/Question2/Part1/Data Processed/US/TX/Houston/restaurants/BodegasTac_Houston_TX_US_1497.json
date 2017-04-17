@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tex-mex",
+            "title": "Tex-Mex"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7235673258865,
+        "longitude": -95.3873677103738
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "bodegas-taco-shop-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-H52GLuCj-bZeF5GvyWbCA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1200 Binz Ave",
+        "address2": "Ste 160",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77004"
+    },
+    "name": "Bodegas Taco Shop",
+    "phone": "+17135286102",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/-H52GLuCj-bZeF5GvyWbCA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/U6PHzes8XuyaqbWvcTGdFg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/B3EIGagkzvV6VVqOaUVFow/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 352,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bodegas-taco-shop-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1497"
+}

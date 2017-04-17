@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.1859016,
+        "longitude": 149.1360931
+    },
+    "id": "flight-centre-gungahlin-gungahlin",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 9, The G Shopping Centre 46-48 Hibberson St",
+        "address2": null,
+        "address3": null,
+        "city": "Gungahlin",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2912"
+    },
+    "name": "Flight Centre Gungahlin",
+    "phone": "+1300755332",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/flight-centre-gungahlin-gungahlin?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4090"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.67078,
+        "longitude": -95.35592
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1015"
+                }
+            ]
+        }
+    ],
+    "id": "big-bellys-burgers-houston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nLnagXXPHExuX3tI_adsDw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8202 Cullen Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77051"
+    },
+    "name": "Big Bellys Burgers",
+    "phone": "+17133708019",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nLnagXXPHExuX3tI_adsDw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/c6Q_2rDVpe1b24ONKavPww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/f3yVsQ2DAlwE3qh1cGAhFQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 99,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/big-bellys-burgers-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1270"
+}

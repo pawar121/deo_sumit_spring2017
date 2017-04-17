@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.0787683633881,
+        "longitude": -80.8173394203186
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "crunch-bistro-charlotte-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SzlSSz9vOD3TKNAqfTgJ8g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "The Shops At Piper Glen",
+        "address2": "6414 Rea Rd, Ste C2",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28277"
+    },
+    "name": "Crunch Bistro",
+    "phone": "+17043620077",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SzlSSz9vOD3TKNAqfTgJ8g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rl0uebkzEMfnebXDmtxdMw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NDpmB0NF3dRoHat-iQaoRQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crunch-bistro-charlotte-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3010"
+}

@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3415413,
+        "longitude": 149.0519104
+    },
+    "id": "maestral-mediterranean-seafood-restaurant-weston-creek",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13 Trenerry St",
+        "address2": null,
+        "address3": null,
+        "city": "Weston Creek",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2611"
+    },
+    "name": "Maestral Mediterranean Seafood Restaurant",
+    "phone": "+61262873930",
+    "photos": [],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/maestral-mediterranean-seafood-restaurant-weston-creek?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7063"
+}

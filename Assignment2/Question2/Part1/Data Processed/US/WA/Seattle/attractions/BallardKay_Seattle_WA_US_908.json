@@ -1,0 +1,77 @@
+{
+    "categories": [
+        {
+            "alias": "rafting",
+            "title": "Rafting/Kayaking"
+        },
+        {
+            "alias": "paddleboarding",
+            "title": "Paddleboarding"
+        },
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.680572,
+        "longitude": -122.4048334
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1630",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "ballard-kayak-seattle-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nmknm3g2cmyHQtSHdemeGQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7001 Seaview Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98117"
+    },
+    "name": "Ballard Kayak",
+    "phone": "+12064943353",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/nmknm3g2cmyHQtSHdemeGQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/sUwf_PtovsDO_iXcMKEyDw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/z3rAsTXEvU47gY9DzJEErg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 55,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ballard-kayak-seattle-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "908"
+}

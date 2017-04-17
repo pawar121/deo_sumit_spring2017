@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "steak",
+            "title": "Steakhouses"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3312458846329,
+        "longitude": -121.887186623943
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "original-joes-san-jose-san-jose-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FNMYXCswbkcwOezks0CPbw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "301 S 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "Original Joe's San Jose",
+    "phone": "+14082927030",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FNMYXCswbkcwOezks0CPbw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/smR9hbWO1Ln2TRr6HnaQew/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/qmiiB5YT8P-rd1EAvsUKSQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 1561,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/original-joes-san-jose-san-jose-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8432"
+}

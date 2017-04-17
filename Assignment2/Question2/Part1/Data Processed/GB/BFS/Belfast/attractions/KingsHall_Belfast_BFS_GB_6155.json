@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 54.566761,
+        "longitude": -5.9612899
+    },
+    "id": "kings-hall-belfast",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fdfYLGHK0gWDSd41ud5PjA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Balmoral",
+        "address2": "",
+        "address3": "",
+        "city": "Belfast",
+        "country": "GB",
+        "state": "BFS",
+        "zip_code": "BT9 6GU"
+    },
+    "name": "King's Hall",
+    "phone": "+442890665225",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/fdfYLGHK0gWDSd41ud5PjA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W81NLfCnpt2fGliY_L1BAw/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.0,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kings-hall-belfast?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6155"
+}

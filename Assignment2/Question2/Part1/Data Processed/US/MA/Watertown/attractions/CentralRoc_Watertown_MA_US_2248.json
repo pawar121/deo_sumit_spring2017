@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "climbing",
+            "title": "Climbing"
+        },
+        {
+            "alias": "kids_activities",
+            "title": "Kids Activities"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.369399,
+        "longitude": -71.1985289
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "central-rock-gym-watertown-2",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7xJaITzBsQMQfOMhSuu69w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "74 Acton St",
+        "address2": "",
+        "address3": "",
+        "city": "Watertown",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02472"
+    },
+    "name": "Central Rock Gym",
+    "phone": "+16177440081",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/7xJaITzBsQMQfOMhSuu69w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zYylSjdDt8MO2zsfX82p3g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/IjcRfSDS09VKrTD0i78cNA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 43,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/central-rock-gym-watertown-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2248"
+}

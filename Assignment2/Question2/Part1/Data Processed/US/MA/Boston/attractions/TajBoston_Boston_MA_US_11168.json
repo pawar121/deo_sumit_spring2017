@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3528735294954,
+        "longitude": -71.0713676560669
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "taj-boston-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Jq5tKz3N9P96iMFCrkX5Gg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Arlington St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02116"
+    },
+    "name": "Taj Boston",
+    "phone": "+16175365700",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Jq5tKz3N9P96iMFCrkX5Gg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/lpHdz3Mo_ofcJz6E2kxbqg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZEWqYNOiz0E09wv02LAZzA/o.jpg"
+    ],
+    "price": "$$$$",
+    "rating": 3.5,
+    "review_count": 178,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/taj-boston-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11168"
+}

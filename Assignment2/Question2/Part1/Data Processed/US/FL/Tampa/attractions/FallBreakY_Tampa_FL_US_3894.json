@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "yelpevents",
+            "title": "Yelp Events"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.95176,
+        "longitude": -82.46003
+    },
+    "id": "fall-break-yelp-keeps-it-100-tampa",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/753J9YyQ93FzKhuTZGefTw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "912 North Franklin St",
+        "address2": "",
+        "address3": null,
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "Fall Break - Yelp Keeps It 100",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/753J9YyQ93FzKhuTZGefTw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/m1qujaCF22jcjmcnSJDIrQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eqgJOWMhxUPjswsOu-Z3Eg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 19,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fall-break-yelp-keeps-it-100-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3894"
+}

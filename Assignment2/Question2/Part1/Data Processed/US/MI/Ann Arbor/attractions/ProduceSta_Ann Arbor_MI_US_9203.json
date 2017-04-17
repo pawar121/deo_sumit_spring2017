@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "markets",
+            "title": "Fruits & Veggies"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "grocery",
+            "title": "Grocery"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.25895,
+        "longitude": -83.7399499
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "produce-station-ann-arbor",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wJW3Dn_X2nC0z23ETmgdXA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1629 S State St",
+        "address2": "",
+        "address3": "",
+        "city": "Ann Arbor",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48104"
+    },
+    "name": "Produce Station",
+    "phone": "+17346637848",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wJW3Dn_X2nC0z23ETmgdXA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/62eTOD0XyxCzZJVjhAcXbA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/CwRv5ZrOpdyAm2B5G1zbjA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 67,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/produce-station-ann-arbor?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9203"
+}

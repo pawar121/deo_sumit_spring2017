@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "culturalcenter",
+            "title": "Cultural Center"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.51991,
+        "longitude": -0.09183
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "barbican-london-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JDgCvAoOUF1PNliJwhWovQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Silk Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "EC2Y 8DS"
+    },
+    "name": "Barbican",
+    "phone": "+442076388891",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JDgCvAoOUF1PNliJwhWovQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CM6gZWnUUWqAy919OIXkbA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/F5m5IbTDulblaM2DLeO6TA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 102,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/barbican-london-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "977"
+}

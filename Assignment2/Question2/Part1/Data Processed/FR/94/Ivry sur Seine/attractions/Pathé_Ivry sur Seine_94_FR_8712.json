@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8242,
+        "longitude": 2.38739
+    },
+    "id": "pathé-ivry-sur-seine",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x3H5rFhxE0OuRnxuEeSPtA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5 rue François Mittérrand",
+        "address2": null,
+        "address3": null,
+        "city": "Ivry sur Seine",
+        "country": "FR",
+        "state": "94",
+        "zip_code": "94200"
+    },
+    "name": "Pathé",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/x3H5rFhxE0OuRnxuEeSPtA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bOsp40sveaPcGommKEoMPg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/uFhLlMB8Kg4SgMvMiIADyA/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/path%C3%A9-ivry-sur-seine?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8712"
+}

@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.30655,
+        "longitude": 149.12656
+    },
+    "id": "frank-and-beanz-canberra",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Majura Park Shopping Centre",
+        "address2": "Majura Rd, Canberra Airport",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Frank and Beanz",
+    "phone": "",
+    "photos": [],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/frank-and-beanz-canberra?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4251"
+}

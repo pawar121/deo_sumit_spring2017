@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.88762,
+        "longitude": -87.62544
+    },
+    "id": "chicago-river-hotel-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ArqMyQaa4FU7PA2WzmqYFg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "75 E Wacker Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60601"
+    },
+    "name": "Chicago River Hotel",
+    "phone": "+18889774837",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ArqMyQaa4FU7PA2WzmqYFg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TPROW3WG4EDBwRPVPTiNJg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RdXXMJsUyapRDSrRYaxAdw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 90,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/chicago-river-hotel-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2384"
+}

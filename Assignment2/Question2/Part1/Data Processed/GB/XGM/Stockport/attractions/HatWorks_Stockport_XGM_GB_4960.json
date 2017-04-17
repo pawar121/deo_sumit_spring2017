@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        },
+        {
+            "alias": "fashion",
+            "title": "Fashion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.40884,
+        "longitude": -2.15685
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "hat-works-stockport",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GgooO5RCWLQ-7_f08m0vKw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Wellington Mill",
+        "address2": "Wellington Road S",
+        "address3": "",
+        "city": "Stockport",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "SK3 0EU"
+    },
+    "name": "Hat Works",
+    "phone": "+441614742399",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GgooO5RCWLQ-7_f08m0vKw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hxE_8qlNENJL-8CUk9tq-Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KDw8jgmx0vakQTLuDVwDag/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hat-works-stockport?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4960"
+}

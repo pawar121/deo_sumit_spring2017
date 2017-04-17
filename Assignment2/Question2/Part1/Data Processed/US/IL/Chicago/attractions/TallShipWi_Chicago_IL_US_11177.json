@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "boating",
+            "title": "Boating"
+        },
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8916899,
+        "longitude": -87.60834
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "tall-ship-windy-chicago",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jm648IE5cVtlB1Cll_lp2w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Navy Pier",
+        "address2": "600 E Grand Ave",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60611"
+    },
+    "name": "Tall Ship Windy",
+    "phone": "+13124512700",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jm648IE5cVtlB1Cll_lp2w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1g6kRfFqe0ALwQdIxXh-MA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5IaYbAyN0sngmXsW6zjUZQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 262,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/tall-ship-windy-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11177"
+}

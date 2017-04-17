@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5130503492048,
+        "longitude": -0.124380318965753
+    },
+    "id": "covent-garden-tube-station-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q5ZST9LWGbMuXyGN26Hq8Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "42 Long Acre",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC2E 9JT"
+    },
+    "name": "Covent Garden Tube Station",
+    "phone": "+443432221234",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Q5ZST9LWGbMuXyGN26Hq8Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OVfb9bGW3MeQrOoLISHt6Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/XlGNHpIkbo677L9OvHkD1g/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/covent-garden-tube-station-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2925"
+}

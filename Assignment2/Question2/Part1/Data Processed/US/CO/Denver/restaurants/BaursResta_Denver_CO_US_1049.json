@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "lounges",
+            "title": "Lounges"
+        }
+    ],
+    "coordinates": {
+        "latitude": 39.74632,
+        "longitude": -104.99544
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "baurs-restaurant-and-listening-lounge-denver",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yZqPNgqjyuPt9LAQcsUzng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1512 Curtis St",
+        "address2": null,
+        "address3": null,
+        "city": "Denver",
+        "country": "US",
+        "state": "CO",
+        "zip_code": "80202"
+    },
+    "name": "Baur's Restaurant & Listening Lounge",
+    "phone": "+13036154000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vWzwcfNkfZxEg7otwbfyuA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 91,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/baurs-restaurant-and-listening-lounge-denver?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1049"
+}

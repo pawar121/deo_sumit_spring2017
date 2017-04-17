@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.86591,
+        "longitude": -4.2783
+    },
+    "id": "theatre-babel-glasgow",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OUQvqJk4eC2sswStTOBY5Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "11 Sandyford Place",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G3 7NB"
+    },
+    "name": "Theatre Babel",
+    "phone": "+441412268806",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OUQvqJk4eC2sswStTOBY5Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/theatre-babel-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11721"
+}

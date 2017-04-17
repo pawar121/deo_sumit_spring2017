@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8897440742248,
+        "longitude": -76.9717275784494
+    },
+    "id": "robert-f-kennedy-memorial-stadium-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fzy0jMqYh5w-qv3lL8kSmg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2400 E Capitol St SE",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20003"
+    },
+    "name": "Robert F Kennedy Memorial Stadium",
+    "phone": "+12026081100",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Fzy0jMqYh5w-qv3lL8kSmg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/I0KBoIMLFL3JrVCAngQTZg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DgU_1vgX2LBpxiuSgHADrA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 115,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/robert-f-kennedy-memorial-stadium-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9663"
+}

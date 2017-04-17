@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "casinos",
+            "title": "Casinos"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.85499,
+        "longitude": -4.27124
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0900",
+                    "is_overnight": true,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "alea-casino-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TOOfmqyd1r3iG4FybNVZVw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Springfield Quay",
+        "address2": "Paisley Road",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G5 8NP"
+    },
+    "name": "Alea Casino",
+    "phone": "+441415301263",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/TOOfmqyd1r3iG4FybNVZVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DKyX4PfZLwfnUXCrTmGV_A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ae6mF6uBpPenWb-7oYpnHw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/alea-casino-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "331"
+}

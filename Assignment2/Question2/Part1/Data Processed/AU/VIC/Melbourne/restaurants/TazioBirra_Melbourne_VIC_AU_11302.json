@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8148055,
+        "longitude": 144.9720968
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "tazio-birraria-and-pizzeria-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ot3tqm4Do8wrq5FH1xCKww/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "66 Flinders Lane",
+        "address2": null,
+        "address3": null,
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Tazio Birraria and Pizzeria",
+    "phone": "+61396549119",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ot3tqm4Do8wrq5FH1xCKww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/66FvGWamfsVEqQUQKcM1HA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pVZUyBMT7XRAE0IW7DGWGA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tazio-birraria-and-pizzeria-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11302"
+}

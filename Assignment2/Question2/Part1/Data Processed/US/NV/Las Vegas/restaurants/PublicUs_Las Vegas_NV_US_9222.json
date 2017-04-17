@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1659906,
+        "longitude": -115.1334752
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "publicus-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NcZbCWWn4YNx1xKjEgdBMA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1126 Fremont St",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "PublicUs",
+    "phone": "+17023315500",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/NcZbCWWn4YNx1xKjEgdBMA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NGwFw0HQYSdXLQvndfnr3Q/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Jik5IV3j1RW4quPBkEthEA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 423,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/publicus-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9222"
+}

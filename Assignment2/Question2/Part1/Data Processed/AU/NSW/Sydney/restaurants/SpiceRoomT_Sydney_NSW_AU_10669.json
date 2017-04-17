@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.867878,
+        "longitude": 151.201767
+    },
+    "id": "spice-room-the-malaya-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/95NdaMC1xbUp95xa5Uh37g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "39 Lime Street",
+        "address2": "King Street Wharf",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Spice Room @ The Malaya",
+    "phone": "+6192791170",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/95NdaMC1xbUp95xa5Uh37g/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spice-room-the-malaya-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10669"
+}

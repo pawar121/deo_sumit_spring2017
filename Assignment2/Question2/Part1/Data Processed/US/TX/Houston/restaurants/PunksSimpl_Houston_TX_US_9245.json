@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7185841228888,
+        "longitude": -95.4150941883606
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "punks-simple-southern-food-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W8b5f2b9K47TZvOknYpXPw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "5212 Morningside Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77005"
+    },
+    "name": "Punk's Simple Southern Food",
+    "phone": "+17135247865",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/W8b5f2b9K47TZvOknYpXPw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/49CkZ8vAoTex2pkX_qFDhA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/yVWvo0LC2wKaxUIAlzN6bg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 334,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/punks-simple-southern-food-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9245"
+}

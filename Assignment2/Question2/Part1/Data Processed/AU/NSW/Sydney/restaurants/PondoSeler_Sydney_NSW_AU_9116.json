@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "indonesian",
+            "title": "Indonesian"
+        },
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.87883,
+        "longitude": 151.20446
+    },
+    "id": "pondo-selera-indonesian-and-malaysian-food-sydney",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 7b",
+        "address2": "413 Sussex St",
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Pondo-Selera Indonesian & Malaysian Food",
+    "phone": "+61292818206",
+    "photos": [],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pondo-selera-indonesian-and-malaysian-food-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9116"
+}

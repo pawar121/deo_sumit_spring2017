@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8470192,
+        "longitude": 151.2114868
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "luna-park-sydney-milsons-point-3",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S2gicm6wax8kZIujNwRTjw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Olympic Drv",
+        "address2": null,
+        "address3": null,
+        "city": "Milsons Point",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2061"
+    },
+    "name": "Luna Park Sydney",
+    "phone": "+61299226644",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/S2gicm6wax8kZIujNwRTjw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ogbMlJFg4E6QpNvrrqa34g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TEnhSyw3AltLK46CAVSKDw/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 30,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/luna-park-sydney-milsons-point-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6977"
+}

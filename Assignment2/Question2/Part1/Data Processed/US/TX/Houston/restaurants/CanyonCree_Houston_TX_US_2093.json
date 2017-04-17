@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7749691,
+        "longitude": -95.4277878
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "canyon-creek-cafe-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nEQlzToyfED1YNCX-b_kWw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6603 Westcott St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77007"
+    },
+    "name": "Canyon Creek Cafe",
+    "phone": "+17138645885",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nEQlzToyfED1YNCX-b_kWw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dxO05IurQd2s0QTmjptmaA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/v1JrQkfSSIC8bYPLMDTA4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 206,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/canyon-creek-cafe-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2093"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2261009,
+        "longitude": 149.0549622
+    },
+    "id": "king-fook-florey",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2BkUPz09AK6pNJgOAM73RA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "43 Kesteven St",
+        "address2": null,
+        "address3": null,
+        "city": "Florey",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2615"
+    },
+    "name": "King Fook",
+    "phone": "+61262581877",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2BkUPz09AK6pNJgOAM73RA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/bXf2yxIEXmxIJwqhijPzaw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GG06_3sqNoB0z5O3yvScqA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/king-fook-florey?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6142"
+}

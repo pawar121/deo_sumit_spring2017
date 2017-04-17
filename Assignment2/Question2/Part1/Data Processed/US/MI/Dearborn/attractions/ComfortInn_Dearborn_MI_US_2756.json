@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.30756,
+        "longitude": -83.23274
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "comfort-inn-near-greenfield-village-dearborn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Dtcq14AcyWhAlGGKzFeOTw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "20061 Michigan Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Dearborn",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48124"
+    },
+    "name": "Comfort Inn Near Greenfield Village",
+    "phone": "+13134369600",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Dtcq14AcyWhAlGGKzFeOTw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hVxvyNcLeRz6R-DGpWXPWA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GL0hKI2f31Do3KFO7-6d7Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/comfort-inn-near-greenfield-village-dearborn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2756"
+}

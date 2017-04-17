@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9518901130844,
+        "longitude": 115.853620398056
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "angel-falls-grill-perth",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zjYc9mleXTQaSU4i05bBlg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 16",
+        "address2": "Shafto Lane",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Angel Falls Grill",
+    "phone": "+61894816222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zjYc9mleXTQaSU4i05bBlg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yIE7wArh9mfp2Au2kxOSyg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uuEMQLmDGswdbvSi_5FLtA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 13,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/angel-falls-grill-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "508"
+}

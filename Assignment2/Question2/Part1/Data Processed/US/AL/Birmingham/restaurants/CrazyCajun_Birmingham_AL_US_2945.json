@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.419715201827,
+        "longitude": -86.697542089902
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "crazy-cajuns-boiling-pot-birmingham-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QCQ9qUHR50yxD5FI7gMx3g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "125 Inverness Plz",
+        "address2": "",
+        "address3": "",
+        "city": "Birmingham",
+        "country": "US",
+        "state": "AL",
+        "zip_code": "35242"
+    },
+    "name": "Crazy Cajuns' Boiling Pot",
+    "phone": "+12054080630",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QCQ9qUHR50yxD5FI7gMx3g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Y46PHu-QhXYdl4fp7EBPEw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NDyJG1sP5tFNLUHWq1IHzQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 74,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crazy-cajuns-boiling-pot-birmingham-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2945"
+}

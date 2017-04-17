@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        },
+        {
+            "alias": "bootcamps",
+            "title": "Boot Camps"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.4034729,
+        "longitude": -71.1279831
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "soul-train-somerville-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oAEM_lXfCrU_p-FcFhEv2A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1180 Broadway",
+        "address2": null,
+        "address3": "",
+        "city": "Somerville",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02144"
+    },
+    "name": "Soul Train",
+    "phone": "+16177643345",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oAEM_lXfCrU_p-FcFhEv2A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o_iFbmvmknUa13okmWzUfw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FoA0Z-2fSbL3odTNC6u07Q/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 34,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/soul-train-somerville-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10587"
+}

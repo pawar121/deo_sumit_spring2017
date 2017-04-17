@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.8623100335442,
+        "longitude": -87.6167017221451
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "soldier-field-chicago",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8K77oJBJn97zz-q3v-lJwA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1410 S Museum Campus Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60605"
+    },
+    "name": "Soldier Field",
+    "phone": "+13122357000",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/8K77oJBJn97zz-q3v-lJwA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/FJkUpxd91TNsvVHDHvLWpw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JnyjQzD5kmXOqhK21U_B2A/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 294,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/soldier-field-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10554"
+}

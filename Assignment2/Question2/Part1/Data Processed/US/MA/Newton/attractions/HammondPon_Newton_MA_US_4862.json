@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.351119,
+        "longitude": -71.2104975
+    },
+    "id": "hammond-pond-reservation-newton",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AibO-GTFod0qOCFLkdvIYw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Hammond Pond Pkwy",
+        "address2": "",
+        "address3": "",
+        "city": "Newton",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02456"
+    },
+    "name": "Hammond Pond Reservation",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/AibO-GTFod0qOCFLkdvIYw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Gx-b1PUTsgAo3GdCyDUzMQ/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 9,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hammond-pond-reservation-newton?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4862"
+}

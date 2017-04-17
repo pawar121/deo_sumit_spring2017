@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "eventphotography",
+            "title": "Event Photography"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3149109,
+        "longitude": -121.8040619
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "richard-photography-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0ZvTu7krnBx8SIm5wdIF6w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3055 Monkton Ct",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95148"
+    },
+    "name": "Richard Photography",
+    "phone": "+14082421043",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0ZvTu7krnBx8SIm5wdIF6w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/cD2AYsXRkrCsFKAu2LPhMQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/X8pxKLkjvbOfOjAhuDTtDw/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 15,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/richard-photography-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9589"
+}

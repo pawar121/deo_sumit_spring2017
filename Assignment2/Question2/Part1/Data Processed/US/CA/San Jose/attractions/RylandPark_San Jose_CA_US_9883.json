@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3426057,
+        "longitude": -121.8956547
+    },
+    "id": "ryland-park-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Og_YRbrN8GxpB1v2JVVXdg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "415 N 1st St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95110"
+    },
+    "name": "Ryland Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Og_YRbrN8GxpB1v2JVVXdg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uRWCihOVeq6bEMB51Brg9g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/-atbS3MBXPDNCO27TbYFAA/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 27,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/ryland-park-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9883"
+}

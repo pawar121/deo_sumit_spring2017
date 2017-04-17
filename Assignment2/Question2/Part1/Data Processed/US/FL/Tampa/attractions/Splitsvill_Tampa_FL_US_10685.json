@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "bowling",
+            "title": "Bowling"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9430060956707,
+        "longitude": -82.4469155189102
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "splitsville-tampa",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TYUip_Ta6CXg5glwYiOHtQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "615 Channelside Dr",
+        "address2": "Ste 120",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "Splitsville",
+    "phone": "+18135142695",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/TYUip_Ta6CXg5glwYiOHtQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1AsLeglAl3F8wAuVsMuMgg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8yPf5gBYtFPE1UvBRjlNrw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 109,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/splitsville-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10685"
+}

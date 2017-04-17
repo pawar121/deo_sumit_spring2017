@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.53052,
+        "longitude": -0.07708
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "mien-tay-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cQThbq17CwrflDhWS6I7bw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "122 Kingsland Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E2 8DP"
+    },
+    "name": "Mien Tay",
+    "phone": "+442077293074",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/cQThbq17CwrflDhWS6I7bw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6o1lLMsfiEnxx8EtxmcTBQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/d1askA7ZNd4PZtjKu0FXvQ/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.0,
+    "review_count": 104,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mien-tay-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7517"
+}

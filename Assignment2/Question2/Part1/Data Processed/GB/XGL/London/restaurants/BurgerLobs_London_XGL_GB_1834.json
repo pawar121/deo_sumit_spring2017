@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5135487,
+        "longitude": -0.1322316
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "burger-and-lobster-london-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DLmidvUBiGi5TfktTK25Jw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "36 Dean Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W1D 4PS"
+    },
+    "name": "Burger & Lobster",
+    "phone": "+442074324800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DLmidvUBiGi5TfktTK25Jw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ZKbxstt3dycv5TT13egRug/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9gj9xgzlPPLG_3dJVbddMg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 217,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/burger-and-lobster-london-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1834"
+}

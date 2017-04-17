@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.5926721946785,
+        "longitude": -95.6497343538943
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "houston-museum-of-natural-science-sugar-land",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rgHNEX-TuXXypKOVnOqmmg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "13016 University Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Sugar Land",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77479"
+    },
+    "name": "Houston Museum of Natural Science",
+    "phone": "+17133132277",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rgHNEX-TuXXypKOVnOqmmg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GjX9G-N673VJwuKTHwxIlg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UHkJUIzjLkgnmNi2lLPAyQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 24,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/houston-museum-of-natural-science-sugar-land?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5404"
+}

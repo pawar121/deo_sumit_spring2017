@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "fitness",
+            "title": "Fitness & Instruction"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2611999,
+        "longitude": -121.9315698
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0630",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "0630",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "0630",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "0630",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "0630",
+                    "is_overnight": false,
+                    "start": "0530"
+                }
+            ]
+        }
+    ],
+    "id": "san-jose-adventure-boot-camp-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7-b_-qBozdulEE5bl3HToQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Prime Physique Fitness Specialists",
+        "address2": "3635 Union Ave",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95124"
+    },
+    "name": "San Jose Adventure Boot Camp",
+    "phone": "+14085581800",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7-b_-qBozdulEE5bl3HToQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/yyVuWICopokaVXqaq9QACg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jxqr_Am8HrloLyQNvlH5Nw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/san-jose-adventure-boot-camp-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10001"
+}

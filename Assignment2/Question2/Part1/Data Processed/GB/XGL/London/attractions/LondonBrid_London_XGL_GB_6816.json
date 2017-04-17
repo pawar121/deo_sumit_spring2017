@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        },
+        {
+            "alias": "trainstations",
+            "title": "Train Stations"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5057169989759,
+        "longitude": -0.0888481736183167
+    },
+    "id": "london-bridge-station-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YZeU4bzsFe3woYfmqZRzvg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Station Approach",
+        "address2": "Tooley Street",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 2SW"
+    },
+    "name": "London Bridge Station",
+    "phone": "+448457484950",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/YZeU4bzsFe3woYfmqZRzvg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/J55-2YZs8ly94FyO9bDHRg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nup3aEjNdBPuU33zK-IWgQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 34,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/london-bridge-station-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6816"
+}

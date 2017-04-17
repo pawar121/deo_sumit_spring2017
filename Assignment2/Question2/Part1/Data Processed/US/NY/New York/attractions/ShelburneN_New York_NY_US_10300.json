@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.74834,
+        "longitude": -73.97784
+    },
+    "id": "shelburne-nyc-an-affinia-hotel-new-york-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ByjB6iVCFckoXoWz0zG17w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "303 Lexington Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10016"
+    },
+    "name": "Shelburne NYC-an Affinia hotel",
+    "phone": "+12126895200",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ByjB6iVCFckoXoWz0zG17w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RYEBKAhtvDxFkP2_Xo_lcQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Bh9rA1cuZTMLRNDUaNrs9Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 143,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/shelburne-nyc-an-affinia-hotel-new-york-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10300"
+}

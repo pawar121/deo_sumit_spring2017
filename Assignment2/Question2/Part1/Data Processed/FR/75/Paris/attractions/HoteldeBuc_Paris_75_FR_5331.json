@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.85381,
+        "longitude": 2.33669
+    },
+    "id": "hotel-de-buci-paris",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZpwCOaEhTDg9ncU08ZDLJQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "22 Rue Buci",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75006"
+    },
+    "name": "Hotel de Buci",
+    "phone": "+33155427474",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZpwCOaEhTDg9ncU08ZDLJQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lzl0Y1OmtRl4Uhsm2Mkx0w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/B83UyYCYZvOrcPNslmleBA/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/hotel-de-buci-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5331"
+}

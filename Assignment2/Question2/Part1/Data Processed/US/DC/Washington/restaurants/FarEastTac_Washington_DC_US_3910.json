@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8953654599404,
+        "longitude": -76.9834763531295
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "far-east-taco-grille-washington-4",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XznltXgrw9DO7DVwURfOEQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "409 15th St NE",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20002"
+    },
+    "name": "Far East Taco Grille",
+    "phone": "+12026014346",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XznltXgrw9DO7DVwURfOEQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/RXyHeL0u7sbZ2G9TryTkuQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/DAqL8L0oB7fzhcGWZZdgGw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 110,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/far-east-taco-grille-washington-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3910"
+}

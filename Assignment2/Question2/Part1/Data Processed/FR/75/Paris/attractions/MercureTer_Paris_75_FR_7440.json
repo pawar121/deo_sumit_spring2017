@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8795065,
+        "longitude": 2.3547303
+    },
+    "id": "mercure-terminus-nord-paris",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ulSyS0uGuIYH5Y2ttRwajg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "12 boulevard Denain",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75010"
+    },
+    "name": "Mercure Terminus Nord",
+    "phone": "+33142802000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ulSyS0uGuIYH5Y2ttRwajg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vRnkep71EOBx5W9RpUpPNg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ObIKQpTWpeI6B0mRbqxcnw/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 3.5,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mercure-terminus-nord-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7440"
+}

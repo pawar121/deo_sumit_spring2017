@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9078712,
+        "longitude": 138.6058044
+    },
+    "id": "country-club-hotels-and-resorts-north-adelaide",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Melbourne Street",
+        "address2": "",
+        "address3": "",
+        "city": "North Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5006"
+    },
+    "name": "Country Club Hotels & Resorts",
+    "phone": "+61882673001",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/country-club-hotels-and-resorts-north-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2877"
+}

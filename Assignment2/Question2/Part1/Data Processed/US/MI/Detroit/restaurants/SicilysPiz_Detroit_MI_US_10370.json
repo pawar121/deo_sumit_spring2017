@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.323719,
+        "longitude": -83.0876617
+    },
+    "id": "sicilys-pizzeria-and-subs-detroit",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/znHkF2RfPJRvTEV7PFhvhA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3554 W Vernor Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48216"
+    },
+    "name": "Sicily's Pizzeria & Subs",
+    "phone": "+13135540755",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/znHkF2RfPJRvTEV7PFhvhA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TOnZhjWxlcGtXu3euHP6OQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/MeZKHlLgVA40LX6mqjhAQQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sicilys-pizzeria-and-subs-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10370"
+}

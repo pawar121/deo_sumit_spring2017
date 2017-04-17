@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3568611,
+        "longitude": -71.0598373
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "sam-lagrassas-boston-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JcSU7Vgu3iQPrJ60FMLiUA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "44 Province St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02108"
+    },
+    "name": "Sam LaGrassa's",
+    "phone": "+16173576861",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JcSU7Vgu3iQPrJ60FMLiUA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5yALJ2UM4lMow6Kp0_rAQw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cIG7FK9XN0qr2WdxKlsJGg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 742,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sam-lagrassas-boston-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9974"
+}

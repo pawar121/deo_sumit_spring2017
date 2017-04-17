@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "british",
+            "title": "British"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4173453,
+        "longitude": -2.996692
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1830"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1830"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1830"
+                }
+            ]
+        }
+    ],
+    "id": "elude-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1gC_2FR14RvI9ioccY0hzg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "15 Porter Street",
+        "address2": "",
+        "address3": "Docklands",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 7BL"
+    },
+    "name": "Elude",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/1gC_2FR14RvI9ioccY0hzg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/M-gYw_V1iEYGMqpXX6IR-A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/kTYYUgnyLA2Y2KLFJBx7gQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elude-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3688"
+}

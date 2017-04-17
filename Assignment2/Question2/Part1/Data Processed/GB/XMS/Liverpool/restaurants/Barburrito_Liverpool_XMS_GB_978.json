@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4034821,
+        "longitude": -2.9861158
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "barburrito-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rp5-0smPkZ-j1wMcEch08w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "14 Paradise Street",
+        "address2": "",
+        "address3": "Liverpool ONE",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L1 8JF"
+    },
+    "name": "Barburrito",
+    "phone": "+441517085085",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rp5-0smPkZ-j1wMcEch08w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/hsqgp-EkE2czDO1rqXTIAg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/WPQPjkW10dRNwsaJOIZ7Gg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 3.5,
+    "review_count": 9,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/barburrito-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "978"
+}

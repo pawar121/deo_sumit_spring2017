@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4758249,
+        "longitude": -0.037135
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "new-cross-inn-london",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vtfKgV1Ymu8_IE9i1Jj2uQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "323 New Cross Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE14 6AS"
+    },
+    "name": "New Cross Inn",
+    "phone": "+442084694382",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vtfKgV1Ymu8_IE9i1Jj2uQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/L4PJpAQvcd7YBBgsqPbZNg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/unzK7XSUpsncPMwOHP023w/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.0,
+    "review_count": 10,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/new-cross-inn-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7997"
+}

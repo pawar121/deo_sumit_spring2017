@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+        },
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.952818812109,
+        "longitude": 115.857904739678
+    },
+    "id": "meast-perth",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_EFrMc8BIOuspraL1zFOdw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Forrest Chase",
+        "address2": "Hawkers Night Market",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Meast",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_EFrMc8BIOuspraL1zFOdw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ldqlGth7_oyDuN0fWNV9SQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/tXbGSXejBfiDYDSHQvsybw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/meast-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7366"
+}

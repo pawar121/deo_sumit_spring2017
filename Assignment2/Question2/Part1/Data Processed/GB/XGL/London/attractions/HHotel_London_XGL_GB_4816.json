@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4991455,
+        "longitude": -0.1065469
+    },
+    "id": "h10-hotel-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NjxWe7w1MNWiddmiK7e1Vw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "284-302 Waterloo Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE1 8RG"
+    },
+    "name": "H10 Hotel",
+    "phone": "+442079284062",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NjxWe7w1MNWiddmiK7e1Vw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uOzkT8JKZVw09PeRFKX5YQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ekTYp1BIS3u5zQRMVWSwJg/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 13,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h10-hotel-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4816"
+}

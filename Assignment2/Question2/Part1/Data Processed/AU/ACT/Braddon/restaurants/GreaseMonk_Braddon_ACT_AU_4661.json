@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "beergardens",
+            "title": "Beer Gardens"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.27302,
+        "longitude": 149.1326
+    },
+    "id": "grease-monkey-braddon",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2VLmdNcX7_kw-a004jf6_A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "19 Lonsdale St",
+        "address2": "",
+        "address3": "",
+        "city": "Braddon",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "Grease Monkey",
+    "phone": "+61261741401",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2VLmdNcX7_kw-a004jf6_A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QlR318uXnjigbluwETVGuQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/X3uE60zfc_q5zvb-l6HzzA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/grease-monkey-braddon?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4661"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7451191,
+        "longitude": -95.3774719
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "pho-saigon-vietnamese-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F3TKumKxzMICO6FXeoOoAg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2808 Milam St",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Pho Saigon Vietnamese",
+    "phone": "+17135243734",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/F3TKumKxzMICO6FXeoOoAg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PXWNKa-jPKQRj5gzzgDtSw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YFal6YgAy5uQhGjFAY64Ig/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 602,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/pho-saigon-vietnamese-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8878"
+}

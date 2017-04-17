@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5523186,
+        "longitude": -0.07434
+    },
+    "id": "absorb-arts-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SBeIfbwm0WYouR259xtsiA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 Millers Avenue",
+        "address2": "Dalston",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E8 2DS"
+    },
+    "name": "Absorb Arts",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SBeIfbwm0WYouR259xtsiA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/absorb-arts-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "162"
+}

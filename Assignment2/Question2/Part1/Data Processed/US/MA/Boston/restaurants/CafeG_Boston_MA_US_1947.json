@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3383753,
+        "longitude": -71.0986195
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "cafe-g-boston-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RvVGd48ADnnFUPsUwJZXtA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Isabella Stewart Gardner Museum",
+        "address2": "25 Evans Way",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02115"
+    },
+    "name": "Cafe G",
+    "phone": "+16175661088",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/RvVGd48ADnnFUPsUwJZXtA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/dpB9_cDrWKerKV0SOdpfKQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fUph9R5hXdV8sX0sZOgFQQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 64,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/cafe-g-boston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1947"
+}

@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "gourmet",
+            "title": "Specialty Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9543781,
+        "longitude": 115.8599319
+    },
+    "id": "david-jones-foodhall-perth",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0x2ErGnJdbV9kEBotiHiyQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Level 1, David Jones",
+        "address2": "622 Hay St",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "David Jones Foodhall",
+    "phone": "+61892104000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0x2ErGnJdbV9kEBotiHiyQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/npOWXnI5JXsgTwSrRNZcQA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/iB3Qu5Go4ZwUCCJnkpIXPg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/david-jones-foodhall-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3146"
+}

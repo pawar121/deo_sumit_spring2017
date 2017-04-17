@@ -1,0 +1,111 @@
+{
+    "categories": [
+        {
+            "alias": "arts",
+            "title": "Arts & Entertainment"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.54368,
+        "longitude": -95.13296
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1300"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "2130"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1330"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "funcity-sk8-rink-webster",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oJItSg_RR6zDfVrevV802w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1500 North Texas Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Webster",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77598"
+    },
+    "name": "Funcity Sk8",
+    "phone": "+12813324211",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oJItSg_RR6zDfVrevV802w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KZT64GMQzW14fgcc8xkZ5A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sQsulmlBQuqaCGs3X2RWYg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 17,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/funcity-sk8-rink-webster?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4338"
+}

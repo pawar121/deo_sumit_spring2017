@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5306625,
+        "longitude": -0.1178946
+    },
+    "id": "nivens-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uQyn6kZBNNeVlrn_YD9E_A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "157 King's Cross Road",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "WC1X 9DS"
+    },
+    "name": "Niven's",
+    "phone": "+442078373717",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/uQyn6kZBNNeVlrn_YD9E_A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sO0cVuNUz8moryb7pRCmKw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YddaMxyuJhN1TXcMMqtUyQ/o.jpg"
+    ],
+    "price": "££",
+    "rating": 5.0,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nivens-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8104"
+}

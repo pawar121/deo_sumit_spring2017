@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3646232573314,
+        "longitude": -122.037184238434
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "las-palmas-park-sunnyvale",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BJk1X9QC_7vqgGrVfp6WfQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "850 Russet Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Sunnyvale",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94087"
+    },
+    "name": "Las Palmas Park",
+    "phone": "+14087307751",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BJk1X9QC_7vqgGrVfp6WfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Lu1VgwRoo4neFaxLvj-oPA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/A9KQ86YQKgxY9XVPVKBA8Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 69,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/las-palmas-park-sunnyvale?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6505"
+}

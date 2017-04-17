@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "portuguese",
+            "title": "Portuguese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7324851,
+        "longitude": -95.4387856
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "oporto-café-houston-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7Ea8QO1xDPcsanvV7Z-5LQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3833 Richmond Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77027"
+    },
+    "name": "Oporto Café",
+    "phone": "+17136211114",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7Ea8QO1xDPcsanvV7Z-5LQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/2GrP4ergw-i3dAf1egKwoQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/KWo5C0pluznxLh3jGofUrA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 381,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/oporto-caf%C3%A9-houston-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8403"
+}

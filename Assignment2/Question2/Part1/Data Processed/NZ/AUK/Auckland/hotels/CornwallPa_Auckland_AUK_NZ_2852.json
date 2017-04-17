@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.8881607,
+        "longitude": 174.775177
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "cornwall-park-motor-inn-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/znNIoJdMdra7Q4H7gqqf9Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "317 Manukau Rd",
+        "address2": "Epsom",
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1023"
+    },
+    "name": "Cornwall Park Motor Inn",
+    "phone": "+6496386409",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/znNIoJdMdra7Q4H7gqqf9Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/j8b0aL-Ftjp1tK1pWxrxXg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BjISW7BaBluBsK_CqnosSQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/cornwall-park-motor-inn-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2852"
+}

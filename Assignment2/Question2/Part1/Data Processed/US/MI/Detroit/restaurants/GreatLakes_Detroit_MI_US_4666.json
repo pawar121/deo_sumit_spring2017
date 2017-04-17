@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "pretzels",
+            "title": "Pretzels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.41576,
+        "longitude": -83.22013
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "great-lakes-burger-bar-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bugv0mPdpmdpT2bBuMNsCg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "18200 W McNichols Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48219"
+    },
+    "name": "Great Lakes Burger Bar",
+    "phone": "+13136939916",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/bugv0mPdpmdpT2bBuMNsCg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0OSKrO8OWx_GcpLogTbibQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/dr8M-JnGWKRucss50XchKA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/great-lakes-burger-bar-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4666"
+}

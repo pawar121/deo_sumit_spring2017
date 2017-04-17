@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.334502,
+        "longitude": -71.10545
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0030",
+                    "is_overnight": true,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "penguin-pizza-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3zVOt1WdWa_mTrZBPCzyHQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "735 Huntington Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02115"
+    },
+    "name": "Penguin Pizza",
+    "phone": "+16172779200",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3zVOt1WdWa_mTrZBPCzyHQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1s6eo2-qJv5KhgaIwVgRBA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/423uRvrepp86jIk_rKa0_w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 469,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/penguin-pizza-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8765"
+}

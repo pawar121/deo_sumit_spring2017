@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        },
+        {
+            "alias": "discgolf",
+            "title": "Disc Golf"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.5876948567216,
+        "longitude": -83.6508053227539
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "kensington-metropark-milford",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R-iSm_8uGoT3J83DIPDHww/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2240 W Buno Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Milford",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48380"
+    },
+    "name": "Kensington Metropark",
+    "phone": "+18102278910",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/R-iSm_8uGoT3J83DIPDHww/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VHerf-fw_wzB7w3AlWB3gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/JfU_UXUjcP0JKjeNtfBNtg/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 54,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kensington-metropark-milford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6088"
+}

@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "nonprofit",
+            "title": "Community Service/Non-Profit"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.31025,
+        "longitude": -71.11582
+    },
+    "id": "the-footlight-club-jamaica-plain",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NKeYnUW7N1U-NTPR_kZjAw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Eliot Hall",
+        "address2": "7A Eliot St",
+        "address3": "",
+        "city": "Jamaica Plain",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02130"
+    },
+    "name": "The Footlight Club",
+    "phone": "+16175246506",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NKeYnUW7N1U-NTPR_kZjAw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/M-LJx-9spy6GMixijZWSAA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4Xa6Y8tvrNXNiUuUX3kJ2w/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-footlight-club-jamaica-plain?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11597"
+}

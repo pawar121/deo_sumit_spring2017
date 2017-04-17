@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1127476420949,
+        "longitude": -115.062477245898
+    },
+    "id": "mystic-falls-park-las-vegas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7BfYOFZ4jxBIX_abYmiIBQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5111 Boulder Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89122"
+    },
+    "name": "Mystic Falls Park",
+    "phone": "+18005224700",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7BfYOFZ4jxBIX_abYmiIBQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/47MRkUWjMOf1xg3nGZr5Og/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/zDWXGHmW_gK1OY8iUMjp1w/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mystic-falls-park-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7868"
+}

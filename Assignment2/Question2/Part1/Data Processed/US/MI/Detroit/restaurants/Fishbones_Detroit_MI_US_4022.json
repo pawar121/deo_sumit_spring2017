@@ -1,0 +1,132 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3344776267154,
+        "longitude": -83.0433510479505
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1030",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "1030",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1030",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1030",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1030",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1030",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1830"
+                }
+            ]
+        }
+    ],
+    "id": "fishbones-detroit-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lYqb3LDqbPmytX_JWnGUJA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "400 Monroe St",
+        "address2": "Ste 480",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48226"
+    },
+    "name": "Fishbone's",
+    "phone": "+13139654600",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lYqb3LDqbPmytX_JWnGUJA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/rghqL4FB94YqUbnWMn7Oqg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/D7UsEJ4opyrk7Oqp-TbxrA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 335,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/fishbones-detroit-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4022"
+}

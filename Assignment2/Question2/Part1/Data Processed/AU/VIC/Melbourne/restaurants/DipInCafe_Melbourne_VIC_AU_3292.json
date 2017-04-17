@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81514,
+        "longitude": 144.961811
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "dip-in-cafe-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eCqyvuB5OM8jmWUhAN1kEQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "20-22 McKillop St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Dip In Cafe",
+    "phone": "+61396705379",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eCqyvuB5OM8jmWUhAN1kEQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UDVUrMkV5U_nmaFZCKtmXw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vwkmCRUWjnmpnc2ZsOfTbw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dip-in-cafe-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3292"
+}

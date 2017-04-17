@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5115343,
+        "longitude": -0.1854182
+    },
+    "id": "astor-queensway-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DXnlULb-796GyU9PUthLkg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Queensborough Terrace",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "W2 3SY"
+    },
+    "name": "Astor Queensway",
+    "phone": "+442072297782",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/DXnlULb-796GyU9PUthLkg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Qn2GRLJWeS9ZWSA1uWET1w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/hi1sPnpY5roiZjYo1W5vPg/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/astor-queensway-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "712"
+}

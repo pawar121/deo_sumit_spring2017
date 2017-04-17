@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "australian",
+            "title": "Australian"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2762733,
+        "longitude": 149.1403558
+    },
+    "id": "sage-restaurant-and-mint-garden-braddon",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rCSEhbDJkwY4gSzYfK-yuw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Gorman House Arts Centre",
+        "address2": "Batman Street",
+        "address3": "",
+        "city": "Braddon",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "Sage Restaurant and Mint Garden",
+    "phone": "+61262496050",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rCSEhbDJkwY4gSzYfK-yuw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/9LI8xQPfuDjKrVFLFApsmA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s15j_F4v8tcxSQ61tdhFBw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sage-restaurant-and-mint-garden-braddon?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9916"
+}

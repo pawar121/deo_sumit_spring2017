@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5181672,
+        "longitude": -0.0712837
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "chez-elles-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-BOekzvcrTMWDZEmfDX1gA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "45 Brick Lane",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "E1 6PU"
+    },
+    "name": "Chez Elles",
+    "phone": "+442072479699",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-BOekzvcrTMWDZEmfDX1gA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NZtKSojgcV4muNfU0kWfbg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2Yy-tzJoIPUH79GsnSaYdA/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 23,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/chez-elles-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2360"
+}

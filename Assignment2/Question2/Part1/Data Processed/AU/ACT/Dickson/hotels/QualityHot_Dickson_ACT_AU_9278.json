@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2513695,
+        "longitude": 149.1376038
+    },
+    "id": "quality-hotels-dickson-and-woden-conference-facilities-dickson",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Corner Of Badham & Cape St",
+        "address2": null,
+        "address3": null,
+        "city": "Dickson",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2602"
+    },
+    "name": "Quality Hotels Dickson & Woden Conference Facilities",
+    "phone": "+61262474744",
+    "photos": [],
+    "rating": 3.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/quality-hotels-dickson-and-woden-conference-facilities-dickson?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9278"
+}

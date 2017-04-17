@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "travelservices",
+            "title": "Travel Services"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3209381,
+        "longitude": 149.1319733
+    },
+    "id": "capital-travel-manuka-manuka-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0ROtr2ZPAGbo1wDE5exB9A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "24 Bougainville St",
+        "address2": null,
+        "address3": null,
+        "city": "Manuka",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Capital Travel Manuka",
+    "phone": "+61262952733",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0ROtr2ZPAGbo1wDE5exB9A/o.jpg"
+    ],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/capital-travel-manuka-manuka-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2110"
+}

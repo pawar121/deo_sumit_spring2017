@@ -1,0 +1,94 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.95622,
+        "longitude": -87.70842
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "hq-howard-quintero-chicago-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/suUcp8qLwdwcyK5aE9MRmQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4114 N Kedzie Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60618"
+    },
+    "name": "HQ Howard Quintero",
+    "phone": "+17736541629",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/suUcp8qLwdwcyK5aE9MRmQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zfScUbkGrya0quzgYnRp9g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xPztGaRKFxeYtXyETz8E8A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 129,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hq-howard-quintero-chicago-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5427"
+}

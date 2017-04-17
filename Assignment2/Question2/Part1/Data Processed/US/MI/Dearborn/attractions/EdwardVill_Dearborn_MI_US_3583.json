@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.312576,
+        "longitude": -83.218372
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                },
+                {
+                    "day": 6,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0000"
+                }
+            ]
+        }
+    ],
+    "id": "edward-village-dearborn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vMdw8fhzsD4lcWFDMnTl1g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "600 Town Center Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Dearborn",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48126"
+    },
+    "name": "Edward Village",
+    "phone": "+13135923622",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/vMdw8fhzsD4lcWFDMnTl1g/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Vvlx_e7lWq-XqjLOxV_zsA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/1rlFS6RtcCxov2AXPqb4Aw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 71,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/edward-village-dearborn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3583"
+}

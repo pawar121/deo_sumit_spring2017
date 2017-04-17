@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.9276886,
+        "longitude": 174.7926636
+    },
+    "id": "best-western-president-hotel-auckland-auckland",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x4S-MPDAln2sKs9zDw9mxw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "27-35 Victoria St",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1010"
+    },
+    "name": "Best Western President Hotel Auckland",
+    "phone": "+6493031333",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/x4S-MPDAln2sKs9zDw9mxw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Hi9zu9GzBJGnavEchw2nDw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nXjzLfTS6D-qrXW2ik-K_w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/best-western-president-hotel-auckland-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1232"
+}

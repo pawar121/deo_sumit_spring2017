@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "movietheaters",
+            "title": "Cinema"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.5482267,
+        "longitude": -83.1447582
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 4,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 5,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "0930"
+                }
+            ]
+        }
+    ],
+    "id": "mjr-troy-grand-digital-cinema-16-troy-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/efXN_iLE8XiH_A1SbuuC4g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "100 E Maple Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Troy",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48083"
+    },
+    "name": "MJR Troy Grand Digital Cinema 16",
+    "phone": "+12484982100",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/efXN_iLE8XiH_A1SbuuC4g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/zR6QavChA_8WpyBs_Uo7_w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2zmoDr32JiPKcVcZpSGKPw/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 45,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/mjr-troy-grand-digital-cinema-16-troy-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7615"
+}

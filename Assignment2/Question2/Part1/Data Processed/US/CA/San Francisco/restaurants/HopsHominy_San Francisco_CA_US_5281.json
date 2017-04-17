@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7892737258644,
+        "longitude": -122.405591253967
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "hops-and-hominy-san-francisco",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xJ6mi9tza2IcPTpBHSRvPg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Tillman Pl",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94108"
+    },
+    "name": "Hops & Hominy",
+    "phone": "+14153736341",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xJ6mi9tza2IcPTpBHSRvPg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9jRgm1y-PB1lJAOO7NGtkw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/U8lhupgxzodIT6USGx2qIg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1455,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/hops-and-hominy-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5281"
+}

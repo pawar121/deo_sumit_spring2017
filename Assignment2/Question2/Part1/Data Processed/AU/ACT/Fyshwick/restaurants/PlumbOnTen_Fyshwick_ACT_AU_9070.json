@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3308907,
+        "longitude": 149.1812439
+    },
+    "id": "plumb-on-tennant-fyshwick",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M9kkLfsJ5EkFByU7w3lOlA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5 Tennant St",
+        "address2": null,
+        "address3": null,
+        "city": "Fyshwick",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2609"
+    },
+    "name": "Plumb On Tennant",
+    "phone": "+61262806141",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/M9kkLfsJ5EkFByU7w3lOlA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fIYirdkzflbqrxhZMdnmYw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/HCajaTJF6K3jKMtYzPmJVw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/plumb-on-tennant-fyshwick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9070"
+}

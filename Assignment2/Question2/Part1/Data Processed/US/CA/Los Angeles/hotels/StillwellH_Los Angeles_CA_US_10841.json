@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.04472,
+        "longitude": -118.25845
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "0530",
+                    "is_overnight": true,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "stillwell-hotel-los-angeles",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SkoCERyNU0tlvKrhlYVHaQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "838 S Grand Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90017"
+    },
+    "name": "Stillwell Hotel",
+    "phone": "+12136271151",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SkoCERyNU0tlvKrhlYVHaQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ehCifQuClA8X3bqLqiFjZg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/5wjP7KoCFeBpUIl8XSedDg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.0,
+    "review_count": 53,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/stillwell-hotel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10841"
+}

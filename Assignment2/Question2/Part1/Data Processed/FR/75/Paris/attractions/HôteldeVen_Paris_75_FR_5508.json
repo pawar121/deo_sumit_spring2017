@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.8451993,
+        "longitude": 2.3834661
+    },
+    "id": "hôtel-de-venise-paris-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5UGM6hyeE8vFddg_uG57Ag/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4 Rue Chaligny",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75012"
+    },
+    "name": "Hôtel de Venise",
+    "phone": "+33143436345",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/5UGM6hyeE8vFddg_uG57Ag/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/lJgAbi6ugHUqAP2_DSSqYw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BPQsqof8IESw5hPOLWIsfQ/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-de-venise-paris-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5508"
+}

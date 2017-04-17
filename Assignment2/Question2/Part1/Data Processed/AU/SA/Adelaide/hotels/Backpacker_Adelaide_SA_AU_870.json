@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -34.9311676,
+        "longitude": 138.6042023
+    },
+    "id": "backpackers-inn-adelaide",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MAtAG9BF6_YHOpCoxnWoNA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "112 Carrington Street",
+        "address2": "",
+        "address3": "",
+        "city": "Adelaide",
+        "country": "AU",
+        "state": "SA",
+        "zip_code": "5000"
+    },
+    "name": "Backpacker's Inn",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/MAtAG9BF6_YHOpCoxnWoNA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/OGoR3ahV540QOHwQBWduHA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wz21IYQjJX3AgF8wquYLbQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/backpackers-inn-adelaide?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "870"
+}

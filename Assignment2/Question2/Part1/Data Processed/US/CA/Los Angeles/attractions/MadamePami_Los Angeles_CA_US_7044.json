@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        },
+        {
+            "alias": "lifecoach",
+            "title": "Life Coach"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.108909,
+        "longitude": -118.195492
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "madame-pamita-los-angeles-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2rDZnypfcM_gjLmf7qhOeA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90042"
+    },
+    "name": "Madame Pamita",
+    "phone": "+13103100029",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/2rDZnypfcM_gjLmf7qhOeA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vCNb-BzcIx1N4-DMDXigmA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/HOBlNgIBxYORmGH8STeeFA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 138,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/madame-pamita-los-angeles-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7044"
+}

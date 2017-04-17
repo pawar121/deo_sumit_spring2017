@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "halal",
+            "title": "Halal"
+        },
+        {
+            "alias": "bubbletea",
+            "title": "Bubble Tea"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.911475972879,
+        "longitude": -77.0656122492302
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "simply-banh-mi-washington-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2pKHjzO79kGcZFtgBEHBKw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1624 Wisconsin Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20007"
+    },
+    "name": "Simply Banh Mi",
+    "phone": "+12023335726",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2pKHjzO79kGcZFtgBEHBKw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KMhIEKkXCIeifhwbZLEXcw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/RxVvH27wDfUVnelJtVi6gg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 343,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/simply-banh-mi-washington-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10406"
+}

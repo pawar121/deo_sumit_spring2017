@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "delis",
+            "title": "Delis"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.57458,
+        "longitude": -122.3337
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "sodo-deli-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pjb6IW3PwuWw1pVsaH_Xww/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3228 1st Ave S",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98134"
+    },
+    "name": "SODO Deli",
+    "phone": "+12064670306",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pjb6IW3PwuWw1pVsaH_Xww/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eVPD-1cgT_8XCYP1tlHntQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/y7qFWbMx4t0-Bnso8Nr6mw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 119,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sodo-deli-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10531"
+}

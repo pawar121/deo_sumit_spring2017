@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.48043,
+        "longitude": -2.23971
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "manchester-art-gallery-manchester",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2Dd-y-vV6KpVHb_V75k31w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Mosley Street",
+        "address2": "",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M2 3JL"
+    },
+    "name": "Manchester Art Gallery",
+    "phone": "+441612358888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/2Dd-y-vV6KpVHb_V75k31w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/a-tu6cACM9sI5PZ5VGMK6Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/I-vzm1R-HTw9lkr6i6Tw8g/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 54,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/manchester-art-gallery-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7150"
+}

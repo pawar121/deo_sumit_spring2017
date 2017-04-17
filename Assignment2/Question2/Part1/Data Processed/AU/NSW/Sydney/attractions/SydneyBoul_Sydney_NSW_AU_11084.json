@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8740819,
+        "longitude": 151.2168275
+    },
+    "id": "sydney-boulevard-hotel-sydney-3",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WMYII4QwiZg3WuVqPy0g-g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "90 William St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2011"
+    },
+    "name": "Sydney Boulevard Hotel",
+    "phone": "+61293837222",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/WMYII4QwiZg3WuVqPy0g-g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/o7SL7wFXL0xJDkFs6ZLZUA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/X4g4MQprVNC8ajt_qwXHkw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 5,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sydney-boulevard-hotel-sydney-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11084"
+}

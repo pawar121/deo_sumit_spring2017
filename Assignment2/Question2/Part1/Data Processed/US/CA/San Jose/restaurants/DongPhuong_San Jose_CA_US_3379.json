@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3675265570243,
+        "longitude": -121.848123914403
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "dong-phuong-tofu-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lykYsSN5AgB7srvN6kWrzA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2359 McKee Rd",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95116"
+    },
+    "name": "Dong Phuong Tofu",
+    "phone": "+14082516838",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/lykYsSN5AgB7srvN6kWrzA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Jx_fu78YuMom34X-El7dKw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3vknoJFjpKDOf84JM6CgzQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 122,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dong-phuong-tofu-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3379"
+}

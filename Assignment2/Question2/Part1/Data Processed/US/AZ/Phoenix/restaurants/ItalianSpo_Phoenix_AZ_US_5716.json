@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.531328,
+        "longitude": -112.06466
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "italian-spoon-phoenix-3",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7aBHjQB-XmQTXME6zPg8Ow/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "6505 N 7th St",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85014"
+    },
+    "name": "Italian Spoon",
+    "phone": "+16022651999",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7aBHjQB-XmQTXME6zPg8Ow/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/CKy4pCnotdGf3HB4HFnRzQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/z5O3p5VAeTZlC4tgzmU9eg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 57,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/italian-spoon-phoenix-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5716"
+}

@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5095368,
+        "longitude": -0.131969
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "nonnas-kitchen-london",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/svbY73aDXuPXBKR_z9BlXg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "38 Panton Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SW1Y 4EA"
+    },
+    "name": "Nonna's Kitchen",
+    "phone": "+442078395142",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/svbY73aDXuPXBKR_z9BlXg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kF-CNst5hZMa7RIdFm4Blg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/w-zS6miH7I7h03IDjeBqww/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.5,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/nonnas-kitchen-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8131"
+}

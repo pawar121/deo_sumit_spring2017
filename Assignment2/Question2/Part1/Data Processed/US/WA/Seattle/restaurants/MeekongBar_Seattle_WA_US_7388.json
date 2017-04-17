@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "vietnamese",
+            "title": "Vietnamese"
+        },
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6167700829394,
+        "longitude": -122.346869073808
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "meekong-bar-seattle-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ntU_AqgzPNQV7VLhvPmA1Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2525 4th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98121"
+    },
+    "name": "Meekong Bar",
+    "phone": "+12062571030",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ntU_AqgzPNQV7VLhvPmA1Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/AfnoMDBUg0b85xT890U9Dw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UW7kwxzH_-MZ2U1QSCxTrg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 94,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/meekong-bar-seattle-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7388"
+}

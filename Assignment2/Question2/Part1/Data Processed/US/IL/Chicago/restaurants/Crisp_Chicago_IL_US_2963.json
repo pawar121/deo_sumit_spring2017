@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "korean",
+            "title": "Korean"
+        },
+        {
+            "alias": "chicken_wings",
+            "title": "Chicken Wings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.9361214592879,
+        "longitude": -87.6444210345452
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "crisp-chicago",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JaE1G029WOGN-ZtTs5xgyw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2940 N Broadway Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60657"
+    },
+    "name": "Crisp",
+    "phone": "+17736977610",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/JaE1G029WOGN-ZtTs5xgyw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FXuxzsJTIHIPfPARw4tCsQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/pnpw5iXv8oqCpvchSMoZzg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 2172,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/crisp-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2963"
+}

@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.90506,
+        "longitude": -77.06783
+    },
+    "id": "francis-scott-key-memorial-park-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VTCRJr1FrdBwo5omxAUfXQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "34th & M St. NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20007"
+    },
+    "name": "Francis Scott Key Memorial Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/VTCRJr1FrdBwo5omxAUfXQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/xtMCuqwrT36osEIOL5FllA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/79T9P4Kf7EY_LIT4sMim9w/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/francis-scott-key-memorial-park-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4244"
+}

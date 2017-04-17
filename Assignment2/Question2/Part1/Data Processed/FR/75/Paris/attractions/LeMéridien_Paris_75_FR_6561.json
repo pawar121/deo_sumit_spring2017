@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.87924456658,
+        "longitude": 2.2847356641044
+    },
+    "id": "le-méridien-etoile-paris-4",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrhqMwyl7DSaYVfsteRK8w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "81 bd Gouvion Saint-Cyr",
+        "address2": "",
+        "address3": "",
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75017"
+    },
+    "name": "Le Méridien Etoile",
+    "phone": "+33140683434",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/CrhqMwyl7DSaYVfsteRK8w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/CHJo4uT2DPJD9eoAjrUYYQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hzVaXt5--dch3PhAJyBswg/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 3.5,
+    "review_count": 97,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-m%C3%A9ridien-etoile-paris-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6561"
+}

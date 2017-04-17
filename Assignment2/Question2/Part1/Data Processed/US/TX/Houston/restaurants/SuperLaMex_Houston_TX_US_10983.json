@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.67308,
+        "longitude": -95.44022
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "super-la-mexicana-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W5MYQjx7sz7EtmtG8xSEWw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10002 Stella Link Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77025"
+    },
+    "name": "Super La Mexicana",
+    "phone": "+17136612929",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/W5MYQjx7sz7EtmtG8xSEWw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XoT55txtnEKTg6ETf-YbwA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/ZzFFBSkRUW8t9ioDMut5eg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 76,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/super-la-mexicana-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10983"
+}

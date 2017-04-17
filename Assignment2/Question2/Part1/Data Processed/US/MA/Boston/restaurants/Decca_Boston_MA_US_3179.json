@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "burgers",
+            "title": "Burgers"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3728202788089,
+        "longitude": -71.0555569121948
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "decca-boston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VLe47Ej_ejO5ebgwcHjiXw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "Charlestown Navy Yard",
+        "address2": "Bldg 10",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02129"
+    },
+    "name": "Decca",
+    "phone": "+16172425000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/VLe47Ej_ejO5ebgwcHjiXw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7jpmoxkauZMSCYW5B958_g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QW_APWaN-JYqyK3nxhn3Sw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 33,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/decca-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3179"
+}

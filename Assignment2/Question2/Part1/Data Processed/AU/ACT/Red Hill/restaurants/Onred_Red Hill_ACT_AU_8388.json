@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "restaurants",
+            "title": "Restaurants"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3285713,
+        "longitude": 149.116806
+    },
+    "id": "onred-red-hill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jDO1RAe3YhP4K5SNjvItzg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "50 Red Hill Drv",
+        "address2": null,
+        "address3": null,
+        "city": "Red Hill",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2603"
+    },
+    "name": "Onred",
+    "phone": "+61262733517",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jDO1RAe3YhP4K5SNjvItzg/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/onred-red-hill?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8388"
+}

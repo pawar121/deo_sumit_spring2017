@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "malaysian",
+            "title": "Malaysian"
+        },
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7150307,
+        "longitude": -73.9995575
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1500"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "asian-spicy-curry-pop-up-new-york",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lCCJxDMa7oHl0gAvFlDKNQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "46 Mulberry St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10013"
+    },
+    "name": "Asian Spicy Curry Pop-up",
+    "phone": "+12126087440",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lCCJxDMa7oHl0gAvFlDKNQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/QMd2UadQV2n6hXt9emRvbQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7yOhb8Ak-TBdBfrTTS6cnQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 74,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/asian-spicy-curry-pop-up-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "703"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.89294,
+        "longitude": -77.0477
+    },
+    "id": "albert-einstein-memorial-washington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kbWofENxgtxnxw0LeOSFhw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2101 Constitution Ave NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20050"
+    },
+    "name": "Albert Einstein Memorial",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/kbWofENxgtxnxw0LeOSFhw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/UIErGBUi411fIOIFYH1qNg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IgxutAwlENEfiaZzDiNgRw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 38,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/albert-einstein-memorial-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "320"
+}

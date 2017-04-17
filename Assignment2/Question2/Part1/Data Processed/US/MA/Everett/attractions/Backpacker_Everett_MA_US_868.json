@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "hostels",
+            "title": "Hostels"
+        },
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.403446,
+        "longitude": -71.0604934
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "backpackers-hostel-and-pub-everett",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H3GxwTHk4VopVzLOphVoqw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "13 School St",
+        "address2": "",
+        "address3": "",
+        "city": "Everett",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02149"
+    },
+    "name": "Backpackers Hostel & Pub",
+    "phone": "+16178602836",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/H3GxwTHk4VopVzLOphVoqw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/uJXTW0cKmWMZBt4WxMKvfQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SJL0tWzlO-rtb4_7PY3lNQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 2.5,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/backpackers-hostel-and-pub-everett?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "868"
+}

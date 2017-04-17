@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.86997,
+        "longitude": 151.1928055
+    },
+    "id": "bar-anonimo-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/63XAKYeQvysAdvaNaKEvYw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 120",
+        "address2": "104 Miller St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2009"
+    },
+    "name": "Bar Anonimo",
+    "phone": "+61401383232",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/63XAKYeQvysAdvaNaKEvYw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/vopgmp97l3vRzVc1Rf3H-A/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/anTzhRtTs35y9iw6SwQ4cA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/bar-anonimo-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "953"
+}

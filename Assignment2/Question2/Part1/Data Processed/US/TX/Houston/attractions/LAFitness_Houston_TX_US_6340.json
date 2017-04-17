@@ -1,0 +1,95 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        },
+        {
+            "alias": "healthtrainers",
+            "title": "Trainers"
+        },
+        {
+            "alias": "yoga",
+            "title": "Yoga"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.7329049,
+        "longitude": -95.4390612
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0500"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "la-fitness-houston-8",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eUOr_j13RJqcx-ufUK0NSA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3838 Richmond Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77027"
+    },
+    "name": "LA Fitness",
+    "phone": "+17134811909",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eUOr_j13RJqcx-ufUK0NSA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/j00F9lnvgcHkMpMuiLFq1g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GBWfPkZbXzEPBOwvAp1dHA/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 90,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/la-fitness-houston-8?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6340"
+}

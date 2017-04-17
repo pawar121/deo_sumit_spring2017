@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "hotdog",
+            "title": "Hot Dogs"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "potatoes",
+            "title": "Potatoes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8710967,
+        "longitude": 151.199038
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "georgies-spuds-and-snags-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wK58a8qV0A9fBLvxKWo_Wg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop FF04",
+        "address2": "Harbourside Shopping Ct",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Georgie's Spuds & Snags",
+    "phone": "+61292110082",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/wK58a8qV0A9fBLvxKWo_Wg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oVHOVDc9SC008CtrIgNwfg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/WRE-l8NDnLHMDgIS2VVItA/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/georgies-spuds-and-snags-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4443"
+}

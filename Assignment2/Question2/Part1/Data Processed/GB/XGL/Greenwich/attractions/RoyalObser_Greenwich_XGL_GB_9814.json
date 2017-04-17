@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "observatories",
+            "title": "Observatories"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.4768491206502,
+        "longitude": -0.000582821179250459
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "royal-observatory-greenwich",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6Mx-NX-vZCEDqz3M0KG24w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Blackheath Avenue",
+        "address2": "",
+        "address3": "",
+        "city": "Greenwich",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "SE10 8XJ"
+    },
+    "name": "Royal Observatory",
+    "phone": "+442088584422",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/6Mx-NX-vZCEDqz3M0KG24w/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LB1pVnd-mTuJb58GIFDC6g/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Hjoa910mozrgteu8gbK57Q/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 91,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/royal-observatory-greenwich?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9814"
+}

@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2795029,
+        "longitude": 149.1296082
+    },
+    "id": "outback-jacks-canberra-2",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wHzEnFJ5EwzLxuD9Z7eRYg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "99 London Circuit",
+        "address2": "",
+        "address3": "",
+        "city": "Canberra",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2601"
+    },
+    "name": "Outback Jack's",
+    "phone": "+61262625549",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/wHzEnFJ5EwzLxuD9Z7eRYg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/SH9NWiE7SHP3Bcp6lzqmFA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/outback-jacks-canberra-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8477"
+}

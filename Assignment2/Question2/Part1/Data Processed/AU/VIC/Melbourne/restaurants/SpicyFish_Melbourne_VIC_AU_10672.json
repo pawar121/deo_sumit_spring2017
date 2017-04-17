@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "shanghainese",
+            "title": "Shanghainese"
+        },
+        {
+            "alias": "szechuan",
+            "title": "Szechuan"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.81268,
+        "longitude": 144.9665599
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "spicy-fish-melbourne",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6mJeyTi69yPwdSRLHp5E6A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "209 Little Bourke St",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Spicy Fish",
+    "phone": "+61396391885",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/6mJeyTi69yPwdSRLHp5E6A/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/l7mIDABYLlBbDEvDMDT1EA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/il4T0du8SDBWGKe7N4bBQw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 25,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/spicy-fish-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10672"
+}

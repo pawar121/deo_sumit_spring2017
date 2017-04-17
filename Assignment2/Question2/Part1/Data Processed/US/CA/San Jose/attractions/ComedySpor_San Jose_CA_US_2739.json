@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "alias": "comedyclubs",
+            "title": "Comedy Clubs"
+        },
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        },
+        {
+            "alias": "eventplanning",
+            "title": "Party & Event Planning"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3331905,
+        "longitude": -121.8867048
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "2100"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "comedysportz-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6SoaN7ywhNk5D-rpMZrtpw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "288 S. 2nd St",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "ComedySportz",
+    "phone": "+14089855233",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/5K16Kut5xv8phwnj8GvVcQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/6SoaN7ywhNk5D-rpMZrtpw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/KGEVrI8l3pgQ1lTzBi8u7A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 184,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/comedysportz-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2739"
+}

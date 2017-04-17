@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "desserts",
+            "title": "Desserts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.61453,
+        "longitude": -122.34018
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1630"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "palace-kitchen-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q-jDlhkObGgdBgjSHUSavw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2030 5th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98121"
+    },
+    "name": "Palace Kitchen",
+    "phone": "+12064482001",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Q-jDlhkObGgdBgjSHUSavw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PiAWml0KO2_Fky0LiYlihg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rNHSoctBokM73VmGEx6_sQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 920,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/palace-kitchen-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8535"
+}

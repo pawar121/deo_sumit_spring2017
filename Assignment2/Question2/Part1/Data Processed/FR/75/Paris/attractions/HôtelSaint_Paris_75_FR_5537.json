@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.864293,
+        "longitude": 2.330798
+    },
+    "id": "hôtel-saint-james-et-albany-paris",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GawQKUefP35G7uxFn_YAYg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "202 rue de Rivoli",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75001"
+    },
+    "name": "Hôtel Saint-James & Albany",
+    "phone": "+33144584321",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GawQKUefP35G7uxFn_YAYg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/rDve8Y9zFsV4f1R89bPSuw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/mtg-js-g3CoPVnMa2fO5oA/o.jpg"
+    ],
+    "price": "€€",
+    "rating": 3.5,
+    "review_count": 20,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/h%C3%B4tel-saint-james-et-albany-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5537"
+}

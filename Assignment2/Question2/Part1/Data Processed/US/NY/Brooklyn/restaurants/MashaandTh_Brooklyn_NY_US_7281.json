@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "russian",
+            "title": "Russian"
+        },
+        {
+            "alias": "gastropubs",
+            "title": "Gastropubs"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.71195,
+        "longitude": -73.94242
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1230"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1230"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "masha-and-the-bear-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BfeYnjnc5p02ymTCmLn9Tw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "771 Grand St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11211"
+    },
+    "name": "Masha and The Bear",
+    "phone": "+17183845000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BfeYnjnc5p02ymTCmLn9Tw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LZNiPl_EFjiCzZrcpaAyRA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n6a9b_wf5klIgrY8EZUCGg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 115,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/masha-and-the-bear-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7281"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "stadiumsarenas",
+            "title": "Stadiums & Arenas"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.397577,
+        "longitude": -2.99163
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "echo-arena-liverpool-liverpool",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Px9K0QV7B2O-eovavzjVuQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Kings Dock",
+        "address2": "Liverpool Waterfront",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 4BX"
+    },
+    "name": "Echo Arena Liverpool",
+    "phone": "+441514758888",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Px9K0QV7B2O-eovavzjVuQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/07Gxt1iCQV8QvX1WQyZ1bQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/zj9Y0VCCbYkqd-bHnrvsRA/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 4.0,
+    "review_count": 14,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/echo-arena-liverpool-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3556"
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.94617,
+        "longitude": -82.4595
+    },
+    "id": "sheraton-tampa-riverwalk-hotel-tampa",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yHdQJX-Y8bB2UIxp3fmZ_Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "200 North Ashley Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "Sheraton Tampa Riverwalk Hotel",
+    "phone": "+18132232222",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/yHdQJX-Y8bB2UIxp3fmZ_Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XR1BGVUlLISuCLG83-UbXw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/nQPvsQ-uKuD9lvzWuEO4nw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.0,
+    "review_count": 100,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sheraton-tampa-riverwalk-hotel-tampa?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10318"
+}

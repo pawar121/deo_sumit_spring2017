@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8717454,
+        "longitude": 151.2069538
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 1,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 2,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 3,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0630"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 6,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "kikko-cafe-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wyTrq4fdGjSFfuZ_rUB1wA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 29, Ground Floor, Queen Victoria Building",
+        "address2": "455 George St",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Kikko Cafe",
+    "phone": "+61292834534",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/wyTrq4fdGjSFfuZ_rUB1wA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DQ8HADf1YJC9FEkq58a-Ug/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nnlWCIuJwyBb1DIX97pZAw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kikko-cafe-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6111"
+}

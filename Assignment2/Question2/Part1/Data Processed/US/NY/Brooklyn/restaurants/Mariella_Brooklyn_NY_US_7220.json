@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.6662419,
+        "longitude": -73.985749
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "mariella-brooklyn",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8x2azc9SIC17czm8LjgKnA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "492 6th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11215"
+    },
+    "name": "Mariella",
+    "phone": "+17184992132",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8x2azc9SIC17czm8LjgKnA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/91PMI2OWX8ekKgQRZyCncA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qvZrCwNrRSVT0BSg0FdpZg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 151,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mariella-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7220"
+}

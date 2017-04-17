@@ -1,0 +1,28 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": -37.7874489,
+        "longitude": 144.9320831
+    },
+    "id": "garry-ginivan-attractions-flemington",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "20 Shield St",
+        "address2": null,
+        "address3": null,
+        "city": "Flemington",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3031"
+    },
+    "name": "Garry Ginivan Attractions",
+    "phone": "+61393762503",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/garry-ginivan-attractions-flemington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4397"
+}

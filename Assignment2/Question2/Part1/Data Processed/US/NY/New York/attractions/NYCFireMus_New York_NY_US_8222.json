@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "museums",
+            "title": "Museums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.72569,
+        "longitude": -74.0070099
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "nyc-fire-museum-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JeS-lic6g66_NhvfXG5HUg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "278 Spring St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10013"
+    },
+    "name": "NYC Fire Museum",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JeS-lic6g66_NhvfXG5HUg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/4KjEBfCYWyvtrgTnsw3bZA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MKziQeV0QcjWb-ywBQW-5Q/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 45,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nyc-fire-museum-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8222"
+}

@@ -1,0 +1,98 @@
+{
+    "categories": [
+        {
+            "alias": "british",
+            "title": "British"
+        },
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.54218,
+        "longitude": -0.14715
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "2100"
+                },
+                {
+                    "day": 5,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "2100"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "proud-cabaret-camden-london",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bHxV6acwz3S-6NpqtMXcMA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "The Horse Hospital",
+        "address2": "Stables Market",
+        "address3": "Chalk Farm Road",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "NW1 8AH"
+    },
+    "name": "Proud Cabaret Camden",
+    "phone": "+442074823867",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/bHxV6acwz3S-6NpqtMXcMA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Hvs8yifO1yPfeGc_Am23Gw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ch5CoggDc_D-pKPmgNkw1A/o.jpg"
+    ],
+    "price": "£££",
+    "rating": 3.5,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/proud-cabaret-camden-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9211"
+}

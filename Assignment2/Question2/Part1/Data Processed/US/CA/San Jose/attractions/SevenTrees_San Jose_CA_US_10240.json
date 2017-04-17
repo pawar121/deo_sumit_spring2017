@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        },
+        {
+            "alias": "preschools",
+            "title": "Preschools"
+        },
+        {
+            "alias": "leisure_centers",
+            "title": "Leisure Centers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.2848662983814,
+        "longitude": -121.833279281046
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "seven-trees-community-center-san-jose",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dvaxidL9UvuCU3CnNHn4DQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3590 Cas Dr",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95111"
+    },
+    "name": "Seven Trees Community Center",
+    "phone": "+14087941690",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/dvaxidL9UvuCU3CnNHn4DQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/wpn0OhnQgbvKrtKAc7rZTg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/rZJvX8I7HVKlfJ4X_PVPZQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 22,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/seven-trees-community-center-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10240"
+}

@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.88941,
+        "longitude": -76.98801
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                }
+            ]
+        }
+    ],
+    "id": "lincoln-park-kitchen-and-wine-bar-washington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kl1JNhCUmtL1PCNjS4zESg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "106 13th St SE",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20003"
+    },
+    "name": "Lincoln Park Kitchen & Wine Bar",
+    "phone": "+12025067013",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/kzXIbNUDzlbG_2W_y_dQkw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/_4U8HNxK_m7iZ-T51E2oSg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 44,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/lincoln-park-kitchen-and-wine-bar-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6690"
+}

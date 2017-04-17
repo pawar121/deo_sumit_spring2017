@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.10467,
+        "longitude": -118.34322
+    },
+    "id": "highland-gardens-hotel-los-angeles",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qyATDeOxnvP1Kt3JlOe0Rw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7047 Franklin Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90028"
+    },
+    "name": "Highland Gardens Hotel",
+    "phone": "+13238500536",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/qyATDeOxnvP1Kt3JlOe0Rw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FINPtg2mR5VqVTLeiAYrIQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TmJuBjsEb1n-tyAwq8wmtg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 2.5,
+    "review_count": 60,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/highland-gardens-hotel-los-angeles?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5052"
+}

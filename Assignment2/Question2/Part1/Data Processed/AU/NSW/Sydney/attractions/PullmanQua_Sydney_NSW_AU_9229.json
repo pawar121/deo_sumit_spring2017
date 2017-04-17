@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8606491,
+        "longitude": 151.2130585
+    },
+    "id": "pullman-quay-grand-sydney-harbour-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ydx7t3dDex33vN7j_OvKxA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "61 Macquarie St",
+        "address2": "East Circular Quay",
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Pullman Quay Grand Sydney Harbour",
+    "phone": "+61292564000",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Ydx7t3dDex33vN7j_OvKxA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/504s0cjDO0440_pVdp4nrA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/YZ5Y9-vINUiz3ndPIKMrRA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pullman-quay-grand-sydney-harbour-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9229"
+}

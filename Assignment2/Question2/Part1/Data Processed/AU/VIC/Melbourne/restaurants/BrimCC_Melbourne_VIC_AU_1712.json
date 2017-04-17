@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8179299,
+        "longitude": 144.95484
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "brim-cc-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jwgnSUFBou8wKjgAKohXSA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Shop 2",
+        "address2": "601 Little Collins Street",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Brim CC",
+    "phone": "+61396296794",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/jwgnSUFBou8wKjgAKohXSA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iIAz-ZvAiPvikQrOLFG07A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/9lpk8oPg2Wzuuf78TdLUbg/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/brim-cc-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1712"
+}

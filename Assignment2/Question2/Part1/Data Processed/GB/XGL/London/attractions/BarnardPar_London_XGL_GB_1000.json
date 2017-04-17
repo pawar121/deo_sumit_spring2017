@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "dog_parks",
+            "title": "Dog Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 51.5372802833298,
+        "longitude": -0.112111725056681
+    },
+    "id": "barnard-park-london",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SRRwls_Rmv3xWC2lVVY10A/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3 Everilda Street",
+        "address2": "",
+        "address3": "",
+        "city": "London",
+        "country": "GB",
+        "state": "XGL",
+        "zip_code": "N1 0JY"
+    },
+    "name": "Barnard Park",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SRRwls_Rmv3xWC2lVVY10A/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 4,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/barnard-park-london?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1000"
+}

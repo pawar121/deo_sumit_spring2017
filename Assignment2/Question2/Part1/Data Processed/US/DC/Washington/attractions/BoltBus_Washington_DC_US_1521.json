@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.8969609,
+        "longitude": -77.0064111
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0600"
+                }
+            ]
+        }
+    ],
+    "id": "boltbus-washington",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tUC_ifo9UQp4oyVL99taow/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "50 Massachusetts Avenue, N.E.",
+        "address2": null,
+        "address3": null,
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20002"
+    },
+    "name": "BoltBus",
+    "phone": "+18772658287",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tUC_ifo9UQp4oyVL99taow/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LJ4iLaUN6wvUU0Azk9VZng/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/CqcidQ0MYarsNdT25fo1oQ/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 372,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boltbus-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1521"
+}

@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74254,
+        "longitude": -95.40109
+    },
+    "id": "pride-wall-htx-houston",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8gQvHgUK3O7B__TZOpk_LQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1641 Westheimer Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77006"
+    },
+    "name": "Pride Wall HTX",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8gQvHgUK3O7B__TZOpk_LQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/VcmgEvZNku8alScPPhGOMg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pride-wall-htx-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9183"
+}

@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.2713965995554,
+        "longitude": 149.133197551451
+    },
+    "id": "elemental-cafe-braddon",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LFdbE-rfc_JZhnf-5QrnPg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "54/30 Lonsdale St",
+        "address2": "",
+        "address3": "",
+        "city": "Braddon",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2612"
+    },
+    "name": "Elemental Cafe",
+    "phone": "+61262487502",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/LFdbE-rfc_JZhnf-5QrnPg/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 1,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/elemental-cafe-braddon?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3659"
+}

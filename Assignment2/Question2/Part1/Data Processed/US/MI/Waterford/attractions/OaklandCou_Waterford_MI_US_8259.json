@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "airports",
+            "title": "Airports"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.6617100607346,
+        "longitude": -83.4188615530729
+    },
+    "id": "oakland-county-international-airport-waterford",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7JT2pZXOi6PlAnF4Y-x4fQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6500 Highland Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Waterford",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48327"
+    },
+    "name": "Oakland County International Airport",
+    "phone": "+12486663900",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7JT2pZXOi6PlAnF4Y-x4fQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/gTvRA5M13ennNCAYHPhLlA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/h1z7J21EoSEU-tG_tq4aHA/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/oakland-county-international-airport-waterford?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8259"
+}

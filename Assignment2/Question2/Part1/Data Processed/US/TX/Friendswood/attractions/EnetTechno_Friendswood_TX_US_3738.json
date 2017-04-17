@@ -1,0 +1,28 @@
+{
+    "categories": [],
+    "coordinates": {
+        "latitude": 29.5329094,
+        "longitude": -95.2058868
+    },
+    "id": "enet-technologies-friendswood",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "104 Peacan Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Friendswood",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77546"
+    },
+    "name": "Enet Technologies",
+    "phone": "+17247258000",
+    "photos": [],
+    "rating": 1.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/enet-technologies-friendswood?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3738"
+}

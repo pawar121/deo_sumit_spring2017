@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "galleries",
+            "title": "Art Galleries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.4492746920037,
+        "longitude": -122.174772778611
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1100"
+                }
+            ]
+        }
+    ],
+    "id": "pace-gallery-menlo-park",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X6GZcSCBD3ZEQBUVwZTAxQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "300 El Camino Real",
+        "address2": "",
+        "address3": "",
+        "city": "Menlo Park",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94025"
+    },
+    "name": "Pace Gallery",
+    "phone": "+16504621368",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/X6GZcSCBD3ZEQBUVwZTAxQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/0qhc6VD2zR_8PirmiGj8sw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/bps_yZn7-v-EqZfEsPeTiQ/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 292,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pace-gallery-menlo-park?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8510"
+}

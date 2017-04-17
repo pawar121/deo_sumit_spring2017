@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "french",
+            "title": "French"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.7210141970542,
+        "longitude": -73.9910638332367
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 6,
+                    "end": "2230",
+                    "is_overnight": false,
+                    "start": "1800"
+                }
+            ]
+        }
+    ],
+    "id": "gentleman-farmer-new-york",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oh3xkMJyl8_yZlB7bnAx8g/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "40 Rivington St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10002"
+    },
+    "name": "Gentleman Farmer",
+    "phone": "+12126772172",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/oh3xkMJyl8_yZlB7bnAx8g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7r2CTfXloQOgLhHGXVvCDA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jA2AiK9ATHILar27mphLYA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 205,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/gentleman-farmer-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4425"
+}

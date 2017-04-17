@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "australian",
+            "title": "Australian"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8751106,
+        "longitude": 151.2248993
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 4,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 5,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1830"
+                },
+                {
+                    "day": 6,
+                    "end": "1830",
+                    "is_overnight": false,
+                    "start": "1400"
+                }
+            ]
+        }
+    ],
+    "id": "farmhouse-kings-cross-rushcutters-bay",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fznQq6HPnDdTCjVZ_KC75w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4/40 Bayswater Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Rushcutters Bay",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2011"
+    },
+    "name": "Farmhouse Kings Cross",
+    "phone": "+61488413791",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fznQq6HPnDdTCjVZ_KC75w/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/uGsUwmHOP2l9dw74NP_aKw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3X429fapSrGT_7cuAFatgA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 5.0,
+    "review_count": 15,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/farmhouse-kings-cross-rushcutters-bay?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3922"
+}

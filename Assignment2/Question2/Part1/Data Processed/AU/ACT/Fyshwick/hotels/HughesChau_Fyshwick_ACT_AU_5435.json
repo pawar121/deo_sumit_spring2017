@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "transport",
+            "title": "Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": -35.3127518,
+        "longitude": 149.1633759
+    },
+    "id": "hughes-chauffeured-cars-limousines-and-coaches-fyshwick",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "211 Dairy Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Fyshwick",
+        "country": "AU",
+        "state": "ACT",
+        "zip_code": "2609"
+    },
+    "name": "Hughes Chauffeured Cars, Limousines & Coaches",
+    "phone": "+61262808448",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "hotels",
+    "url": "https://www.yelp.com/biz/hughes-chauffeured-cars-limousines-and-coaches-fyshwick?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5435"
+}

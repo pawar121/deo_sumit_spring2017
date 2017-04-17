@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1669884,
+        "longitude": -115.1497574
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "mto-café-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IWfGSsP-zok9ZOL1pSuFxw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "500 S Main St",
+        "address2": null,
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89101"
+    },
+    "name": "MTO Café",
+    "phone": "+17023808229",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/IWfGSsP-zok9ZOL1pSuFxw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/BPHR6jAT_y3y9qeVkXL33g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/Xdml1AuGFWjRd5fUN7Hhlg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 695,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mto-caf%C3%A9-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7790"
+}

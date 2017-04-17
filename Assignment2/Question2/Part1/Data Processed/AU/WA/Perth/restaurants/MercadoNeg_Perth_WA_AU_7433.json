@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": -31.9545376029778,
+        "longitude": 115.862664654851
+    },
+    "id": "mercado-negro-perth",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XMiBuXHib6GrhrdygLdVPQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "54 Pier St",
+        "address2": "",
+        "address3": "",
+        "city": "Perth",
+        "country": "AU",
+        "state": "WA",
+        "zip_code": "6000"
+    },
+    "name": "Mercado Negro",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/XMiBuXHib6GrhrdygLdVPQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Ddoed6ROA9q7FP0oHMVDWg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/aBDESut1o5UIVDMtheJccg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 10,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mercado-negro-perth?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7433"
+}

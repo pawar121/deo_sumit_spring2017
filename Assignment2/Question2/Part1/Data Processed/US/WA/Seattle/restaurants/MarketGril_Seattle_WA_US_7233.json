@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6089070425027,
+        "longitude": -122.340861002181
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "market-grill-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QbKWKHKHFpgZAg7hnIZfVw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1509 Pike Pl",
+        "address2": "Ste 3",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98101"
+    },
+    "name": "Market Grill",
+    "phone": "+12066822654",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/QbKWKHKHFpgZAg7hnIZfVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/i_OXOwWPZEBHun8VtD5xWA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/IqeIoqOSQicMcR_qZyxaIw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 285,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/market-grill-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7233"
+}

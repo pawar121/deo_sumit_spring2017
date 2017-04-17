@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3492209,
+        "longitude": -71.0414338
+    },
+    "id": "seaport-boston-hotel-boston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/l3i9ECjDR_rvS05MzHGoEQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1 Seaport Ln",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02210"
+    },
+    "name": "Seaport Boston Hotel",
+    "phone": "+16173854000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/l3i9ECjDR_rvS05MzHGoEQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/EB2izYaosjsNTyHN3HbEkQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GXbCWaFg8DG_8qVvpEEDFQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 172,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/seaport-boston-hotel-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10159"
+}

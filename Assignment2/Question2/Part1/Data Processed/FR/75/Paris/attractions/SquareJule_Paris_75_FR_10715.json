@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "gardens",
+            "title": "Botanical Gardens"
+        },
+        {
+            "alias": "parks",
+            "title": "Parks"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.867526,
+        "longitude": 2.367954
+    },
+    "id": "square-jules-ferry-paris",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Boulevard Jules Ferry",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75011"
+    },
+    "name": "Square Jules Ferry",
+    "phone": "+33147009105",
+    "photos": [],
+    "rating": 0.0,
+    "review_count": 0,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/square-jules-ferry-paris?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10715"
+}

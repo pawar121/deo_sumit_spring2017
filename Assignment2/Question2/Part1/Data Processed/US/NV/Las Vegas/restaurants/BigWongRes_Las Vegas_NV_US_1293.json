@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "chinese",
+            "title": "Chinese"
+        },
+        {
+            "alias": "noodles",
+            "title": "Noodles"
+        },
+        {
+            "alias": "soup",
+            "title": "Soup"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.126663,
+        "longitude": -115.20992
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "big-wong-restaurant-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4cIBzai7DdXKOXcihPBamg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "5040 Spring Mountain Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89146"
+    },
+    "name": "Big Wong Restaurant",
+    "phone": "+17023686808",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4cIBzai7DdXKOXcihPBamg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/LKbdA94_XZPDm0sqT5VK5Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/NBTntYwyWD43FM0Ff0WQ9A/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 670,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/big-wong-restaurant-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1293"
+}

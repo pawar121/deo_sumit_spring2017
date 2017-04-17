@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        },
+        {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.714844,
+        "longitude": -73.961549
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "la-goulette-brooklyn",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yH1GCpd7dmTLSV_N0Wjh7Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "159 Grand St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11249"
+    },
+    "name": "La Goulette",
+    "phone": "+13476894126",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/yH1GCpd7dmTLSV_N0Wjh7Q/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Aq5G3Rhh5CQFq5sltil3CQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/At7GeVGmZN16X9_rUy08yw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 219,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/la-goulette-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6353"
+}

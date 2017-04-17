@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "gourmet",
+            "title": "Specialty Food"
+        },
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.36511,
+        "longitude": -71.05558
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "monicas-mercato-boston-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fVoB1JLBn22PxcaL9hiwxA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "130 Salem St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02113"
+    },
+    "name": "Monica's Mercato",
+    "phone": "+16177424101",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/fVoB1JLBn22PxcaL9hiwxA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LFiFKDGidDwz5yBGnKlvyg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KufMUYKtQYlPAG6Gaux4zA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 251,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/monicas-mercato-boston-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7659"
+}

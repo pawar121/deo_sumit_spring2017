@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.850423701282,
+        "longitude": -4.28793217025
+    },
+    "id": "kinning-park-subway-station-glasgow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WS1w2ZqR6CRVeT5IRCmlOg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "30 Cornwall Street",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G41 1AQ"
+    },
+    "name": "Kinning Park Subway Station",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/WS1w2ZqR6CRVeT5IRCmlOg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MkkMeuMpGMWwtbAI8lQs8g/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/GqB5YjTEovLT0_tI53Krog/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 7,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kinning-park-subway-station-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6176"
+}

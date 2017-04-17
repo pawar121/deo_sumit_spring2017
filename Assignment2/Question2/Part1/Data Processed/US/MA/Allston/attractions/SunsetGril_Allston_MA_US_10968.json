@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.35273,
+        "longitude": -71.13166
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "sunset-grill-and-tap-allston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ltQKGJJoNQW43Qat7ApL_w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "130 Brighton Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Allston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02134"
+    },
+    "name": "Sunset Grill & Tap",
+    "phone": "+16172541331",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ltQKGJJoNQW43Qat7ApL_w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/S4tBD0j72jwMJS6P2RHFUQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TY5ldAZ3EIhlqh69rIEwzg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 1169,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sunset-grill-and-tap-allston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10968"
+}

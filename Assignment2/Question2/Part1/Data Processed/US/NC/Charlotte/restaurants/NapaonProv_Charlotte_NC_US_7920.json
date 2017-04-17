@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.1967888,
+        "longitude": -80.825882
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1030"
+                }
+            ]
+        }
+    ],
+    "id": "napa-on-providence-charlotte",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/D6Djvune30oKfWplTPdfHg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "110 Perrin Pl",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28207"
+    },
+    "name": "Napa on Providence",
+    "phone": "+17049008535",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/D6Djvune30oKfWplTPdfHg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/M9jmJBLwk__kDoDE98Ia-w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/sxHSUM1cKFOoVD9_bnTfAg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 151,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/napa-on-providence-charlotte?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7920"
+}

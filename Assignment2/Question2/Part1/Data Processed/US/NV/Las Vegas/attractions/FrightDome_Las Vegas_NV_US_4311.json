@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.1379691580112,
+        "longitude": -115.167085280597
+    },
+    "id": "fright-dome-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s3B3NebZtMxyCqs91NU3NQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "2880 Las Vegas Blvd S",
+        "address2": "",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    "name": "Fright Dome",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/s3B3NebZtMxyCqs91NU3NQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/tqHaLuaUGPGwIxTCofD38w/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/XzFQzpu2hdamwa0U3Leahg/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 64,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fright-dome-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4311"
+}

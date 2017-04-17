@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "buffets",
+            "title": "Buffets"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3395004,
+        "longitude": -83.0675583
+    },
+    "id": "motorcity-casino-buffet-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3Gvm4Ya3NSfquvaEJisTkA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2901 Grand River Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48201"
+    },
+    "name": "MotorCity Casino Buffet",
+    "phone": "+18667829622",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/3Gvm4Ya3NSfquvaEJisTkA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/f8DHJUw1Qmr-WI8icWH5tw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/jfBLkQhzKxvANnTQgVOY4Q/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 11,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/motorcity-casino-buffet-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7733"
+}

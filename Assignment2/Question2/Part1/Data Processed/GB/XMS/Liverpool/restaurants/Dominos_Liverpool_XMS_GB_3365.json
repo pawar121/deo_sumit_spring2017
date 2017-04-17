@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4098461,
+        "longitude": -2.9697131
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "dominos-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XaeIA3i3JYUESPyLi7c1bg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "196 London Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 9TA"
+    },
+    "name": "Domino's",
+    "phone": "+441517077779",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/XaeIA3i3JYUESPyLi7c1bg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/l4qhtecE9IgV6kx14G5pcw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/_34eSZ99TW8Gk2NPmE2W2g/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/dominos-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3365"
+}

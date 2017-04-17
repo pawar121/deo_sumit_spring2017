@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "bars",
+            "title": "Bars"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.74439,
+        "longitude": -95.36553
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "0400",
+                    "is_overnight": true,
+                    "start": "2000"
+                }
+            ]
+        }
+    ],
+    "id": "skol-casbar-and-grille-houston",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zwaXDgLZay07wXTYuRMaQw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "1701 Webster St",
+        "address2": "Ste A",
+        "address3": null,
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77003"
+    },
+    "name": "Skol Casbar & Grille",
+    "phone": "+17136511011",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/zwaXDgLZay07wXTYuRMaQw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DG_jQUM-Q6huwiAfTReWvQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/diwZW6iT-w1A8wVG2DJJcw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 29,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/skol-casbar-and-grille-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10443"
+}

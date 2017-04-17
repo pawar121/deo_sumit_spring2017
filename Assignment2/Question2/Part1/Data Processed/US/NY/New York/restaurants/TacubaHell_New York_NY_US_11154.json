@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        },
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.76542,
+        "longitude": -73.98719
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 1,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 2,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 3,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1130"
+                }
+            ]
+        }
+    ],
+    "id": "tacuba-hells-kitchen-cantina-mexicana-new-york",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7IwehQxJ9nHSvdwyhoAm4A/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "802 9th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "10019"
+    },
+    "name": "Tacuba Hell's Kitchen Cantina Mexicana",
+    "phone": "+12122454500",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7IwehQxJ9nHSvdwyhoAm4A/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Q_Av0Slx8g9Kt0mcYsh5dQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/oPc-SE6ufERtz9bXbB0zSg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 148,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tacuba-hells-kitchen-cantina-mexicana-new-york?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11154"
+}

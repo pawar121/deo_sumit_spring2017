@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "alias": "teppanyaki",
+            "title": "Teppanyaki"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8748512,
+        "longitude": 151.206543
+    },
+    "id": "kushiyaki-azuma-sydney",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lRHtqI_lunlRUo6Hyjajng/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "501 George St",
+        "address2": null,
+        "address3": null,
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Kushiyaki Azuma",
+    "phone": "+61292677775",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lRHtqI_lunlRUo6Hyjajng/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/kushiyaki-azuma-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6280"
+}

@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "alias": "greek",
+            "title": "Greek"
+        },
+        {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4005823,
+        "longitude": -2.9651418
+    },
+    "id": "eureka-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aJEMGYG1AXUZTfzvoSpPEw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Myrtle Parade",
+        "address2": "",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L7 7EL"
+    },
+    "name": "Eureka",
+    "phone": "+441517097225",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/aJEMGYG1AXUZTfzvoSpPEw/o.jpg"
+    ],
+    "price": "££",
+    "rating": 4.0,
+    "review_count": 6,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/eureka-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3811"
+}

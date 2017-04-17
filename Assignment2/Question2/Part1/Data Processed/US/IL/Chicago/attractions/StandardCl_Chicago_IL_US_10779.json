@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+        },
+        {
+            "alias": "hotels",
+            "title": "Hotels"
+        }
+    ],
+    "coordinates": {
+        "latitude": 41.87771,
+        "longitude": -87.62902
+    },
+    "id": "standard-club-chicago",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kyKNfiIKshEJ8Yy6bJSQJQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "320 S Plymouth Ct",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "country": "US",
+        "state": "IL",
+        "zip_code": "60604"
+    },
+    "name": "Standard Club",
+    "phone": "+13124279100",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/kyKNfiIKshEJ8Yy6bJSQJQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/0mRnSitlVebVTYjV4DAdFQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/M-1otAwLDK8uqSLGLeJfvA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 23,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/standard-club-chicago?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10779"
+}

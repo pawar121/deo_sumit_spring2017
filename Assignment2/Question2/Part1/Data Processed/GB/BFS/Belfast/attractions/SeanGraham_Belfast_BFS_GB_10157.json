@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "alias": "casinos",
+            "title": "Casinos"
+        }
+    ],
+    "coordinates": {
+        "latitude": 54.5824814,
+        "longitude": -5.9797101
+    },
+    "id": "sean-graham-bookmakers-belfast",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "537 Falls Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Belfast",
+        "country": "GB",
+        "state": "BFS",
+        "zip_code": "BT11 9AA"
+    },
+    "name": "Sean Graham Bookmakers",
+    "phone": "+448000321321",
+    "photos": [],
+    "rating": 2.0,
+    "review_count": 1,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/sean-graham-bookmakers-belfast?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10157"
+}

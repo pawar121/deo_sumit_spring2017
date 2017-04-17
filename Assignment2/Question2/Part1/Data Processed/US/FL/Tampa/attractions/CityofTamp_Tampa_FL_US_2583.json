@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "publicservicesgovt",
+            "title": "Public Services & Government"
+        }
+    ],
+    "coordinates": {
+        "latitude": 27.9471059,
+        "longitude": -82.4575958
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "city-of-tampa-tampa-2",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J7Cva8EG3TCkk8ifoA0sTw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "306 E Jackson St",
+        "address2": null,
+        "address3": null,
+        "city": "Tampa",
+        "country": "US",
+        "state": "FL",
+        "zip_code": "33602"
+    },
+    "name": "City of Tampa",
+    "phone": "+18132748251",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/J7Cva8EG3TCkk8ifoA0sTw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/NQMTz-DBseOLw7QQVXCzMw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/7Tw4_ze6mD6Q8IIRxQRb2w/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 8,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/city-of-tampa-tampa-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2583"
+}

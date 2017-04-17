@@ -1,0 +1,117 @@
+{
+    "categories": [
+        {
+            "alias": "aquariums",
+            "title": "Aquariums"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.0412208031117,
+        "longitude": -115.183292203389
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 3,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 3,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1930"
+                },
+                {
+                    "day": 4,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 4,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1930"
+                },
+                {
+                    "day": 5,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 5,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1930"
+                },
+                {
+                    "day": 6,
+                    "end": "1300",
+                    "is_overnight": false,
+                    "start": "1130"
+                },
+                {
+                    "day": 6,
+                    "end": "1600",
+                    "is_overnight": false,
+                    "start": "1400"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "the-aquarium-at-the-silverton-hotel-las-vegas",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F4Tql_iD_42e-lt8CRqQPQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Silverton Casino Lodge",
+        "address2": "3333 Blue Diamond Rd",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89139"
+    },
+    "name": "The Aquarium at the Silverton Hotel",
+    "phone": "+17022637777",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/F4Tql_iD_42e-lt8CRqQPQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/awd8_TtG02RvDQALf2Gqxg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/cpd3WlST7SOnYM9EU2lv5A/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 55,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/the-aquarium-at-the-silverton-hotel-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11450"
+}

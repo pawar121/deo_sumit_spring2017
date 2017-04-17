@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.71926,
+        "longitude": -73.96168
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 1,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 2,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 3,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                },
+                {
+                    "day": 6,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "music-hall-of-williamsburg-brooklyn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1_2_1xa1yDwIHjqbbBFGRA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "66 N 6Th St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "country": "US",
+        "state": "NY",
+        "zip_code": "11211"
+    },
+    "name": "Music Hall Of Williamsburg",
+    "phone": "",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/1_2_1xa1yDwIHjqbbBFGRA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/oZKncX3u9NRHJSeb05UyxA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Xl-EI7z1gfEnyIjVETW50A/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 222,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/music-hall-of-williamsburg-brooklyn?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7834"
+}

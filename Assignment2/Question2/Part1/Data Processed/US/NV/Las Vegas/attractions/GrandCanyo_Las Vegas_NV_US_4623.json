@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 36.12942,
+        "longitude": -115.22757
+    },
+    "id": "grand-canyon-west-rim-las-vegas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MNUiCpXTtKVYDAWF8DZGhg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "6206 W Desert Inn Rd",
+        "address2": "Ste B",
+        "address3": "",
+        "city": "Las Vegas",
+        "country": "US",
+        "state": "NV",
+        "zip_code": "89136"
+    },
+    "name": "Grand Canyon WEST Rim",
+    "phone": "+17022606506",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MNUiCpXTtKVYDAWF8DZGhg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ZXPQNKd6lj3j4Sd9zOZd_A/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-74kOgTW9Idd7XZE5AUj2A/o.jpg"
+    ],
+    "rating": 3.0,
+    "review_count": 78,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/grand-canyon-west-rim-las-vegas?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4623"
+}

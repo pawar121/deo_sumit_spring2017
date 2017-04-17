@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.9066,
+        "longitude": -77.02667
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 5,
+                    "end": "0200",
+                    "is_overnight": true,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "0100",
+                    "is_overnight": true,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "el-sol-restaurante-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/18kScgqYXLGjIVrDYSn_Qg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1227 11th St NW",
+        "address2": null,
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20001"
+    },
+    "name": "El Sol Restaurante",
+    "phone": "+12028154789",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/18kScgqYXLGjIVrDYSn_Qg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/ROGWtP4lgG2Zlawu2_AjhQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JOrp3y74mgkzZPX5_fcdQw/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 132,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/el-sol-restaurante-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3641"
+}

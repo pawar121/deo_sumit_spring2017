@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "diners",
+            "title": "Diners"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.70187,
+        "longitude": -95.30435
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 1,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 2,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 3,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 4,
+                    "end": "1530",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 5,
+                    "end": "1500",
+                    "is_overnight": false,
+                    "start": "0600"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "telwink-grill-houston",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KF3X4abOc0C6NW3FUev57w/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "4318 Telephone Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77087"
+    },
+    "name": "Telwink Grill",
+    "phone": "+17136444933",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/KF3X4abOc0C6NW3FUev57w/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/e6cSToisg2NZ8i-31pAijQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/z530vOR829XjI83kEAbVUw/o.jpg"
+    ],
+    "price": "$",
+    "rating": 4.0,
+    "review_count": 163,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/telwink-grill-houston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11323"
+}

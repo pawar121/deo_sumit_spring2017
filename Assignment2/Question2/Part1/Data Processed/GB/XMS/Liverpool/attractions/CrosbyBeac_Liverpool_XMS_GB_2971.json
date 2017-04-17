@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "localflavor",
+            "title": "Local Flavor"
+        },
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.4741096,
+        "longitude": -3.0314801
+    },
+    "id": "crosby-beach-liverpool",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FNe5R2rqtH5_2FrM2KZzMg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Marine Crescent",
+        "address2": "Crosby",
+        "address3": "Sefton",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L23"
+    },
+    "name": "Crosby Beach",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/FNe5R2rqtH5_2FrM2KZzMg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/fQWAmdwz-9ybZ3NemxB4qA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/v-6u9We_BjZAiK6C8zg80g/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/crosby-beach-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2971"
+}

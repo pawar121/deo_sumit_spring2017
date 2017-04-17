@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "alias": "theater",
+            "title": "Performing Arts"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.36924,
+        "longitude": -83.07678
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 1,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 2,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 3,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 4,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "fisher-theatre-detroit",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/84Fp7tz2C5iJsr1DDfDbPw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "3011 W Grand Blvd",
+        "address2": "Ste F100",
+        "address3": "",
+        "city": "Detroit",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48202"
+    },
+    "name": "Fisher Theatre",
+    "phone": "+13138721000",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/84Fp7tz2C5iJsr1DDfDbPw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/hXJC1XPqsjfNVSyXU-VyfQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/ihnRQ5N5hXLKlFcd0iX08g/o.jpg"
+    ],
+    "rating": 4.0,
+    "review_count": 53,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/fisher-theatre-detroit?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "4023"
+}

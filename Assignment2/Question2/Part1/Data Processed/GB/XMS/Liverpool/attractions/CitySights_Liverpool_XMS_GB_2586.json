@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "alias": "tours",
+            "title": "Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.40448,
+        "longitude": -2.9960599
+    },
+    "id": "city-sightseeing-liverpool",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o6GsEdJLdzb3Bv4WpTKzjw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "Canada Blvd",
+        "address2": "Pier Head",
+        "address3": "",
+        "city": "Liverpool",
+        "country": "GB",
+        "state": "XMS",
+        "zip_code": "L3 1DP"
+    },
+    "name": "City Sightseeing",
+    "phone": "+441512033920",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/o6GsEdJLdzb3Bv4WpTKzjw/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/city-sightseeing-liverpool?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2586"
+}

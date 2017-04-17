@@ -1,0 +1,96 @@
+{
+    "categories": [
+        {
+            "alias": "moroccan",
+            "title": "Moroccan"
+        },
+        {
+            "alias": "tapas",
+            "title": "Tapas Bars"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.5648,
+        "longitude": -122.38655
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 1,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "ittos-tapas-seattle",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4xVoSlhcyyFU4yRykSMxOQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "4160 California Ave SW",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98126"
+    },
+    "name": "Itto's Tapas",
+    "phone": "+12069325039",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/4xVoSlhcyyFU4yRykSMxOQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/GoyxbXqOp85zzYg-VPnBWg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/Io4NUr3fWEP8U0EQtJUS4g/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 76,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/ittos-tapas-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5721"
+}

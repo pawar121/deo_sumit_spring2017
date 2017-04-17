@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "food_court",
+            "title": "Food Court"
+        }
+    ],
+    "coordinates": {
+        "latitude": -33.8748536450791,
+        "longitude": 151.206478849053
+    },
+    "id": "regent-place-sydney",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9eE1oNl2VU6W0OOIrbYKNw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "501 George St",
+        "address2": "",
+        "address3": "",
+        "city": "Sydney",
+        "country": "AU",
+        "state": "NSW",
+        "zip_code": "2000"
+    },
+    "name": "Regent Place",
+    "phone": "",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/9eE1oNl2VU6W0OOIrbYKNw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/2QmJNfEbDqq3FCEeN2Tw2Q/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/VkGGYaXce5IqrObrCAdaHA/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 3,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/regent-place-sydney?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9483"
+}

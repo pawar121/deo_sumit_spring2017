@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "amusementparks",
+            "title": "Amusement Parks"
+        },
+        {
+            "alias": "eventplanning",
+            "title": "Party & Event Planning"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3688807,
+        "longitude": -83.3460587
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "bounce-it-up-livonia",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c98GFYkd0H7fYTrdQC74lQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "30276 Plymouth Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Livonia",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48150"
+    },
+    "name": "Bounce It Up",
+    "phone": "+17345222000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/c98GFYkd0H7fYTrdQC74lQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/tKvDEVJbIU8GO9_iy-z6ZA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/yA9gNdZvVow-Dp3zFWxE3A/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 16,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/bounce-it-up-livonia?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1643"
+}

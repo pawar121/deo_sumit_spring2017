@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 35.147377,
+        "longitude": -80.8093796
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "barringtons-charlotte-4",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HLjG3SNMz6sliYArXyhtCw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "7822 Fairview Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Charlotte",
+        "country": "US",
+        "state": "NC",
+        "zip_code": "28226"
+    },
+    "name": "Barrington's",
+    "phone": "+17043645755",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/HLjG3SNMz6sliYArXyhtCw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/7GJwl_R2lMhiVnKL8PqYxw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/lqSG4VGHbnygoLdhendfoQ/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 91,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/barringtons-charlotte-4?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1010"
+}

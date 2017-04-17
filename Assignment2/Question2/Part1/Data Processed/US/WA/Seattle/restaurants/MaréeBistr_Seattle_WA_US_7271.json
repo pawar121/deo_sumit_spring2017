@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "french",
+            "title": "French"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.57823,
+        "longitude": -122.4128
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                },
+                {
+                    "day": 6,
+                    "end": "1400",
+                    "is_overnight": false,
+                    "start": "1000"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1700"
+                }
+            ]
+        }
+    ],
+    "id": "marée-bistro-and-bar-seattle",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PJlrkmcwrNYVyq-nT0meYQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2820 Alki Ave SW",
+        "address2": null,
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98116"
+    },
+    "name": "Marée Bistro & Bar",
+    "phone": "+12067438531",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PJlrkmcwrNYVyq-nT0meYQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/SpzhiPSkSANtz64JHxF9hQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/GRVGZAZ186VsSIQbDZDe3w/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 20,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mar%C3%A9e-bistro-and-bar-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7271"
+}

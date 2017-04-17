@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "alias": "publictransport",
+            "title": "Public Transportation"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.87088,
+        "longitude": -4.29945
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0700"
+                }
+            ]
+        }
+    ],
+    "id": "kelvinhall-subway-station-glasgow",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rayMDvzP-kY7FUoh3Ecrqw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "7 Dalcross Pass",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G11 5RA"
+    },
+    "name": "Kelvinhall Subway Station",
+    "phone": "+441413326811",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/rayMDvzP-kY7FUoh3Ecrqw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/UZhZ3vTH5IwCr7qx_r7GQw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/8jMSgqXr17_TQ0vUlE811Q/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 12,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/kelvinhall-subway-station-glasgow?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6072"
+}

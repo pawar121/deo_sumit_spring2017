@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.7964394,
+        "longitude": -122.4220352
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 4,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 5,
+                    "end": "2300",
+                    "is_overnight": false,
+                    "start": "1730"
+                },
+                {
+                    "day": 6,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "street-restaurant-san-francisco",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-ACLRQoZ2t_PDqx3HBe7yw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2141 Polk St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "94109"
+    },
+    "name": "Street Restaurant",
+    "phone": "+14157751055",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-ACLRQoZ2t_PDqx3HBe7yw/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/TBuE7OJ-iSXdUOUiletwFg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/ZidplCNJEVzC7rNL6Lvs_w/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 572,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/street-restaurant-san-francisco?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10881"
+}

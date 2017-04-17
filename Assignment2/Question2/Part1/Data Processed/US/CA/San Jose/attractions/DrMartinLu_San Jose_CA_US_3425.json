@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "alias": "libraries",
+            "title": "Libraries"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.335656,
+        "longitude": -121.885316
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1800",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1900",
+                    "is_overnight": false,
+                    "start": "1300"
+                }
+            ]
+        }
+    ],
+    "id": "dr-martin-luther-king-jr-library-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EKhV4OHdzOGIV2uIrNvThQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "150 E San Fernando St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95112"
+    },
+    "name": "Dr Martin Luther King Jr Library",
+    "phone": "+14088082000",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/EKhV4OHdzOGIV2uIrNvThQ/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/DDPh-JFaX2AL2nAVmspTOQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/eFh0268lGqjS-tM0wHQDiQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 351,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/dr-martin-luther-king-jr-library-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3425"
+}

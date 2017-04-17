@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "alias": "sessionphotography",
+            "title": "Session Photography"
+        },
+        {
+            "alias": "eventphotography",
+            "title": "Event Photography"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.33793,
+        "longitude": -121.8924
+    },
+    "id": "imotion-photography-san-jose",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xS3TN84KH0nrbdjFtOMWjw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": ""
+    },
+    "name": "Imotion Photography",
+    "phone": "",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/xS3TN84KH0nrbdjFtOMWjw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/QQDGyIl5tEygKJjb1tdOww/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8p99MZlr7kTZkKDyVfYAAw/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.5,
+    "review_count": 42,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/imotion-photography-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "5608"
+}

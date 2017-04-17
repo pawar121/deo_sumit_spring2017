@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        },
+        {
+            "alias": "landmarks",
+            "title": "Landmarks & Historical Buildings"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.2815243,
+        "longitude": -83.7265576
+    },
+    "id": "nichols-arboretum-ann-arbor",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nax7GgEjTyKUsFgHgLWpkA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "1600 Washington Hts",
+        "address2": "",
+        "address3": "",
+        "city": "Ann Arbor",
+        "country": "US",
+        "state": "MI",
+        "zip_code": "48104"
+    },
+    "name": "Nichols Arboretum",
+    "phone": "+17349989540",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/nax7GgEjTyKUsFgHgLWpkA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/hSsKFWsI6opqZtTmXojeqg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/J1XILVUE7bSbLtjmSoNwrQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 91,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/nichols-arboretum-ann-arbor?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "8064"
+}

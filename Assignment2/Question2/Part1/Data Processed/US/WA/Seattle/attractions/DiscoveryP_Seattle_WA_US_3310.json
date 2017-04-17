@@ -1,0 +1,91 @@
+{
+    "categories": [
+        {
+            "alias": "parks",
+            "title": "Parks"
+        },
+        {
+            "alias": "beaches",
+            "title": "Beaches"
+        }
+    ],
+    "coordinates": {
+        "latitude": 47.6580687010542,
+        "longitude": -122.406170910291
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 1,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 2,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 3,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 4,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 5,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                },
+                {
+                    "day": 6,
+                    "end": "2330",
+                    "is_overnight": false,
+                    "start": "0400"
+                }
+            ]
+        }
+    ],
+    "id": "discovery-park-seattle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xqA2CM_X_SUILvZFFchKgQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "3801 Discovery Park Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "country": "US",
+        "state": "WA",
+        "zip_code": "98199"
+    },
+    "name": "Discovery Park",
+    "phone": "+12063864236",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/xqA2CM_X_SUILvZFFchKgQ/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/8JgOVSfZkZP2qlhZN16wRg/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/UIYmj2etBMyVSGm8e8monQ/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 306,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/discovery-park-seattle?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "3310"
+}

@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.13268,
+        "longitude": -118.32426
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 1,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 2,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 3,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 4,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 5,
+                    "end": "1700",
+                    "is_overnight": false,
+                    "start": "0900"
+                }
+            ]
+        }
+    ],
+    "id": "scott-cruz-los-angeles-6",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/elB6FFXMnac5AEk2XYkN-Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "90068"
+    },
+    "name": "Scott Cruz",
+    "phone": "+13233029562",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/elB6FFXMnac5AEk2XYkN-Q/o.jpg"
+    ],
+    "rating": 4.5,
+    "review_count": 11,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/scott-cruz-los-angeles-6?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10125"
+}

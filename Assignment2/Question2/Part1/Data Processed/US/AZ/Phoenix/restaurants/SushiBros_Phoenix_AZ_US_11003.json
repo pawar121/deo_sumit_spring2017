@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+        },
+        {
+            "alias": "japanese",
+            "title": "Japanese"
+        }
+    ],
+    "coordinates": {
+        "latitude": 33.5663399,
+        "longitude": -112.09842
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 1,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 2,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 3,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 4,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 5,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1100"
+                },
+                {
+                    "day": 6,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "sushi-bros-phoenix-5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/365u2712Wy_DMUygQV62qg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "8841 N 19th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Phoenix",
+        "country": "US",
+        "state": "AZ",
+        "zip_code": "85021"
+    },
+    "name": "Sushi Bros",
+    "phone": "+16029432899",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/365u2712Wy_DMUygQV62qg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/_CG3vLhsZ5r9y6eiZ_ZgjQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/JdryKWvg9vgiAD3ksKr9pg/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 71,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/sushi-bros-phoenix-5?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11003"
+}

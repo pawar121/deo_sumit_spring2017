@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "bustours",
+            "title": "Bus Tours"
+        }
+    ],
+    "coordinates": {
+        "latitude": 42.3813167,
+        "longitude": -71.0544625
+    },
+    "id": "boston-upper-deck-trolley-tours-boston",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/G-1gclHIdNIKDk8CbBE7kA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "100 Terminal St",
+        "address2": "",
+        "address3": "",
+        "city": "Boston",
+        "country": "US",
+        "state": "MA",
+        "zip_code": "02129"
+    },
+    "name": "Boston Upper Deck Trolley Tours",
+    "phone": "+16177421440",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/G-1gclHIdNIKDk8CbBE7kA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/jgXN_a4LVnRhUn4jXB7lvg/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/LgkLRWnkDoC29OfUyaOABg/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 47,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/boston-upper-deck-trolley-tours-boston?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "1617"
+}

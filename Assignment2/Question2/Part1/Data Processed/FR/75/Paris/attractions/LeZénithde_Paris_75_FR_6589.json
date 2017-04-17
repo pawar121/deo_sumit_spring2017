@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "alias": "musicvenues",
+            "title": "Music Venues"
+        }
+    ],
+    "coordinates": {
+        "latitude": 48.894221322,
+        "longitude": 2.3934849278197
+    },
+    "id": "le-zénith-de-paris-paris-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-_ZU94E5OVrErtwfYIhBCw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "211 ave Jean Jaurès",
+        "address2": null,
+        "address3": null,
+        "city": "Paris",
+        "country": "FR",
+        "state": "75",
+        "zip_code": "75019"
+    },
+    "name": "Le Zénith de Paris",
+    "phone": "+33890710207",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-_ZU94E5OVrErtwfYIhBCw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/sMGvEv8sgk_Jk8f2UVknVQ/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/Yb9zjHNUm47WB9qIBenxMw/o.jpg"
+    ],
+    "price": "€€€",
+    "rating": 3.5,
+    "review_count": 97,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/le-z%C3%A9nith-de-paris-paris-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "6589"
+}

@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "mexican",
+            "title": "Mexican"
+        }
+    ],
+    "coordinates": {
+        "latitude": 29.781857507123,
+        "longitude": -95.3900327670036
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 4,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0700"
+                },
+                {
+                    "day": 5,
+                    "end": "0000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "tacos-a-go-go-houston-3",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M1jkMaXaXfEi3l0YbdS_Ag/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2912 White Oak Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Houston",
+        "country": "US",
+        "state": "TX",
+        "zip_code": "77007"
+    },
+    "name": "Tacos A Go Go",
+    "phone": "+17138648226",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/M1jkMaXaXfEi3l0YbdS_Ag/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/QQy5GCQV5Edsdo0I5-8rvQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/0OwpGV4a-c_x3A2DQqDR4w/o.jpg"
+    ],
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 304,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/tacos-a-go-go-houston-3?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11131"
+}

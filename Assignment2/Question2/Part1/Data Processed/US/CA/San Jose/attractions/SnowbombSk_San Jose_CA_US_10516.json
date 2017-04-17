@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "alias": "festivals",
+            "title": "Festivals"
+        }
+    ],
+    "coordinates": {
+        "latitude": 37.3302405,
+        "longitude": -121.8890957
+    },
+    "id": "snowbomb-ski-and-snowboard-festival-san-jose",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vTpRVFc78Nq5So-BKksjLA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "150 W San Carlos St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "95113"
+    },
+    "name": "Snowbomb - Ski and Snowboard Festival",
+    "phone": "",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/vTpRVFc78Nq5So-BKksjLA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JDKYYkVjCAm4XBjHu2cuBw/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/MbSngcqBOxdY0wR3Ro_SpQ/o.jpg"
+    ],
+    "rating": 3.5,
+    "review_count": 21,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/snowbomb-ski-and-snowboard-festival-san-jose?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10516"
+}

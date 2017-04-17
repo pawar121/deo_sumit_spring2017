@@ -1,0 +1,88 @@
+{
+    "categories": [
+        {
+            "alias": "gyms",
+            "title": "Gyms"
+        }
+    ],
+    "coordinates": {
+        "latitude": 38.918418,
+        "longitude": -77.069571
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "0530"
+                },
+                {
+                    "day": 5,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 6,
+                    "end": "2000",
+                    "is_overnight": false,
+                    "start": "0800"
+                }
+            ]
+        }
+    ],
+    "id": "balance-gym-glover-park-washington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iLDnqJjc1OuEmrrjygWwOQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "2121 Wisconsin Ave NW",
+        "address2": "",
+        "address3": "",
+        "city": "Washington",
+        "country": "US",
+        "state": "DC",
+        "zip_code": "20007"
+    },
+    "name": "Balance Gym Glover Park",
+    "phone": "+12029652121",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/iLDnqJjc1OuEmrrjygWwOQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/TMWkLYSqeGfQEA9_n5znSA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/m_qAVl-_2FApP9lhDEg6QA/o.jpg"
+    ],
+    "price": "$$$",
+    "rating": 4.0,
+    "review_count": 53,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/balance-gym-glover-park-washington?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "901"
+}

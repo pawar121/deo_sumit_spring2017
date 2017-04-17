@@ -1,0 +1,90 @@
+{
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "coordinates": {
+        "latitude": -37.8138313,
+        "longitude": 144.9561462
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 1,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 2,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 3,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 4,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1030"
+                },
+                {
+                    "day": 5,
+                    "end": "2200",
+                    "is_overnight": false,
+                    "start": "1730"
+                }
+            ]
+        }
+    ],
+    "id": "mr-nice-guy-melbourne",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n1z1XmXV949vyPbyMDZq0g/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "location": {
+        "address1": "10 Healeys Ln",
+        "address2": "",
+        "address3": "",
+        "city": "Melbourne",
+        "country": "AU",
+        "state": "VIC",
+        "zip_code": "3000"
+    },
+    "name": "Mr Nice Guy",
+    "phone": "+61399731761",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/n1z1XmXV949vyPbyMDZq0g/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/SkS2uFJuH-ePgHimHqz8hA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/W6pHNGG3u6kuLM-jo3WbTA/o.jpg"
+    ],
+    "price": "$$",
+    "rating": 4.0,
+    "review_count": 7,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/mr-nice-guy-melbourne?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "7765"
+}

@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "alias": "fishnchips",
+            "title": "Fish & Chips"
+        }
+    ],
+    "coordinates": {
+        "latitude": -36.871152,
+        "longitude": 174.7613149
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+                {
+                    "day": 1,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 2,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1600"
+                },
+                {
+                    "day": 4,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 5,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                },
+                {
+                    "day": 6,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1200"
+                }
+            ]
+        }
+    ],
+    "id": "the-ancient-mariner-auckland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OQupIpXlKX9crBpJahk44Q/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "157 Mount Eden Road",
+        "address2": "Mount Eden",
+        "address3": "",
+        "city": "Auckland",
+        "country": "NZ",
+        "state": "AUK",
+        "zip_code": "1024"
+    },
+    "name": "The Ancient Mariner",
+    "phone": "+6496233399",
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/OQupIpXlKX9crBpJahk44Q/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/3LrTU8L-up-Kd_5eQAuPZw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/W3eUk8Q7HF2_EGM0XnkuVQ/o.jpg"
+    ],
+    "price": "$",
+    "rating": 5.0,
+    "review_count": 4,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/the-ancient-mariner-auckland?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "11443"
+}

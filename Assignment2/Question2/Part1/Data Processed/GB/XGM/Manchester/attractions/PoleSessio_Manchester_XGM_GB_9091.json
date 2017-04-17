@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "alias": "dancestudio",
+            "title": "Dance Studios"
+        },
+        {
+            "alias": "adultentertainment",
+            "title": "Adult Entertainment"
+        }
+    ],
+    "coordinates": {
+        "latitude": 53.5231209,
+        "longitude": -2.3872004
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "2030",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 1,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 2,
+                    "end": "2130",
+                    "is_overnight": false,
+                    "start": "1800"
+                },
+                {
+                    "day": 3,
+                    "end": "2100",
+                    "is_overnight": false,
+                    "start": "1900"
+                }
+            ]
+        }
+    ],
+    "id": "pole-sessions-manchester",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MSs5cHqcigWzb7RUa1AHqg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "190 Manchester Road",
+        "address2": "Worsley",
+        "address3": "",
+        "city": "Manchester",
+        "country": "GB",
+        "state": "XGM",
+        "zip_code": "M28 3LU"
+    },
+    "name": "Pole Sessions",
+    "phone": "+447977804578",
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/MSs5cHqcigWzb7RUa1AHqg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/-tBItUA4SZekC-A2x-1pXQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/PJScbt3Jfid0iiR6G3zWUg/o.jpg"
+    ],
+    "price": "£",
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/pole-sessions-manchester?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "9091"
+}

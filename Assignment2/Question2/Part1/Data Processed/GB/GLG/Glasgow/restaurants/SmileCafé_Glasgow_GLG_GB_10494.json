@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        }
+    ],
+    "coordinates": {
+        "latitude": 55.8806267,
+        "longitude": -4.28406
+    },
+    "hours": [
+        {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+                {
+                    "day": 0,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 1,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 2,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 3,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 4,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0800"
+                },
+                {
+                    "day": 5,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "0900"
+                },
+                {
+                    "day": 6,
+                    "end": "1730",
+                    "is_overnight": false,
+                    "start": "1000"
+                }
+            ]
+        }
+    ],
+    "id": "smile-café-glasgow-2",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-d8XKEmqA7AMhURzUswaVw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "102 Queen Margaret Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Glasgow",
+        "country": "GB",
+        "state": "GLG",
+        "zip_code": "G20 8NZ"
+    },
+    "name": "Smile Café",
+    "phone": "+447528661275",
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/-d8XKEmqA7AMhURzUswaVw/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/awSvMclzXnF_1av9uI-Avg/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/LZnOdENgsD-bl-A_nLVd7Q/o.jpg"
+    ],
+    "price": "£",
+    "rating": 4.5,
+    "review_count": 17,
+    "term": "restaurants",
+    "url": "https://www.yelp.com/biz/smile-caf%C3%A9-glasgow-2?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "10494"
+}

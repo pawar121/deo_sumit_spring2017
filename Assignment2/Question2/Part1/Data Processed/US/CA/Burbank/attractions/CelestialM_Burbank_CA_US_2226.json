@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "alias": "reiki",
+            "title": "Reiki"
+        },
+        {
+            "alias": "psychic_astrology",
+            "title": "Psychics & Astrologers"
+        },
+        {
+            "alias": "lifecoach",
+            "title": "Life Coach"
+        }
+    ],
+    "coordinates": {
+        "latitude": 34.17064,
+        "longitude": -118.32346
+    },
+    "id": "celestial-medicine-burbank",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FalfRlZXsxGWSzKcyA61jg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "location": {
+        "address1": "",
+        "address2": null,
+        "address3": "",
+        "city": "Burbank",
+        "country": "US",
+        "state": "CA",
+        "zip_code": "91506"
+    },
+    "name": "Celestial Medicine",
+    "phone": "+13103105190",
+    "photos": [
+        "https://s3-media3.fl.yelpcdn.com/bphoto/FalfRlZXsxGWSzKcyA61jg/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/FOvf97mfOozv48cW3fQfLA/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/PTupBo_1F5LW3xmBekWkHw/o.jpg"
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "term": "attractions",
+    "url": "https://www.yelp.com/biz/celestial-medicine-burbank?adjust_creative=92p07_JjKyriZTQxAXRiKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=92p07_JjKyriZTQxAXRiKQ",
+    "uuid": "2226"
+}
