@@ -1,0 +1,896 @@
+IssuedYear,IssuedMonth,LoanAmt,Term,IntRate,Grade,SubGrade,EmpTitle,EmpLength,HomeStatus,AnnualInc,VerificationStatus,LoanStatus,Purpose,State,DTI,NoOfInqs,AppType,CreditHistory,FICO,DefaultStatus
+2009,Mar,18000.0,36,12.21,B,B5,United States Postal Service,10,RENT,52526.0,Not Verified,Fully Paid,debt_consolidation,MA,13.36,0,INDIVIDUAL,16,742,Good-Loan
+2009,Mar,12000.0,36,15.05,D,D4,Universal Am-Can,1,RENT,29000.0,Not Verified,Fully Paid,small_business,MD,2.48,2,INDIVIDUAL,11,672,Good-Loan
+2009,Mar,5000.0,36,9.63,A,A5,Texas Department of Information Resources,2,RENT,76344.0,Not Verified,Fully Paid,house,TX,8.63,1,INDIVIDUAL,14,722,Good-Loan
+2009,Mar,12000.0,36,13.16,C,C3,Best Buy,3,RENT,55000.0,Not Verified,Fully Paid,major_purchase,CA,13.16,2,INDIVIDUAL,38,707,Good-Loan
+2009,Mar,20000.0,36,12.53,C,C1,"ATC associates, inc",4,RENT,68000.0,Not Verified,Fully Paid,debt_consolidation,FL,18.23,2,INDIVIDUAL,14,732,Good-Loan
+2009,Mar,11000.0,36,13.79,C,C5,Procter and Gamble,1,RENT,69996.0,Not Verified,Fully Paid,other,AR,14.8,0,INDIVIDUAL,9,687,Good-Loan
+2009,Mar,8000.0,36,12.84,C,C2,Convergent Wealth Advisors,1,RENT,42000.0,Verified,Fully Paid,debt_consolidation,NY,14.2,0,INDIVIDUAL,5,717,Good-Loan
+2009,Mar,8000.0,36,15.68,E,E1,"CreditCards.com, Inc.",5,MORTGAGE,80000.0,Not Verified,Fully Paid,debt_consolidation,TX,16.3,0,INDIVIDUAL,13,662,Good-Loan
+2009,Mar,1600.0,36,7.68,A,A2,Restaurant Associates,2,RENT,23000.0,Verified,Fully Paid,major_purchase,PA,4.64,0,INDIVIDUAL,34,757,Good-Loan
+2009,Mar,5000.0,36,9.63,A,A5,ernst young,2,RENT,95004.0,Verified,Fully Paid,credit_card,FL,15.4,2,INDIVIDUAL,9,727,Good-Loan
+2009,Mar,8400.0,36,13.79,C,C5,"Carter Oil Company, Inc.",5,RENT,45000.0,Verified,Charged Off,debt_consolidation,AZ,24.75,1,INDIVIDUAL,13,697,Defaulted-Loan
+2009,Mar,7500.0,36,12.53,C,C1,Fabel Designs,2,RENT,40000.0,Verified,Charged Off,small_business,UT,12.87,0,INDIVIDUAL,6,787,Defaulted-Loan
+2009,Mar,8500.0,36,14.11,D,D1,RAPP Retail,1,MORTGAGE,54996.0,Not Verified,Charged Off,home_improvement,TX,1.0,0,INDIVIDUAL,4,707,Defaulted-Loan
+2009,Mar,14500.0,36,14.42,D,D2,Fischer & Company,1,RENT,30000.0,Verified,Fully Paid,debt_consolidation,PA,18.04,1,INDIVIDUAL,25,697,Good-Loan
+2009,Mar,10000.0,36,9.32,A,A4,"Intellitoys, LLC",1,RENT,55000.0,Verified,Fully Paid,moving,NY,0.39,1,INDIVIDUAL,13,782,Good-Loan
+2009,Mar,12000.0,36,7.37,A,A1,AMG Imaging Supplies,1,MORTGAGE,50004.0,Not Verified,Fully Paid,car,FL,10.1,0,INDIVIDUAL,22,742,Good-Loan
+2009,Mar,13000.0,36,9.63,A,A5,Realtor-Self Employed,1,MORTGAGE,42000.0,Verified,Fully Paid,small_business,TX,16.14,1,INDIVIDUAL,11,787,Good-Loan
+2009,Mar,6000.0,36,8.0,A,A3,BearingPoint,3,RENT,60000.0,Not Verified,Fully Paid,wedding,NY,1.06,0,INDIVIDUAL,13,767,Good-Loan
+2009,Mar,4800.0,36,15.37,D,D5,University of Massachusetts-Dartmouth: Housing Department,3,RENT,15996.0,Not Verified,Fully Paid,other,MA,9.98,1,INDIVIDUAL,4,667,Good-Loan
+2009,Mar,13000.0,36,12.53,C,C1,Surgical Specialty Hospital,1,RENT,65004.0,Not Verified,Fully Paid,debt_consolidation,AZ,17.11,0,INDIVIDUAL,14,712,Good-Loan
+2009,Mar,5000.0,36,9.32,A,A4,Liquidity Services Inc,1,RENT,50000.0,Not Verified,Fully Paid,small_business,VA,17.57,1,INDIVIDUAL,8,737,Good-Loan
+2009,Mar,10500.0,36,11.89,B,B4,Kaiser Hospital,5,MORTGAGE,113000.0,Verified,Fully Paid,credit_card,CA,6.02,0,INDIVIDUAL,19,727,Good-Loan
+2009,Mar,12000.0,36,12.21,B,B5,Venue Security Corp,1,RENT,36000.0,Not Verified,Fully Paid,car,CA,20.33,1,INDIVIDUAL,9,677,Good-Loan
+2009,Mar,10750.0,36,15.37,D,D5,Ojai Valley Inn and Spa,3,RENT,41000.0,Verified,Fully Paid,debt_consolidation,CA,23.33,0,INDIVIDUAL,10,667,Good-Loan
+2009,Mar,6000.0,36,8.0,A,A3,Garlock Sealing Technologies,4,MORTGAGE,44500.0,Not Verified,Fully Paid,debt_consolidation,NY,6.44,1,INDIVIDUAL,15,752,Good-Loan
+2009,Mar,8500.0,36,13.16,C,C3,Toyota South,3,MORTGAGE,75000.0,Not Verified,Charged Off,debt_consolidation,GA,12.27,3,INDIVIDUAL,22,697,Defaulted-Loan
+2009,Mar,6500.0,36,13.79,C,C5,ARROW HEAD,10,MORTGAGE,38004.0,Verified,Fully Paid,other,TX,23.37,0,INDIVIDUAL,16,687,Good-Loan
+2009,Mar,6000.0,36,13.79,C,C5,Valley Insurance Agency,1,RENT,26500.0,Not Verified,Fully Paid,debt_consolidation,CO,5.34,3,INDIVIDUAL,28,682,Good-Loan
+2009,Mar,16000.0,36,14.74,D,D3,Social Security Board,10,RENT,54396.0,Not Verified,Fully Paid,debt_consolidation,NY,9.13,1,INDIVIDUAL,21,682,Good-Loan
+2009,Mar,20000.0,36,14.11,D,D1,fender mender,2,RENT,84996.0,Verified,Fully Paid,wedding,SC,19.27,1,INDIVIDUAL,15,702,Good-Loan
+2009,Mar,16000.0,36,16.63,E,E4,LWL Worldwide Inc,2,MORTGAGE,70000.0,Verified,Fully Paid,small_business,OR,0.26,3,INDIVIDUAL,9,667,Good-Loan
+2009,Mar,15000.0,36,16.0,E,E2,adir international,7,RENT,62000.0,Verified,Charged Off,debt_consolidation,CA,7.88,1,INDIVIDUAL,7,687,Defaulted-Loan
+2009,Mar,8000.0,36,16.0,E,E2,Asn Natural Stone,1,OTHER,38400.0,Verified,Fully Paid,other,CA,2.31,1,INDIVIDUAL,5,667,Good-Loan
+2009,Mar,15000.0,36,12.21,B,B5,"B&R Products, Inc.",10,MORTGAGE,150000.0,Verified,Fully Paid,wedding,FL,17.84,1,INDIVIDUAL,22,752,Good-Loan
+2009,Mar,3600.0,36,12.21,B,B5,Advance Technology Services,1,RENT,30000.0,Not Verified,Fully Paid,vacation,IL,0.6,2,INDIVIDUAL,13,717,Good-Loan
+2009,Mar,11000.0,36,15.05,D,D4,Ikon Global Markets,1,RENT,35000.0,Not Verified,Fully Paid,debt_consolidation,NJ,7.78,0,INDIVIDUAL,9,672,Good-Loan
+2009,Mar,15000.0,36,12.84,C,C2,Janus Capital Group,1,MORTGAGE,102000.0,Not Verified,Fully Paid,debt_consolidation,CO,12.46,2,INDIVIDUAL,9,722,Good-Loan
+2009,Mar,6500.0,36,9.32,A,A4,Sweetbay Supermarket,1,RENT,31400.0,Not Verified,Charged Off,debt_consolidation,FL,12.08,0,INDIVIDUAL,10,747,Defaulted-Loan
+2009,Mar,6000.0,36,11.89,B,B4,lemon-x corp,1,RENT,38004.0,Verified,Fully Paid,debt_consolidation,NY,22.58,3,INDIVIDUAL,13,722,Good-Loan
+2009,Mar,2500.0,36,14.74,D,D3,Bob Lindsay Plumbing,1,OWN,17676.0,Not Verified,Fully Paid,debt_consolidation,NH,19.08,3,INDIVIDUAL,5,672,Good-Loan
+2009,Mar,9000.0,36,11.89,B,B4,MarketFinders,10,RENT,85000.0,Not Verified,Fully Paid,credit_card,CA,8.84,0,INDIVIDUAL,15,732,Good-Loan
+2009,Mar,5000.0,36,12.21,B,B5,"FOUR TREES, INC.",6,MORTGAGE,74000.0,Not Verified,Fully Paid,small_business,WI,17.56,2,INDIVIDUAL,20,712,Good-Loan
+2009,Mar,7000.0,36,9.63,A,A5,verisign,3,RENT,105000.0,Verified,Fully Paid,credit_card,VA,3.19,1,INDIVIDUAL,9,762,Good-Loan
+2009,Mar,5000.0,36,14.11,D,D1,Oce Business Services,3,OWN,25740.0,Not Verified,Fully Paid,debt_consolidation,TX,6.2,2,INDIVIDUAL,10,697,Good-Loan
+2009,Mar,5500.0,36,12.53,C,C1,Bella Luna Restaurant,3,RENT,27996.0,Not Verified,Fully Paid,moving,CT,22.72,1,INDIVIDUAL,8,702,Good-Loan
+2009,Mar,15000.0,36,16.63,E,E4,"H&K Insurance Agency, Inc",2,OTHER,46000.0,Verified,Fully Paid,debt_consolidation,MA,7.93,1,INDIVIDUAL,9,672,Good-Loan
+2009,Mar,9250.0,36,12.53,C,C1,Flagstaff Unified School District,1,RENT,13000.0,Not Verified,Charged Off,small_business,AZ,0.92,1,INDIVIDUAL,10,727,Defaulted-Loan
+2009,Mar,5000.0,36,13.16,C,C3,Brown Brothers Harriman,4,RENT,58000.0,Verified,Fully Paid,debt_consolidation,MA,0.12,0,INDIVIDUAL,6,722,Good-Loan
+2009,Mar,10000.0,36,16.63,E,E4,General Dynamics,1,MORTGAGE,85000.0,Not Verified,Fully Paid,small_business,MA,15.61,3,INDIVIDUAL,15,662,Good-Loan
+2009,Mar,10000.0,36,8.0,A,A3,"ESRI, Inc.",1,MORTGAGE,111150.0,Verified,Fully Paid,home_improvement,CA,0.49,1,INDIVIDUAL,12,787,Good-Loan
+2009,Mar,2600.0,36,12.53,C,C1,Progressive Broadcasting Inc.,2,RENT,16000.0,Not Verified,Fully Paid,debt_consolidation,PA,19.2,1,INDIVIDUAL,6,697,Good-Loan
+2009,Mar,4900.0,36,14.11,D,D1,Ventana Medical Systems,4,MORTGAGE,53000.0,Not Verified,Fully Paid,debt_consolidation,AZ,3.22,2,INDIVIDUAL,17,682,Good-Loan
+2009,Mar,5775.0,36,9.63,A,A5,medallion employment,1,RENT,36900.0,Verified,Charged Off,medical,NJ,7.15,0,INDIVIDUAL,7,732,Defaulted-Loan
+2009,Mar,24000.0,36,16.32,E,E3,harris county hospital district,2,MORTGAGE,79996.0,Not Verified,Fully Paid,debt_consolidation,TX,14.93,2,INDIVIDUAL,10,682,Good-Loan
+2009,Mar,8500.0,36,14.42,D,D2,The Travelers Companies Inc.,10,MORTGAGE,85000.0,Verified,Fully Paid,home_improvement,FL,6.11,1,INDIVIDUAL,26,677,Good-Loan
+2009,Mar,10400.0,36,7.37,A,A1,houston Cold Freight,5,OWN,48000.0,Not Verified,Fully Paid,car,TX,12.07,1,INDIVIDUAL,9,727,Good-Loan
+2009,Mar,12000.0,36,12.53,C,C1,zozaya officiating,7,RENT,53004.0,Not Verified,Charged Off,debt_consolidation,CA,16.26,2,INDIVIDUAL,8,717,Defaulted-Loan
+2009,Mar,12000.0,36,9.63,A,A5,Baldor Electric Company,10,MORTGAGE,210000.0,Verified,Fully Paid,debt_consolidation,AR,13.14,2,INDIVIDUAL,26,762,Good-Loan
+2009,Mar,15000.0,36,12.84,C,C2,Tubelite Company Inc,5,RENT,30000.0,Verified,Fully Paid,debt_consolidation,FL,12.92,3,INDIVIDUAL,29,717,Good-Loan
+2009,Mar,15000.0,36,12.84,C,C2,Unknown,1,OWN,70000.0,Verified,Fully Paid,small_business,DC,0.26,2,INDIVIDUAL,12,762,Good-Loan
+2009,Mar,12000.0,36,13.16,C,C3,"Weston Solutions, Incorporated",1,RENT,43000.0,Not Verified,Fully Paid,credit_card,PA,7.14,2,INDIVIDUAL,5,722,Good-Loan
+2009,Mar,5550.0,36,15.37,D,D5,Village of Montpelier,3,MORTGAGE,45300.0,Not Verified,Fully Paid,major_purchase,OH,8.26,3,INDIVIDUAL,11,667,Good-Loan
+2009,Mar,18000.0,36,12.84,C,C2,BlackRock Financial,2,RENT,55000.0,Verified,Fully Paid,wedding,NJ,7.29,5,INDIVIDUAL,18,747,Good-Loan
+2009,Mar,11850.0,36,14.11,D,D1,C&S Wholesale Grocers Inc,7,RENT,48500.0,Verified,Fully Paid,debt_consolidation,MA,20.96,3,INDIVIDUAL,10,682,Good-Loan
+2009,Mar,12000.0,36,14.42,D,D2,Glidden/Akzo Nobel Paints,3,MORTGAGE,37000.0,Not Verified,Charged Off,debt_consolidation,GA,7.91,1,INDIVIDUAL,11,682,Defaulted-Loan
+2009,Mar,6000.0,36,8.0,A,A3,Improvement Direct,2,RENT,23198.0,Not Verified,Fully Paid,car,CA,8.95,0,INDIVIDUAL,12,757,Good-Loan
+2009,Mar,17000.0,36,13.16,C,C3,Rockdale County BOE,2,MORTGAGE,51996.0,Not Verified,Charged Off,debt_consolidation,GA,16.87,0,INDIVIDUAL,22,732,Defaulted-Loan
+2009,Mar,22000.0,36,16.63,E,E4,Social Security Administration (SSA),9,MORTGAGE,66000.0,Verified,Fully Paid,credit_card,TX,14.96,0,INDIVIDUAL,14,677,Good-Loan
+2009,Mar,7500.0,36,13.79,C,C5,CNY Healing Arts,1,RENT,32000.0,Verified,Fully Paid,small_business,NY,9.86,2,INDIVIDUAL,8,712,Good-Loan
+2009,Mar,10000.0,36,15.68,E,E1,Saia Motorfreight,2,MORTGAGE,57000.0,Verified,Charged Off,home_improvement,OH,7.62,2,INDIVIDUAL,8,682,Defaulted-Loan
+2009,Mar,6000.0,36,9.63,A,A5,Smith Barney,1,RENT,44000.0,Verified,Fully Paid,debt_consolidation,NJ,4.99,0,INDIVIDUAL,12,732,Good-Loan
+2009,Mar,2400.0,36,14.42,D,D2,Dr. Demartino,1,OWN,25000.0,Not Verified,Fully Paid,car,MA,12.38,3,INDIVIDUAL,4,677,Good-Loan
+2009,Mar,13750.0,36,13.79,C,C5,georgia southern university,2,RENT,33000.0,Verified,Fully Paid,debt_consolidation,GA,20.36,0,INDIVIDUAL,5,702,Good-Loan
+2009,Mar,20000.0,36,12.53,C,C1,US Air Force,9,MORTGAGE,90000.0,Not Verified,Fully Paid,small_business,NJ,0.68,1,INDIVIDUAL,13,792,Good-Loan
+2009,Mar,25000.0,36,12.53,C,C1,Aerotek,1,MORTGAGE,85000.0,Verified,Fully Paid,educational,CA,16.24,1,INDIVIDUAL,16,762,Good-Loan
+2009,Mar,12000.0,36,9.63,A,A5,Self,5,OWN,60000.0,Not Verified,Fully Paid,small_business,NY,6.76,3,INDIVIDUAL,20,807,Good-Loan
+2009,Mar,4000.0,36,13.47,C,C4,Vinckier Foods,5,RENT,20000.0,Verified,Fully Paid,house,MI,15.06,2,INDIVIDUAL,4,702,Good-Loan
+2009,Mar,10000.0,36,13.79,C,C5,lsw,5,MORTGAGE,47000.0,Verified,Fully Paid,other,TX,23.69,0,INDIVIDUAL,13,692,Good-Loan
+2009,Mar,2400.0,36,13.16,C,C3,NDI,5,RENT,77700.0,Not Verified,Fully Paid,educational,VA,19.1,2,INDIVIDUAL,10,677,Good-Loan
+2009,Mar,10000.0,36,11.89,B,B4,"Law Office of Frederick R. Franke, Jr.",10,RENT,54480.0,Not Verified,Fully Paid,debt_consolidation,MD,21.54,0,INDIVIDUAL,11,732,Good-Loan
+2009,Mar,3000.0,36,8.0,A,A3,Ann Taylor Retail Inc.,1,RENT,43500.0,Not Verified,Fully Paid,moving,FL,5.49,2,INDIVIDUAL,7,737,Good-Loan
+2009,Mar,7200.0,36,7.68,A,A2,Sapphire Energy,1,RENT,85000.0,Verified,Fully Paid,major_purchase,CA,16.72,2,INDIVIDUAL,27,777,Good-Loan
+2009,Mar,10000.0,36,12.84,C,C2,Schlumberger Ltd.,1,RENT,28000.0,Not Verified,Fully Paid,debt_consolidation,KS,10.89,1,INDIVIDUAL,7,712,Good-Loan
+2009,Mar,10000.0,36,13.47,C,C4,Unknown,1,RENT,75000.0,Verified,Fully Paid,debt_consolidation,NY,8.54,5,INDIVIDUAL,12,742,Good-Loan
+2009,Mar,12000.0,36,9.32,A,A4,"Enovity, Inc.",1,MORTGAGE,143150.0,Verified,Fully Paid,home_improvement,WA,4.69,0,INDIVIDUAL,34,792,Good-Loan
+2009,Mar,14100.0,36,8.0,A,A3,The Grand Canal Shoppes at The Venetian,2,MORTGAGE,63000.0,Verified,Fully Paid,debt_consolidation,NV,10.82,1,INDIVIDUAL,9,717,Good-Loan
+2009,Mar,16800.0,36,7.37,A,A1,Advantage Data  Inc.,1,RENT,78000.0,Verified,Fully Paid,car,MA,1.15,2,INDIVIDUAL,9,772,Good-Loan
+2009,Mar,10000.0,36,13.16,C,C3,"Scott & White EMS, Inc.",2,RENT,33500.0,Verified,Fully Paid,small_business,TX,17.37,0,INDIVIDUAL,3,772,Good-Loan
+2009,Mar,5000.0,36,9.63,A,A5,Parker Consulting Services,4,MORTGAGE,45204.0,Verified,Fully Paid,other,FL,11.12,1,INDIVIDUAL,7,732,Good-Loan
+2009,Mar,10000.0,36,12.21,B,B5,Citadel Solutions LLC,1,RENT,56500.0,Verified,Fully Paid,other,IL,19.2,2,INDIVIDUAL,16,762,Good-Loan
+2009,Mar,10000.0,36,14.11,D,D1,Armstrong Capital,1,RENT,85000.0,Verified,Fully Paid,debt_consolidation,NY,3.92,1,INDIVIDUAL,8,682,Good-Loan
+2009,Mar,11000.0,36,9.32,A,A4,Los Angeles Unified School District,3,RENT,65867.36,Verified,Fully Paid,credit_card,CA,19.15,2,INDIVIDUAL,11,747,Good-Loan
+2009,Mar,5000.0,36,13.16,C,C3,LANCASTER COMMUNITY HOSPITAL,2,RENT,142000.0,Verified,Fully Paid,home_improvement,CA,23.26,2,INDIVIDUAL,15,687,Good-Loan
+2009,Mar,12000.0,36,16.0,E,E2,Special School District,5,MORTGAGE,36000.0,Verified,Fully Paid,home_improvement,MO,0.33,0,INDIVIDUAL,36,662,Good-Loan
+2009,Mar,8500.0,36,7.37,A,A1,medco health solutions,1,RENT,28800.0,Verified,Fully Paid,car,TX,19.83,2,INDIVIDUAL,6,732,Good-Loan
+2009,Mar,1000.0,36,7.68,A,A2,Howrey LLP,1,MORTGAGE,91000.0,Not Verified,Fully Paid,other,MD,9.77,2,INDIVIDUAL,12,752,Good-Loan
+2009,Mar,1400.0,36,12.53,C,C1,MWH Global,7,MORTGAGE,66500.0,Not Verified,Fully Paid,other,IL,14.29,2,INDIVIDUAL,11,697,Good-Loan
+2009,Mar,9250.0,36,13.16,C,C3,Pacer Energy Marketing,3,OWN,52000.0,Verified,Fully Paid,credit_card,OK,21.9,0,INDIVIDUAL,6,702,Good-Loan
+2009,Mar,10000.0,36,13.79,C,C5,Consulate General of the Dominican Republic,8,MORTGAGE,40000.0,Not Verified,Fully Paid,debt_consolidation,FL,21.66,0,INDIVIDUAL,11,692,Good-Loan
+2009,Mar,7000.0,36,14.74,D,D3,County of Henrico,10,OWN,35482.2,Verified,Fully Paid,debt_consolidation,VA,17.28,0,INDIVIDUAL,10,672,Good-Loan
+2009,Mar,14000.0,36,15.68,E,E1,Self employed: The Photo Buddy,2,MORTGAGE,55000.0,Not Verified,Fully Paid,debt_consolidation,FL,18.92,0,INDIVIDUAL,5,672,Good-Loan
+2009,Mar,10000.0,36,13.79,C,C5,"VASQUEZ & Co, LLP",2,RENT,65000.0,Verified,Fully Paid,debt_consolidation,CA,18.2,0,INDIVIDUAL,7,687,Good-Loan
+2009,Mar,8500.0,36,8.0,A,A3,"McTish, Kunkel & Associates",4,MORTGAGE,83000.0,Not Verified,Fully Paid,home_improvement,PA,6.75,0,INDIVIDUAL,18,787,Good-Loan
+2009,Mar,4000.0,36,8.0,A,A3,Unknown,1,RENT,48000.0,Verified,Fully Paid,medical,TX,2.77,0,INDIVIDUAL,9,772,Good-Loan
+2009,Mar,17000.0,36,9.63,A,A5,Internal Revenue Service (IRS),7,RENT,89004.0,Verified,Fully Paid,debt_consolidation,DC,14.71,0,INDIVIDUAL,15,772,Good-Loan
+2009,Mar,15000.0,36,16.95,E,E5,B&H Photo Video,2,RENT,47000.0,Verified,Fully Paid,small_business,NY,0.38,0,INDIVIDUAL,16,687,Good-Loan
+2009,Mar,20500.0,36,13.16,C,C3,Bluepoint Surgical Group,2,RENT,70000.0,Verified,Fully Paid,debt_consolidation,VA,20.06,1,INDIVIDUAL,10,722,Good-Loan
+2009,Mar,10000.0,36,11.89,B,B4,Properties Plus  LLC,1,RENT,45000.0,Verified,Fully Paid,debt_consolidation,CO,21.95,1,INDIVIDUAL,10,752,Good-Loan
+2009,Mar,12000.0,36,12.53,C,C1,ECI,6,RENT,88000.0,Verified,Fully Paid,debt_consolidation,CA,11.15,2,INDIVIDUAL,14,717,Good-Loan
+2009,Mar,8000.0,36,14.74,D,D3,Altera Corp.,8,RENT,101000.0,Verified,Fully Paid,debt_consolidation,CA,6.42,0,INDIVIDUAL,11,672,Good-Loan
+2009,Mar,3500.0,36,11.89,B,B4,"Orphic Workshop, LLC",2,RENT,30000.0,Not Verified,Fully Paid,credit_card,NM,11.68,0,INDIVIDUAL,19,722,Good-Loan
+2009,Mar,11000.0,36,15.68,E,E1,MD ANDERSON CANCER CENTER,1,MORTGAGE,50004.0,Verified,Fully Paid,home_improvement,TX,13.94,0,INDIVIDUAL,5,667,Good-Loan
+2009,Mar,10000.0,36,9.63,A,A5,El Dorado Irrigation District,6,MORTGAGE,102000.0,Not Verified,Fully Paid,debt_consolidation,CA,2.47,0,INDIVIDUAL,10,742,Good-Loan
+2009,Mar,3500.0,36,16.0,E,E2,Goodwill Industries of Orange County,1,OWN,35000.0,Not Verified,Fully Paid,medical,CA,23.45,0,INDIVIDUAL,11,662,Good-Loan
+2009,Mar,18000.0,36,16.0,E,E2,city of brigeport,10,RENT,70000.0,Verified,Fully Paid,vacation,CT,8.66,2,INDIVIDUAL,11,677,Good-Loan
+2009,Mar,11100.0,36,9.63,A,A5,new england lining supply,1,OWN,25000.0,Verified,Fully Paid,small_business,RI,17.71,0,INDIVIDUAL,14,742,Good-Loan
+2009,Mar,9250.0,36,13.79,C,C5,Arizona State Credit Union,3,MORTGAGE,49500.0,Verified,Fully Paid,credit_card,AZ,15.85,1,INDIVIDUAL,7,682,Good-Loan
+2009,Mar,12800.0,36,14.11,D,D1,Merck  and  Co.,1,RENT,90600.0,Not Verified,Fully Paid,debt_consolidation,PA,20.33,3,INDIVIDUAL,14,702,Good-Loan
+2009,Mar,16000.0,36,12.21,B,B5,Ceradyne Thermo,5,MORTGAGE,86000.0,Verified,Fully Paid,debt_consolidation,GA,10.74,1,INDIVIDUAL,11,737,Good-Loan
+2009,Mar,8000.0,36,13.79,C,C5,Butte College,5,RENT,75000.0,Verified,Fully Paid,credit_card,CA,12.78,1,INDIVIDUAL,19,682,Good-Loan
+2009,Mar,6000.0,36,9.32,A,A4,Boy Scouts of America,2,RENT,41000.0,Not Verified,Fully Paid,debt_consolidation,CA,10.77,1,INDIVIDUAL,8,742,Good-Loan
+2009,Mar,6400.0,36,13.16,C,C3,burr pilger and maer,2,RENT,56000.0,Not Verified,Fully Paid,medical,CA,12.45,1,INDIVIDUAL,11,692,Good-Loan
+2009,Mar,9100.0,36,10.95,B,B1,Butler International,1,MORTGAGE,81204.0,Verified,Fully Paid,car,AL,0.15,0,INDIVIDUAL,12,692,Good-Loan
+2009,Mar,7000.0,36,9.32,A,A4,BETA Group,8,RENT,72000.0,Verified,Fully Paid,moving,MA,18.5,0,INDIVIDUAL,18,742,Good-Loan
+2009,Mar,6850.0,36,13.47,C,C4,TranTech,2,MORTGAGE,100000.0,Verified,Fully Paid,home_improvement,VA,11.62,0,INDIVIDUAL,9,687,Good-Loan
+2009,Mar,6000.0,36,9.32,A,A4,"Cole, Evans & Peterson",10,MORTGAGE,45000.0,Not Verified,Fully Paid,other,LA,1.33,1,INDIVIDUAL,15,762,Good-Loan
+2009,Mar,1200.0,36,12.21,B,B5,Liberty Plaza,2,RENT,31200.0,Not Verified,Fully Paid,educational,CA,4.54,0,INDIVIDUAL,7,702,Good-Loan
+2009,Mar,11100.0,36,12.21,B,B5,Personal Care Professionals,2,RENT,32244.0,Verified,Fully Paid,debt_consolidation,NJ,23.71,0,INDIVIDUAL,9,717,Good-Loan
+2009,Mar,8700.0,36,13.47,C,C4,USAF,10,MORTGAGE,70236.0,Not Verified,Fully Paid,credit_card,WY,20.43,3,INDIVIDUAL,13,707,Good-Loan
+2009,Mar,6500.0,36,8.0,A,A3,"Inland Imaging, LLC",1,RENT,92000.0,Verified,Fully Paid,debt_consolidation,WA,6.59,0,INDIVIDUAL,23,807,Good-Loan
+2009,Mar,8000.0,36,9.63,A,A5,max-m-co,9,OWN,42000.0,Not Verified,Fully Paid,wedding,TX,9.03,3,INDIVIDUAL,8,742,Good-Loan
+2009,Mar,10000.0,36,14.11,D,D1,Hewlett Packard,7,RENT,67000.0,Verified,Fully Paid,debt_consolidation,HI,6.86,1,INDIVIDUAL,15,682,Good-Loan
+2009,Mar,7000.0,36,9.63,A,A5,Wattles Office Supply,1,OWN,24000.0,Not Verified,Fully Paid,debt_consolidation,FL,7.85,2,INDIVIDUAL,15,727,Good-Loan
+2009,Mar,2000.0,36,7.37,A,A1,Mobius works,1,MORTGAGE,65000.0,Not Verified,Fully Paid,home_improvement,MA,2.38,0,INDIVIDUAL,11,782,Good-Loan
+2009,Mar,9600.0,36,14.74,D,D3,skb properties,4,MORTGAGE,55004.0,Not Verified,Fully Paid,debt_consolidation,UT,20.88,2,INDIVIDUAL,8,682,Good-Loan
+2009,Mar,11750.0,36,13.47,C,C4,Urban Health Plan,3,RENT,98000.0,Verified,Fully Paid,debt_consolidation,NY,16.4,0,INDIVIDUAL,12,697,Good-Loan
+2009,Mar,6000.0,36,8.0,A,A3,L.P. Freight Services,8,MORTGAGE,92004.0,Not Verified,Charged Off,debt_consolidation,TX,5.07,0,INDIVIDUAL,23,752,Defaulted-Loan
+2009,Mar,15250.0,36,15.05,D,D4,Kroger Co.,6,MORTGAGE,45500.0,Verified,Fully Paid,debt_consolidation,OH,11.76,2,INDIVIDUAL,4,682,Good-Loan
+2009,Mar,15000.0,36,15.05,D,D4,Osteria,1,RENT,42000.0,Not Verified,Fully Paid,credit_card,PA,15.43,2,INDIVIDUAL,12,687,Good-Loan
+2009,Mar,1400.0,36,15.37,D,D5,Jet West Music Group Ltd,1,MORTGAGE,36000.0,Not Verified,Fully Paid,small_business,NV,5.07,2,INDIVIDUAL,6,712,Good-Loan
+2009,Mar,8000.0,36,10.95,B,B1,Pesci Family,10,RENT,39996.0,Not Verified,Charged Off,car,NJ,22.98,1,INDIVIDUAL,20,692,Defaulted-Loan
+2009,Mar,6000.0,36,12.84,C,C2,"Bee Creek Communications, Inc",2,OWN,42000.0,Not Verified,Fully Paid,other,TX,15.29,0,INDIVIDUAL,15,692,Good-Loan
+2009,Mar,5500.0,36,8.0,A,A3,howdys transport,3,MORTGAGE,57000.0,Not Verified,Fully Paid,debt_consolidation,MN,18.76,3,INDIVIDUAL,9,747,Good-Loan
+2009,Mar,3600.0,36,7.68,A,A2,Transitional Services Associaton Inc.,3,RENT,30500.0,Verified,Fully Paid,major_purchase,NY,10.54,0,INDIVIDUAL,6,752,Good-Loan
+2009,Mar,5000.0,36,15.37,D,D5,Jancewicz and Son,1,OWN,37440.0,Verified,Fully Paid,debt_consolidation,NH,22.92,1,INDIVIDUAL,11,662,Good-Loan
+2009,Mar,15000.0,36,13.47,C,C4,Merrick Bank,6,RENT,53500.0,Verified,Fully Paid,debt_consolidation,NY,14.06,1,INDIVIDUAL,32,702,Good-Loan
+2009,Mar,10000.0,36,12.21,B,B5,HOLON ENGINEERING,10,MORTGAGE,67000.0,Verified,Fully Paid,home_improvement,MS,11.77,1,INDIVIDUAL,14,742,Good-Loan
+2009,Mar,14400.0,36,13.47,C,C4,Huron Consulting Group,1,RENT,62000.0,Verified,Fully Paid,credit_card,NY,10.35,0,INDIVIDUAL,5,702,Good-Loan
+2009,Mar,12000.0,36,13.79,C,C5,KBC Pub Inc.,5,OWN,49008.0,Verified,Fully Paid,debt_consolidation,PA,11.7,2,INDIVIDUAL,12,687,Good-Loan
+2009,Mar,6000.0,36,14.74,D,D3,Sprint,10,MORTGAGE,100824.0,Verified,Fully Paid,debt_consolidation,MD,4.96,2,INDIVIDUAL,11,672,Good-Loan
+2009,Mar,4500.0,36,15.05,D,D4,Brother Martin High School,1,RENT,33000.0,Verified,Fully Paid,car,LA,11.78,1,INDIVIDUAL,9,662,Good-Loan
+2009,Mar,8000.0,36,13.79,C,C5,Failmezger Auto Repair,8,MORTGAGE,60000.0,Verified,Fully Paid,small_business,NY,10.54,0,INDIVIDUAL,20,682,Good-Loan
+2009,Mar,1000.0,36,8.0,A,A3,SAE International,4,MORTGAGE,68000.0,Verified,Fully Paid,home_improvement,PA,9.21,0,INDIVIDUAL,18,742,Good-Loan
+2009,Mar,1500.0,36,14.74,D,D3,Twin Oaks Software Development,1,RENT,39500.0,Not Verified,Fully Paid,debt_consolidation,CT,20.35,0,INDIVIDUAL,4,677,Good-Loan
+2009,Mar,12000.0,36,17.26,F,F1,Dept. of Public Social Services and Home Depot,10,RENT,70802.0,Not Verified,Fully Paid,debt_consolidation,CA,2.71,2,INDIVIDUAL,17,667,Good-Loan
+2009,Mar,6000.0,36,13.47,C,C4,self,5,OWN,40000.0,Not Verified,Fully Paid,small_business,AZ,4.62,0,INDIVIDUAL,6,677,Good-Loan
+2009,Mar,10000.0,36,12.21,B,B5,quaker oats,6,RENT,50004.0,Verified,Fully Paid,debt_consolidation,MO,3.0,0,INDIVIDUAL,10,717,Good-Loan
+2009,Mar,15000.0,36,14.42,D,D2,Columbia University,9,RENT,90000.0,Verified,Fully Paid,debt_consolidation,NY,8.21,2,INDIVIDUAL,24,687,Good-Loan
+2009,Mar,10000.0,36,9.63,A,A5,Havertys Furniture,9,MORTGAGE,60000.0,Verified,Charged Off,debt_consolidation,GA,9.44,1,INDIVIDUAL,15,747,Defaulted-Loan
+2009,Mar,9000.0,36,12.53,C,C1,Owens-Illinois,1,RENT,40000.0,Not Verified,Fully Paid,car,PA,0.9,0,INDIVIDUAL,43,732,Good-Loan
+2009,Mar,5500.0,36,7.68,A,A2,City of Walnut Creek,4,RENT,70000.0,Verified,Fully Paid,credit_card,CA,10.32,0,INDIVIDUAL,15,782,Good-Loan
+2009,Mar,3500.0,36,9.32,A,A4,City of Boca Raton,9,MORTGAGE,87000.0,Verified,Fully Paid,other,FL,13.5,3,INDIVIDUAL,14,727,Good-Loan
+2009,Mar,10000.0,36,9.63,A,A5,Airetek Service LLC,1,RENT,30000.0,Verified,Charged Off,debt_consolidation,PA,15.88,0,INDIVIDUAL,10,762,Defaulted-Loan
+2009,Mar,12000.0,36,14.74,D,D3,Major Auto Group,10,RENT,54000.0,Verified,Fully Paid,debt_consolidation,NY,4.62,0,INDIVIDUAL,15,697,Good-Loan
+2009,Mar,9000.0,36,13.47,C,C4,Accel,10,MORTGAGE,35100.0,Not Verified,Fully Paid,home_improvement,TX,21.91,7,INDIVIDUAL,10,757,Good-Loan
+2009,Mar,20000.0,36,13.79,C,C5,Symantec Corp.,5,RENT,72000.0,Verified,Fully Paid,debt_consolidation,OR,20.1,0,INDIVIDUAL,7,707,Good-Loan
+2009,Mar,12000.0,36,13.47,C,C4,Unknown,2,RENT,50004.0,Verified,Fully Paid,debt_consolidation,PA,13.7,0,INDIVIDUAL,7,692,Good-Loan
+2009,Mar,10000.0,36,14.11,D,D1,Unknown,1,RENT,72500.0,Verified,Fully Paid,home_improvement,WA,24.7,0,INDIVIDUAL,6,677,Good-Loan
+2009,Mar,6000.0,36,12.21,B,B5,AIT,1,MORTGAGE,35000.0,Verified,Fully Paid,renewable_energy,AL,15.22,0,INDIVIDUAL,13,717,Good-Loan
+2009,Mar,7000.0,36,8.0,A,A3,UMass,3,MORTGAGE,96713.32,Not Verified,Fully Paid,major_purchase,MA,11.79,0,INDIVIDUAL,17,817,Good-Loan
+2009,Mar,9000.0,36,14.11,D,D1,Commerce Bank of WA,6,RENT,52000.0,Verified,Fully Paid,debt_consolidation,WA,24.92,0,INDIVIDUAL,9,687,Good-Loan
+2009,Mar,16000.0,36,16.32,E,E3,M&T Bank,1,MORTGAGE,67000.0,Not Verified,Fully Paid,debt_consolidation,NY,10.39,2,INDIVIDUAL,21,667,Good-Loan
+2009,Mar,2500.0,36,7.37,A,A1,U.S. Department of Education,7,RENT,112995.0,Not Verified,Fully Paid,other,VA,0.39,0,INDIVIDUAL,20,772,Good-Loan
+2009,Mar,20000.0,36,13.47,C,C4,"Infinity Designs, Inc.",6,MORTGAGE,184000.0,Verified,Charged Off,debt_consolidation,AK,7.28,1,INDIVIDUAL,20,732,Defaulted-Loan
+2009,Mar,10000.0,36,13.79,C,C5,UBS Financial Services,2,RENT,50004.0,Verified,Fully Paid,small_business,NY,16.58,1,INDIVIDUAL,9,712,Good-Loan
+2009,Mar,8000.0,36,13.16,C,C3,eSpindle Learning,5,RENT,55000.0,Verified,Fully Paid,small_business,CA,20.07,0,INDIVIDUAL,13,717,Good-Loan
+2009,Mar,18000.0,36,17.26,F,F1,Information Technology Partners,1,OWN,101300.0,Verified,Fully Paid,house,IL,14.42,3,INDIVIDUAL,20,662,Good-Loan
+2009,Mar,12000.0,36,12.53,C,C1,Reading School District,1,RENT,39000.0,Not Verified,Fully Paid,wedding,PA,13.75,1,INDIVIDUAL,7,717,Good-Loan
+2009,Mar,4000.0,36,7.68,A,A2,State of California,1,RENT,32000.0,Not Verified,Fully Paid,major_purchase,CA,5.7,2,INDIVIDUAL,21,772,Good-Loan
+2009,Mar,19000.0,36,12.84,C,C2,"VACC, Inc.",2,RENT,65000.0,Verified,Fully Paid,debt_consolidation,CA,16.25,0,INDIVIDUAL,11,722,Good-Loan
+2009,Mar,20000.0,36,12.84,C,C2,Pape and Sons Construction,3,MORTGAGE,70000.0,Verified,Fully Paid,small_business,WA,16.87,4,INDIVIDUAL,14,747,Good-Loan
+2009,Mar,18000.0,36,14.42,D,D2,JDK Business Automation,3,MORTGAGE,70000.0,Not Verified,Fully Paid,wedding,TX,7.89,1,INDIVIDUAL,9,722,Good-Loan
+2009,Mar,5000.0,36,13.16,C,C3,The Next Idea llc,6,MORTGAGE,150000.0,Not Verified,Fully Paid,small_business,CA,10.98,1,INDIVIDUAL,6,692,Good-Loan
+2009,Mar,20000.0,36,14.74,D,D3,Haldex,10,MORTGAGE,114000.0,Verified,Fully Paid,debt_consolidation,MI,15.27,1,INDIVIDUAL,8,702,Good-Loan
+2009,Mar,16000.0,36,14.42,D,D2,Newell Rubbermaid,10,RENT,70000.0,Verified,Fully Paid,debt_consolidation,PA,20.54,1,INDIVIDUAL,6,687,Good-Loan
+2009,Mar,20000.0,36,13.47,C,C4,EquiLend,3,MORTGAGE,160000.0,Verified,Fully Paid,small_business,NY,5.02,6,INDIVIDUAL,20,762,Good-Loan
+2009,Mar,6500.0,36,8.0,A,A3,Sales Performance Associates LLC,1,MORTGAGE,50000.0,Not Verified,Fully Paid,small_business,GA,3.24,0,INDIVIDUAL,20,822,Good-Loan
+2009,Mar,14000.0,36,9.63,A,A5,Self and part of Consultant Groups,1,MORTGAGE,132000.0,Not Verified,Fully Paid,small_business,GA,14.59,1,INDIVIDUAL,15,787,Good-Loan
+2009,Mar,10000.0,36,11.89,B,B4,Loyola University New Orleans,10,RENT,85000.0,Verified,Fully Paid,major_purchase,LA,11.86,0,INDIVIDUAL,18,732,Good-Loan
+2009,Mar,8400.0,36,9.32,A,A4,Unknown,4,RENT,189996.0,Not Verified,Fully Paid,car,CA,1.05,0,INDIVIDUAL,11,777,Good-Loan
+2009,Mar,6000.0,36,12.84,C,C2,Transportation Security Administration,2,RENT,42996.0,Not Verified,Fully Paid,debt_consolidation,CA,11.95,0,INDIVIDUAL,10,692,Good-Loan
+2009,Mar,2200.0,36,9.32,A,A4,StoneBrook Manor,8,RENT,17004.0,Verified,Charged Off,debt_consolidation,PA,24.63,1,INDIVIDUAL,11,732,Defaulted-Loan
+2009,Mar,7000.0,36,11.89,B,B4,TM Floyd,1,RENT,108000.0,Verified,Fully Paid,house,SC,7.04,5,INDIVIDUAL,24,792,Good-Loan
+2009,Mar,18225.0,36,9.63,A,A5,Mr.  and  Mrs. Apfelbaum,6,OTHER,35004.0,Not Verified,Fully Paid,debt_consolidation,CT,22.76,0,INDIVIDUAL,15,782,Good-Loan
+2009,Mar,8800.0,36,14.42,D,D2,UCSF,10,RENT,46296.0,Verified,Fully Paid,debt_consolidation,CA,5.94,0,INDIVIDUAL,12,707,Good-Loan
+2009,Mar,4000.0,36,9.32,A,A4,Fourth Wall Marketing,1,RENT,52800.0,Not Verified,Fully Paid,major_purchase,CA,0.59,1,INDIVIDUAL,11,742,Good-Loan
+2009,Mar,2000.0,36,15.05,D,D4,Southwest Airlines,10,RENT,50000.0,Not Verified,Fully Paid,medical,CA,22.99,2,INDIVIDUAL,11,667,Good-Loan
+2009,Mar,5250.0,36,9.63,A,A5,Cardinal Glass Industries  Inc,3,MORTGAGE,65004.0,Verified,Fully Paid,credit_card,MN,20.16,1,INDIVIDUAL,10,727,Good-Loan
+2009,Mar,1500.0,36,8.0,A,A3,"Medical Solutions of Arkansas, LLC.",2,RENT,24840.0,Not Verified,Charged Off,other,AR,14.73,4,INDIVIDUAL,10,767,Defaulted-Loan
+2009,Mar,14000.0,36,13.16,C,C3,The Judge Group,10,RENT,93000.0,Verified,Fully Paid,credit_card,PA,19.24,0,INDIVIDUAL,41,717,Good-Loan
+2009,Mar,5000.0,36,14.74,D,D3,Web Success,3,RENT,50000.0,Not Verified,Fully Paid,small_business,FL,6.79,1,INDIVIDUAL,4,692,Good-Loan
+2009,Mar,6400.0,36,8.0,A,A3,Music and Arts,7,MORTGAGE,50000.0,Not Verified,Fully Paid,other,VA,11.4,0,INDIVIDUAL,11,792,Good-Loan
+2009,Mar,10000.0,36,13.47,C,C4,Vera Reporting,4,RENT,54996.0,Not Verified,Fully Paid,car,TX,5.59,1,INDIVIDUAL,11,692,Good-Loan
+2009,Mar,6000.0,36,14.74,D,D3,Self-Employed ebay  loan request is to start a business,10,RENT,36000.0,Not Verified,Charged Off,small_business,PA,14.0,2,INDIVIDUAL,8,677,Defaulted-Loan
+2009,Mar,10000.0,36,14.42,D,D2,Beef O bradys,1,RENT,60000.0,Not Verified,Charged Off,small_business,FL,11.26,2,INDIVIDUAL,18,682,Defaulted-Loan
+2009,Mar,9925.0,36,9.63,A,A5,Beauty Mart Supplies,9,MORTGAGE,48000.0,Not Verified,Fully Paid,small_business,GA,24.52,1,INDIVIDUAL,9,742,Good-Loan
+2009,Mar,2600.0,36,14.74,D,D3,Children's Scholarship Fund,1,RENT,30996.0,Verified,Fully Paid,educational,PA,5.3,1,INDIVIDUAL,8,662,Good-Loan
+2009,Mar,5750.0,36,14.74,D,D3,fantastic sams,1,OTHER,16000.0,Not Verified,Fully Paid,credit_card,CA,12.6,1,INDIVIDUAL,4,682,Good-Loan
+2009,Mar,7500.0,36,13.47,C,C4,Denver Health,1,MORTGAGE,64956.0,Not Verified,Fully Paid,home_improvement,CO,6.76,1,INDIVIDUAL,13,687,Good-Loan
+2009,Mar,8000.0,36,13.16,C,C3,PEC Corp.,1,RENT,50000.0,Not Verified,Fully Paid,debt_consolidation,CO,19.51,0,INDIVIDUAL,13,737,Good-Loan
+2009,Mar,12000.0,36,9.63,A,A5,Model N Inc,1,RENT,204000.0,Verified,Fully Paid,credit_card,NJ,9.14,0,INDIVIDUAL,11,747,Good-Loan
+2009,Mar,10000.0,36,14.11,D,D1,Office Team,1,RENT,45000.0,Not Verified,Fully Paid,debt_consolidation,CA,7.95,0,INDIVIDUAL,7,682,Good-Loan
+2009,Mar,3200.0,36,8.0,A,A3,Sophos,1,MORTGAGE,75000.0,Verified,Fully Paid,debt_consolidation,MA,5.79,0,INDIVIDUAL,13,737,Good-Loan
+2009,Mar,7200.0,36,13.79,C,C5,Nerve Contracting,10,RENT,31944.0,Not Verified,Fully Paid,debt_consolidation,NY,22.13,0,INDIVIDUAL,7,682,Good-Loan
+2009,Mar,7000.0,36,13.47,C,C4,PALM BEACH GARDENS MED CTR,10,MORTGAGE,92000.0,Verified,Fully Paid,car,FL,4.73,3,INDIVIDUAL,24,692,Good-Loan
+2009,Mar,10500.0,36,16.32,E,E3,ING,5,RENT,46000.0,Not Verified,Fully Paid,debt_consolidation,NJ,9.97,1,INDIVIDUAL,5,662,Good-Loan
+2009,Mar,8000.0,36,12.21,B,B5,Self Employed,4,RENT,20000.0,Not Verified,Fully Paid,credit_card,CA,0.0,0,INDIVIDUAL,12,772,Good-Loan
+2009,Mar,8125.0,36,14.42,D,D2,retired,1,OWN,12000.0,Not Verified,Fully Paid,other,NM,0.0,0,INDIVIDUAL,15,687,Good-Loan
+2009,Mar,3400.0,36,13.16,C,C3,USAF,4,OWN,31776.0,Not Verified,Fully Paid,other,CT,9.67,0,INDIVIDUAL,4,717,Good-Loan
+2009,Mar,8000.0,36,13.16,C,C3,"Alacriti, Inc",1,MORTGAGE,32000.0,Verified,Fully Paid,debt_consolidation,NJ,11.44,2,INDIVIDUAL,6,697,Good-Loan
+2009,Mar,6000.0,36,13.16,C,C3,St. Lucie County School Board,1,RENT,36000.0,Not Verified,Charged Off,debt_consolidation,FL,23.77,1,INDIVIDUAL,12,692,Defaulted-Loan
+2009,Mar,5000.0,36,13.79,C,C5,GE Transportation,1,RENT,50004.0,Verified,Charged Off,major_purchase,PA,24.07,3,INDIVIDUAL,9,687,Defaulted-Loan
+2009,Mar,20000.0,36,12.84,C,C2,scholastic uniforms,4,OWN,45000.0,Not Verified,Charged Off,debt_consolidation,NY,19.12,5,INDIVIDUAL,16,767,Defaulted-Loan
+2009,Mar,12000.0,36,13.79,C,C5,Alief Independent School District,10,RENT,55008.0,Verified,Fully Paid,debt_consolidation,TX,20.4,1,INDIVIDUAL,16,702,Good-Loan
+2009,Mar,6000.0,36,9.32,A,A4,Sage,1,MORTGAGE,65000.0,Verified,Fully Paid,other,AZ,9.73,1,INDIVIDUAL,16,762,Good-Loan
+2009,Mar,3000.0,36,12.84,C,C2,retired,1,MORTGAGE,99996.0,Verified,Fully Paid,debt_consolidation,NJ,18.58,1,INDIVIDUAL,20,692,Good-Loan
+2009,Mar,6000.0,36,14.42,D,D2,CISCO Chemicals,1,MORTGAGE,61200.0,Not Verified,Fully Paid,major_purchase,GA,14.75,3,INDIVIDUAL,7,672,Good-Loan
+2009,Mar,9325.0,36,12.53,C,C1,Arctic Transportation Services,8,MORTGAGE,85000.0,Not Verified,Charged Off,small_business,AK,18.58,0,INDIVIDUAL,25,712,Defaulted-Loan
+2009,Mar,6700.0,36,13.47,C,C4,Citysearch,2,RENT,72204.0,Not Verified,Fully Paid,debt_consolidation,FL,14.21,0,INDIVIDUAL,16,687,Good-Loan
+2009,Mar,6000.0,36,9.32,A,A4,P.M.A.M.,1,RENT,48500.0,Verified,Fully Paid,other,MD,4.08,0,INDIVIDUAL,10,742,Good-Loan
+2009,Mar,16000.0,36,12.53,C,C1,Unknown,1,MORTGAGE,46500.0,Not Verified,Fully Paid,debt_consolidation,PA,21.7,2,INDIVIDUAL,37,727,Good-Loan
+2009,Mar,5000.0,36,9.32,A,A4,United States Air Force,2,RENT,58979.28,Not Verified,Fully Paid,house,FL,10.46,1,INDIVIDUAL,9,777,Good-Loan
+2009,Feb,3000.0,36,9.32,A,A4,Bailard,1,RENT,67500.0,Not Verified,Fully Paid,debt_consolidation,CA,6.9,0,INDIVIDUAL,9,727,Good-Loan
+2009,Mar,15000.0,36,13.16,C,C3,COMBINED COMPUTER RESOURCES,1,OWN,40000.0,Verified,Fully Paid,debt_consolidation,NJ,13.14,1,INDIVIDUAL,6,712,Good-Loan
+2009,Mar,5750.0,36,13.79,C,C5,American General Finance,3,MORTGAGE,52000.0,Verified,Fully Paid,debt_consolidation,OH,18.58,0,INDIVIDUAL,16,687,Good-Loan
+2009,Mar,12000.0,36,15.68,E,E1,HKS  Inc.,4,MORTGAGE,80000.0,Verified,Fully Paid,debt_consolidation,FL,14.21,1,INDIVIDUAL,13,672,Good-Loan
+2009,Mar,12000.0,36,14.11,D,D1,Wilkes Barre Twp Police,10,MORTGAGE,90000.0,Verified,Fully Paid,debt_consolidation,PA,13.73,3,INDIVIDUAL,14,682,Good-Loan
+2009,Mar,1500.0,36,12.84,C,C2,Halliburton Energy Services,4,OWN,61200.0,Verified,Fully Paid,other,LA,17.65,0,INDIVIDUAL,7,687,Good-Loan
+2009,Mar,18000.0,36,16.63,E,E4,Avian Realty,2,RENT,49400.0,Verified,Charged Off,wedding,IL,10.91,3,INDIVIDUAL,6,667,Defaulted-Loan
+2009,Mar,6500.0,36,9.63,A,A5,American Energy,1,OTHER,31992.0,Verified,Fully Paid,educational,CO,3.75,1,INDIVIDUAL,10,742,Good-Loan
+2009,Feb,2250.0,36,7.37,A,A1,Department of Defense (DOD),7,MORTGAGE,86399.0,Verified,Fully Paid,other,PA,6.83,1,INDIVIDUAL,14,777,Good-Loan
+2009,Mar,5200.0,36,12.53,C,C1,Protiviti,3,RENT,50500.0,Verified,Fully Paid,debt_consolidation,IL,9.17,0,INDIVIDUAL,11,702,Good-Loan
+2009,Mar,16000.0,36,12.21,B,B5,Law Office,1,RENT,84000.0,Verified,Fully Paid,other,CA,17.8,1,INDIVIDUAL,14,737,Good-Loan
+2009,Mar,4000.0,36,12.84,C,C2,Kansas State University,6,RENT,18000.0,Not Verified,Fully Paid,other,KS,9.73,1,INDIVIDUAL,5,712,Good-Loan
+2009,Mar,9000.0,36,12.84,C,C2,BASF Chemical Company,2,RENT,77496.0,Verified,Fully Paid,major_purchase,LA,18.83,2,INDIVIDUAL,9,702,Good-Loan
+2009,Mar,5000.0,36,13.47,C,C4,CGI,1,RENT,54996.0,Not Verified,Fully Paid,other,VA,8.66,0,INDIVIDUAL,5,707,Good-Loan
+2009,Mar,3500.0,36,12.21,B,B5,Best Buy,9,RENT,51996.0,Verified,Charged Off,other,MI,15.07,2,INDIVIDUAL,16,707,Defaulted-Loan
+2009,Mar,8000.0,36,15.05,D,D4,Crown-Kerasotes Show-ASI Security,10,OTHER,27048.0,Verified,Fully Paid,debt_consolidation,IL,6.26,0,INDIVIDUAL,5,677,Good-Loan
+2009,Mar,8000.0,36,13.47,C,C4,Kent Denver School,1,RENT,45000.0,Verified,Fully Paid,debt_consolidation,CO,21.68,0,INDIVIDUAL,8,687,Good-Loan
+2009,Feb,3000.0,36,11.89,B,B4,Jon Felts LLC,2,RENT,30000.0,Not Verified,Fully Paid,small_business,CA,18.28,0,INDIVIDUAL,20,712,Good-Loan
+2009,Mar,15000.0,36,14.42,D,D2,Kingston City Schools Consolidated,9,MORTGAGE,72000.0,Verified,Fully Paid,debt_consolidation,NY,12.25,2,INDIVIDUAL,15,697,Good-Loan
+2009,Mar,9000.0,36,9.63,A,A5,Louisiana State University,4,MORTGAGE,65000.0,Not Verified,Fully Paid,debt_consolidation,LA,22.45,0,INDIVIDUAL,19,737,Good-Loan
+2009,Mar,7000.0,36,12.53,C,C1,MetLife Inc.,1,RENT,52000.0,Verified,Fully Paid,debt_consolidation,FL,19.45,0,INDIVIDUAL,11,707,Good-Loan
+2009,Feb,3550.0,36,7.68,A,A2,Marriott International,10,OWN,20245.0,Not Verified,Fully Paid,debt_consolidation,AL,8.83,1,INDIVIDUAL,23,767,Good-Loan
+2009,Mar,20000.0,36,14.74,D,D3,QMS,4,RENT,72000.0,Not Verified,Fully Paid,debt_consolidation,CA,10.43,0,INDIVIDUAL,9,687,Good-Loan
+2009,Mar,20000.0,36,15.05,D,D4,Kwajalein Range Services,4,MORTGAGE,65400.0,Verified,Fully Paid,home_improvement,CO,9.76,1,INDIVIDUAL,12,692,Good-Loan
+2009,Mar,16000.0,36,11.89,B,B4,Self-employed,2,RENT,75000.0,Not Verified,Charged Off,medical,CA,3.06,0,INDIVIDUAL,11,752,Defaulted-Loan
+2009,Feb,5000.0,36,11.89,B,B4,Pennsylvania Air National Guard,2,MORTGAGE,55992.0,Not Verified,Fully Paid,home_improvement,PA,2.23,4,INDIVIDUAL,7,747,Good-Loan
+2009,Mar,3000.0,36,14.11,D,D1,Aetna,8,MORTGAGE,75000.0,Verified,Fully Paid,home_improvement,TX,21.01,1,INDIVIDUAL,17,672,Good-Loan
+2009,Mar,12000.0,36,13.16,C,C3,Paoli and Phoenixville Hospitals,5,MORTGAGE,58000.0,Verified,Fully Paid,debt_consolidation,PA,14.07,0,INDIVIDUAL,16,702,Good-Loan
+2009,Feb,5000.0,36,9.32,A,A4,Home Entertainment Distributors,3,RENT,45000.0,Not Verified,Fully Paid,debt_consolidation,RI,20.35,0,INDIVIDUAL,6,737,Good-Loan
+2009,Mar,5000.0,36,12.84,C,C2,usmc,10,RENT,60000.0,Verified,Charged Off,small_business,GA,13.0,0,INDIVIDUAL,11,697,Defaulted-Loan
+2009,Feb,1000.0,36,9.32,A,A4,American National Insurance Company,1,MORTGAGE,36000.0,Not Verified,Charged Off,other,OK,20.37,0,INDIVIDUAL,10,742,Defaulted-Loan
+2009,Feb,3000.0,36,9.63,A,A5,General Electric,4,RENT,83000.0,Verified,Fully Paid,wedding,NH,18.88,1,INDIVIDUAL,6,717,Good-Loan
+2009,Mar,15000.0,36,16.0,E,E2,General Motors,10,MORTGAGE,50000.0,Verified,Fully Paid,debt_consolidation,NY,6.19,0,INDIVIDUAL,11,667,Good-Loan
+2009,Mar,5000.0,36,14.42,D,D2,Capstone Properties,1,RENT,24000.0,Verified,Fully Paid,major_purchase,FL,13.5,1,INDIVIDUAL,8,692,Good-Loan
+2009,Mar,18000.0,36,16.63,E,E4,Pinnacle West Capital / Arizona Public Service Company (APS),1,MORTGAGE,62200.0,Verified,Fully Paid,debt_consolidation,AZ,22.98,0,INDIVIDUAL,7,672,Good-Loan
+2009,Mar,6950.0,36,9.32,A,A4,RDMc Publishing,10,MORTGAGE,30000.0,Not Verified,Fully Paid,small_business,TX,23.24,0,INDIVIDUAL,15,737,Good-Loan
+2009,Mar,3000.0,36,13.16,C,C3,The Hartford,6,RENT,42000.0,Verified,Fully Paid,vacation,FL,17.86,1,INDIVIDUAL,8,687,Good-Loan
+2009,Mar,16000.0,36,12.84,C,C2,Odyssey IS,1,MORTGAGE,100000.0,Verified,Fully Paid,debt_consolidation,TX,19.26,2,INDIVIDUAL,12,717,Good-Loan
+2009,Mar,3650.0,36,9.63,A,A5,Merrill Lynch,2,RENT,110000.0,Verified,Fully Paid,credit_card,NJ,15.75,2,INDIVIDUAL,8,717,Good-Loan
+2009,Mar,12000.0,36,9.63,A,A5,New Dream Network LLC,3,RENT,60000.0,Not Verified,Fully Paid,medical,CA,4.32,0,INDIVIDUAL,19,752,Good-Loan
+2009,Feb,1200.0,36,14.11,D,D1,Federal Student Aid,2,RENT,10000.0,Not Verified,Charged Off,debt_consolidation,NV,8.28,1,INDIVIDUAL,6,677,Defaulted-Loan
+2009,Mar,8725.0,36,9.32,A,A4,self employed (Cate Design),10,MORTGAGE,52000.0,Verified,Charged Off,small_business,AZ,16.59,0,INDIVIDUAL,15,757,Defaulted-Loan
+2009,Mar,5000.0,36,15.37,D,D5,va dept of health,5,RENT,35000.0,Verified,Fully Paid,major_purchase,VA,11.67,1,INDIVIDUAL,6,672,Good-Loan
+2009,Mar,12000.0,36,13.79,C,C5,Pinnacle Data Systems,2,RENT,37008.0,Verified,Charged Off,debt_consolidation,AL,13.46,1,INDIVIDUAL,9,702,Defaulted-Loan
+2009,Feb,5400.0,36,7.68,A,A2,columbus metropolitan library,10,MORTGAGE,34515.87,Verified,Fully Paid,home_improvement,OH,10.53,0,INDIVIDUAL,16,797,Good-Loan
+2009,Feb,7000.0,36,8.0,A,A3,Plaistow Police Dept,10,RENT,68508.0,Verified,Fully Paid,credit_card,MA,8.22,0,INDIVIDUAL,24,752,Good-Loan
+2009,Mar,12000.0,36,12.21,B,B5,Redford Union School District,3,MORTGAGE,47000.0,Verified,Fully Paid,small_business,MI,19.38,1,INDIVIDUAL,12,727,Good-Loan
+2009,Feb,4000.0,36,16.32,E,E3,ElderHelp of San Diego,1,RENT,39000.0,Verified,Fully Paid,debt_consolidation,CA,9.72,1,INDIVIDUAL,7,667,Good-Loan
+2009,Mar,15000.0,36,14.42,D,D2,kone,1,MORTGAGE,45996.0,Verified,Fully Paid,debt_consolidation,NJ,11.48,2,INDIVIDUAL,8,712,Good-Loan
+2009,Mar,12000.0,36,12.21,B,B5,kelly's restaurant,1,RENT,61000.0,Verified,Fully Paid,debt_consolidation,CA,17.7,3,INDIVIDUAL,14,762,Good-Loan
+2009,Mar,14000.0,36,12.21,B,B5,RNL Biostar  Inc,2,MORTGAGE,140000.0,Verified,Fully Paid,debt_consolidation,MD,0.32,0,INDIVIDUAL,5,747,Good-Loan
+2009,Mar,3000.0,36,13.79,C,C5,Team Ford,8,MORTGAGE,90000.0,Verified,Fully Paid,home_improvement,NV,17.63,0,INDIVIDUAL,13,682,Good-Loan
+2009,Feb,10000.0,36,13.79,C,C5,Lompoc Unified School District,9,RENT,70872.0,Verified,Fully Paid,debt_consolidation,CA,24.91,0,INDIVIDUAL,25,692,Good-Loan
+2009,Feb,6000.0,36,12.53,C,C1,Wy Department of Transportation,1,RENT,33996.0,Not Verified,Fully Paid,debt_consolidation,WY,24.71,1,INDIVIDUAL,11,702,Good-Loan
+2009,Mar,7200.0,36,18.53,F,F5,"Beyond Appraisal, Inc.",1,MORTGAGE,83000.0,Verified,Fully Paid,home_improvement,KS,4.41,0,INDIVIDUAL,17,672,Good-Loan
+2009,Feb,8000.0,36,12.84,C,C2,Unknown,5,RENT,81600.0,Verified,Fully Paid,small_business,IL,4.97,3,INDIVIDUAL,11,787,Good-Loan
+2009,Feb,12000.0,36,12.53,C,C1,CHRISTUS St. Vincent Regional Medical Center,7,RENT,53000.0,Verified,Fully Paid,debt_consolidation,NM,20.15,0,INDIVIDUAL,17,737,Good-Loan
+2009,Mar,14000.0,36,14.42,D,D2,US Air Force,10,RENT,69996.0,Not Verified,Fully Paid,debt_consolidation,MA,21.21,1,INDIVIDUAL,16,692,Good-Loan
+2009,Feb,1800.0,36,7.37,A,A1,Colorado Mountain College,1,OWN,29280.0,Not Verified,Fully Paid,car,CO,7.25,1,INDIVIDUAL,21,772,Good-Loan
+2009,Feb,8000.0,36,18.21,F,F4,Coldwell Banker,2,RENT,38376.0,Verified,Fully Paid,debt_consolidation,CA,10.76,0,INDIVIDUAL,6,672,Good-Loan
+2009,Feb,20000.0,36,15.05,D,D4,KTU+A,6,RENT,82042.0,Verified,Charged Off,debt_consolidation,CA,16.54,0,INDIVIDUAL,18,697,Defaulted-Loan
+2009,Feb,1000.0,36,7.68,A,A2,The Motley Fool,1,OTHER,85000.0,Not Verified,Fully Paid,credit_card,DC,2.82,0,INDIVIDUAL,18,767,Good-Loan
+2009,Feb,12000.0,36,16.95,E,E5,American Car Commercial,10,MORTGAGE,90000.0,Verified,Fully Paid,debt_consolidation,NH,16.53,3,INDIVIDUAL,4,667,Good-Loan
+2009,Feb,12000.0,36,13.16,C,C3,el paso county sheriffs office,10,MORTGAGE,78996.0,Not Verified,Fully Paid,other,TX,17.96,1,INDIVIDUAL,9,702,Good-Loan
+2009,Feb,4000.0,36,14.42,D,D2,Walgreen,2,RENT,17000.0,Verified,Fully Paid,moving,PA,8.26,0,INDIVIDUAL,4,697,Good-Loan
+2009,Feb,6000.0,36,12.21,B,B5,NISCAYAH,1,RENT,40000.0,Verified,Fully Paid,debt_consolidation,TX,20.43,3,INDIVIDUAL,20,707,Good-Loan
+2009,Feb,11000.0,36,14.74,D,D3,Towbin Infiniti,1,RENT,51996.0,Verified,Fully Paid,debt_consolidation,NV,10.87,1,INDIVIDUAL,8,677,Good-Loan
+2009,Mar,20000.0,36,12.53,C,C1,Unknown,1,MORTGAGE,53500.0,Verified,Fully Paid,other,WA,10.56,1,INDIVIDUAL,18,747,Good-Loan
+2009,Feb,3000.0,36,12.53,C,C1,IAC,2,RENT,30000.0,Not Verified,Fully Paid,other,AZ,17.8,1,INDIVIDUAL,10,697,Good-Loan
+2009,Feb,3200.0,36,12.21,B,B5,Sports Authority,7,OWN,20000.0,Verified,Fully Paid,debt_consolidation,AZ,5.04,1,INDIVIDUAL,15,722,Good-Loan
+2009,Feb,12300.0,36,13.47,C,C4,Mission Federal Credit Union,3,RENT,32004.0,Verified,Fully Paid,debt_consolidation,CA,22.08,0,INDIVIDUAL,15,697,Good-Loan
+2009,Feb,2525.0,36,12.21,B,B5,Video Monitoring Services,3,RENT,27000.0,Not Verified,Fully Paid,debt_consolidation,KY,10.0,1,INDIVIDUAL,8,707,Good-Loan
+2009,Feb,10775.0,36,15.37,D,D5,nassau inn,1,RENT,20796.0,Verified,Fully Paid,major_purchase,NJ,5.02,2,INDIVIDUAL,4,687,Good-Loan
+2009,Feb,16000.0,36,13.79,C,C5,Washington Development Industry Council,1,RENT,80000.0,Verified,Charged Off,credit_card,DC,10.95,0,INDIVIDUAL,10,702,Defaulted-Loan
+2009,Feb,7000.0,36,13.16,C,C3,Eyeblaster Inc,3,RENT,90000.0,Verified,Fully Paid,debt_consolidation,NJ,5.83,0,INDIVIDUAL,20,697,Good-Loan
+2009,Feb,2000.0,36,7.68,A,A2,Arkema,9,RENT,48000.0,Not Verified,Fully Paid,other,NY,13.6,3,INDIVIDUAL,11,752,Good-Loan
+2009,Feb,1800.0,36,14.11,D,D1,Self Employed - Counseling,5,RENT,45000.0,Not Verified,Fully Paid,small_business,CO,15.68,2,INDIVIDUAL,19,677,Good-Loan
+2009,Feb,5000.0,36,12.53,C,C1,JP Morgan Chase,10,OWN,66252.0,Not Verified,Fully Paid,credit_card,NJ,16.55,0,INDIVIDUAL,23,722,Good-Loan
+2009,Feb,20000.0,36,13.16,C,C3,Armenian Russian Television Network Inc.,7,RENT,76000.0,Verified,Charged Off,wedding,CA,16.56,0,INDIVIDUAL,9,712,Defaulted-Loan
+2009,Feb,6950.0,36,14.42,D,D2,UNH - IOL,1,RENT,25000.0,Verified,Charged Off,credit_card,NH,18.0,3,INDIVIDUAL,11,672,Defaulted-Loan
+2009,Feb,8000.0,36,15.68,E,E1,University of Utah,3,MORTGAGE,55074.0,Not Verified,Fully Paid,debt_consolidation,UT,22.18,1,INDIVIDUAL,31,667,Good-Loan
+2009,Feb,6000.0,36,12.21,B,B5,Daniel Ripley Catering,4,OTHER,21000.0,Not Verified,Fully Paid,credit_card,CA,11.77,0,INDIVIDUAL,42,712,Good-Loan
+2009,Feb,5000.0,36,16.32,E,E3,SAIC,10,RENT,144000.0,Not Verified,Fully Paid,car,VA,4.35,1,INDIVIDUAL,23,667,Good-Loan
+2009,Feb,14400.0,36,9.63,A,A5,united states postal service,10,MORTGAGE,63996.0,Verified,Fully Paid,debt_consolidation,OH,16.78,1,INDIVIDUAL,13,762,Good-Loan
+2009,Feb,2475.0,36,15.05,D,D4,US Military,10,RENT,72000.0,Not Verified,Charged Off,debt_consolidation,CA,19.87,2,INDIVIDUAL,13,672,Defaulted-Loan
+2009,Feb,17000.0,36,12.21,B,B5,Accurate Tool co.,10,MORTGAGE,80000.0,Verified,Fully Paid,other,PA,7.93,1,INDIVIDUAL,18,742,Good-Loan
+2009,Feb,5000.0,36,9.32,A,A4,State of Arizona,1,RENT,32000.0,Not Verified,Fully Paid,house,AZ,1.13,2,INDIVIDUAL,11,752,Good-Loan
+2009,Feb,8000.0,36,9.63,A,A5,Mike Levesque Music,6,MORTGAGE,125000.0,Verified,Fully Paid,major_purchase,NY,10.53,2,INDIVIDUAL,35,742,Good-Loan
+2009,Feb,7675.0,36,16.0,E,E2,Hovland Conservatory of Music,1,RENT,36000.0,Verified,Fully Paid,credit_card,MN,16.37,0,INDIVIDUAL,4,667,Good-Loan
+2009,Feb,13475.0,36,15.68,E,E1,Panther II Transportation,9,RENT,39481.0,Verified,Fully Paid,credit_card,OH,18.08,1,INDIVIDUAL,10,677,Good-Loan
+2009,Feb,12000.0,36,9.63,A,A5,village home improvements inc,4,RENT,43000.0,Verified,Charged Off,credit_card,NY,22.02,0,INDIVIDUAL,8,752,Defaulted-Loan
+2009,Feb,7000.0,36,9.32,A,A4,Tullett Prebon USA Inc,10,MORTGAGE,150000.0,Verified,Fully Paid,home_improvement,NJ,7.5,0,INDIVIDUAL,7,762,Good-Loan
+2009,Feb,7200.0,36,13.79,C,C5,Jefferds Corporation,2,MORTGAGE,39480.0,Verified,Fully Paid,debt_consolidation,WV,18.57,2,INDIVIDUAL,7,682,Good-Loan
+2009,Feb,6000.0,36,9.63,A,A5,national renewable energy laboratory,1,RENT,78000.0,Verified,Fully Paid,credit_card,CO,7.29,3,INDIVIDUAL,8,727,Good-Loan
+2009,Feb,20000.0,36,14.11,D,D1,Souza LLC,1,RENT,60000.0,Verified,Fully Paid,other,MD,22.24,0,INDIVIDUAL,12,702,Good-Loan
+2009,Feb,7200.0,36,15.05,D,D4,Reboot Networks,4,OTHER,75000.0,Verified,Fully Paid,debt_consolidation,MA,8.0,0,INDIVIDUAL,13,677,Good-Loan
+2009,Feb,5300.0,36,14.42,D,D2,BDO Seidman  LLP,5,RENT,50004.0,Verified,Fully Paid,educational,NY,15.24,0,INDIVIDUAL,8,672,Good-Loan
+2009,Feb,4000.0,36,13.79,C,C5,Ixtlan Inc.,2,RENT,40000.0,Verified,Fully Paid,debt_consolidation,CA,13.68,2,INDIVIDUAL,7,682,Good-Loan
+2009,Feb,10000.0,36,12.84,C,C2,Shell Designs,4,RENT,40000.0,Verified,Fully Paid,debt_consolidation,MA,19.44,0,INDIVIDUAL,13,727,Good-Loan
+2009,Feb,15000.0,36,16.63,E,E4,BlueCrossBlueShield,2,MORTGAGE,77544.0,Verified,Fully Paid,debt_consolidation,MN,20.15,3,INDIVIDUAL,11,692,Good-Loan
+2009,Feb,16800.0,36,13.47,C,C4,Department of Defense (DOD),4,MORTGAGE,75000.0,Verified,Fully Paid,credit_card,MI,13.63,1,INDIVIDUAL,18,712,Good-Loan
+2009,Feb,15000.0,36,13.47,C,C4,Bonillas Elementary,10,MORTGAGE,62004.0,Verified,Fully Paid,home_improvement,AZ,7.61,1,INDIVIDUAL,22,702,Good-Loan
+2009,Feb,7700.0,36,9.63,A,A5,"B.B. Chemicals, Inc.",1,MORTGAGE,80000.0,Verified,Fully Paid,credit_card,TX,24.5,1,INDIVIDUAL,26,737,Good-Loan
+2009,Feb,20000.0,36,13.16,C,C3,"Oberon Associates, A Stanley Company",3,MORTGAGE,115000.0,Verified,Fully Paid,debt_consolidation,AZ,9.52,0,INDIVIDUAL,23,717,Good-Loan
+2009,Feb,7000.0,36,11.89,B,B4,ALABAMA JACK CO  INC,10,MORTGAGE,54072.0,Verified,Fully Paid,other,AL,17.95,1,INDIVIDUAL,14,712,Good-Loan
+2009,Feb,5000.0,36,13.47,C,C4,United Health Group,1,MORTGAGE,65004.0,Not Verified,Fully Paid,wedding,TX,18.92,1,INDIVIDUAL,16,687,Good-Loan
+2009,Feb,5000.0,36,13.47,C,C4,General Dynamics,1,MORTGAGE,82000.0,Verified,Fully Paid,credit_card,MA,15.2,0,INDIVIDUAL,15,682,Good-Loan
+2009,Feb,8500.0,36,12.53,C,C1,quality calibration service,2,RENT,40000.0,Verified,Fully Paid,credit_card,WI,4.47,3,INDIVIDUAL,14,717,Good-Loan
+2009,Feb,2400.0,36,12.53,C,C1,Brinker International,6,RENT,21996.0,Not Verified,Fully Paid,other,CA,23.73,3,INDIVIDUAL,5,707,Good-Loan
+2009,Feb,5500.0,36,13.47,C,C4,OnAssignment Lab Support- Sanofi Pasteur,1,RENT,33996.0,Verified,Fully Paid,educational,PA,15.64,1,INDIVIDUAL,9,682,Good-Loan
+2009,Feb,1500.0,36,12.84,C,C2,Verizon Business,1,MORTGAGE,90000.0,Verified,Fully Paid,educational,CO,17.32,1,INDIVIDUAL,20,692,Good-Loan
+2009,Feb,9000.0,36,8.0,A,A3,David H Lightkep,9,RENT,51840.0,Not Verified,Fully Paid,major_purchase,PA,8.4,1,INDIVIDUAL,11,792,Good-Loan
+2009,Feb,1950.0,36,7.37,A,A1,Kanawha County Schools,4,MORTGAGE,38000.0,Not Verified,Fully Paid,other,WV,14.49,0,INDIVIDUAL,14,777,Good-Loan
+2009,Feb,7500.0,36,12.84,C,C2,Andrew Mitchell Holdings,7,RENT,55000.0,Verified,Fully Paid,small_business,NY,8.92,1,INDIVIDUAL,7,732,Good-Loan
+2009,Feb,5000.0,36,13.79,C,C5,Whiting Turner Contracting Company,1,OWN,85000.0,Verified,Fully Paid,educational,NY,0.42,1,INDIVIDUAL,3,737,Good-Loan
+2009,Feb,5000.0,36,7.68,A,A2,Apple,1,MORTGAGE,113000.0,Verified,Fully Paid,credit_card,CA,1.07,0,INDIVIDUAL,9,787,Good-Loan
+2009,Feb,9500.0,36,9.32,A,A4,Children's Hospital Phila,10,MORTGAGE,105000.0,Not Verified,Fully Paid,home_improvement,PA,13.93,2,INDIVIDUAL,14,762,Good-Loan
+2009,Feb,6000.0,36,9.32,A,A4,Smallwood Sign Company,10,MORTGAGE,58000.0,Verified,Fully Paid,credit_card,FL,3.41,3,INDIVIDUAL,19,737,Good-Loan
+2009,Feb,8000.0,36,14.42,D,D2,Pioneer Nutritional,6,RENT,35570.0,Verified,Fully Paid,debt_consolidation,MA,24.63,2,INDIVIDUAL,16,677,Good-Loan
+2009,Feb,12000.0,36,12.21,B,B5,M-NCPPC,10,OWN,45000.0,Not Verified,Fully Paid,other,MD,14.27,0,INDIVIDUAL,22,747,Good-Loan
+2009,Feb,5000.0,36,12.53,C,C1,Primary Color Inc.,4,RENT,76500.0,Verified,Fully Paid,debt_consolidation,CA,23.29,0,INDIVIDUAL,13,712,Good-Loan
+2009,Feb,6000.0,36,9.63,A,A5,Deloitte & Touche,3,MORTGAGE,56700.0,Verified,Fully Paid,house,MO,16.78,1,INDIVIDUAL,8,722,Good-Loan
+2009,Feb,15000.0,36,15.37,D,D5,Self Employed,1,MORTGAGE,120000.0,Verified,Fully Paid,debt_consolidation,KY,12.72,1,INDIVIDUAL,9,687,Good-Loan
+2009,Feb,10000.0,36,13.79,C,C5,Platts Motors Inc,4,RENT,32000.0,Verified,Fully Paid,debt_consolidation,PA,20.29,0,INDIVIDUAL,18,692,Good-Loan
+2009,Feb,6150.0,36,12.21,B,B5,UPMC,1,RENT,29400.0,Not Verified,Fully Paid,credit_card,PA,22.2,1,INDIVIDUAL,7,707,Good-Loan
+2009,Feb,4700.0,36,9.63,A,A5,Advantage SCI,1,RENT,86000.0,Verified,Fully Paid,debt_consolidation,VA,18.54,1,INDIVIDUAL,11,732,Good-Loan
+2009,Feb,5500.0,36,14.74,D,D3,UPMC,4,RENT,30000.0,Not Verified,Fully Paid,debt_consolidation,PA,16.04,0,INDIVIDUAL,5,677,Good-Loan
+2009,Feb,11500.0,36,12.21,B,B5,Knobbe Martens,4,RENT,73000.0,Verified,Fully Paid,other,CA,1.05,0,INDIVIDUAL,10,737,Good-Loan
+2009,Feb,16000.0,36,16.32,E,E3,The Loomis Corp,7,OTHER,60000.0,Verified,Charged Off,credit_card,TX,21.46,2,INDIVIDUAL,20,667,Defaulted-Loan
+2009,Feb,7200.0,36,9.63,A,A5,United Parcel Service,10,RENT,76668.0,Verified,Fully Paid,credit_card,VA,11.14,1,INDIVIDUAL,10,722,Good-Loan
+2009,Mar,15000.0,36,12.84,C,C2,Jaffa Bakery Inc.,10,RENT,45000.0,Verified,Fully Paid,debt_consolidation,IL,6.59,3,INDIVIDUAL,6,717,Good-Loan
+2009,Feb,5000.0,36,14.42,D,D2,Battelle,7,RENT,30000.0,Verified,Fully Paid,debt_consolidation,OH,11.16,1,INDIVIDUAL,12,672,Good-Loan
+2009,Feb,10000.0,36,14.11,D,D1,LearningMate Solutions,1,RENT,60000.0,Not Verified,Fully Paid,debt_consolidation,CO,18.92,1,INDIVIDUAL,7,697,Good-Loan
+2009,Feb,12000.0,36,17.58,F,F2,Promenet inc,2,RENT,65000.0,Verified,Fully Paid,debt_consolidation,NY,8.62,3,INDIVIDUAL,19,667,Good-Loan
+2009,Feb,3500.0,36,9.32,A,A4,Allstate Corp.,1,RENT,53000.0,Verified,Fully Paid,other,CO,15.42,0,INDIVIDUAL,7,727,Good-Loan
+2009,Feb,20000.0,36,16.95,E,E5,Smith's food and Drug,3,MORTGAGE,115000.0,Verified,Fully Paid,debt_consolidation,NV,15.74,0,INDIVIDUAL,15,677,Good-Loan
+2009,Feb,15000.0,36,9.63,A,A5,Teradata Corp,8,RENT,117000.0,Verified,Fully Paid,medical,CA,4.24,0,INDIVIDUAL,13,797,Good-Loan
+2009,Feb,6400.0,36,16.0,E,E2,UCSD,1,RENT,30000.0,Verified,Fully Paid,educational,CA,5.76,2,INDIVIDUAL,4,667,Good-Loan
+2009,Feb,17500.0,36,12.84,C,C2,Starwood Hotels & Resorts,4,RENT,50000.0,Verified,Fully Paid,debt_consolidation,CA,14.21,0,INDIVIDUAL,10,717,Good-Loan
+2009,Feb,6000.0,36,7.68,A,A2,Analog Devices,10,MORTGAGE,109000.0,Verified,Fully Paid,home_improvement,MA,14.12,2,INDIVIDUAL,22,777,Good-Loan
+2009,Feb,6000.0,36,7.68,A,A2,"Chesapeake Acoustic Solutions, Inc.",10,MORTGAGE,60500.0,Not Verified,Fully Paid,home_improvement,MD,11.58,0,INDIVIDUAL,11,787,Good-Loan
+2009,Feb,2200.0,36,9.63,A,A5,Disabled (Social Security Disability),9,RENT,9732.0,Not Verified,Fully Paid,debt_consolidation,IL,18.62,0,INDIVIDUAL,15,717,Good-Loan
+2009,Feb,5275.0,36,12.53,C,C1,Columbus Metropolitan Club,1,RENT,50000.0,Verified,Fully Paid,credit_card,OH,18.62,2,INDIVIDUAL,21,702,Good-Loan
+2009,Feb,1000.0,36,9.32,A,A4,anheuser busch,10,MORTGAGE,66996.0,Verified,Fully Paid,debt_consolidation,MA,21.19,2,INDIVIDUAL,16,727,Good-Loan
+2009,Feb,14000.0,36,14.42,D,D2,Consultant Engineer,2,RENT,53400.0,Verified,Charged Off,credit_card,MN,17.0,0,INDIVIDUAL,5,687,Defaulted-Loan
+2009,Feb,12000.0,36,12.21,B,B5,Marietta Memorial Hospital,1,MORTGAGE,61776.0,Verified,Fully Paid,debt_consolidation,OH,20.59,1,INDIVIDUAL,5,732,Good-Loan
+2009,Feb,5500.0,36,8.0,A,A3,International Education,2,RENT,30000.0,Not Verified,Fully Paid,car,MO,0.8,0,INDIVIDUAL,11,802,Good-Loan
+2009,Feb,9000.0,36,15.05,D,D4,WebDivisor.com,7,RENT,54000.0,Not Verified,Charged Off,credit_card,CA,23.8,0,INDIVIDUAL,10,682,Defaulted-Loan
+2009,Feb,8500.0,36,15.05,D,D4,Unknown,1,RENT,20000.0,Not Verified,Fully Paid,debt_consolidation,CO,12.0,1,INDIVIDUAL,7,667,Good-Loan
+2009,Feb,20000.0,36,12.21,B,B5,State of Colorado Dept of Corrections,4,MORTGAGE,70834.0,Verified,Fully Paid,medical,CO,15.69,0,INDIVIDUAL,15,802,Good-Loan
+2009,Feb,2000.0,36,13.16,C,C3,los angeles job corps/ywca,10,RENT,26500.0,Verified,Fully Paid,other,CA,14.54,2,INDIVIDUAL,8,717,Good-Loan
+2009,Feb,10000.0,36,13.47,C,C4,New York Shipping,10,RENT,65000.0,Not Verified,Fully Paid,credit_card,NJ,8.51,1,INDIVIDUAL,13,697,Good-Loan
+2009,Feb,7500.0,36,12.21,B,B5,Rooms To Go,10,RENT,57996.0,Verified,Fully Paid,small_business,GA,1.41,3,INDIVIDUAL,15,777,Good-Loan
+2009,Feb,5000.0,36,16.0,E,E2,Unknown,1,RENT,47998.0,Verified,Fully Paid,car,CA,3.73,3,INDIVIDUAL,5,672,Good-Loan
+2009,Feb,8500.0,36,15.05,D,D4,American General,4,RENT,36000.0,Not Verified,Charged Off,debt_consolidation,CA,18.57,0,INDIVIDUAL,5,667,Defaulted-Loan
+2009,Feb,7800.0,36,11.89,B,B4,Entar.com,5,OTHER,48000.0,Not Verified,Charged Off,credit_card,CA,9.63,1,INDIVIDUAL,14,742,Defaulted-Loan
+2009,Feb,4000.0,36,15.05,D,D4,Caterpillar,2,MORTGAGE,24396.0,Not Verified,Fully Paid,medical,SC,22.48,0,INDIVIDUAL,19,662,Good-Loan
+2009,Feb,7200.0,36,9.63,A,A5,Palm Beach Community College,4,RENT,40000.0,Not Verified,Fully Paid,credit_card,FL,20.07,0,INDIVIDUAL,29,747,Good-Loan
+2009,Feb,10000.0,36,8.0,A,A3,City of Marysville,10,MORTGAGE,55000.0,Not Verified,Charged Off,other,CA,9.6,0,INDIVIDUAL,16,802,Defaulted-Loan
+2009,Feb,3000.0,36,11.89,B,B4,coastal healthcare,2,RENT,24996.0,Not Verified,Charged Off,debt_consolidation,SC,19.06,0,INDIVIDUAL,24,707,Defaulted-Loan
+2009,Feb,7500.0,36,15.05,D,D4,Philip R. Farthing  P.C.,2,RENT,34404.0,Verified,Fully Paid,debt_consolidation,VA,17.51,2,INDIVIDUAL,10,692,Good-Loan
+2009,Feb,9000.0,36,8.0,A,A3,Rush University Medical Center,1,MORTGAGE,130000.0,Verified,Fully Paid,credit_card,IL,17.15,0,INDIVIDUAL,20,782,Good-Loan
+2009,Feb,15000.0,36,9.63,A,A5,Retired,1,MORTGAGE,57552.0,Verified,Fully Paid,other,SC,16.97,0,INDIVIDUAL,37,797,Good-Loan
+2009,Feb,7200.0,36,14.11,D,D1,Daniel Webster College,6,RENT,35004.0,Not Verified,Fully Paid,debt_consolidation,NH,6.99,0,INDIVIDUAL,8,677,Good-Loan
+2009,Feb,13000.0,36,13.47,C,C4,Eastridge Infotech,1,RENT,51996.0,Verified,Charged Off,debt_consolidation,CA,12.44,0,INDIVIDUAL,8,707,Defaulted-Loan
+2009,Feb,6500.0,36,11.89,B,B4,Center for Clean Air Policy,1,RENT,40000.0,Verified,Fully Paid,debt_consolidation,DC,23.88,1,INDIVIDUAL,7,717,Good-Loan
+2009,Feb,15000.0,36,14.42,D,D2,KPMG LLP,2,RENT,57500.0,Verified,Fully Paid,wedding,MD,21.54,0,INDIVIDUAL,7,682,Good-Loan
+2009,Feb,7200.0,36,9.63,A,A5,Menchies Group,1,RENT,45000.0,Verified,Fully Paid,debt_consolidation,CA,6.8,1,INDIVIDUAL,8,722,Good-Loan
+2009,Feb,6400.0,36,13.47,C,C4,Creative Space,2,RENT,48000.0,Verified,Fully Paid,debt_consolidation,CA,20.32,1,INDIVIDUAL,10,687,Good-Loan
+2009,Feb,8000.0,36,12.84,C,C2,United States Army,10,MORTGAGE,155867.0,Verified,Fully Paid,major_purchase,TX,8.21,3,INDIVIDUAL,17,707,Good-Loan
+2009,Feb,11200.0,36,13.79,C,C5,Hoffman Animal Hospital,10,MORTGAGE,72800.0,Verified,Fully Paid,debt_consolidation,RI,18.82,1,INDIVIDUAL,21,692,Good-Loan
+2009,Feb,15000.0,36,12.53,C,C1,Silver Editions,9,MORTGAGE,141000.0,Verified,Fully Paid,home_improvement,NJ,3.03,0,INDIVIDUAL,17,732,Good-Loan
+2009,Feb,15000.0,36,15.05,D,D4,Massachusetts General Hospital,10,MORTGAGE,81800.0,Verified,Fully Paid,debt_consolidation,MA,11.71,0,INDIVIDUAL,10,692,Good-Loan
+2009,Feb,10000.0,36,14.74,D,D3,Joseph Jingoli  and  Son  Inc.,2,MORTGAGE,73524.0,Verified,Fully Paid,debt_consolidation,PA,7.59,2,INDIVIDUAL,13,687,Good-Loan
+2009,Feb,8000.0,36,12.53,C,C1,NYU Medical Center,1,RENT,47004.0,Verified,Fully Paid,credit_card,NY,9.32,1,INDIVIDUAL,13,712,Good-Loan
+2009,Feb,12000.0,36,13.79,C,C5,Mattleman Weinroth  and  Miller,6,RENT,63996.0,Verified,Fully Paid,debt_consolidation,NJ,24.7,0,INDIVIDUAL,12,687,Good-Loan
+2009,Feb,13000.0,36,16.32,E,E3,"Inforonics, LLC",2,RENT,50500.0,Verified,Fully Paid,debt_consolidation,NH,17.23,1,INDIVIDUAL,4,667,Good-Loan
+2009,Feb,10000.0,36,11.89,B,B4,Judical Corner,6,RENT,68496.0,Verified,Charged Off,home_improvement,UT,18.83,2,INDIVIDUAL,12,727,Defaulted-Loan
+2009,Feb,11050.0,36,14.74,D,D3,BMW of Mountain View,1,RENT,63000.0,Not Verified,Fully Paid,debt_consolidation,CA,15.47,1,INDIVIDUAL,15,677,Good-Loan
+2009,Feb,5000.0,36,16.95,E,E5,perlmart shoprite,5,MORTGAGE,110000.0,Verified,Fully Paid,other,NJ,14.95,0,INDIVIDUAL,20,677,Good-Loan
+2009,Feb,3500.0,36,13.16,C,C3,Executive Credit,8,RENT,48000.0,Verified,Fully Paid,other,TX,19.6,1,INDIVIDUAL,8,687,Good-Loan
+2009,Feb,5000.0,36,11.89,B,B4,Challenge Unlimited Inc. at Ironstone Farm,1,RENT,39996.0,Verified,Fully Paid,other,MA,7.14,0,INDIVIDUAL,28,737,Good-Loan
+2009,Feb,12000.0,36,9.63,A,A5,"Access Nurses, Inc.",1,RENT,85000.0,Verified,Fully Paid,small_business,CA,22.11,0,INDIVIDUAL,16,752,Good-Loan
+2009,Feb,4500.0,36,13.16,C,C3,Unknown,10,OWN,12000.0,Verified,Fully Paid,home_improvement,CA,11.5,5,INDIVIDUAL,13,742,Good-Loan
+2009,Feb,6000.0,36,8.0,A,A3,Wild Iris Organics,5,RENT,25000.0,Verified,Fully Paid,small_business,CA,12.62,3,INDIVIDUAL,15,762,Good-Loan
+2009,Feb,15000.0,36,16.63,E,E4,"Gail. H. Goheen, P.C.",8,MORTGAGE,59950.0,Verified,Charged Off,debt_consolidation,MT,11.15,1,INDIVIDUAL,12,667,Defaulted-Loan
+2009,Feb,15000.0,36,13.47,C,C4,JPMorgan Chase,2,MORTGAGE,139008.0,Verified,Fully Paid,wedding,NY,6.76,3,INDIVIDUAL,32,707,Good-Loan
+2009,Feb,11650.0,36,13.47,C,C4,Ogilvy,1,RENT,57996.0,Not Verified,Fully Paid,debt_consolidation,NJ,13.28,1,INDIVIDUAL,9,692,Good-Loan
+2009,Feb,15000.0,36,13.47,C,C4,FOX News Channel,10,OWN,96000.0,Verified,Fully Paid,other,NJ,13.44,3,INDIVIDUAL,7,707,Good-Loan
+2009,Feb,3000.0,36,17.9,F,F3,Harrington Industrial Plastics LLC,8,MORTGAGE,145000.0,Verified,Fully Paid,educational,CA,19.97,0,INDIVIDUAL,29,672,Good-Loan
+2009,Feb,12000.0,36,11.89,B,B4,Bankrate.com,3,RENT,40000.0,Not Verified,Fully Paid,medical,FL,21.36,1,INDIVIDUAL,14,732,Good-Loan
+2009,Feb,3350.0,36,9.63,A,A5,Lawrence Berkeley National Labs,4,RENT,77300.0,Not Verified,Fully Paid,educational,CA,7.3,0,INDIVIDUAL,10,717,Good-Loan
+2009,Feb,10000.0,36,14.11,D,D1,First Source,3,OTHER,54996.0,Verified,Fully Paid,debt_consolidation,CO,16.52,1,INDIVIDUAL,22,682,Good-Loan
+2009,Feb,3000.0,36,12.21,B,B5,RCM Inc.,10,RENT,25596.0,Not Verified,Fully Paid,other,NY,8.25,1,INDIVIDUAL,5,767,Good-Loan
+2009,Feb,15000.0,36,14.42,D,D2,Dermalogica,1,RENT,93000.0,Verified,Fully Paid,debt_consolidation,NJ,15.81,1,INDIVIDUAL,20,692,Good-Loan
+2009,Feb,10000.0,36,9.63,A,A5,BR+A Consulting Engineers,2,RENT,70000.0,Verified,Fully Paid,major_purchase,NY,4.08,0,INDIVIDUAL,8,762,Good-Loan
+2009,Feb,4800.0,36,16.95,E,E5,Pita Pit,3,RENT,15000.0,Not Verified,Charged Off,educational,AZ,9.36,1,INDIVIDUAL,4,662,Defaulted-Loan
+2009,Feb,6200.0,36,14.11,D,D1,Dept of Veterans Affairs,2,RENT,26000.0,Verified,Fully Paid,debt_consolidation,CA,12.97,1,INDIVIDUAL,10,677,Good-Loan
+2009,Feb,15000.0,36,14.74,D,D3,Help/Systems,1,MORTGAGE,87000.0,Verified,Fully Paid,debt_consolidation,MN,23.49,1,INDIVIDUAL,13,682,Good-Loan
+2009,Feb,5500.0,36,11.89,B,B4,MicahTek Inc,6,RENT,40000.0,Verified,Fully Paid,medical,OK,19.54,0,INDIVIDUAL,23,722,Good-Loan
+2009,Feb,14000.0,36,14.42,D,D2,Porter Rogers Dahlman & Gordon,1,MORTGAGE,125000.0,Verified,Fully Paid,debt_consolidation,TX,13.27,2,INDIVIDUAL,24,682,Good-Loan
+2009,Feb,5500.0,36,13.16,C,C3,Marion County Sheriff,1,MORTGAGE,24900.0,Verified,Charged Off,home_improvement,FL,23.52,2,INDIVIDUAL,8,692,Defaulted-Loan
+2009,Feb,14400.0,36,15.05,D,D4,Constant Contact,1,RENT,42500.0,Verified,Fully Paid,credit_card,MA,7.0,0,INDIVIDUAL,13,677,Good-Loan
+2009,Feb,15000.0,36,11.89,B,B4,Adventist Health System,2,MORTGAGE,156000.0,Verified,Fully Paid,credit_card,FL,5.2,1,INDIVIDUAL,9,752,Good-Loan
+2009,Feb,2500.0,36,11.89,B,B4,Color Quick Printing,1,RENT,21996.0,Not Verified,Fully Paid,credit_card,FL,17.13,1,INDIVIDUAL,9,707,Good-Loan
+2009,Feb,4000.0,36,11.89,B,B4,Lowes,2,RENT,29536.0,Not Verified,Fully Paid,debt_consolidation,MS,5.81,0,INDIVIDUAL,6,757,Good-Loan
+2009,Feb,6000.0,36,7.68,A,A2,US Air Force,9,MORTGAGE,91200.0,Not Verified,Fully Paid,other,IL,1.29,0,INDIVIDUAL,12,777,Good-Loan
+2009,Feb,10000.0,36,9.32,A,A4,Springfield Hospital,2,MORTGAGE,48000.0,Verified,Fully Paid,credit_card,NH,20.07,0,INDIVIDUAL,17,752,Good-Loan
+2009,Feb,6500.0,36,11.89,B,B4,super Foodtown,6,RENT,21000.0,Verified,Charged Off,debt_consolidation,NJ,8.57,1,INDIVIDUAL,9,722,Defaulted-Loan
+2009,Feb,6000.0,36,8.0,A,A3,Ernst & Young LLP,1,RENT,44000.0,Verified,Fully Paid,credit_card,NY,16.96,0,INDIVIDUAL,13,757,Good-Loan
+2009,Feb,4500.0,36,12.84,C,C2,Apache Sales Inc.,10,RENT,40000.0,Verified,Fully Paid,major_purchase,NM,1.95,2,INDIVIDUAL,13,722,Good-Loan
+2009,Feb,10000.0,36,12.84,C,C2,EmblemHealth,3,MORTGAGE,50000.0,Verified,Fully Paid,debt_consolidation,NY,17.26,3,INDIVIDUAL,16,707,Good-Loan
+2009,Feb,5375.0,36,13.47,C,C4,St. Francis High School,1,RENT,26000.0,Verified,Fully Paid,credit_card,KY,23.68,0,INDIVIDUAL,7,687,Good-Loan
+2009,Feb,7500.0,36,13.47,C,C4,JoyFull Ministries,1,RENT,26300.0,Not Verified,Charged Off,small_business,VA,12.68,0,INDIVIDUAL,11,697,Defaulted-Loan
+2009,Feb,15000.0,36,12.84,C,C2,Electric Boat,6,MORTGAGE,70400.0,Not Verified,Fully Paid,educational,CT,11.42,1,INDIVIDUAL,14,722,Good-Loan
+2009,Feb,2200.0,36,9.63,A,A5,united food service,2,RENT,42000.0,Verified,Fully Paid,other,CO,21.77,0,INDIVIDUAL,9,722,Good-Loan
+2009,Feb,15000.0,36,9.63,A,A5,Fidelity Investments,9,MORTGAGE,110000.0,Verified,Fully Paid,small_business,KY,5.65,1,INDIVIDUAL,15,777,Good-Loan
+2009,Feb,14400.0,36,16.0,E,E2,Llano Utility Services,2,OWN,34000.0,Verified,Fully Paid,debt_consolidation,TX,14.86,0,INDIVIDUAL,8,667,Good-Loan
+2009,Feb,8000.0,36,16.95,E,E5,Bank of America Corp.,2,MORTGAGE,249000.0,Verified,Fully Paid,other,MD,8.46,3,INDIVIDUAL,14,662,Good-Loan
+2009,Feb,6000.0,36,14.42,D,D2,Anixter Fasteners,2,RENT,21600.0,Verified,Fully Paid,debt_consolidation,PA,18.39,1,INDIVIDUAL,6,677,Good-Loan
+2009,Feb,6000.0,36,14.11,D,D1,Slocum Orthopedics P.C.,1,RENT,35004.0,Verified,Fully Paid,debt_consolidation,OR,16.76,0,INDIVIDUAL,10,677,Good-Loan
+2009,Feb,1600.0,36,9.32,A,A4,san diego city School district,2,RENT,31000.0,Not Verified,Fully Paid,other,CA,19.21,3,INDIVIDUAL,13,727,Good-Loan
+2009,Feb,12000.0,36,13.47,C,C4,Cohen Pollock Merlin  and  Small  P.C.,8,RENT,57780.0,Verified,Charged Off,debt_consolidation,GA,17.74,0,INDIVIDUAL,17,697,Defaulted-Loan
+2009,Feb,10000.0,36,9.63,A,A5,Trademark Imports,4,RENT,78996.0,Verified,Charged Off,debt_consolidation,NJ,19.9,4,INDIVIDUAL,9,752,Defaulted-Loan
+2009,Feb,8875.0,36,15.68,E,E1,Jakes Fireworks,1,MORTGAGE,29124.0,Verified,Fully Paid,debt_consolidation,KS,19.53,0,INDIVIDUAL,11,692,Good-Loan
+2009,Feb,10000.0,36,8.0,A,A3,Department of Defense (DOD),8,MORTGAGE,84000.0,Verified,Fully Paid,small_business,OH,2.63,0,INDIVIDUAL,12,802,Good-Loan
+2009,Feb,7000.0,36,8.0,A,A3,McQuade's Pharmacy,9,MORTGAGE,130000.0,Not Verified,Fully Paid,small_business,RI,3.78,1,INDIVIDUAL,14,762,Good-Loan
+2009,Feb,6000.0,36,9.63,A,A5,Department of Defense (DOD),4,MORTGAGE,50000.0,Not Verified,Fully Paid,debt_consolidation,WA,9.1,2,INDIVIDUAL,10,732,Good-Loan
+2009,Feb,6800.0,36,12.84,C,C2,Twin River Casino,1,MORTGAGE,53000.0,Verified,Fully Paid,debt_consolidation,MA,11.59,1,INDIVIDUAL,6,707,Good-Loan
+2009,Feb,5000.0,36,15.37,D,D5,Washington Mutual,3,RENT,45000.0,Verified,Fully Paid,small_business,FL,7.55,0,INDIVIDUAL,4,692,Good-Loan
+2009,Feb,1200.0,36,11.89,B,B4,New Spirit Spa,1,RENT,18000.0,Not Verified,Fully Paid,educational,CO,14.07,0,INDIVIDUAL,16,787,Good-Loan
+2009,Feb,15000.0,36,13.79,C,C5,Hilton Hotels,4,RENT,45000.0,Verified,Fully Paid,home_improvement,NY,6.72,0,INDIVIDUAL,11,697,Good-Loan
+2009,Feb,6000.0,36,12.53,C,C1,Kaplan,2,OWN,24000.0,Not Verified,Fully Paid,educational,IL,11.85,1,INDIVIDUAL,13,702,Good-Loan
+2009,Feb,5400.0,36,13.47,C,C4,Dick's Sporting Goods,4,RENT,28584.0,Verified,Fully Paid,debt_consolidation,VA,18.18,0,INDIVIDUAL,8,687,Good-Loan
+2009,Feb,15000.0,36,15.05,D,D4,Call Center Services,4,MORTGAGE,80000.0,Verified,Charged Off,small_business,DE,11.38,2,INDIVIDUAL,12,677,Defaulted-Loan
+2009,Feb,5000.0,36,9.63,A,A5,State of Maryland,8,MORTGAGE,34000.0,Not Verified,Fully Paid,small_business,MD,0.39,4,INDIVIDUAL,10,747,Good-Loan
+2009,Feb,15000.0,36,16.0,E,E2,Trinity (rusty mug inc) formerly JR,5,MORTGAGE,62000.0,Not Verified,Fully Paid,debt_consolidation,NY,7.39,3,INDIVIDUAL,22,672,Good-Loan
+2009,Feb,4500.0,36,12.53,C,C1,"Chick Piano Co., Inc.",7,MORTGAGE,64500.0,Verified,Fully Paid,small_business,GA,22.47,0,INDIVIDUAL,27,717,Good-Loan
+2009,Feb,10000.0,36,13.79,C,C5,xotic deliveries,6,RENT,60000.0,Not Verified,Charged Off,debt_consolidation,MA,15.14,1,INDIVIDUAL,14,697,Defaulted-Loan
+2009,Feb,15000.0,36,15.68,E,E1,JPMorgan Chase & Co.,3,RENT,55700.0,Verified,Fully Paid,debt_consolidation,TX,22.3,1,INDIVIDUAL,9,677,Good-Loan
+2009,Feb,6400.0,36,14.11,D,D1,Commonwealth of Massachusetts,4,OWN,45000.0,Not Verified,Fully Paid,debt_consolidation,MA,16.05,0,INDIVIDUAL,9,692,Good-Loan
+2009,Feb,2000.0,36,15.37,D,D5,Conner Strong,10,RENT,63996.0,Verified,Fully Paid,debt_consolidation,PA,15.45,1,INDIVIDUAL,12,667,Good-Loan
+2009,Feb,15000.0,36,9.63,A,A5,Bed Bath & Beyond,8,RENT,190000.0,Verified,Fully Paid,debt_consolidation,NY,9.64,1,INDIVIDUAL,24,772,Good-Loan
+2009,Feb,12000.0,36,15.68,E,E1,Classic Litho,3,RENT,125004.0,Verified,Fully Paid,credit_card,CA,10.54,0,INDIVIDUAL,14,667,Good-Loan
+2009,Feb,10000.0,36,15.05,D,D4,Walgreen Company,3,RENT,68000.0,Not Verified,Fully Paid,credit_card,IL,13.96,1,INDIVIDUAL,7,672,Good-Loan
+2009,Feb,15000.0,36,14.42,D,D2,State of Delaware,10,MORTGAGE,105000.0,Verified,Fully Paid,credit_card,DE,15.61,1,INDIVIDUAL,6,697,Good-Loan
+2009,Feb,7200.0,36,12.84,C,C2,Aeropostale,1,RENT,32004.0,Not Verified,Fully Paid,debt_consolidation,AZ,19.16,0,INDIVIDUAL,6,702,Good-Loan
+2009,Feb,11400.0,36,12.53,C,C1,Federal Bureau of Prisons,1,MORTGAGE,50000.0,Verified,Fully Paid,credit_card,CO,14.5,0,INDIVIDUAL,13,722,Good-Loan
+2009,Feb,4000.0,36,13.47,C,C4,Halfaker and Associates,1,RENT,60000.0,Verified,Charged Off,debt_consolidation,MD,17.86,0,INDIVIDUAL,11,682,Defaulted-Loan
+2009,Feb,10000.0,36,9.63,A,A5,Univar USA Inc,1,MORTGAGE,29760.0,Verified,Fully Paid,credit_card,MO,7.38,0,INDIVIDUAL,14,777,Good-Loan
+2009,Feb,6000.0,36,13.47,C,C4,Texas Picnic Company,6,RENT,21996.0,Verified,Fully Paid,debt_consolidation,TX,7.31,2,INDIVIDUAL,11,712,Good-Loan
+2009,Feb,15000.0,36,13.79,C,C5,State of Colorado - Dept of Labor & Employment,10,MORTGAGE,47380.0,Verified,Fully Paid,debt_consolidation,CO,9.17,0,INDIVIDUAL,25,712,Good-Loan
+2009,Feb,3500.0,36,7.37,A,A1,"Insurance Services Office, Inc.",9,RENT,65000.0,Verified,Fully Paid,debt_consolidation,NJ,7.68,0,INDIVIDUAL,15,782,Good-Loan
+2009,Feb,15000.0,36,9.63,A,A5,bioLINIA,3,RENT,120000.0,Verified,Fully Paid,home_improvement,CA,2.93,0,INDIVIDUAL,13,802,Good-Loan
+2009,Feb,15000.0,36,15.68,E,E1,Greenleaf Auto Recyclers,4,MORTGAGE,85008.0,Verified,Charged Off,debt_consolidation,FL,22.16,1,INDIVIDUAL,9,672,Defaulted-Loan
+2009,Feb,18000.0,36,12.53,C,C1,Grosso Materials Inc.,10,OTHER,72204.0,Verified,Fully Paid,debt_consolidation,NY,11.37,2,INDIVIDUAL,14,732,Good-Loan
+2009,Feb,15000.0,36,11.89,B,B4,Premier Retail Networks,2,RENT,70000.0,Verified,Fully Paid,debt_consolidation,CA,6.19,0,INDIVIDUAL,8,747,Good-Loan
+2009,Feb,1500.0,36,11.89,B,B4,Gray Line of Seattle,1,RENT,27996.0,Not Verified,Fully Paid,other,WA,5.62,2,INDIVIDUAL,5,752,Good-Loan
+2009,Feb,19000.0,36,13.47,C,C4,National Education Association,10,MORTGAGE,123000.0,Not Verified,Fully Paid,debt_consolidation,VA,4.64,1,INDIVIDUAL,16,762,Good-Loan
+2009,Feb,5000.0,36,12.84,C,C2,Maximus,2,RENT,36225.0,Not Verified,Fully Paid,debt_consolidation,TX,11.59,0,INDIVIDUAL,5,707,Good-Loan
+2009,Feb,4500.0,36,16.95,E,E5,Spherion Managed Services,2,RENT,51000.0,Verified,Fully Paid,other,WA,5.65,0,INDIVIDUAL,8,662,Good-Loan
+2009,Feb,2725.0,36,11.89,B,B4,eddie braun,4,RENT,18200.0,Not Verified,Fully Paid,debt_consolidation,LA,10.55,0,INDIVIDUAL,7,727,Good-Loan
+2009,Jan,4000.0,36,8.0,A,A3,catskill regional medical center,6,MORTGAGE,57000.0,Not Verified,Fully Paid,other,NY,12.21,2,INDIVIDUAL,11,767,Good-Loan
+2009,Feb,6000.0,36,9.63,A,A5,"Polygon Visual Effects, LLC",1,RENT,31200.0,Verified,Fully Paid,credit_card,CA,22.46,0,INDIVIDUAL,8,732,Good-Loan
+2009,Feb,9000.0,36,13.16,C,C3,Youth Contact,2,RENT,34000.0,Not Verified,Fully Paid,credit_card,OR,21.46,0,INDIVIDUAL,15,717,Good-Loan
+2009,Feb,3600.0,36,8.0,A,A3,Atlas Paving LLC,1,MORTGAGE,35000.0,Not Verified,Fully Paid,small_business,OH,9.74,0,INDIVIDUAL,10,737,Good-Loan
+2009,Feb,10000.0,36,16.0,E,E2,Kroger Co.,3,MORTGAGE,112000.0,Not Verified,Fully Paid,credit_card,WV,17.94,2,INDIVIDUAL,12,662,Good-Loan
+2009,Feb,15000.0,36,13.79,C,C5,Quadrangle Development Corporation,2,MORTGAGE,79000.0,Verified,Fully Paid,house,DC,3.08,7,INDIVIDUAL,12,752,Good-Loan
+2009,Feb,25000.0,36,12.84,C,C2,Foodstuffs,10,MORTGAGE,104000.0,Verified,Fully Paid,small_business,IL,5.52,4,INDIVIDUAL,24,762,Good-Loan
+2009,Feb,25000.0,36,12.84,C,C2,Nortel Networks,10,MORTGAGE,70000.0,Verified,Fully Paid,small_business,TX,3.02,0,INDIVIDUAL,22,757,Good-Loan
+2009,Feb,8000.0,36,15.05,D,D4,Ascension Health,2,MORTGAGE,41000.0,Not Verified,Fully Paid,small_business,MO,10.62,1,INDIVIDUAL,9,682,Good-Loan
+2009,Feb,14000.0,36,13.79,C,C5,ibew local 351,7,RENT,50000.0,Verified,Fully Paid,debt_consolidation,NJ,3.7,3,INDIVIDUAL,7,707,Good-Loan
+2009,Feb,10000.0,36,9.32,A,A4,Waschko's Pharmacy,10,RENT,42000.0,Not Verified,Fully Paid,debt_consolidation,PA,24.37,2,INDIVIDUAL,10,757,Good-Loan
+2009,Feb,20000.0,36,14.74,D,D3,Winland Electronics,1,MORTGAGE,75000.0,Verified,Fully Paid,other,MN,0.32,0,INDIVIDUAL,8,702,Good-Loan
+2009,Feb,2400.0,36,9.63,A,A5,Michaels Stores,1,MORTGAGE,23000.0,Not Verified,Fully Paid,small_business,AZ,2.14,1,INDIVIDUAL,15,727,Good-Loan
+2009,Feb,7000.0,36,9.32,A,A4,Seaside Maintenance,2,RENT,50000.0,Not Verified,Fully Paid,small_business,CA,7.8,0,INDIVIDUAL,11,742,Good-Loan
+2009,Feb,8400.0,36,13.79,C,C5,Wells Fargo Bank,8,RENT,90000.0,Not Verified,Fully Paid,other,CA,15.05,0,INDIVIDUAL,14,682,Good-Loan
+2009,Feb,3600.0,36,7.37,A,A1,Ford Motor,10,MORTGAGE,62004.0,Not Verified,Fully Paid,major_purchase,OH,3.5,0,INDIVIDUAL,19,777,Good-Loan
+2009,Feb,13000.0,36,11.89,B,B4,Mississippi Department of Employment Security,10,MORTGAGE,56030.0,Verified,Fully Paid,debt_consolidation,MS,20.11,0,INDIVIDUAL,14,737,Good-Loan
+2009,Feb,7000.0,36,13.16,C,C3,Wise Construction,1,RENT,33996.0,Not Verified,Charged Off,debt_consolidation,UT,18.85,3,INDIVIDUAL,8,697,Defaulted-Loan
+2009,Feb,21000.0,36,12.84,C,C2,F&C Truck Sales and Service,2,MORTGAGE,68000.0,Verified,Fully Paid,debt_consolidation,IL,18.09,1,INDIVIDUAL,11,727,Good-Loan
+2009,Feb,10000.0,36,13.79,C,C5,Kumho Tire USA,1,RENT,55000.0,Verified,Fully Paid,wedding,NJ,19.83,0,INDIVIDUAL,5,707,Good-Loan
+2009,Feb,15000.0,36,15.68,E,E1,Cancer Care and Hematology Specialists & Bloomingdale Fire Protection District,1,OWN,30000.0,Verified,Fully Paid,other,IL,2.68,2,INDIVIDUAL,4,682,Good-Loan
+2009,Feb,8000.0,36,15.37,D,D5,Citrix Systems Inc,5,RENT,75000.0,Verified,Fully Paid,car,FL,10.03,2,INDIVIDUAL,10,667,Good-Loan
+2009,Feb,12000.0,36,12.84,C,C2,HL Seafood,1,OTHER,75000.0,Verified,Fully Paid,small_business,CA,22.45,3,INDIVIDUAL,13,732,Good-Loan
+2009,Feb,15000.0,36,13.47,C,C4,The Corcoran Group,8,RENT,95004.0,Verified,Charged Off,debt_consolidation,NY,11.89,0,INDIVIDUAL,13,702,Defaulted-Loan
+2009,Jan,7200.0,36,14.74,D,D3,Seawinns Security,1,OWN,19000.0,Not Verified,Fully Paid,debt_consolidation,TX,15.47,0,INDIVIDUAL,4,697,Good-Loan
+2009,Feb,10500.0,36,13.16,C,C3,Cigna,5,OWN,55008.0,Verified,Fully Paid,debt_consolidation,PA,7.0,1,INDIVIDUAL,6,702,Good-Loan
+2009,Feb,4000.0,36,12.21,B,B5,Department of Defense (DOD),1,RENT,45000.0,Verified,Fully Paid,other,GA,19.81,1,INDIVIDUAL,9,712,Good-Loan
+2009,Feb,10800.0,36,12.21,B,B5,Seacost nursing and rehab center,3,MORTGAGE,83000.0,Verified,Charged Off,debt_consolidation,MA,12.68,0,INDIVIDUAL,19,717,Defaulted-Loan
+2009,Feb,25000.0,36,12.53,C,C1,"Quinn Emanuel Urquhart Oliver & Hedges, LLP",3,RENT,227500.0,Verified,Fully Paid,small_business,NJ,7.9,1,INDIVIDUAL,13,747,Good-Loan
+2009,Feb,3000.0,36,12.84,C,C2,Warner Bros. Television,1,RENT,64992.0,Verified,Charged Off,moving,CA,4.89,1,INDIVIDUAL,16,687,Defaulted-Loan
+2009,Feb,16000.0,36,14.42,D,D2,copiague minimart inc,8,MORTGAGE,86004.0,Verified,Fully Paid,home_improvement,NY,4.35,3,INDIVIDUAL,19,687,Good-Loan
+2009,Feb,15000.0,36,16.32,E,E3,MRM Entertainment Inc.,10,RENT,71000.0,Verified,Charged Off,small_business,NV,17.44,2,INDIVIDUAL,22,667,Defaulted-Loan
+2009,Feb,10000.0,36,12.53,C,C1,Isle of Capri Casinos,1,RENT,30000.0,Verified,Fully Paid,wedding,FL,17.76,1,INDIVIDUAL,6,732,Good-Loan
+2009,Jan,5000.0,36,7.68,A,A2,United Natural Food Inc,1,MORTGAGE,105000.0,Not Verified,Fully Paid,car,NJ,14.09,3,INDIVIDUAL,11,777,Good-Loan
+2009,Jan,5000.0,36,13.16,C,C3,Humana,1,RENT,28968.0,Verified,Fully Paid,debt_consolidation,FL,23.12,3,INDIVIDUAL,7,707,Good-Loan
+2009,Jan,19400.0,36,18.53,F,F5,Brackenridge hospital,5,MORTGAGE,60000.0,Not Verified,Fully Paid,debt_consolidation,TX,13.88,1,INDIVIDUAL,5,662,Good-Loan
+2009,Jan,15000.0,36,14.42,D,D2,Dr. Bruckner,1,RENT,75000.0,Verified,Fully Paid,debt_consolidation,NY,3.22,0,INDIVIDUAL,9,682,Good-Loan
+2009,Feb,9500.0,36,14.74,D,D3,Unknown,2,RENT,46574.0,Verified,Fully Paid,credit_card,FL,19.81,2,INDIVIDUAL,20,672,Good-Loan
+2009,Feb,9000.0,36,12.84,C,C2,erepublic inc.,2,RENT,45000.0,Not Verified,Fully Paid,debt_consolidation,CA,9.68,0,INDIVIDUAL,19,712,Good-Loan
+2009,Feb,14000.0,36,13.79,C,C5,American Eagle Airlines (AMR Corp),9,MORTGAGE,87000.0,Not Verified,Charged Off,debt_consolidation,TX,17.26,0,INDIVIDUAL,19,702,Defaulted-Loan
+2009,Feb,20000.0,36,14.42,D,D2,DENSO,7,RENT,96000.0,Verified,Fully Paid,debt_consolidation,CO,7.09,0,INDIVIDUAL,13,707,Good-Loan
+2009,Feb,16000.0,36,16.32,E,E3,phoenixville hospital,4,RENT,65000.0,Verified,Fully Paid,debt_consolidation,PA,20.22,1,INDIVIDUAL,15,687,Good-Loan
+2009,Feb,4500.0,36,14.11,D,D1,Montessori School of Beaverton,8,RENT,29496.0,Not Verified,Fully Paid,credit_card,OR,18.1,2,INDIVIDUAL,13,672,Good-Loan
+2009,Feb,6000.0,36,16.0,E,E2,Pizzaovens.com,4,MORTGAGE,22884.0,Not Verified,Fully Paid,debt_consolidation,KY,18.62,2,INDIVIDUAL,5,662,Good-Loan
+2009,Jan,10000.0,36,12.21,B,B5,Frontier Central School District,10,RENT,82650.0,Not Verified,Fully Paid,debt_consolidation,NY,1.42,0,INDIVIDUAL,8,747,Good-Loan
+2009,Jan,4500.0,36,8.0,A,A3,Alltel,4,RENT,20004.0,Not Verified,Fully Paid,debt_consolidation,AL,13.74,0,INDIVIDUAL,29,777,Good-Loan
+2009,Jan,13000.0,36,9.63,A,A5,Wisconsin Dept. of Corrections,10,MORTGAGE,45000.0,Not Verified,Fully Paid,credit_card,WI,8.16,3,INDIVIDUAL,19,787,Good-Loan
+2009,Jan,7200.0,36,8.0,A,A3,Unknown,8,MORTGAGE,121722.0,Verified,Fully Paid,home_improvement,TX,7.29,0,INDIVIDUAL,8,752,Good-Loan
+2009,Jan,19000.0,36,15.68,E,E1,Chula Vista Elementary School District,10,RENT,56136.0,Verified,Fully Paid,debt_consolidation,CA,22.25,1,INDIVIDUAL,17,692,Good-Loan
+2009,Feb,14000.0,36,13.16,C,C3,England Logistics,1,RENT,52000.0,Verified,Fully Paid,other,UT,7.13,2,INDIVIDUAL,9,717,Good-Loan
+2009,Jan,10800.0,36,14.42,D,D2,All state abatement professionals,3,RENT,34000.0,Verified,Fully Paid,vacation,MA,6.78,0,INDIVIDUAL,4,732,Good-Loan
+2009,Jan,12000.0,36,13.16,C,C3,Kaiser Permanente,8,MORTGAGE,81000.0,Not Verified,Charged Off,debt_consolidation,CA,20.5,0,INDIVIDUAL,9,702,Defaulted-Loan
+2009,Jan,3000.0,36,12.21,B,B5,The Golden Paw,1,RENT,28320.0,Not Verified,Fully Paid,other,CA,6.44,2,INDIVIDUAL,8,712,Good-Loan
+2009,Jan,1800.0,36,8.0,A,A3,JACOBS ENGINEERING,10,RENT,156326.0,Not Verified,Fully Paid,major_purchase,VA,0.18,2,INDIVIDUAL,34,797,Good-Loan
+2009,Jan,4000.0,36,8.0,A,A3,Blue Cross Blue Shield,9,MORTGAGE,90000.0,Not Verified,Fully Paid,debt_consolidation,MI,8.97,0,INDIVIDUAL,13,757,Good-Loan
+2009,Feb,15000.0,36,11.89,B,B4,Unknown,3,RENT,73500.0,Verified,Fully Paid,wedding,NY,4.05,1,INDIVIDUAL,8,782,Good-Loan
+2009,Jan,10000.0,36,15.37,D,D5,Antioch Printing,3,RENT,39996.0,Verified,Fully Paid,debt_consolidation,MO,20.16,3,INDIVIDUAL,9,667,Good-Loan
+2009,Feb,9000.0,36,12.53,C,C1,Gouvis Engineering,1,RENT,47840.0,Not Verified,Fully Paid,credit_card,CA,20.59,0,INDIVIDUAL,31,722,Good-Loan
+2009,Feb,15000.0,36,11.89,B,B4,"A. Schulman, Inc.",10,MORTGAGE,150000.0,Verified,Fully Paid,credit_card,OH,6.78,1,INDIVIDUAL,17,752,Good-Loan
+2009,Jan,6000.0,36,9.63,A,A5,Google Inc.,1,RENT,65000.0,Not Verified,Fully Paid,other,CA,0.28,0,INDIVIDUAL,7,752,Good-Loan
+2009,Jan,9000.0,36,12.53,C,C1,SALVATORE MILELLI,3,OWN,50000.0,Not Verified,Fully Paid,credit_card,NJ,15.41,1,INDIVIDUAL,5,727,Good-Loan
+2009,Jan,10000.0,36,9.32,A,A4,Mark's Bookkeeping Services,4,RENT,50000.0,Verified,Fully Paid,other,NY,0.36,2,INDIVIDUAL,9,777,Good-Loan
+2009,Jan,12000.0,36,13.47,C,C4,Choice Logistics  Inc.,10,MORTGAGE,315000.0,Verified,Fully Paid,debt_consolidation,NY,10.05,1,INDIVIDUAL,25,692,Good-Loan
+2009,Jan,12000.0,36,12.53,C,C1,Express Scripts,1,MORTGAGE,50000.0,Verified,Charged Off,debt_consolidation,MN,11.88,1,INDIVIDUAL,8,722,Defaulted-Loan
+2009,Jan,10000.0,36,13.79,C,C5,Northwestern University,1,RENT,48000.0,Not Verified,Fully Paid,wedding,IL,4.95,1,INDIVIDUAL,9,687,Good-Loan
+2009,Jan,7200.0,36,9.63,A,A5,Goodrich,1,MORTGAGE,51150.0,Not Verified,Fully Paid,debt_consolidation,CA,12.53,2,INDIVIDUAL,7,727,Good-Loan
+2009,Jan,8000.0,36,13.47,C,C4,Ergon Energy Partners,5,RENT,51000.0,Verified,Fully Paid,major_purchase,LA,4.35,0,INDIVIDUAL,11,687,Good-Loan
+2009,Jan,15000.0,36,14.11,D,D1,J&S Electric LLC,2,RENT,60000.0,Not Verified,Charged Off,debt_consolidation,CO,14.02,3,INDIVIDUAL,7,692,Defaulted-Loan
+2009,Jan,3000.0,36,12.53,C,C1,Unknown,1,MORTGAGE,25000.0,Not Verified,Fully Paid,small_business,SC,3.65,0,INDIVIDUAL,6,712,Good-Loan
+2009,Jan,14000.0,36,17.26,F,F1,Genesys Telecommunications Laboratories,2,RENT,135000.0,Verified,Fully Paid,credit_card,FL,9.33,1,INDIVIDUAL,5,672,Good-Loan
+2009,Jan,15000.0,36,11.26,B,B2,General Motors,1,MORTGAGE,56000.0,Not Verified,Fully Paid,small_business,MI,7.16,1,INDIVIDUAL,9,737,Good-Loan
+2009,Jan,15000.0,36,16.95,E,E5,SunAmerica,4,RENT,65004.0,Not Verified,Fully Paid,debt_consolidation,CA,22.85,0,INDIVIDUAL,8,682,Good-Loan
+2009,Jan,6575.0,36,8.0,A,A3,Wallworks Inc.,2,RENT,45000.0,Not Verified,Fully Paid,major_purchase,PA,13.28,3,INDIVIDUAL,31,767,Good-Loan
+2009,Jan,15000.0,36,15.37,D,D5,Western Digital,5,MORTGAGE,123000.0,Verified,Fully Paid,debt_consolidation,CA,6.52,0,INDIVIDUAL,8,677,Good-Loan
+2009,Jan,5000.0,36,10.95,B,B1,Nixa Fire Prot. Dist.,3,MORTGAGE,50000.0,Verified,Fully Paid,debt_consolidation,MO,6.38,0,INDIVIDUAL,10,717,Good-Loan
+2009,Jan,6000.0,36,13.47,C,C4,LP Speedy Spa,10,OWN,75000.0,Not Verified,Fully Paid,debt_consolidation,NY,4.75,1,INDIVIDUAL,16,682,Good-Loan
+2009,Jan,10000.0,36,14.11,D,D1,US Army,10,RENT,48000.0,Not Verified,Fully Paid,debt_consolidation,TX,15.0,0,INDIVIDUAL,13,687,Good-Loan
+2009,Jan,5000.0,36,13.79,C,C5,State Board of Pardons & Paroles,10,MORTGAGE,75000.0,Not Verified,Fully Paid,educational,GA,20.86,2,INDIVIDUAL,22,767,Good-Loan
+2009,Jan,15000.0,36,13.47,C,C4,remus rich farms,10,MORTGAGE,69996.0,Not Verified,Fully Paid,home_improvement,WI,11.73,1,INDIVIDUAL,8,702,Good-Loan
+2009,Jan,4200.0,36,15.37,D,D5,Decisive Analytics,1,RENT,35000.0,Verified,Fully Paid,debt_consolidation,VA,6.0,1,INDIVIDUAL,4,662,Good-Loan
+2009,Jan,9000.0,36,9.63,A,A5,Wipro,4,OTHER,70000.0,Not Verified,Fully Paid,house,IL,8.45,2,INDIVIDUAL,14,737,Good-Loan
+2009,Jan,11000.0,36,12.53,C,C1,US Air Force,10,RENT,93000.0,Not Verified,Fully Paid,credit_card,AL,19.35,0,INDIVIDUAL,15,692,Good-Loan
+2009,Jan,15000.0,36,14.42,D,D2,San Carlos Irrigation Project,7,RENT,100896.0,Verified,Fully Paid,credit_card,AZ,11.22,0,INDIVIDUAL,10,682,Good-Loan
+2009,Jan,15000.0,36,13.47,C,C4,FIDELITY INVESTMENTS,7,MORTGAGE,135000.0,Verified,Fully Paid,small_business,TX,12.18,1,INDIVIDUAL,10,702,Good-Loan
+2009,Jan,8000.0,36,13.79,C,C5,Reeb Millwork Corp.,3,RENT,78000.0,Verified,Fully Paid,debt_consolidation,WA,3.29,0,INDIVIDUAL,13,682,Good-Loan
+2009,Jan,6000.0,36,11.58,B,B3,Unknown,1,OWN,38000.0,Verified,Fully Paid,debt_consolidation,LA,23.08,0,INDIVIDUAL,20,732,Good-Loan
+2009,Jan,2750.0,36,16.95,E,E5,Clark University,3,RENT,4200.0,Not Verified,Fully Paid,educational,MA,0.0,0,INDIVIDUAL,4,687,Good-Loan
+2009,Jan,15000.0,36,10.95,B,B1,US Logistics Inc.,1,MORTGAGE,80000.0,Verified,Fully Paid,small_business,TX,2.77,1,INDIVIDUAL,16,752,Good-Loan
+2009,Jan,8000.0,36,14.11,D,D1,ING,2,RENT,37000.0,Verified,Fully Paid,major_purchase,MA,16.96,2,INDIVIDUAL,5,692,Good-Loan
+2009,Jan,15000.0,36,14.42,D,D2,Accenture,3,RENT,110000.0,Verified,Fully Paid,other,NY,6.33,2,INDIVIDUAL,6,682,Good-Loan
+2009,Jan,12000.0,36,13.79,C,C5,Voce Communications,3,MORTGAGE,107004.0,Verified,Fully Paid,debt_consolidation,CA,4.58,1,INDIVIDUAL,15,687,Good-Loan
+2009,Jan,4500.0,36,14.42,D,D2,Honda of Watertown,4,MORTGAGE,34500.0,Not Verified,Fully Paid,debt_consolidation,CT,7.58,1,INDIVIDUAL,4,687,Good-Loan
+2009,Jan,8000.0,36,16.0,E,E2,"Visao, LLC",1,MORTGAGE,40000.0,Verified,Fully Paid,small_business,FL,23.13,3,INDIVIDUAL,9,662,Good-Loan
+2009,Jan,15000.0,36,9.63,A,A5,Lakeland Regional Medical Center,2,RENT,55000.0,Not Verified,Fully Paid,credit_card,FL,16.56,0,INDIVIDUAL,14,782,Good-Loan
+2009,Jan,5000.0,36,7.68,A,A2,Jesuit College Preparatory School,1,MORTGAGE,40308.0,Not Verified,Fully Paid,car,TX,5.78,0,INDIVIDUAL,13,802,Good-Loan
+2009,Jan,15000.0,36,15.68,E,E1,Hologic Corp,5,RENT,120000.0,Verified,Fully Paid,debt_consolidation,MA,19.87,0,INDIVIDUAL,14,682,Good-Loan
+2009,Jan,8500.0,36,14.11,D,D1,walgreens,6,RENT,21996.0,Verified,Fully Paid,debt_consolidation,CA,10.15,2,INDIVIDUAL,19,682,Good-Loan
+2009,Jan,9000.0,36,11.26,B,B2,Sungard Higher Education,1,RENT,84996.0,Verified,Fully Paid,debt_consolidation,TX,7.45,1,INDIVIDUAL,15,742,Good-Loan
+2009,Jan,15000.0,36,11.58,B,B3,Herman Cook Volkswagen,1,MORTGAGE,75333.0,Verified,Fully Paid,car,CA,9.81,0,INDIVIDUAL,18,742,Good-Loan
+2009,Jan,9600.0,36,14.42,D,D2,Santa Clara-COE,4,RENT,83964.0,Verified,Fully Paid,small_business,CA,11.46,0,INDIVIDUAL,4,702,Good-Loan
+2009,Jan,10000.0,36,10.95,B,B1,Kinetic Books,4,MORTGAGE,95000.0,Verified,Fully Paid,small_business,WA,5.68,2,INDIVIDUAL,15,722,Good-Loan
+2009,Jan,4200.0,36,9.32,A,A4,Department of Education,1,MORTGAGE,75000.0,Not Verified,Fully Paid,home_improvement,AR,3.33,0,INDIVIDUAL,9,732,Good-Loan
+2009,Jan,5800.0,36,13.16,C,C3,"Aquatic Sales Solutions, Inc",1,MORTGAGE,53000.0,Not Verified,Fully Paid,credit_card,MN,5.52,0,INDIVIDUAL,6,702,Good-Loan
+2009,Jan,15000.0,36,11.89,B,B4,NYC POLICE DEPARTMENT,10,RENT,69996.0,Verified,Fully Paid,debt_consolidation,NY,18.28,1,INDIVIDUAL,20,717,Good-Loan
+2009,Jan,15000.0,36,12.84,C,C2,CUNA Mutual Group,5,MORTGAGE,116000.0,Verified,Fully Paid,small_business,TX,8.1,1,INDIVIDUAL,18,697,Good-Loan
+2009,Jan,15000.0,36,14.42,D,D2,American Cleaners & Laundry Inc.,8,RENT,70000.0,Verified,Fully Paid,credit_card,CA,13.7,0,INDIVIDUAL,7,697,Good-Loan
+2009,Jan,15000.0,36,16.32,E,E3,"Organic, LLC",1,MORTGAGE,90000.0,Verified,Fully Paid,debt_consolidation,MI,9.77,3,INDIVIDUAL,19,672,Good-Loan
+2009,Jan,6600.0,36,8.0,A,A3,Franklin Land Trust,1,RENT,41000.0,Not Verified,Fully Paid,debt_consolidation,MA,10.74,1,INDIVIDUAL,14,752,Good-Loan
+2009,Jan,15000.0,36,11.89,B,B4,Cosemi Technologies,1,RENT,100000.0,Verified,Fully Paid,small_business,CA,2.3,0,INDIVIDUAL,16,717,Good-Loan
+2009,Jan,15000.0,36,13.16,C,C3,Graham County,10,MORTGAGE,51036.0,Verified,Fully Paid,debt_consolidation,AZ,21.44,1,INDIVIDUAL,11,707,Good-Loan
+2009,Jan,7500.0,36,16.0,E,E2,Back Healing Center,1,RENT,50000.0,Verified,Fully Paid,small_business,CA,22.13,0,INDIVIDUAL,8,677,Good-Loan
+2009,Jan,4000.0,36,15.05,D,D4,Perry Ellis International,2,MORTGAGE,45200.0,Verified,Fully Paid,debt_consolidation,FL,7.67,0,INDIVIDUAL,9,667,Good-Loan
+2009,Jan,2400.0,36,13.47,C,C4,Department of Children and Families,1,RENT,30988.62,Not Verified,Fully Paid,debt_consolidation,FL,5.11,1,INDIVIDUAL,4,692,Good-Loan
+2009,Jan,6000.0,36,14.74,D,D3,Starbucks,4,RENT,32001.0,Not Verified,Fully Paid,wedding,CA,12.45,2,INDIVIDUAL,9,672,Good-Loan
+2009,Jan,6500.0,36,15.68,E,E1,Alpha Trading,2,MORTGAGE,57996.0,Not Verified,Fully Paid,debt_consolidation,CA,15.87,0,INDIVIDUAL,6,667,Good-Loan
+2009,Jan,2400.0,36,12.21,B,B5,Horizons Conference Center,1,OTHER,23000.0,Verified,Fully Paid,major_purchase,MI,9.5,0,INDIVIDUAL,4,712,Good-Loan
+2009,Jan,6000.0,36,8.0,A,A3,Zalman Roth,6,OWN,26500.0,Verified,Fully Paid,debt_consolidation,CA,12.14,0,INDIVIDUAL,6,762,Good-Loan
+2009,Jan,7500.0,36,15.37,D,D5,Insurance Services,1,OWN,60000.0,Verified,Fully Paid,debt_consolidation,CA,17.5,0,INDIVIDUAL,8,677,Good-Loan
+2009,Jan,7200.0,36,9.63,A,A5,BancorpSouth,2,OTHER,68000.0,Not Verified,Fully Paid,credit_card,MS,19.11,3,INDIVIDUAL,17,727,Good-Loan
+2009,Jan,15000.0,36,11.89,B,B4,Barrick Goldstrike,8,RENT,80004.0,Verified,Fully Paid,debt_consolidation,NV,17.64,2,INDIVIDUAL,7,717,Good-Loan
+2009,Jan,10000.0,36,9.63,A,A5,MRK Express Inc,4,MORTGAGE,76800.0,Not Verified,Fully Paid,credit_card,IL,0.0,4,INDIVIDUAL,12,782,Good-Loan
+2009,Jan,15000.0,36,11.89,B,B4,Gazit Globe,1,MORTGAGE,60000.0,Verified,Fully Paid,debt_consolidation,FL,12.42,3,INDIVIDUAL,7,717,Good-Loan
+2009,Jan,15000.0,36,9.63,A,A5,school district,1,RENT,39000.0,Verified,Fully Paid,credit_card,AR,11.57,1,INDIVIDUAL,13,812,Good-Loan
+2009,Jan,6000.0,36,9.63,A,A5,Pennsylvania State Police,1,RENT,50740.0,Verified,Fully Paid,debt_consolidation,PA,7.43,0,INDIVIDUAL,8,732,Good-Loan
+2009,Jan,15000.0,36,11.58,B,B3,"Atlanta Technology Force, Inc",3,MORTGAGE,103000.0,Verified,Fully Paid,small_business,GA,20.26,1,INDIVIDUAL,16,722,Good-Loan
+2009,Jan,5000.0,36,12.84,C,C2,PNC Global Investment Servicing,5,RENT,33000.0,Not Verified,Fully Paid,home_improvement,MA,17.67,2,INDIVIDUAL,7,702,Good-Loan
+2009,Jan,7500.0,36,14.42,D,D2,Ft McDowell Casino,1,RENT,45000.0,Verified,Charged Off,debt_consolidation,AZ,15.92,1,INDIVIDUAL,16,682,Defaulted-Loan
+2009,Jan,5000.0,36,10.95,B,B1,Art & Soul Photography Inc.,3,RENT,25000.0,Not Verified,Fully Paid,debt_consolidation,MO,12.48,0,INDIVIDUAL,11,732,Good-Loan
+2009,Jan,7000.0,36,12.53,C,C1,HSA-UWC,1,RENT,41000.0,Verified,Fully Paid,educational,PA,2.46,7,INDIVIDUAL,14,747,Good-Loan
+2009,Jan,5000.0,36,13.47,C,C4,Byn flowback Services,3,RENT,65000.0,Verified,Fully Paid,debt_consolidation,TX,12.48,1,INDIVIDUAL,9,692,Good-Loan
+2009,Jan,5000.0,36,13.47,C,C4,Back to the Garden,1,RENT,24996.0,Not Verified,Fully Paid,educational,GA,12.15,2,INDIVIDUAL,6,687,Good-Loan
+2009,Jan,15000.0,36,13.47,C,C4,County of San Diego,10,MORTGAGE,46394.0,Verified,Fully Paid,debt_consolidation,CA,13.76,0,INDIVIDUAL,12,692,Good-Loan
+2009,Jan,4000.0,36,9.32,A,A4,State of California,1,MORTGAGE,75852.0,Verified,Fully Paid,home_improvement,CA,13.72,1,INDIVIDUAL,16,767,Good-Loan
+2009,Jan,10000.0,36,14.11,D,D1,Green Florist,3,RENT,25000.0,Not Verified,Charged Off,debt_consolidation,NV,13.73,0,INDIVIDUAL,12,682,Defaulted-Loan
+2009,Jan,12000.0,36,13.16,C,C3,Warner Music Group,2,RENT,85000.0,Not Verified,Fully Paid,wedding,CA,12.01,0,INDIVIDUAL,11,752,Good-Loan
+2009,Jan,6000.0,36,9.32,A,A4,Birmingham City Schools,10,MORTGAGE,50004.0,Not Verified,Fully Paid,other,AL,5.28,1,INDIVIDUAL,11,732,Good-Loan
+2009,Jan,10000.0,36,9.32,A,A4,Citysearch,1,RENT,110000.0,Verified,Fully Paid,credit_card,CA,10.29,0,INDIVIDUAL,13,752,Good-Loan
+2009,Jan,3700.0,36,8.0,A,A3,Office Depot,8,RENT,27996.0,Verified,Fully Paid,car,MS,7.84,1,INDIVIDUAL,5,772,Good-Loan
+2009,Jan,14125.0,36,14.74,D,D3,Buckingham PM,1,RENT,30000.0,Verified,Charged Off,debt_consolidation,CA,11.24,1,INDIVIDUAL,9,677,Defaulted-Loan
+2009,Jan,15000.0,36,11.58,B,B3,"MEDomics, LLC",1,RENT,100000.0,Verified,Fully Paid,credit_card,CA,23.7,2,INDIVIDUAL,14,727,Good-Loan
+2009,Jan,15000.0,36,13.47,C,C4,Unknown,1,MORTGAGE,63000.0,Verified,Fully Paid,educational,CA,12.93,3,INDIVIDUAL,18,712,Good-Loan
+2009,Jan,15000.0,36,11.89,B,B4,Rhode Island Public Transit Authority,10,MORTGAGE,88268.0,Verified,Charged Off,debt_consolidation,RI,7.34,1,INDIVIDUAL,9,717,Defaulted-Loan
+2009,Jan,15000.0,36,9.63,A,A5,XO Communications,7,MORTGAGE,104000.0,Not Verified,Fully Paid,home_improvement,CO,9.63,2,INDIVIDUAL,18,777,Good-Loan
+2009,Jan,5650.0,36,13.47,C,C4,Santa Ana Unified School District,10,RENT,67200.0,Verified,Fully Paid,debt_consolidation,CA,6.18,1,INDIVIDUAL,14,672,Good-Loan
+2009,Jan,15000.0,36,15.05,D,D4,u s sugar co,10,MORTGAGE,55000.0,Not Verified,Fully Paid,credit_card,NY,16.95,0,INDIVIDUAL,24,677,Good-Loan
+2009,Jan,5000.0,36,16.32,E,E3,Little Rest Livery Inc,3,RENT,22000.0,Verified,Charged Off,debt_consolidation,RI,8.67,2,INDIVIDUAL,4,662,Defaulted-Loan
+2009,Jan,8400.0,36,11.26,B,B2,Nationwide Mutual Insurance Company,3,RENT,36100.0,Not Verified,Fully Paid,car,OH,1.4,1,INDIVIDUAL,16,772,Good-Loan
+2009,Jan,4000.0,36,7.68,A,A2,Kohls Corp,9,MORTGAGE,28000.0,Not Verified,Fully Paid,debt_consolidation,MO,5.57,0,INDIVIDUAL,17,777,Good-Loan
+2009,Jan,15000.0,36,11.58,B,B3,u of m,7,MORTGAGE,69000.0,Not Verified,Fully Paid,credit_card,MI,21.86,0,INDIVIDUAL,16,727,Good-Loan
+2009,Jan,7000.0,36,9.63,A,A5,Siemens E and A,10,MORTGAGE,93240.0,Not Verified,Fully Paid,wedding,TX,14.05,1,INDIVIDUAL,14,727,Good-Loan
+2009,Jan,10500.0,36,11.26,B,B2,Amphenol,1,RENT,62100.0,Verified,Fully Paid,debt_consolidation,CA,3.61,0,INDIVIDUAL,11,722,Good-Loan
+2009,Jan,14000.0,36,12.21,B,B5,Papyrus,10,RENT,55992.0,Verified,Fully Paid,debt_consolidation,CA,14.38,1,INDIVIDUAL,12,712,Good-Loan
+2009,Jan,10000.0,36,9.32,A,A4,SNL Financial,3,RENT,120000.0,Verified,Fully Paid,debt_consolidation,PA,5.93,1,INDIVIDUAL,9,747,Good-Loan
+2009,Jan,6500.0,36,9.63,A,A5,mercury insurance,4,RENT,39996.0,Not Verified,Fully Paid,car,CA,9.18,3,INDIVIDUAL,14,727,Good-Loan
+2009,Jan,15000.0,36,9.63,A,A5,Unknown,1,MORTGAGE,30000.0,Verified,Fully Paid,home_improvement,AZ,4.08,0,INDIVIDUAL,23,817,Good-Loan
+2009,Jan,5000.0,36,13.79,C,C5,Betty Bacharach Rehabilitation Hospital,1,RENT,45000.0,Verified,Fully Paid,other,NJ,6.0,1,INDIVIDUAL,15,722,Good-Loan
+2009,Jan,10000.0,36,9.63,A,A5,SC Law Enforcement Division,10,MORTGAGE,60000.0,Not Verified,Fully Paid,credit_card,SC,11.24,2,INDIVIDUAL,16,742,Good-Loan
+2009,Jan,4000.0,36,13.79,C,C5,Advantage Business Consulting,1,RENT,33280.0,Not Verified,Fully Paid,other,OH,15.47,1,INDIVIDUAL,6,692,Good-Loan
+2009,Jan,5000.0,36,14.11,D,D1,Premier Academy,4,RENT,159996.0,Verified,Fully Paid,credit_card,OH,6.84,0,INDIVIDUAL,14,702,Good-Loan
+2009,Jan,5750.0,36,8.0,A,A3,Blackboard,1,RENT,70000.0,Verified,Fully Paid,credit_card,DC,2.59,1,INDIVIDUAL,14,807,Good-Loan
+2009,Jan,6000.0,36,13.16,C,C3,chicago northside toyota,6,RENT,89004.0,Verified,Fully Paid,major_purchase,IL,7.4,3,INDIVIDUAL,10,687,Good-Loan
+2009,Jan,6500.0,36,14.11,D,D1,social security,1,RENT,35000.0,Not Verified,Fully Paid,debt_consolidation,PA,21.15,2,INDIVIDUAL,8,667,Good-Loan
+2009,Jan,15000.0,36,10.95,B,B1,ATM Systems Corp,10,MORTGAGE,110000.0,Verified,Charged Off,small_business,SC,1.07,0,INDIVIDUAL,12,762,Defaulted-Loan
+2009,Jan,15000.0,36,15.37,D,D5,primerica,8,RENT,135000.0,Verified,Charged Off,debt_consolidation,OR,18.12,1,INDIVIDUAL,25,667,Defaulted-Loan
+2009,Jan,15000.0,36,12.53,C,C1,CVS Pharmacy,1,MORTGAGE,124800.0,Verified,Fully Paid,small_business,AL,15.83,0,INDIVIDUAL,18,702,Good-Loan
+2009,Jan,1600.0,36,13.79,C,C5,Four Seasons Patio & Awning,4,MORTGAGE,55000.0,Verified,Fully Paid,educational,TX,14.68,1,INDIVIDUAL,15,662,Good-Loan
+2009,Jan,15000.0,36,10.95,B,B1,West Boca Medical Center,10,RENT,105000.0,Verified,Fully Paid,debt_consolidation,FL,8.14,0,INDIVIDUAL,20,757,Good-Loan
+2009,Jan,4200.0,36,11.58,B,B3,apco graphics,10,MORTGAGE,32000.0,Verified,Fully Paid,home_improvement,GA,22.09,0,INDIVIDUAL,9,702,Good-Loan
+2009,Jan,6000.0,36,14.42,D,D2,Freelance Broadcast & Music,10,RENT,100000.0,Verified,Fully Paid,debt_consolidation,FL,13.57,0,INDIVIDUAL,15,662,Good-Loan
+2009,Jan,13000.0,36,13.47,C,C4,Best Buy Co. Inc.,8,MORTGAGE,80000.0,Verified,Fully Paid,credit_card,VA,21.11,2,INDIVIDUAL,10,687,Good-Loan
+2009,Jan,15000.0,36,13.47,C,C4,naples yatch club,2,RENT,56000.0,Verified,Fully Paid,debt_consolidation,FL,13.61,3,INDIVIDUAL,18,677,Good-Loan
+2009,Jan,10000.0,36,11.26,B,B2,Self,10,MORTGAGE,390000.0,Verified,Fully Paid,small_business,NV,15.68,3,INDIVIDUAL,25,792,Good-Loan
+2009,Jan,7500.0,36,13.79,C,C5,AmSafe Aviation,3,MORTGAGE,56000.0,Not Verified,Fully Paid,small_business,AZ,4.18,3,INDIVIDUAL,20,687,Good-Loan
+2009,Jan,10000.0,36,11.58,B,B3,Bayer LTD and Core Medical Group,4,MORTGAGE,140000.0,Verified,Charged Off,debt_consolidation,NH,8.32,1,INDIVIDUAL,14,727,Defaulted-Loan
+2009,Jan,2500.0,36,7.68,A,A2,BJ&J Construction,1,MORTGAGE,32000.0,Verified,Charged Off,debt_consolidation,CA,0.38,0,INDIVIDUAL,28,822,Defaulted-Loan
+2009,Jan,8350.0,36,11.89,B,B4,Compuware Corp.,7,MORTGAGE,111000.0,Verified,Fully Paid,credit_card,CA,1.92,1,INDIVIDUAL,24,702,Good-Loan
+2009,Jan,1875.0,36,8.0,A,A3,Enviro-Rents Inc.,10,MORTGAGE,50000.0,Verified,Fully Paid,debt_consolidation,CA,19.06,0,INDIVIDUAL,14,732,Good-Loan
+2009,Jan,9000.0,36,12.21,B,B5,Land Rover South Bay,4,RENT,75000.0,Verified,Fully Paid,debt_consolidation,CA,1.81,2,INDIVIDUAL,29,697,Good-Loan
+2009,Jan,5500.0,36,9.63,A,A5,Ohio State University Medical Center,1,RENT,42230.04,Verified,Fully Paid,educational,OH,15.63,1,INDIVIDUAL,12,727,Good-Loan
+2009,Jan,2500.0,36,11.58,B,B3,South San Francisco Fire Department,7,MORTGAGE,120000.0,Not Verified,Fully Paid,car,CA,14.51,2,INDIVIDUAL,19,712,Good-Loan
+2009,Jan,12000.0,36,14.11,D,D1,Wilson Elser Moskowitz Edelman & Dicker LLP,1,RENT,80000.0,Verified,Fully Paid,other,NY,7.21,0,INDIVIDUAL,9,672,Good-Loan
+2009,Jan,4200.0,36,9.32,A,A4,forest hills hospital,6,RENT,36895.02,Verified,Fully Paid,wedding,NY,8.52,1,INDIVIDUAL,13,737,Good-Loan
+2009,Jan,1600.0,36,12.21,B,B5,Iris International,1,RENT,69000.0,Not Verified,Charged Off,debt_consolidation,CA,18.14,3,INDIVIDUAL,15,677,Defaulted-Loan
+2009,Jan,3600.0,36,12.21,B,B5,California Climate Action Registry,1,RENT,60000.0,Verified,Fully Paid,debt_consolidation,CA,10.56,0,INDIVIDUAL,12,692,Good-Loan
+2009,Jan,10000.0,36,12.21,B,B5,Fidelity Investments,2,MORTGAGE,60000.0,Verified,Fully Paid,educational,OH,11.42,2,INDIVIDUAL,6,702,Good-Loan
+2009,Jan,1000.0,36,14.74,D,D3,Unknown,1,RENT,10000.0,Not Verified,Fully Paid,small_business,MA,1.2,0,INDIVIDUAL,6,667,Good-Loan
+2009,Jan,7500.0,36,10.95,B,B1,hilton hotel,9,MORTGAGE,37000.0,Verified,Fully Paid,major_purchase,MO,14.72,1,INDIVIDUAL,11,777,Good-Loan
+2009,Jan,15000.0,36,14.42,D,D2,Hagar Restaurant Service LLC,4,MORTGAGE,69000.0,Verified,Fully Paid,other,TX,14.26,1,INDIVIDUAL,13,677,Good-Loan
+2009,Jan,4500.0,36,14.74,D,D3,"Alternative Office Solutions, Inc.",6,MORTGAGE,50000.0,Not Verified,Fully Paid,credit_card,CA,13.94,1,INDIVIDUAL,6,662,Good-Loan
+2009,Jan,15000.0,36,9.63,A,A5,Retired,10,OTHER,70000.0,Verified,Charged Off,home_improvement,FL,12.19,1,INDIVIDUAL,12,772,Defaulted-Loan
+2009,Jan,10000.0,36,9.32,A,A4,Hawaii Agriculture Research Center,6,RENT,60000.0,Not Verified,Fully Paid,car,HI,1.78,2,INDIVIDUAL,23,797,Good-Loan
+2009,Jan,12000.0,36,11.89,B,B4,Albany Medical Center,3,RENT,40000.0,Not Verified,Fully Paid,debt_consolidation,NY,14.88,0,INDIVIDUAL,17,757,Good-Loan
+2009,Jan,5600.0,36,13.79,C,C5,"Comverge, Inc.",1,RENT,45000.0,Verified,Fully Paid,debt_consolidation,NV,9.07,0,INDIVIDUAL,14,682,Good-Loan
+2009,Jan,10000.0,36,14.11,D,D1,Snyders of Berlin,4,RENT,45000.0,Not Verified,Fully Paid,debt_consolidation,OH,14.45,0,INDIVIDUAL,25,672,Good-Loan
+2009,Jan,3200.0,36,8.0,A,A3,Redwood City School District,1,RENT,43000.0,Not Verified,Fully Paid,credit_card,CA,8.6,0,INDIVIDUAL,9,742,Good-Loan
+2009,Jan,15000.0,36,15.05,D,D4,Huntsman,10,RENT,95000.0,Verified,Fully Paid,small_business,CA,17.72,2,INDIVIDUAL,21,667,Good-Loan
+2009,Jan,8400.0,36,12.53,C,C1,UNFCU,1,OWN,81000.0,Not Verified,Fully Paid,debt_consolidation,NY,1.85,2,INDIVIDUAL,12,687,Good-Loan
+2009,Jan,5100.0,36,11.89,B,B4,"Brinker Corp, Romano's Macaroni Grill",6,RENT,28000.0,Verified,Fully Paid,credit_card,CA,16.11,2,INDIVIDUAL,12,697,Good-Loan
+2009,Jan,15000.0,36,13.16,C,C3,vonna husby and associates llc,5,MORTGAGE,150000.0,Verified,Fully Paid,small_business,AK,4.06,1,INDIVIDUAL,20,697,Good-Loan
+2009,Jan,10000.0,36,15.05,D,D4,Mark and Joy Remley,2,RENT,40000.0,Verified,Fully Paid,credit_card,CA,20.64,1,INDIVIDUAL,9,662,Good-Loan
+2009,Jan,8000.0,36,9.32,A,A4,University of Central Oklahoma,1,MORTGAGE,36000.0,Not Verified,Fully Paid,debt_consolidation,OK,10.73,3,INDIVIDUAL,38,752,Good-Loan
+2009,Jan,15000.0,36,12.21,B,B5,OSI Restaurant Partners,5,MORTGAGE,77000.0,Not Verified,Fully Paid,credit_card,FL,14.96,3,INDIVIDUAL,14,712,Good-Loan
+2009,Jan,9000.0,36,9.63,A,A5,SFS Architecture,1,MORTGAGE,43000.0,Not Verified,Fully Paid,debt_consolidation,MO,7.0,1,INDIVIDUAL,10,742,Good-Loan
+2009,Jan,10000.0,36,11.26,B,B2,boeing,10,MORTGAGE,70596.0,Verified,Fully Paid,debt_consolidation,IL,11.61,2,INDIVIDUAL,18,722,Good-Loan
+2009,Jan,10000.0,36,14.42,D,D2,Media Gensis,4,RENT,36000.0,Not Verified,Fully Paid,debt_consolidation,MI,22.43,1,INDIVIDUAL,8,667,Good-Loan
+2009,Jan,12600.0,36,11.26,B,B2,Millbury Public Schools,1,RENT,42504.0,Not Verified,Fully Paid,debt_consolidation,MA,18.15,0,INDIVIDUAL,8,722,Good-Loan
+2009,Jan,6000.0,36,7.68,A,A2,Sony Electronics Inc.,10,RENT,65004.0,Not Verified,Fully Paid,debt_consolidation,NY,8.4,1,INDIVIDUAL,32,782,Good-Loan
+2009,Jan,12000.0,36,12.53,C,C1,AT&T Inc.,10,MORTGAGE,66504.0,Not Verified,Fully Paid,debt_consolidation,KS,17.36,0,INDIVIDUAL,12,697,Good-Loan
+2009,Jan,9000.0,36,13.79,C,C5,LPL Financial,3,RENT,48000.0,Verified,Fully Paid,credit_card,LA,16.64,0,INDIVIDUAL,11,692,Good-Loan
+2009,Jan,12000.0,36,13.16,C,C3,Radiant Systems,1,RENT,34000.0,Verified,Fully Paid,debt_consolidation,CA,19.55,0,INDIVIDUAL,7,682,Good-Loan
+2009,Jan,10000.0,36,13.47,C,C4,Crunch Fitness,2,RENT,130000.0,Verified,Fully Paid,small_business,NY,13.85,2,INDIVIDUAL,12,702,Good-Loan
+2009,Jan,8000.0,36,12.84,C,C2,"Milner, Inc",3,RENT,50000.0,Verified,Fully Paid,debt_consolidation,GA,18.6,3,INDIVIDUAL,15,682,Good-Loan
+2009,Jan,14000.0,36,12.84,C,C2,Sports Training Physical Therapy,4,MORTGAGE,60000.0,Verified,Fully Paid,debt_consolidation,NY,22.06,0,INDIVIDUAL,7,697,Good-Loan
+2009,Jan,12000.0,36,11.89,B,B4,IRI,1,RENT,38000.0,Verified,Fully Paid,debt_consolidation,CA,19.64,1,INDIVIDUAL,6,707,Good-Loan
+2009,Jan,15000.0,36,14.74,D,D3,costco wholesale,10,MORTGAGE,65004.0,Verified,Charged Off,debt_consolidation,FL,22.1,2,INDIVIDUAL,14,672,Defaulted-Loan
+2009,Jan,5000.0,36,9.32,A,A4,Alcoa Howmet,3,RENT,30000.0,Verified,Fully Paid,other,NJ,14.16,2,INDIVIDUAL,16,762,Good-Loan
+2009,Jan,3800.0,36,12.53,C,C1,Lehigh Cement,10,RENT,60000.0,Verified,Charged Off,other,CA,20.14,1,INDIVIDUAL,12,687,Defaulted-Loan
+2009,Jan,7500.0,36,15.05,D,D4,"Windsor Solutions, Inc.",3,OTHER,87500.0,Not Verified,Fully Paid,medical,OR,9.08,0,INDIVIDUAL,19,667,Good-Loan
+2009,Jan,8950.0,36,11.89,B,B4,Analysts Inernational,2,MORTGAGE,70000.0,Verified,Fully Paid,credit_card,MI,21.24,0,INDIVIDUAL,22,702,Good-Loan
+2009,Jan,15000.0,36,12.53,C,C1,TATA Consultancy,1,MORTGAGE,128500.0,Verified,Fully Paid,credit_card,AZ,16.16,2,INDIVIDUAL,13,707,Good-Loan
+2009,Jan,2000.0,36,11.58,B,B3,Miller Electric,1,RENT,28500.0,Not Verified,Fully Paid,major_purchase,FL,16.17,1,INDIVIDUAL,6,722,Good-Loan
+2009,Jan,8000.0,36,14.11,D,D1,RS Abrams  and  Co  LLP,2,OWN,54996.0,Not Verified,Fully Paid,wedding,NY,12.59,2,INDIVIDUAL,5,672,Good-Loan
+2009,Jan,4800.0,36,13.47,C,C4,NORDAM,10,MORTGAGE,100000.0,Verified,Fully Paid,debt_consolidation,OK,21.8,0,INDIVIDUAL,18,687,Good-Loan
+2009,Jan,3000.0,36,9.32,A,A4,Ranger Construction Inc.,1,RENT,54000.0,Not Verified,Charged Off,credit_card,FL,6.6,1,INDIVIDUAL,6,727,Defaulted-Loan
+2009,Jan,10000.0,36,9.63,A,A5,Jackson County Assessment,10,MORTGAGE,90000.0,Not Verified,Charged Off,other,OR,3.27,3,INDIVIDUAL,11,732,Defaulted-Loan
+2009,Jan,8000.0,36,11.58,B,B3,"City of Akron, Ohio",3,MORTGAGE,30992.0,Not Verified,Charged Off,credit_card,OH,6.89,1,INDIVIDUAL,16,712,Defaulted-Loan
+2009,Jan,6700.0,36,14.11,D,D1,Macys,2,RENT,42050.0,Verified,Fully Paid,debt_consolidation,WA,23.67,1,INDIVIDUAL,14,667,Good-Loan
+2009,Jan,3000.0,36,9.63,A,A5,Princeton University,4,RENT,30500.0,Verified,Fully Paid,car,NJ,14.4,2,INDIVIDUAL,9,722,Good-Loan
+2009,Jan,6000.0,36,9.63,A,A5,Nordstrom,2,RENT,62000.0,Not Verified,Fully Paid,small_business,HI,6.35,0,INDIVIDUAL,6,732,Good-Loan
+2009,Jan,2500.0,36,11.58,B,B3,Kaiser Permanente,1,RENT,95800.0,Verified,Fully Paid,other,CA,4.81,2,INDIVIDUAL,14,702,Good-Loan
+2009,Jan,15000.0,36,13.16,C,C3,Mecklenburg County,4,MORTGAGE,76000.0,Not Verified,Charged Off,debt_consolidation,SC,21.9,0,INDIVIDUAL,17,687,Defaulted-Loan
+2009,Jan,9000.0,36,15.05,D,D4,Contra Costa County,10,RENT,95000.0,Not Verified,Charged Off,house,CA,17.72,2,INDIVIDUAL,20,667,Defaulted-Loan
+2009,Jan,3000.0,36,11.89,B,B4,School District of Palm Beach County,1,RENT,37000.0,Not Verified,Charged Off,credit_card,FL,20.63,1,INDIVIDUAL,13,692,Defaulted-Loan
+2009,Jan,2000.0,36,12.84,C,C2,Fox Interactive Media,3,RENT,70000.0,Not Verified,Fully Paid,debt_consolidation,CA,11.97,1,INDIVIDUAL,21,672,Good-Loan
+2009,Jan,7500.0,36,15.05,D,D4,santa clara unifed school district,7,RENT,51063.0,Not Verified,Charged Off,debt_consolidation,CA,15.06,1,INDIVIDUAL,26,662,Defaulted-Loan
+2009,Jan,5000.0,36,7.68,A,A2,Siemens,1,MORTGAGE,94000.0,Verified,Fully Paid,credit_card,TX,15.29,0,INDIVIDUAL,12,777,Good-Loan
+2009,Jan,15000.0,36,11.26,B,B2,Self,3,RENT,175000.0,Verified,Fully Paid,small_business,CA,3.31,0,INDIVIDUAL,17,757,Good-Loan
+2009,Jan,15000.0,36,11.58,B,B3,ICF Solutions,5,RENT,96000.0,Not Verified,Fully Paid,home_improvement,CA,0.13,2,INDIVIDUAL,14,797,Good-Loan
+2009,Jan,10000.0,36,9.63,A,A5,World Bank,10,RENT,70000.0,Not Verified,Charged Off,debt_consolidation,DC,6.31,2,INDIVIDUAL,10,737,Defaulted-Loan
+2009,Jan,12000.0,36,13.16,C,C3,JD strategies/ Gap Inc,1,RENT,64000.0,Not Verified,Fully Paid,debt_consolidation,CA,7.97,0,INDIVIDUAL,9,697,Good-Loan
+2009,Jan,1400.0,36,9.32,A,A4,"WestMark, Realtors",1,OWN,11000.0,Not Verified,Fully Paid,small_business,TX,24.98,0,INDIVIDUAL,7,727,Good-Loan
+2009,Jan,9000.0,36,9.63,A,A5,Jobfox Inc.,1,MORTGAGE,110000.0,Not Verified,Charged Off,credit_card,WA,18.41,1,INDIVIDUAL,10,737,Defaulted-Loan
+2009,Jan,11500.0,36,12.53,C,C1,UPMC,3,RENT,45996.0,Not Verified,Fully Paid,debt_consolidation,PA,15.91,2,INDIVIDUAL,7,697,Good-Loan
+2009,Jan,8500.0,36,12.53,C,C1,ARCO Construction,1,MORTGAGE,43000.0,Not Verified,Charged Off,debt_consolidation,MO,9.27,3,INDIVIDUAL,8,687,Defaulted-Loan
+2009,Jan,4000.0,36,10.95,B,B1,City of Dearborn Heights,7,MORTGAGE,50000.0,Not Verified,Fully Paid,debt_consolidation,MI,22.46,2,INDIVIDUAL,16,717,Good-Loan
+2009,Jan,7200.0,36,12.53,C,C1,Dedicated Finishing & Distri.,2,RENT,54600.0,Verified,Fully Paid,house,CA,9.12,2,INDIVIDUAL,9,702,Good-Loan
+2009,Jan,8000.0,36,10.95,B,B1,The Standard,2,MORTGAGE,75000.0,Verified,Fully Paid,debt_consolidation,OR,23.25,3,INDIVIDUAL,18,722,Good-Loan
+2009,Jan,10000.0,36,11.26,B,B2,Thomas Weisel Partners,1,RENT,62000.0,Verified,Fully Paid,debt_consolidation,CA,4.49,0,INDIVIDUAL,5,722,Good-Loan
+2009,Jan,5600.0,36,12.53,C,C1,Unknown,1,MORTGAGE,50000.0,Verified,Fully Paid,credit_card,CA,14.42,0,INDIVIDUAL,16,682,Good-Loan
+2009,Jan,12400.0,36,11.26,B,B2,"Visa, Inc.",5,MORTGAGE,165000.0,Verified,Fully Paid,credit_card,CA,10.01,1,INDIVIDUAL,19,727,Good-Loan
+2009,Jan,8000.0,36,11.89,B,B4,leslies pools,2,MORTGAGE,60000.0,Not Verified,Charged Off,debt_consolidation,NV,17.24,0,INDIVIDUAL,14,707,Defaulted-Loan
+2009,Jan,12000.0,36,12.84,C,C2,Boeing,1,RENT,46000.0,Verified,Fully Paid,debt_consolidation,WA,19.57,1,INDIVIDUAL,10,697,Good-Loan
+2009,Jan,15000.0,36,14.11,D,D1,US Navy,9,MORTGAGE,91000.0,Verified,Fully Paid,debt_consolidation,WA,16.8,1,INDIVIDUAL,16,682,Good-Loan
+2009,Jan,4650.0,36,9.32,A,A4,Louisville Metro Government,2,RENT,31970.0,Not Verified,Fully Paid,other,KY,8.48,0,INDIVIDUAL,10,782,Good-Loan
+2009,Jan,9200.0,36,9.32,A,A4,"Zep, Inc.",1,MORTGAGE,66500.0,Not Verified,Fully Paid,major_purchase,GA,8.35,0,INDIVIDUAL,21,787,Good-Loan
+2009,Jan,14075.0,36,14.74,D,D3,Nevada Army National Guard,5,MORTGAGE,70404.0,Verified,Fully Paid,debt_consolidation,NV,11.42,3,INDIVIDUAL,9,672,Good-Loan
+2009,Jan,15000.0,36,12.21,B,B5,Goodyear Tire  and  Rubber,10,MORTGAGE,69996.0,Not Verified,Fully Paid,debt_consolidation,OH,6.58,2,INDIVIDUAL,11,707,Good-Loan
+2009,Jan,11900.0,36,14.42,D,D2,The Childrens Place,6,MORTGAGE,233004.0,Verified,Fully Paid,debt_consolidation,NJ,8.32,0,INDIVIDUAL,21,677,Good-Loan
+2009,Jan,12000.0,36,11.26,B,B2,Toky Branding and Design,1,OWN,54996.0,Not Verified,Fully Paid,debt_consolidation,MO,21.41,1,INDIVIDUAL,11,727,Good-Loan
+2009,Jan,5375.0,36,12.21,B,B5,Build A Bear,1,MORTGAGE,22000.0,Not Verified,Fully Paid,debt_consolidation,MO,22.8,0,INDIVIDUAL,15,692,Good-Loan
+2009,Jan,10000.0,36,13.16,C,C3,Waffle Farm Campgrounds,10,OWN,45996.0,Verified,Fully Paid,debt_consolidation,MI,21.34,2,INDIVIDUAL,11,687,Good-Loan
+2009,Jan,9600.0,36,11.26,B,B2,U.S. Air Force,10,RENT,66000.0,Not Verified,Fully Paid,debt_consolidation,VA,18.31,0,INDIVIDUAL,12,722,Good-Loan
+2009,Jan,15000.0,36,16.32,E,E3,Deloitte Tax LLP,9,RENT,150000.0,Verified,Fully Paid,credit_card,CA,6.55,3,INDIVIDUAL,12,662,Good-Loan
+2009,Jan,15000.0,36,11.58,B,B3,Network Plus Consulting,10,OTHER,72000.0,Verified,Charged Off,small_business,AZ,13.27,2,INDIVIDUAL,12,727,Defaulted-Loan
+2009,Jan,4000.0,36,15.05,D,D4,ShearsAdkins Architects,2,MORTGAGE,56500.0,Not Verified,Fully Paid,debt_consolidation,CO,12.7,0,INDIVIDUAL,11,682,Good-Loan
+2009,Jan,7300.0,36,8.0,A,A3,M & I Bank,1,RENT,53600.0,Verified,Fully Paid,debt_consolidation,FL,11.08,1,INDIVIDUAL,6,752,Good-Loan
+2009,Jan,8000.0,36,10.95,B,B1,Walgreen,3,RENT,40000.0,Verified,Fully Paid,wedding,CA,7.68,0,INDIVIDUAL,7,732,Good-Loan
+2009,Jan,4800.0,36,14.11,D,D1,Fidelity Investments,2,MORTGAGE,89004.0,Not Verified,Fully Paid,home_improvement,TX,10.64,1,INDIVIDUAL,17,662,Good-Loan
+2009,Jan,5000.0,36,9.63,A,A5,foxfield trans,8,RENT,38004.0,Verified,Fully Paid,educational,MA,14.02,3,INDIVIDUAL,12,732,Good-Loan
+2009,Jan,10000.0,36,9.32,A,A4,Intuition,1,RENT,99996.0,Not Verified,Fully Paid,wedding,NY,3.83,0,INDIVIDUAL,10,747,Good-Loan
+2009,Jan,15000.0,36,9.63,A,A5,CHGE,10,MORTGAGE,150000.0,Verified,Fully Paid,small_business,NY,8.44,2,INDIVIDUAL,19,812,Good-Loan
+2009,Jan,7000.0,36,8.0,A,A3,Dept of Navy-Naval Air Systems Command,10,RENT,111000.0,Not Verified,Fully Paid,debt_consolidation,MD,5.1,2,INDIVIDUAL,23,752,Good-Loan
+2009,Jan,14000.0,36,11.58,B,B3,Savvy Media,1,RENT,55000.0,Not Verified,Fully Paid,house,MD,13.99,1,INDIVIDUAL,9,717,Good-Loan
+2009,Jan,14000.0,36,11.89,B,B4,ARCADIS,4,MORTGAGE,84240.0,Verified,Fully Paid,car,CA,10.33,3,INDIVIDUAL,6,717,Good-Loan
+2009,Jan,11000.0,36,12.21,B,B5,RJ Reynolds Tobacco Company,1,MORTGAGE,72960.0,Not Verified,Fully Paid,debt_consolidation,PA,14.97,2,INDIVIDUAL,18,732,Good-Loan
+2009,Jan,15000.0,36,15.37,D,D5,"World Walker USA, Inc.",3,RENT,45000.0,Not Verified,Fully Paid,debt_consolidation,NY,5.84,1,INDIVIDUAL,7,672,Good-Loan
+2009,Jan,1200.0,36,11.58,B,B3,County of Santa Barbara,3,RENT,55000.0,Not Verified,Fully Paid,other,CA,24.37,2,INDIVIDUAL,24,697,Good-Loan
+2009,Jan,5000.0,36,11.89,B,B4,Best Buy,1,RENT,45000.0,Not Verified,Fully Paid,wedding,MN,5.47,2,INDIVIDUAL,9,702,Good-Loan
+2009,Jan,8500.0,36,12.84,C,C2,Symantec Corporation,1,MORTGAGE,130000.0,Verified,Fully Paid,credit_card,NV,10.62,0,INDIVIDUAL,9,682,Good-Loan
+2009,Jan,11000.0,36,9.32,A,A4,County of Westchester,7,MORTGAGE,90000.0,Not Verified,Fully Paid,debt_consolidation,NY,6.43,0,INDIVIDUAL,16,767,Good-Loan
+2009,Jan,5000.0,36,14.11,D,D1,Prince George County Public Schools,1,RENT,45996.0,Not Verified,Fully Paid,debt_consolidation,MD,12.11,0,INDIVIDUAL,8,672,Good-Loan
+2009,Mar,20000.0,36,17.26,F,F1,FCX Systems,1,OWN,85000.0,Verified,Does not meet the credit policy. Status:Charged Off,small_business,WV,17.08,9,INDIVIDUAL,15,727,Defaulted-Loan
+2009,Mar,15000.0,36,12.84,C,C2,The Computer Connection,1,MORTGAGE,90000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,small_business,WA,4.29,4,INDIVIDUAL,17,727,Defaulted-Loan
+2009,Mar,8000.0,36,19.16,G,G2,Brand Energy Solutions,2,RENT,39224.0,Verified,Does not meet the credit policy. Status:Charged Off,small_business,TX,13.19,3,INDIVIDUAL,3,677,Defaulted-Loan
+2009,Mar,10000.0,36,15.68,E,E1,AIU Holdings Inc,5,MORTGAGE,144000.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,KS,1.26,7,INDIVIDUAL,14,692,Defaulted-Loan
+2009,Mar,7200.0,36,12.53,C,C1,Vonage,1,MORTGAGE,50000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,small_business,NJ,0.6,5,INDIVIDUAL,14,717,Defaulted-Loan
+2009,Mar,2500.0,36,14.11,D,D1,ZD Integrated Circuits  Inc.,3,MORTGAGE,28500.0,Verified,Does not meet the credit policy. Status:Fully Paid,car,FL,7.37,0,INDIVIDUAL,2,732,Defaulted-Loan
+2009,Mar,5000.0,36,19.47,G,G3,Rite Aid,1,OWN,10000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,educational,CT,0.0,0,INDIVIDUAL,2,682,Defaulted-Loan
+2009,Mar,1500.0,36,17.26,F,F1,social security,10,RENT,14568.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,OH,5.27,8,INDIVIDUAL,7,687,Defaulted-Loan
+2009,Mar,1750.0,36,20.11,G,G5,Contracted Work,4,OWN,20000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,small_business,NJ,2.4,5,INDIVIDUAL,2,667,Defaulted-Loan
+2009,Mar,17000.0,36,13.47,C,C4,US Army,10,MORTGAGE,57688.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,KY,22.32,5,INDIVIDUAL,9,717,Defaulted-Loan
+2009,Mar,10000.0,36,13.79,C,C5,Computer Sciences Corporation,10,MORTGAGE,68496.0,Verified,Does not meet the credit policy. Status:Fully Paid,car,NJ,13.82,5,INDIVIDUAL,40,707,Defaulted-Loan
+2009,Mar,24000.0,36,12.21,B,B5,Hagemeister  Inc. Law Office,10,MORTGAGE,200004.0,Verified,Does not meet the credit policy. Status:Charged Off,car,CA,17.97,0,INDIVIDUAL,19,722,Defaulted-Loan
+2009,Mar,14500.0,36,15.05,D,D4,CVS,1,RENT,23788.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,NJ,5.75,6,INDIVIDUAL,8,697,Defaulted-Loan
+2009,Mar,6000.0,36,12.84,C,C2,"Willis Insurance Services of California, Inc.",1,OTHER,85000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,home_improvement,CA,12.16,4,INDIVIDUAL,10,707,Defaulted-Loan
+2009,Mar,15000.0,36,17.9,F,F3,brinks,10,RENT,69000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,NY,17.17,8,INDIVIDUAL,14,702,Defaulted-Loan
+2009,Mar,5000.0,36,14.11,D,D1,US Army,3,OWN,22724.54,Not Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,TX,22.76,2,INDIVIDUAL,3,717,Defaulted-Loan
+2009,Mar,15000.0,36,15.37,D,D5,Doherty  and  Associates,1,MORTGAGE,84996.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,DE,4.04,7,INDIVIDUAL,25,702,Defaulted-Loan
+2009,Mar,2500.0,36,14.42,D,D2,Step Forward Activities,1,RENT,19000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,OR,24.0,4,INDIVIDUAL,7,672,Defaulted-Loan
+2009,Mar,8000.0,36,15.68,E,E1,BBH & Co.,1,RENT,89000.0,Verified,Does not meet the credit policy. Status:Fully Paid,house,NY,12.08,6,INDIVIDUAL,20,677,Defaulted-Loan
+2009,Mar,15000.0,36,17.9,F,F3,Consulting Firm,1,RENT,95000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,PA,0.8,3,INDIVIDUAL,2,687,Defaulted-Loan
+2009,Mar,4750.0,36,17.58,F,F2,Burger king,2,RENT,15000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,MI,11.68,9,INDIVIDUAL,5,707,Defaulted-Loan
+2009,Mar,1000.0,36,17.26,F,F1,dominos pizza,1,RENT,20000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,moving,CA,3.0,0,INDIVIDUAL,2,682,Defaulted-Loan
+2009,Mar,2450.0,36,20.11,G,G5,Target,1,OWN,11000.0,Verified,Does not meet the credit policy. Status:Fully Paid,major_purchase,MI,3.16,6,INDIVIDUAL,2,667,Defaulted-Loan
+2009,Mar,6000.0,36,15.68,E,E1,Primary Payroll Services,5,OWN,50000.0,Verified,Does not meet the credit policy. Status:Fully Paid,vacation,CA,5.64,9,INDIVIDUAL,12,742,Defaulted-Loan
+2009,Mar,5000.0,36,16.63,E,E4,McDonalds,2,RENT,19000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,educational,OH,17.68,6,INDIVIDUAL,8,662,Defaulted-Loan
+2009,Mar,2400.0,36,14.11,D,D1,Dayton Cincinnati Technology Services,2,MORTGAGE,52000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,OH,11.28,4,INDIVIDUAL,5,677,Defaulted-Loan
+2009,Mar,8400.0,36,15.05,D,D4,General Dynamics,1,RENT,75000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,VA,7.12,5,INDIVIDUAL,6,687,Defaulted-Loan
+2009,Mar,5000.0,36,16.0,E,E2,Department of Homeland Security (DHS),6,MORTGAGE,100000.0,Verified,Does not meet the credit policy. Status:Fully Paid,major_purchase,TX,22.22,6,INDIVIDUAL,13,672,Defaulted-Loan
+2009,Mar,3500.0,36,13.47,C,C4,Home Depot,1,RENT,15000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,major_purchase,TX,17.28,0,INDIVIDUAL,3,727,Defaulted-Loan
+2009,Mar,9500.0,36,16.32,E,E3,Missouri Army National Guard,10,MORTGAGE,65004.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,MO,9.43,8,INDIVIDUAL,6,712,Defaulted-Loan
+2009,Mar,2100.0,36,14.11,D,D1,Ayhans Shish Kebab,6,OWN,22000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,major_purchase,NY,0.0,3,INDIVIDUAL,3,727,Defaulted-Loan
+2009,Mar,9500.0,36,16.63,E,E4,Resort Nursing Home,4,OWN,68004.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,NY,9.25,3,INDIVIDUAL,3,682,Defaulted-Loan
+2009,Mar,11100.0,36,13.47,C,C4,"Olsen Construction Services, LLC",1,MORTGAGE,58000.0,Verified,Does not meet the credit policy. Status:Charged Off,small_business,MI,21.27,7,INDIVIDUAL,22,737,Defaulted-Loan
+2009,Mar,7200.0,36,12.21,B,B5,MURPHY,6,RENT,29000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,OH,15.77,4,INDIVIDUAL,15,722,Defaulted-Loan
+2009,Mar,8100.0,36,16.63,E,E4,United States Military,10,RENT,54996.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,TX,22.71,5,INDIVIDUAL,17,667,Defaulted-Loan
+2009,Mar,6000.0,36,15.68,E,E1,Crozer Hospital,1,RENT,90000.0,Verified,Does not meet the credit policy. Status:Fully Paid,car,DE,8.28,5,INDIVIDUAL,10,667,Defaulted-Loan
+2009,Mar,7500.0,36,16.95,E,E5,Kit Kat Club,1,RENT,39996.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,major_purchase,CA,21.57,2,INDIVIDUAL,3,672,Defaulted-Loan
+2009,Mar,8875.0,36,13.79,C,C5,Boeing Company,3,MORTGAGE,87500.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,WA,24.99,1,INDIVIDUAL,8,692,Defaulted-Loan
+2009,Mar,6000.0,36,17.9,F,F3,Jani King,2,RENT,50000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,MI,6.6,1,INDIVIDUAL,3,677,Defaulted-Loan
+2009,Mar,15000.0,36,12.84,C,C2,LENS,1,RENT,40000.0,Verified,Does not meet the credit policy. Status:Fully Paid,educational,NY,22.71,0,INDIVIDUAL,20,717,Defaulted-Loan
+2009,Mar,6000.0,36,16.95,E,E5,R and D Circuits,2,RENT,35000.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,NJ,4.8,5,INDIVIDUAL,3,692,Defaulted-Loan
+2009,Mar,9000.0,36,15.05,D,D4,Fairfield Residential,1,RENT,33996.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,MA,16.45,6,INDIVIDUAL,8,682,Defaulted-Loan
+2009,Mar,16000.0,36,9.63,A,A5,Kaiser Permanente,2,MORTGAGE,450000.0,Verified,Does not meet the credit policy. Status:Fully Paid,home_improvement,CA,9.66,2,INDIVIDUAL,19,777,Defaulted-Loan
+2009,Mar,7000.0,36,14.42,D,D2,High Point Group,7,MORTGAGE,100000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,small_business,NY,3.18,6,INDIVIDUAL,14,732,Defaulted-Loan
+2009,Mar,10925.0,36,14.42,D,D2,Greek Peak ski resort,1,RENT,42000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NY,19.29,4,INDIVIDUAL,4,692,Defaulted-Loan
+2009,Mar,4000.0,36,14.11,D,D1,Royal Caribbean Cruises ltd.,10,RENT,50004.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,GA,9.96,4,INDIVIDUAL,9,677,Defaulted-Loan
+2009,Mar,2800.0,36,16.63,E,E4,Americredit,1,OWN,15000.0,Verified,Does not meet the credit policy. Status:Fully Paid,major_purchase,TX,16.48,1,INDIVIDUAL,3,667,Defaulted-Loan
+2009,Feb,10000.0,36,14.42,D,D2,Eldre Corporation,8,RENT,50000.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,NY,22.22,4,INDIVIDUAL,14,702,Defaulted-Loan
+2009,Feb,9000.0,36,19.47,G,G3,Sky Lakes Medical Center,1,RENT,35801.6,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,OR,12.27,7,INDIVIDUAL,10,662,Defaulted-Loan
+2009,Feb,9600.0,36,16.95,E,E5,Bassett Healthcare,10,MORTGAGE,74004.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,home_improvement,NY,15.24,7,INDIVIDUAL,11,667,Defaulted-Loan
+2009,Mar,20000.0,36,15.68,E,E1,Rainbow Magic Car Wash Inc,2,MORTGAGE,144000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NY,12.61,8,INDIVIDUAL,15,737,Defaulted-Loan
+2009,Feb,1925.0,36,14.74,D,D3,Deep Foods Inc.,2,OWN,10800.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,NJ,20.33,2,INDIVIDUAL,3,687,Defaulted-Loan
+2009,Feb,2000.0,36,15.37,D,D5,Regent University,5,RENT,22000.0,Verified,Does not meet the credit policy. Status:Fully Paid,wedding,VA,3.22,0,INDIVIDUAL,3,702,Defaulted-Loan
+2009,Feb,2500.0,36,16.63,E,E4,Blank Rome,6,RENT,35736.0,Not Verified,Does not meet the credit policy. Status:Charged Off,other,MD,1.51,0,INDIVIDUAL,2,707,Defaulted-Loan
+2009,Feb,20000.0,36,14.11,D,D1,"Bomac Exterminating Company, Inc",6,OWN,102780.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,AL,4.34,6,INDIVIDUAL,11,727,Defaulted-Loan
+2009,Feb,2200.0,36,11.89,B,B4,Aura Holdings  Inc.,10,MORTGAGE,30000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,AL,17.0,4,INDIVIDUAL,6,717,Defaulted-Loan
+2009,Feb,5000.0,36,13.79,C,C5,Unknown,1,RENT,25000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NY,22.18,5,INDIVIDUAL,12,692,Defaulted-Loan
+2009,Feb,6700.0,36,16.0,E,E2,"Stout Walling Atwood, LLC",2,MORTGAGE,56400.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,GA,21.53,9,INDIVIDUAL,17,727,Defaulted-Loan
+2009,Feb,9000.0,36,15.68,E,E1,Capital One Bank,1,RENT,27000.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,NY,8.53,5,INDIVIDUAL,5,682,Defaulted-Loan
+2009,Feb,5000.0,36,18.84,G,G1,"Novavision, Inc",1,OTHER,88000.0,Verified,Does not meet the credit policy. Status:Fully Paid,educational,FL,4.57,1,INDIVIDUAL,2,687,Defaulted-Loan
+2009,Feb,8400.0,36,12.53,C,C1,jeremiahs international,5,RENT,50000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,house,FL,9.53,4,INDIVIDUAL,11,717,Defaulted-Loan
+2009,Feb,3000.0,36,16.0,E,E2,NEW,1,OWN,21996.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,medical,KS,13.2,4,INDIVIDUAL,4,677,Defaulted-Loan
+2009,Feb,20000.0,36,15.05,D,D4,Deloitte Consulting LLP,2,MORTGAGE,62700.0,Verified,Does not meet the credit policy. Status:Fully Paid,small_business,FL,6.68,7,INDIVIDUAL,7,717,Defaulted-Loan
+2009,Feb,5000.0,36,17.26,F,F1,CAPITAL AREA SERVICES,1,RENT,24200.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,car,WV,3.27,2,INDIVIDUAL,2,697,Defaulted-Loan
+2009,Feb,5000.0,36,15.37,D,D5,Siemens,1,MORTGAGE,57500.0,Verified,Does not meet the credit policy. Status:Fully Paid,car,PA,18.99,5,INDIVIDUAL,5,677,Defaulted-Loan
+2009,Feb,5000.0,36,14.11,D,D1,Montgomery County Public Schools,8,RENT,42000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,MD,13.71,5,INDIVIDUAL,13,692,Defaulted-Loan
+2009,Feb,4200.0,36,14.11,D,D1,Thomson Reuters,10,RENT,65064.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,CA,14.24,5,INDIVIDUAL,19,682,Defaulted-Loan
+2009,Feb,1600.0,36,13.47,C,C4,New Solutions,10,MORTGAGE,300000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,NV,6.72,4,INDIVIDUAL,21,677,Defaulted-Loan
+2009,Feb,3000.0,36,18.84,G,G1,Wal-Mart D.C,4,RENT,30000.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,WV,23.36,5,INDIVIDUAL,5,662,Defaulted-Loan
+2009,Feb,14125.0,36,14.11,D,D1,Urban Alliance,2,MORTGAGE,70000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,DC,19.05,4,INDIVIDUAL,11,692,Defaulted-Loan
+2009,Feb,10000.0,36,12.21,B,B5,Gallo Winery,8,MORTGAGE,111996.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NJ,7.02,5,INDIVIDUAL,14,732,Defaulted-Loan
+2009,Feb,4000.0,36,9.32,A,A4,Zephyr Real Estate,4,MORTGAGE,100000.0,Verified,Does not meet the credit policy. Status:Fully Paid,home_improvement,CA,10.78,1,INDIVIDUAL,7,737,Defaulted-Loan
+2009,Feb,15000.0,36,16.63,E,E4,DELTA GLOBAL,2,RENT,45600.0,Verified,Does not meet the credit policy. Status:Charged Off,educational,FL,4.45,6,INDIVIDUAL,21,677,Defaulted-Loan
+2009,Feb,5000.0,36,14.11,D,D1,JMP Financial Group  LLC,1,RENT,25004.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,other,FL,5.62,5,INDIVIDUAL,7,682,Defaulted-Loan
+2009,Feb,8000.0,36,13.16,C,C3,self,2,OWN,48000.0,Verified,Does not meet the credit policy. Status:Charged Off,small_business,MA,4.42,5,INDIVIDUAL,14,707,Defaulted-Loan
+2009,Feb,15000.0,36,17.58,F,F2,United Local Credit Union,2,RENT,42500.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,CA,9.91,3,INDIVIDUAL,3,677,Defaulted-Loan
+2009,Feb,15000.0,36,19.16,G,G2,GlaxoSmithKline,1,RENT,100000.0,Verified,Does not meet the credit policy. Status:Charged Off,credit_card,PA,2.96,10,INDIVIDUAL,22,717,Defaulted-Loan
+2009,Feb,9600.0,36,17.58,F,F2,"Therapy Services, LLC",1,RENT,58000.0,Verified,Does not meet the credit policy. Status:Fully Paid,wedding,WV,23.11,8,INDIVIDUAL,10,677,Defaulted-Loan
+2009,Feb,10000.0,36,14.11,D,D1,sheraton,10,RENT,80004.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,FL,9.34,4,INDIVIDUAL,14,692,Defaulted-Loan
+2009,Feb,12000.0,36,9.63,A,A5,Willow Street Motors,3,MORTGAGE,80000.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,MA,7.41,1,INDIVIDUAL,33,767,Defaulted-Loan
+2009,Feb,10000.0,36,18.21,F,F4,Sunoco Inc.,1,OWN,54996.0,Verified,Does not meet the credit policy. Status:Fully Paid,home_improvement,PA,13.46,9,INDIVIDUAL,8,687,Defaulted-Loan
+2009,Feb,12000.0,36,14.42,D,D2,Evergreen Shipping,3,RENT,49500.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NJ,13.79,4,INDIVIDUAL,14,717,Defaulted-Loan
+2009,Feb,10000.0,36,12.84,C,C2,VERONIS SUHLER STEVENSON,5,RENT,103000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,NY,2.9,5,INDIVIDUAL,7,722,Defaulted-Loan
+2009,Feb,15000.0,36,13.47,C,C4,Smiths Medical,1,MORTGAGE,78000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,MN,6.71,4,INDIVIDUAL,11,717,Defaulted-Loan
+2009,Feb,6000.0,36,13.79,C,C5,Acxiom Corporation,10,MORTGAGE,107500.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,MN,12.02,4,INDIVIDUAL,12,682,Defaulted-Loan
+2009,Feb,25000.0,36,16.95,E,E5,Atlas Engineering,1,MORTGAGE,200000.0,Verified,Does not meet the credit policy. Status:Fully Paid,small_business,TX,4.33,9,INDIVIDUAL,36,762,Defaulted-Loan
+2009,Feb,7000.0,36,20.11,G,G5,Sea World of Florida,10,RENT,30000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,FL,10.44,4,INDIVIDUAL,2,667,Defaulted-Loan
+2009,Feb,8000.0,36,14.42,D,D2,Kimberly-Clark Corporation,1,RENT,63750.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,WI,5.65,6,INDIVIDUAL,7,707,Defaulted-Loan
+2009,Jan,5600.0,36,13.16,C,C3,SELF EMPLOYED,6,OTHER,36000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,credit_card,TX,22.6,1,INDIVIDUAL,15,712,Defaulted-Loan
+2009,Feb,15000.0,36,18.53,F,F5,"Mesmo, Inc.",2,RENT,160000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,CA,11.27,6,INDIVIDUAL,15,677,Defaulted-Loan
+2009,Feb,10000.0,36,14.74,D,D3,Altus HMS,8,MORTGAGE,60000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,TX,7.6,5,INDIVIDUAL,17,682,Defaulted-Loan
+2009,Jan,9600.0,36,15.68,E,E1,Murphy Law Office,1,RENT,30000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,WI,10.12,5,INDIVIDUAL,6,672,Defaulted-Loan
+2009,Jan,4800.0,36,16.0,E,E2,oum elqura corp,10,RENT,60000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,home_improvement,NJ,13.8,6,INDIVIDUAL,10,667,Defaulted-Loan
+2009,Jan,14000.0,36,18.21,F,F4,AMPREX,10,MORTGAGE,78500.0,Verified,Does not meet the credit policy. Status:Charged Off,educational,FL,16.45,7,INDIVIDUAL,13,662,Defaulted-Loan
+2009,Jan,8000.0,36,19.47,G,G3,SERVICE BY AIR,10,RENT,47523.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,KY,18.18,5,INDIVIDUAL,22,667,Defaulted-Loan
+2009,Jan,3000.0,36,13.47,C,C4,galena park isd,10,RENT,60000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,TX,17.68,4,INDIVIDUAL,14,692,Defaulted-Loan
+2009,Jan,15000.0,36,13.79,C,C5,luv my pet and vet relief,1,MORTGAGE,75000.0,Verified,Does not meet the credit policy. Status:Fully Paid,small_business,MD,14.64,7,INDIVIDUAL,11,712,Defaulted-Loan
+2009,Jan,15000.0,36,11.58,B,B3,United Airlines,10,MORTGAGE,120000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,WY,14.65,0,INDIVIDUAL,28,732,Defaulted-Loan
+2009,Jan,15000.0,36,11.89,B,B4,Self-employed,10,MORTGAGE,75000.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,OR,19.17,0,INDIVIDUAL,17,717,Defaulted-Loan
+2009,Jan,2400.0,36,16.0,E,E2,"ITN Marketing Consultants, LLC",2,RENT,70000.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,small_business,FL,0.93,1,INDIVIDUAL,2,702,Defaulted-Loan
+2009,Jan,12000.0,36,11.89,B,B4,BNR Acoustical,2,MORTGAGE,85000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,small_business,CA,7.31,5,INDIVIDUAL,12,722,Defaulted-Loan
+2009,Jan,6000.0,36,15.68,E,E1,UBS,2,RENT,85000.0,Verified,Does not meet the credit policy. Status:Fully Paid,wedding,NY,7.85,6,INDIVIDUAL,4,677,Defaulted-Loan
+2009,Jan,3750.0,36,11.26,B,B2,Arning Lawns,10,MORTGAGE,75000.0,Verified,Does not meet the credit policy. Status:Fully Paid,small_business,TX,11.6,4,INDIVIDUAL,16,712,Defaulted-Loan
+2009,Jan,12000.0,36,13.47,C,C4,Skadden  Srps,10,RENT,95004.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,DE,17.36,4,INDIVIDUAL,9,702,Defaulted-Loan
+2009,Jan,15000.0,36,14.74,D,D3,Boaz City School System,10,MORTGAGE,77500.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,AL,22.42,5,INDIVIDUAL,27,687,Defaulted-Loan
+2009,Jan,5000.0,36,15.05,D,D4,International network solutions,4,MORTGAGE,45000.0,Verified,Does not meet the credit policy. Status:Fully Paid,educational,FL,9.52,2,INDIVIDUAL,3,697,Defaulted-Loan
+2009,Jan,8000.0,36,15.05,D,D4,Twin Valley School District,9,MORTGAGE,54100.0,Verified,Does not meet the credit policy. Status:Fully Paid,other,PA,14.91,5,INDIVIDUAL,17,667,Defaulted-Loan
+2009,Jan,15000.0,36,15.05,D,D4,Forsythe Technology,1,RENT,40000.0,Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,IL,12.42,5,INDIVIDUAL,9,677,Defaulted-Loan
+2009,Jan,8750.0,36,12.84,C,C2,Newby Insurance Agency,3,MORTGAGE,105000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,IL,18.01,0,INDIVIDUAL,9,682,Defaulted-Loan
+2009,Jan,15000.0,36,11.89,B,B4,Jaye Enterprises,1,MORTGAGE,44200.0,Verified,Does not meet the credit policy. Status:Charged Off,small_business,AL,17.65,4,INDIVIDUAL,9,727,Defaulted-Loan
+2009,Jan,8000.0,36,12.53,C,C1,Amedisys inc,10,MORTGAGE,50000.0,Verified,Does not meet the credit policy. Status:Fully Paid,major_purchase,IL,21.29,4,INDIVIDUAL,9,697,Defaulted-Loan
+2009,Jan,10000.0,36,12.84,C,C2,State Department Federal,5,RENT,51350.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,VA,21.64,4,INDIVIDUAL,9,712,Defaulted-Loan
+2009,Jan,5000.0,36,16.0,E,E2,fish window,6,RENT,42996.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,wedding,CA,13.12,2,INDIVIDUAL,3,682,Defaulted-Loan
+2009,Jan,7000.0,36,14.74,D,D3,Social Security Administration,1,MORTGAGE,35600.0,Not Verified,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,OH,19.38,5,INDIVIDUAL,11,672,Defaulted-Loan
+2009,Jan,10000.0,36,13.16,C,C3,General Electric,5,MORTGAGE,70000.0,Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,PA,19.7,4,INDIVIDUAL,12,692,Defaulted-Loan
+2009,Jan,15000.0,36,11.89,B,B4,"University of Alaska, Anchorage",9,MORTGAGE,90000.0,Verified,Does not meet the credit policy. Status:Fully Paid,home_improvement,AK,17.11,1,INDIVIDUAL,23,712,Defaulted-Loan
+2009,Jan,15000.0,36,16.63,E,E4,Mississippi State University,10,MORTGAGE,114000.0,Verified,Does not meet the credit policy. Status:Charged Off,other,MS,21.95,6,INDIVIDUAL,15,672,Defaulted-Loan
+2009,Jan,5000.0,36,13.47,C,C4,Little Caesar,1,OTHER,12000.0,Not Verified,Does not meet the credit policy. Status:Charged Off,debt_consolidation,CA,9.9,4,INDIVIDUAL,4,697,Defaulted-Loan
+2009,Jan,9000.0,36,8.0,A,A3,inova technology,5,MORTGAGE,100000.0,Verified,Does not meet the credit policy. Status:Fully Paid,credit_card,FL,23.9,2,INDIVIDUAL,19,777,Defaulted-Loan
+2009,Jan,7000.0,36,17.26,F,F1,"NLJ Enterprises, LLC",1,RENT,32000.0,Verified,Does not meet the credit policy. Status:Charged Off,small_business,MN,12.26,4,INDIVIDUAL,7,667,Defaulted-Loan
