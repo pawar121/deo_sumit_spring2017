@@ -87,6 +87,8 @@ def funDropColumns(df):
 ### Clean Data
 In the columns int_rate, term & emp_length contains some noise data, which is need to be removed. Below rows are some of such examples.
 
+> Loan Data
+
 <img src ="extras/screenshots/drop_columns.PNG" />
 
 Below function will clean all such columns.
@@ -101,8 +103,27 @@ def funCleanData(df):
 
     return df
 ```
+
+> Declined-Loan Data
+
+<img src ="extras/screenshots/drop_columns_declined.PNG" />
+
+Below function will clean all such columns.
+```
+def funCleanData(df):
+
+    df['Employment Length'] = df['Employment Length'].str.extract('(\d+)')
+    df['Employment Length'] = df['Employment Length'].fillna(0).astype(int)
+
+    df['Debt-To-Income Ratio'] = df['Debt-To-Income Ratio'].apply(lambda x: float(x.rstrip("%")))
+
+    return df
+```
+
 ### Fill missing data
 Below function will fill all the NaNs with some default values.
+> Loan Data
+
 ```
 def funFillMissingData(df):
     df['home_ownership'] = df['home_ownership'].fillna('ANY')
@@ -115,10 +136,40 @@ def funFillMissingData(df):
 
     return df
 ```
+> Declined-Loan Data
+
+```
+def funFillMissingData(df):
+    df['Loan Title'] = df['Loan Title'].fillna('Unknown')
+
+    df['Risk_Score'] = df['Risk_Score'].fillna(111).astype(int)
+    df['Risk_Score'].replace(0, 111,inplace=True)
+
+    return df
+```
 ### Write data to CSVs in chunks
 ```
 def chunker(seq, size):
     return (seq[pos:pos + size] for pos in range(0, len(seq), size))
 ```
 ### Snapshot of cleaned data
+> Loan Data
+
 <img src ="extras/screenshots/cleaned_loan_data.PNG" />
+
+> Declined-Loan Data
+
+<img src ="extras/screenshots/cleaned_declined_loan_data.PNG" />
+
+### Snapshot of processed data folder
+> Loan Data
+
+The data will be divided in to the four quarters of the year and will be saved as '<year>-Q<quarter>.CSV'.
+
+<img src ="extras/screenshots/folder_struct_loans.PNG" />
+
+> Declined-Loan Data
+
+The data will be divided in to the four quarters of the year and will be saved as '<year>-Q<quarter>.CSV'.
+
+<img src ="extras/screenshots/folder_struct_declined.PNG" />
