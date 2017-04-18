@@ -164,12 +164,12 @@ def chunker(seq, size):
 ### Snapshot of processed data folder
 > Loan Data
 
-The data will be divided in to the four quarters of the year and will be saved as '<year>-Q<quarter>.CSV'.
+The data will be divided in to the four quarters of the year and will be saved as 'year-Quarter.CSV'.
 
 <img src ="extras/screenshots/folder_struct_loans.PNG" />
 
 > Declined-Loan Data
 
-The data will be divided in to the four quarters of the year and will be saved as '<year>-Q<quarter>.CSV'.
+The data will be divided in to the four quarters of the year and will be saved as 'year-Quarter.CSV'.
 
 <img src ="extras/screenshots/folder_struct_declined.PNG" />
