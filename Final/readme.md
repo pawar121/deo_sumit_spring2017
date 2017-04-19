@@ -223,8 +223,8 @@ for directory, subdirectory, filenames in  os.walk(dataDir + 'declined_loan_data
 
 > Accepted-Loans Summary
 
-<img src ="extras/screenshots/loans_Sum_State.PNG" />
+<img src ="extras/screenshots/loans_Sum_State.png" />
 
 > Declined-Loans Summary
 
-<img src ="extras/screenshots/dec_loans_Sum_State.PNG" />
+<img src ="extras/screenshots/dec_loans_Sum_State.png" />
