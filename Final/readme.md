@@ -377,7 +377,7 @@ ax1 = sns.boxplot(x='DefaultStatus', y='DTI', data=dfLoanData)
 ax1 = sns.boxplot(x='DefaultStatus', y='CreditHistory', data=dfLoanData)
 ```
 
->Defaulting loans have a higher DTI.
+>Good loans have comparatively longer Credit History.
 
 <img src ="extras/screenshots/ana3_6.PNG" />
 
