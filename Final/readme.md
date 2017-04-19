@@ -228,3 +228,34 @@ for directory, subdirectory, filenames in  os.walk(dataDir + 'declined_loan_data
 > Declined-Loans Summary
 
 <img src ="extras/screenshots/dec_loans_Sum_State.png" />
+
+### Time-Series analysis of number of loans
+> Loan Data Summary
+
+```
+seriesCount = dfLoanData['LoanAmt'].groupby(dfLoanData['IssuedYear']).count()
+seriesLA = dfLoanData['LoanAmt'].groupby(dfLoanData['IssuedYear']).mean()
+
+columns=['Year', 'Accepted Loans', 'Avg Loan Amount']
+dfAcceptedSummary = pd.DataFrame({'Year':seriesCount.index,'Accepted Loans': seriesCount/1000,
+                          'Avg Loan Amount':seriesLA})
+```
+> Declined-Loan Data Summary
+
+```
+seriesCount = dfDecLoanData['LoanAmt'].groupby(dfDecLoanData['IssuedYear']).count()
+seriesLA = dfDecLoanData['LoanAmt'].groupby(dfDecLoanData['IssuedYear']).mean()
+
+columns=['Year', 'Declined Loans', 'Avg Dec-Loan Amount']
+dfDeclinedSummary = pd.DataFrame({'Year':seriesCount.index,'Declined Loans': seriesCount/1000,
+                          'Avg Dec-Loan Amount':seriesLA})
+```
+> Join above to summaries by year
+
+```
+dfSummary = pd.merge(dfAcceptedSummary, dfDeclinedSummary, on='Year')
+```
+
+>Below graph supports the fact that in Year 2014, Lending Club went public and started providing loans to small businesses. It also partnered with Union Bank and in the end of 2014, Lending club raised $900 million which we can see with the spike in the number of applications.
+
+<img src ="extras/screenshots/NumberOfLoansByYear.PNG" />
