@@ -18,7 +18,7 @@ The information available for each loan consists of all the details of the loans
 * **Store Data** - [Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) & [Data-Storage-DeclinedLoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data-Storage-DeclinedLoanData.ipynb) describe the step by step process to clean and consolidate all the downloaded files into files per quarter.
 * **Analysis 1** - [ana_1 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_1.ipynb) performs Exploratory data analysis on Approved loans vs Declined loans from year 2007 to 2016.
 * **Analysis 2** - describe
-* **Analysis 3** - describe
+* **Analysis 3** - [ana_3 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_3.ipynb) explores the relationship of variables to late payment.
 ---
 ## Data Download
 ### Installation
@@ -278,3 +278,51 @@ dfSummary = pd.concat([dfAcceptedSummary, dfDeclinedSummary])
 ```
 
 <img src ="extras/screenshots/AvLoanAmtByYear.PNG" />
+
+---
+
+## Analysis 3
+
+Exploring the relationship of variables to late payment.
+
+### Installation
+[ana_3 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_3.ipynb) has following dependency.
+
+```sh
+$ pip install pandas
+$ pip install numpy
+$ pip install seaborn
+$ pip install plotly
+```
+### Consolidate the data into single data frame
+Below code will read each of the accepted/declined loans CSVs and consolidate the whole data into a data frame.
+```
+dfLoanData = pd.DataFrame()
+for directory, subdirectory, filenames in  os.walk(dataDir + 'loan_data\\'):
+    for filename in filenames:
+        df = pd.read_csv(os.path.join(directory, filename), encoding = 'ISO-8859-1')
+        dfLoanData =  pd.concat([df, dfLoanData], ignore_index=True)
+```
+
+### Count number of good loans & defaulted loans
+
+```
+numberOfDefaults = len(dfLoanData[dfLoanData['DefaultStatus'] == 'Defaulted-Loan'])
+numberOfNonDefaults = len(dfLoanData[dfLoanData['DefaultStatus'] == 'Good-Loan'])
+```
+### Does grade of the loan correlate to whether a loan will be defaulted or not?
+```
+sns.barplot(x='Grade', y='LoanAmt', data=dfLoanData,
+            estimator=lambda x: len(x) / (numberOfNonDefaults + numberOfDefaults) * 100,
+            ax=ax1, order=sorted(dfLoanData['Grade'].unique()), palette='deep')
+sns.barplot(x='Grade', y='LoanAmt', data=dfLoanData[dfLoanData['DefaultStatus'] == 'Good-Loan'],
+            estimator=lambda x: len(x) / numberOfNonDefaults * 100,
+            ax=ax2, order=sorted(dfLoanData['Grade'].unique()), palette='deep')
+sns.barplot(x='Grade', y='LoanAmt', data=dfLoanData[dfLoanData['DefaultStatus'] == 'Defaulted-Loan'],
+            estimator=lambda x: len(x) / numberOfDefaults * 100,
+            ax=ax3, order=sorted(dfLoanData['Grade'].unique()), palette='deep')
+```
+
+>The grade of the loan is the companies estimate of the likelihood of default for the loan. As should probably be expected the best graded loans (A and B) have a higher percentage of loans with no default than with a default. C is approximately the same percentage across no default and default and the worst graded loans (D, E, F and G) have a higher percentage of loans with default than with no default.
+
+<img src ="extras/screenshots/ana3_1.PNG" />
