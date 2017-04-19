@@ -259,3 +259,22 @@ dfSummary = pd.merge(dfAcceptedSummary, dfDeclinedSummary, on='Year')
 >Below graph supports the fact that in Year 2014, Lending Club went public and started providing loans to small businesses. It also partnered with Union Bank and in the end of 2014, Lending club raised $900 million which we can see with the spike in the number of applications.
 
 <img src ="extras/screenshots/NumberOfLoansByYear.PNG" />
+
+### Time-Series analysis of average loan amount
+> Rename columns
+
+```
+columns = ['Number Of Loans', 'Avg Loan Amount', 'Year']
+dfAcceptedSummary.rename(columns={'Accepted Loans': 'Number Of Loans', 'Avg Loan Amount': 'Avg Loan Amount'}, inplace=True)
+dfDeclinedSummary.rename(columns={'Declined Loans': 'Number Of Loans', 'Avg Dec-Loan Amount': 'Avg Loan Amount'}, inplace=True)
+dfAcceptedSummary['Flag'] = 'Approved'
+dfDeclinedSummary['Flag'] = 'Declined'
+```
+
+> Concat two data frames
+
+```
+dfSummary = pd.concat([dfAcceptedSummary, dfDeclinedSummary])
+```
+
+<img src ="extras/screenshots/AvLoanAmtByYear.PNG" />
