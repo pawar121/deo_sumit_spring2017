@@ -16,7 +16,7 @@ The information available for each loan consists of all the details of the loans
 
 * **Data Download** - [Data-download Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) describes the step by step implementation of downloading the dataset provided on the website by the Loan Lending club.
 * **Store Data** - [Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) & [Data-Storage-DeclinedLoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data-Storage-DeclinedLoanData.ipynb) describe the step by step process to clean and consolidate all the downloaded files into files per quarter.
-* **Analysis 1** - [ana_1 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) performs Exploratory data analysis on Approved loans vs Declined loans from year 2007 to 2016.
+* **Analysis 1** - [ana_1 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_1.ipynb) performs Exploratory data analysis on Approved loans vs Declined loans from year 2007 to 2016.
 * **Analysis 2** - describe
 * **Analysis 3** - describe
 ---
@@ -58,6 +58,8 @@ with urlopen(baseURL + extn) as zipresp:
     with ZipFile(BytesIO(zipresp.read())) as zfile:
         zfile.extractall(path)
 ```
+---
+
 ## Data Consolidation & Storage
 ### Installation
 [Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) & [Data-Storage-DeclinedLoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data-Storage-DeclinedLoanData.ipynb) have following dependency.
@@ -175,3 +177,54 @@ The data will be divided in to the four quarters of the year and will be saved a
 The data will be divided in to the four quarters of the year and will be saved as 'year-Quarter.CSV'.
 
 <img src ="extras/screenshots/folder_struct_declined.PNG" />
+
+---
+
+## Analysis 1
+
+Exploratory data analysis on Approved vs Declined loans from year 2006 to 2016.
+
+### Installation
+[ana_1 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_1.ipynb) has following dependency.
+
+```sh
+$ pip install pandas
+$ pip install numpy
+$ pip install seaborn
+$ pip install plotly
+```
+### Consolidate the data into single data frame
+Below code will read each of the accepted/declined loans CSVs and consolidate the whole data into a data frame.
+
+> Loan Data
+
+```
+dfLoanData = pd.DataFrame()
+for directory, subdirectory, filenames in  os.walk(dataDir + 'loan_data\\'):
+    for filename in filenames:
+        df = pd.read_csv(os.path.join(directory, filename), encoding = 'ISO-8859-1')
+        dfLoanData =  pd.concat([df, dfLoanData], ignore_index=True)
+```
+> Declined-Loan Data
+
+```
+dfDecLoanData = pd.DataFrame()
+for directory, subdirectory, filenames in  os.walk(dataDir + 'declined_loan_data\\'):
+    for filename in filenames:
+        df = pd.read_csv(os.path.join(directory, filename), encoding = 'ISO-8859-1')
+        dfDecLoanData =  pd.concat([df, dfLoanData], ignore_index=True)
+```
+
+### Summarizing data by States
+  - Summary of accepted and rejected loans are displayed on the plot using plotly in offline mode.
+  - Group the data by State and take average/mode of the required columns.
+  - Create a dictionary of the summary and display on the plotly plot.
+  - Hover over each state to get the summary.
+
+> Accepted-Loans Summary
+
+<img src ="extras/screenshots/loans_Sum_State.PNG" />
+
+> Declined-Loans Summary
+
+<img src ="extras/screenshots/dec_loans_Sum_State.PNG" />
