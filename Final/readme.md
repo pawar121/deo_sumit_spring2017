@@ -326,3 +326,77 @@ sns.barplot(x='Grade', y='LoanAmt', data=dfLoanData[dfLoanData['DefaultStatus'] 
 >The grade of the loan is the companies estimate of the likelihood of default for the loan. As should probably be expected the best graded loans (A and B) have a higher percentage of loans with no default than with a default. C is approximately the same percentage across no default and default and the worst graded loans (D, E, F and G) have a higher percentage of loans with default than with no default.
 
 <img src ="extras/screenshots/ana3_1.PNG" />
+
+### Does loan term correlate to whether a loan will be defaulted or not?
+```
+sns.barplot(x='Term', y='LoanAmt', data=dfLoanData,
+            estimator=lambda x: len(x) / (numberOfNonDefaults + numberOfDefaults) * 100,
+            ax=ax1, order=sorted(dfLoanData['Term'].unique()), palette='deep')
+sns.barplot(x='Term', y='LoanAmt', data=dfLoanData[dfLoanData['DefaultStatus'] == 'Good-Loan'],
+            estimator=lambda x: len(x) / numberOfNonDefaults * 100,
+            ax=ax2, order=sorted(dfLoanData['Term'].unique()), palette='deep')
+sns.barplot(x='Term', y='LoanAmt', data=dfLoanData[dfLoanData['DefaultStatus'] == 'Defaulted-Loan'],
+            estimator=lambda x: len(x) / numberOfDefaults * 100,
+            ax=ax3, order=sorted(dfLoanData['Term'].unique()), palette='deep')
+```
+
+>The longer term loans (60 months) make up a higher percentage of the defaults than the non defaulting loans.
+
+<img src ="extras/screenshots/ana3_2.PNG" />
+
+### Does Rate of Interest correlate to whether a loan will be defaulted or not?
+```
+ax1 = sns.boxplot(x='DefaultStatus', y='IntRate', data=dfLoanData)
+```
+
+>The defaulting loans have a higher interest rate than non defaulting loans.
+
+<img src ="extras/screenshots/ana3_3.PNG" />
+
+### Does combination of ROI & Grade correlate to whether a loan will be defaulted or not?
+```
+ax1 = sns.boxplot(x='Grade', y='IntRate', data=dfLoanData, hue='DefaultStatus',
+                     order=sorted(dfLoanData['Grade'].unique()))
+```
+
+>Even controlling for the grade of the loan (as this will be used to calculate the interest rate) the defaulting loans still have a higher interest rate than non defaulting loans until you get to grades F and G.
+
+<img src ="extras/screenshots/ana3_4.PNG" />
+
+### Does DTI correlate to whether a loan will be defaulted or not?
+```
+ax1 = sns.boxplot(x='DefaultStatus', y='DTI', data=dfLoanData)
+```
+
+>Defaulting loans have a higher DTI.
+
+<img src ="extras/screenshots/ana3_5.PNG" />
+
+### Does CreditHistory correlate to whether a loan will be defaulted or not?
+```
+ax1 = sns.boxplot(x='DefaultStatus', y='CreditHistory', data=dfLoanData)
+```
+
+>Defaulting loans have a higher DTI.
+
+<img src ="extras/screenshots/ana3_6.PNG" />
+
+### Summarizing data by States
+  - Summary of accepted and rejected loans are displayed on the plot using plotly in offline mode.
+  - Group the data by State and take average/mode of the required columns.
+  - Create a dictionary of the summary and display on the plotly plot.
+  - Hover over each state to get the summary.
+
+> Divide data frame into two, each of good loans & defaulted loans
+
+```
+df1 = dfLoanData[dfLoanData['DefaultStatus'] == 'Good-Loan']
+df2 = dfLoanData[dfLoanData['DefaultStatus'] == 'Defaulted-Loan']
+```
+> Good-Loans Summary
+
+<img src ="extras/screenshots/ana3_7.png" />
+
+> Defaulted-Loans Summary
+
+<img src ="extras/screenshots/ana3_8.png" />
