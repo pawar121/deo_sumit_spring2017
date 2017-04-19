@@ -10,8 +10,10 @@ The process of an application for a loan to its approval can be explained primar
   - Lending Club leverages online data and technology to quickly assess risk, determine a credit rating and assign appropriate interest rates. Qualified applicants receive offers and can evaluate loan options with no impact to their credit score.
   - Investors ranging from individuals to institutions select loans in which to invest and can earn monthly returns.
 ---
-# Objective
-The report summarizes the explonatory data analysis performed on the Loan Lending club data set. This report is divided into three section.:
+# Goal of the project
+We will present and explore the data provided by LC. This data was made available to us after the creation of an investor account. The data consists in 4 files updated every quarter on the same day as the quarterly results of the company are released. They contain information on almost all the loans issued by LC. The only loans missing from these files are the few loans where LC was not authorized to release publicly the details of the transactions.
+The information available for each loan consists of all the details of the loans at the time of their issuance as well as more information relative to the latest status of loan such as how much principal has been paid so far, how much interest, if the loan was fully paid or defaulted, or if the borrower is late on payments etc.
+
 * **Data Download** - Describes the step by step implementation of downloading the dataset provided on the website by the Loan Lending club.
 * **Store Data** - Describes the step by step process to clean and consolidate all the downloaded files into one file.
 * **Analysis 1** - describe
@@ -58,7 +60,7 @@ with urlopen(baseURL + extn) as zipresp:
 ```
 ## Data Consolidation & Storage
 ### Installation
-[Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) has following dependency.
+[Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) & [Data-Storage-DeclinedLoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data-Storage-DeclinedLoanData.ipynb) have following dependency.
 
 ```sh
 $ pip install pandas
