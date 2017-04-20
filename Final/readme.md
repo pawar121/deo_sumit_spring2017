@@ -293,6 +293,7 @@ $ pip install pandas
 $ pip install numpy
 $ pip install seaborn
 $ pip install plotly
+$ pip install cufflinks --upgrade
 ```
 
 ### Create bins based on the FICO scores
@@ -323,6 +324,30 @@ dfLoanData['LoanAmtCat'] = dfLoanData['LoanAmtCat'].map(lambda x: x.lstrip('(').
 dfLoanData['AnnualIncCat'] = (pd.qcut(dfLoanData['AnnualInc'], 5)).astype(str)
 dfLoanData['AnnualIncCat'] = dfLoanData['AnnualIncCat'].map(lambda x: x.lstrip('(').rstrip(']').lstrip('['))
 ```
+
+### Loan Issued Grouped By FICO
+
+```
+seriesCount = dfLoanData['LoanAmt'].groupby(dfLoanData['FICOCategory']).count()
+
+columns=['FICOCategory', 'Count']
+dfSummary = pd.DataFrame({'FICOCategory':seriesCount.index,'Count': seriesCount})
+dfSummary['FICOCategory'] = dfSummary['FICOCategory'].astype(object)
+```
+
+<img src ="extras/screenshots/ana2_2.PNG" />
+
+### Loan Issued Grouped By Grade
+
+```
+seriesCount = dfLoanData['LoanAmt'].groupby(dfLoanData['Grade']).count()
+
+columns=['Grade', 'Count']
+dfSummary = pd.DataFrame({'Grade':seriesCount.index,'Count': seriesCount})
+dfSummary['Grade'] = dfSummary['Grade'].astype(object)
+```
+
+<img src ="extras/screenshots/ana2_3.PNG" />
 
 ---
 
