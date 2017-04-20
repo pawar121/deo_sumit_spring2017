@@ -17,7 +17,7 @@ The information available for each loan consists of all the details of the loans
 * **Data Download** - [Data-download Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) describes the step by step implementation of downloading the dataset provided on the website by the Loan Lending club.
 * **Store Data** - [Data-storage-LoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data%20Download.ipynb) & [Data-Storage-DeclinedLoanData Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/Data-Storage-DeclinedLoanData.ipynb) describe the step by step process to clean and consolidate all the downloaded files into files per quarter.
 * **Analysis 1** - [ana_1 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_1.ipynb) performs Exploratory data analysis on Approved loans vs Declined loans from year 2007 to 2016.
-* **Analysis 2** - describe
+* **Analysis 2** - [ana_2 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_2.ipynb) explores and discovers of the predictive strength of each feature.
 * **Analysis 3** - [ana_3 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_3.ipynb) explores the relationship of variables to late payment.
 ---
 ## Data Download
@@ -278,6 +278,51 @@ dfSummary = pd.concat([dfAcceptedSummary, dfDeclinedSummary])
 ```
 
 <img src ="extras/screenshots/AvLoanAmtByYear.PNG" />
+
+---
+
+## Analysis 2
+
+Exploration and discovery of the predictive strength of each feature.
+
+### Installation
+[ana_2 Notebook](https://github.com/sumit91188/deo_sumit_spring2017/blob/master/Final/analysis/ana_2.ipynb) has following dependency.
+
+```sh
+$ pip install pandas
+$ pip install numpy
+$ pip install seaborn
+$ pip install plotly
+```
+
+### Create bins based on the FICO scores
+>Below is a credit score range chart that shows the different categories and their ranges. Keep in mind that every creditor defines its own ranges for excellent, good, fair, poor and bad credit.
+
+<img src ="extras/screenshots/ana2_1.PNG" />
+
+Code to bin the FICO scores into above mentioned categories.
+```
+bins = [301, 550, 649, 699, 749, 850]
+groupNames = ['Bad', 'Poor', 'Fair', 'Good', 'Excellent']
+
+categories = pd.cut(pd.to_numeric(dfLoanData['FICO'], errors='coerce'), bins, labels=groupNames)
+dfLoanData['FICOCategory'] = pd.cut(pd.to_numeric(dfLoanData['FICO'], errors='coerce'), bins, labels=groupNames)
+```
+
+### Create bins based on the Loan amount & Annual Income
+>While binning on the basis of Loan amount/Annual Income, it was found that there are higher frequencies in the some of
+ the bins and fewer in the rest.
+
+>Hence I used 'qcut', so that the bins will be chosen in such a way that the same number of records in each bin.
+
+Code to bin the Annual Income/Loan amount.
+```
+dfLoanData['LoanAmtCat'] = (pd.qcut(dfLoanData['LoanAmt'], 5)).astype(str)
+dfLoanData['LoanAmtCat'] = dfLoanData['LoanAmtCat'].map(lambda x: x.lstrip('(').rstrip(']').lstrip('['))
+
+dfLoanData['AnnualIncCat'] = (pd.qcut(dfLoanData['AnnualInc'], 5)).astype(str)
+dfLoanData['AnnualIncCat'] = dfLoanData['AnnualIncCat'].map(lambda x: x.lstrip('(').rstrip(']').lstrip('['))
+```
 
 ---
 
