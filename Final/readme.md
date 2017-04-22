@@ -366,6 +366,12 @@ ax1 = sns.boxplot(x = 'Grade', y = 'AvgFICO', data = dfSummary)
 ```
 
 <img src ="extras/screenshots/ana2_4.PNG" />
+
+### Summarize & analyze data by year
+>To perform the year wise analysis on the loan data, we have Summarized the data as follows.
+
+<img src ="extras/screenshots/ana2_5.PNG" />
+
 ---
 
 ## Analysis 3
