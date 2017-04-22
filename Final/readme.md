@@ -372,6 +372,11 @@ ax1 = sns.boxplot(x = 'Grade', y = 'AvgFICO', data = dfSummary)
 
 <img src ="extras/screenshots/ana2_5.PNG" />
 
+#### Interest Rates at Lending Club since SEC Approval
+>Lending Club largely kept their rate the same in 2010 and mid-2011. But they began to shake things up in late-2011, dramatically increasing rates until 2013 to increase investor demand. Since this point, it has been nothing but a consistent reduction in the overall rate as their needs switched to enticing more borrowers. [Click here](http://www.lendingmemo.com/average-investor-return-lending-club-dropping/) to know more..
+
+<img src ="extras/screenshots/ana2_6.PNG" />
+
 ---
 
 ## Analysis 3
