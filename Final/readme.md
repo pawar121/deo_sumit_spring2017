@@ -349,6 +349,23 @@ dfSummary['Grade'] = dfSummary['Grade'].astype(object)
 
 <img src ="extras/screenshots/ana2_3.PNG" />
 
+### Exploration of the relationship between FICO and LC scores
+>FICO scores have been implemented to assess the credit worthiness of potential borrowers. A model that Lending Club could have used could have been to simply rely on the foundation of FICO’s scores. The majority of the mortgage industry relies on FICO scores to issue mortgages of 100s of thousands.
+
+>Hence our interest in looking into LC’s grade system and more specifically if they have an obvious linear relationship with FICO scores.
+
+```
+seriesCount = dfLoanData['FICO'].groupby(dfLoanData['Grade']).mean()
+
+columns=['Grade', 'AvgFICO']
+dfSummary = pd.DataFrame({'Grade':seriesCount.index,'AvgFICO': seriesCount})
+dfSummary['Grade'] = dfSummary['Grade'].astype(object)
+dfSummary['AvgFICO'] = (dfSummary['AvgFICO'].apply(np.floor)).astype(int)
+
+ax1 = sns.boxplot(x = 'Grade', y = 'AvgFICO', data = dfSummary)
+```
+
+<img src ="extras/screenshots/ana2_4.PNG" />
 ---
 
 ## Analysis 3
