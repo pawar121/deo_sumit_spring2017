@@ -383,12 +383,19 @@ RENAUD LAPLANCHE, CEO OF LENDING CLUB suggested following in an interview.
 <img src ="extras/screenshots/ana2_7.PNG" />
 
 >Comparing 2013 vs 2014 Interest Rates
+
 >A-grade rates have dropped 0.7%
+
 >B-grade rates have dropped 2%
+
 >C-grade rates have dropped 4%
+
 >D-grade rates have dropped 1.9%
+
 >E-grade rates have dropped 1.9%
+
 >But F/G-grade rates have increased 0.8%
+
 
 <img src ="extras/screenshots/ana2_8.PNG" />
 
