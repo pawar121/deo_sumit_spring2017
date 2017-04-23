@@ -396,23 +396,26 @@ RENAUD LAPLANCHE, CEO OF LENDING CLUB suggested following in an interview.
 
 >But F/G-grade rates have increased 0.8%
 
-
 <img src ="extras/screenshots/ana2_8.PNG" />
+
+
+>Comparing approved loans volume between 2012 & 2013
+
+>Approved Loan volumes increased for Grades A, B, C whereas it decreased for lower grades. So the good news for the investors.
+
+<img src ="extras/screenshots/ana2_9.PNG" />
 
 #### Year Wise Accepted Data and Amt_requsted
 
-<img src ="extras/screenshots/ana2_7.PNG" />
+<img src ="extras/screenshots/ana2_10.PNG" />
 
 #### Year Wise Accepted Data and Average Employment Length
 
-<img src ="extras/screenshots/ana2_8.PNG" />
+<img src ="extras/screenshots/ana2_11.PNG" />
 
-### Summarize & analyze data by Grade and Year
->Loan Issued Volume Trends by Grade
+### Interest Rate Trends by Default Loan Status
 
->
-
-<img src ="extras/screenshots/ana2_9.PNG" />
+<img src ="extras/screenshots/ana2_12.PNG" />
 
 ---
 
