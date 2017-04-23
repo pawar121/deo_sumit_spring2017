@@ -376,11 +376,11 @@ ax1 = sns.boxplot(x = 'Grade', y = 'AvgFICO', data = dfSummary)
 >Lending Club largely kept their rate the same in 2010 and mid-2011. But they began to shake things up in late-2011, dramatically increasing rates until 2013 to increase investor demand. Since this point, it has been nothing but a consistent reduction in the overall rate as their needs switched to enticing more borrowers. [Click here](http://www.lendingmemo.com/average-investor-return-lending-club-dropping/) to know more..
 
 RENAUD LAPLANCHE, CEO OF LENDING CLUB suggested following in an interview.
-<img src ="extras/screenshots/ana2_10.PNG" />
+<img src ="extras/screenshots/ana2_6.PNG" />
 
 >Below analysis  proves the point Ranaud is making above.
 
-<img src ="extras/screenshots/ana2_6.PNG" />
+<img src ="extras/screenshots/ana2_7.PNG" />
 
 >Comparing 2013 vs 2014 Interest Rates
 >A-grade rates have dropped 0.7%
@@ -390,7 +390,7 @@ RENAUD LAPLANCHE, CEO OF LENDING CLUB suggested following in an interview.
 >E-grade rates have dropped 1.9%
 >But F/G-grade rates have increased 0.8%
 
-<img src ="extras/screenshots/ana2_6.PNG" />
+<img src ="extras/screenshots/ana2_8.PNG" />
 
 #### Year Wise Accepted Data and Amt_requsted
 
